@@ -8,4 +8,3 @@ build/
 *.js.map
 .vscode/
 .idea/
-current_mood.json

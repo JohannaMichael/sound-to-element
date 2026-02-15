@@ -1,0 +1,31 @@
+{
+  "name": "spotify-mood-analyzer",
+  "version": "1.0.0",
+  "description": "Daily Spotify mood analyzer that maps listening history to elemental moods",
+  "main": "fetch-daily-mood.ts",
+  "scripts": {
+    "get-token": "tsx get-refresh-token.ts",
+    "analyze": "tsx fetch-daily-mood.ts",
+    "build": "tsc",
+    "start": "node dist/fetch-daily-mood.js",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "spotify",
+    "mood",
+    "music",
+    "analysis"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.33",
+    "@types/node-fetch": "^2.6.9",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

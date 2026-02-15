@@ -3,14 +3,88 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6456521739130434,
-    "avgEnergy": 0.3121739130434782,
-    "avgAcousticness": 0.833695652173913,
+    "avgValence": 0.6644897959183672,
+    "avgEnergy": 0.3212244897959183,
+    "avgAcousticness": 0.813877551020408,
     "trackCount": 50,
-    "analyzedCount": 46
+    "analyzedCount": 49
   },
-  "date": "2026-02-15T18:45:18.448Z",
+  "date": "2026-02-15T23:17:30.439Z",
   "tracks": [
+    {
+      "id": "6yWlLpJpW9B9tV6e73QfAQ",
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artists": [
+        "ABBA"
+      ],
+      "playedAt": "2026-02-15T20:32:27.284Z"
+    },
+    {
+      "id": "79hJaqmVdohltPBNN6BULM",
+      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+      "artists": [
+        "Bee Gees"
+      ],
+      "playedAt": "2026-02-15T20:27:36.803Z"
+    },
+    {
+      "id": "3WMbD1OyfKuwWDWMNbPQ4g",
+      "name": "Daddy Cool",
+      "artists": [
+        "Boney M."
+      ],
+      "playedAt": "2026-02-15T20:22:55.528Z"
+    },
+    {
+      "id": "4qeIlzP0Z1JFXh0AckDcX8",
+      "name": "No Nein",
+      "artists": [
+        "1tbsp",
+        "Mietze Conte"
+      ],
+      "playedAt": "2026-02-15T20:19:25.578Z"
+    },
+    {
+      "id": "0M2qa9uXyL6dzejgseuszY",
+      "name": "Freydies",
+      "artists": [
+        "Yuvèe"
+      ],
+      "playedAt": "2026-02-15T20:16:53.874Z"
+    },
+    {
+      "id": "4XXfQ8fBHMIgcygY4hV6RC",
+      "name": "Raingurl",
+      "artists": [
+        "Yaeji"
+      ],
+      "playedAt": "2026-02-15T20:12:59.998Z"
+    },
+    {
+      "id": "4ZnkygoWLzcGbQYCm3lkae",
+      "name": "Rush",
+      "artists": [
+        "Troye Sivan"
+      ],
+      "playedAt": "2026-02-15T20:09:02.243Z"
+    },
+    {
+      "id": "7j3zZ2jAjzFD60UjhldhHo",
+      "name": "I've Been In Love",
+      "artists": [
+        "Jungle",
+        "Channel Tres"
+      ],
+      "playedAt": "2026-02-15T20:06:26.206Z"
+    },
+    {
+      "id": "16HePCb6eQBp0bfwtpe8vS",
+      "name": "Yes Sir, I Can Boogie",
+      "artists": [
+        "Baccara"
+      ],
+      "playedAt": "2026-02-15T20:03:33.541Z"
+    },
     {
       "id": "3W3YujdUH1jG96gLdAjD9I",
       "name": "Nuevo Mundo",
@@ -346,80 +420,6 @@
         "AMANZI"
       ],
       "playedAt": "2026-02-15T15:31:57.516Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-02-15T15:28:12.227Z"
-    },
-    {
-      "id": "1d694VNqGFxbaI1aSCSryl",
-      "name": "Never Enough",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-02-15T15:22:06.980Z"
-    },
-    {
-      "id": "4XaPsEXr9GbEBONfzWH2XS",
-      "name": "Intro",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-02-15T15:19:07.346Z"
-    },
-    {
-      "id": "09oYN0uq4LOoifmgk8bHeP",
-      "name": "Kimpton",
-      "artists": [
-        "Barry Can't Swim",
-        "O'Flynn"
-      ],
-      "playedAt": "2026-02-15T15:16:13.046Z"
-    },
-    {
-      "id": "7oO0QY3HutngLaEnP6zmAY",
-      "name": "Phantom Deep Blue",
-      "artists": [
-        "Luigi Tozzi"
-      ],
-      "playedAt": "2026-02-15T15:12:24.071Z"
-    },
-    {
-      "id": "7nooTU7jO9LuRoMurNHN4Q",
-      "name": "I Fell In Love",
-      "artists": [
-        "Gidge"
-      ],
-      "playedAt": "2026-02-15T15:06:58.509Z"
-    },
-    {
-      "id": "79BpfjCZi5r16P0vZNyKwz",
-      "name": "Rocky",
-      "artists": [
-        "Ten Walls"
-      ],
-      "playedAt": "2026-02-15T15:00:34.238Z"
-    },
-    {
-      "id": "5bjXTibRMVzZUQwiT47Z93",
-      "name": "Love Inc",
-      "artists": [
-        "Booka Shade"
-      ],
-      "playedAt": "2026-02-15T14:57:17.974Z"
-    },
-    {
-      "id": "1ghknBNxMTf01WJkXPvNNv",
-      "name": "When the Sun Sets (The End is Near Edit) - Claudio Prc Remix",
-      "artists": [
-        "Nur Jaber",
-        "Claudio PRC"
-      ],
-      "playedAt": "2026-02-15T14:51:23.001Z"
     }
   ]
 }

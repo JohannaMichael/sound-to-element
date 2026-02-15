@@ -1,0 +1,41 @@
+name: Daily Mood Analysis
+
+on:
+  schedule:
+    # Run every day at 11:59 PM UTC (adjust timezone as needed)
+    - cron: '59 23 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  analyze-mood:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true  # Pull LFS files (videos)
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run mood analysis
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          SOUNDSTAT_API_KEY: ${{ secrets.SOUNDSTAT_API_KEY }}
+        run: npm run analyze
+      
+      - name: Commit and push updated mood
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add current_mood.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily mood [automated]" && git push)

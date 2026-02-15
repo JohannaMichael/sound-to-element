@@ -1,0 +1,425 @@
+{
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
+  "mood": {
+    "avgValence": 0.6456521739130434,
+    "avgEnergy": 0.3121739130434782,
+    "avgAcousticness": 0.833695652173913,
+    "trackCount": 50,
+    "analyzedCount": 46
+  },
+  "date": "2026-02-15T18:45:18.448Z",
+  "tracks": [
+    {
+      "id": "3W3YujdUH1jG96gLdAjD9I",
+      "name": "Nuevo Mundo",
+      "artists": [
+        "Hermanos Gutiérrez"
+      ],
+      "playedAt": "2026-02-15T18:10:30.466Z"
+    },
+    {
+      "id": "0y9FKVVX72WQhhiQvBQTT5",
+      "name": "Ojos Nuevos",
+      "artists": [
+        "Gizmo Varillas",
+        "Amanda Whiting"
+      ],
+      "playedAt": "2026-02-15T18:06:05.502Z"
+    },
+    {
+      "id": "7893T13s6urM1GOl7mGRCC",
+      "name": "Paraiso",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-02-15T18:02:17.166Z"
+    },
+    {
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-02-15T17:41:13.300Z"
+    },
+    {
+      "id": "5AmiKHSAkkQ1xaFTFtqkk8",
+      "name": "Travellin'",
+      "artists": [
+        "The Jeremy Spencer Band"
+      ],
+      "playedAt": "2026-02-15T17:35:39.774Z"
+    },
+    {
+      "id": "7aU8ycwySg1LQAuCKgr3z9",
+      "name": "Red Hearts",
+      "artists": [
+        "Marlon Funaki"
+      ],
+      "playedAt": "2026-02-15T17:32:13.389Z"
+    },
+    {
+      "id": "3M3JC5pqzaj3rKhlNPrT37",
+      "name": "You",
+      "artists": [
+        "Palace"
+      ],
+      "playedAt": "2026-02-15T17:28:55.761Z"
+    },
+    {
+      "id": "307FpyXlwHxNJ4k6s9j3yD",
+      "name": "Trouble Always Finds Me",
+      "artists": [
+        "Yellow House"
+      ],
+      "playedAt": "2026-02-15T17:25:32.935Z"
+    },
+    {
+      "id": "0HeEz3p1yVoAIOjAULJzrD",
+      "name": "Foaming",
+      "artists": [
+        "Day We Ran"
+      ],
+      "playedAt": "2026-02-15T17:21:30.863Z"
+    },
+    {
+      "id": "1ohvvpAVuay6BM7UHfk6kS",
+      "name": "Sunsick",
+      "artists": [
+        "The Groovy Nobody"
+      ],
+      "playedAt": "2026-02-15T17:18:15.854Z"
+    },
+    {
+      "id": "4tn3jYTy9NU3YPyL1rSn9v",
+      "name": "I Have Been the Moon",
+      "artists": [
+        "The Sways"
+      ],
+      "playedAt": "2026-02-15T17:14:15.362Z"
+    },
+    {
+      "id": "4tAbdhAtgakhJyALYCWVvC",
+      "name": "She Knows How To Say My Name",
+      "artists": [
+        "Marlon Funaki"
+      ],
+      "playedAt": "2026-02-15T17:10:20.960Z"
+    },
+    {
+      "id": "4hbMHyGiSxyZMAbHzy2upA",
+      "name": "Bowling Alley Thug",
+      "artists": [
+        "Surf Hat"
+      ],
+      "playedAt": "2026-02-15T17:05:39.383Z"
+    },
+    {
+      "id": "7qbOyNtTzEfi9ybtRqT2rk",
+      "name": "Tides",
+      "artists": [
+        "Blacktop"
+      ],
+      "playedAt": "2026-02-15T17:02:39.683Z"
+    },
+    {
+      "id": "7GQz5rXS4ArE1LTMIYjbWc",
+      "name": "Early Morning Rain",
+      "artists": [
+        "Cleveland Francis"
+      ],
+      "playedAt": "2026-02-15T16:59:00.649Z"
+    },
+    {
+      "id": "1I3r9tP1wkPSmWW9U33mVT",
+      "name": "I Just Want You",
+      "artists": [
+        "The Helltones"
+      ],
+      "playedAt": "2026-02-15T16:55:16.219Z"
+    },
+    {
+      "id": "4njA2J9f9szcRrevHgnT0a",
+      "name": "Aces",
+      "artists": [
+        "The Something Specials",
+        "Taylor Olin"
+      ],
+      "playedAt": "2026-02-15T16:51:17.965Z"
+    },
+    {
+      "id": "09ntEoqIKc08ESm1E4EAFT",
+      "name": "Reflecting Everything",
+      "artists": [
+        "Mapache"
+      ],
+      "playedAt": "2026-02-15T16:47:39.686Z"
+    },
+    {
+      "id": "2SeDdNjPvN3uwkolnG2ODi",
+      "name": "Cowboy Gangster Politician",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-02-15T16:44:49.952Z"
+    },
+    {
+      "id": "37qeFXMtZzeu74JJOgUIZu",
+      "name": "Love",
+      "artists": [
+        "The Something Specials",
+        "Taylor Olin"
+      ],
+      "playedAt": "2026-02-15T16:40:57.984Z"
+    },
+    {
+      "id": "1rVAuA1iGNTOUOLbLg0HtS",
+      "name": "Give Us Some Time",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T16:34:19.916Z"
+    },
+    {
+      "id": "63gUEeF59EPGE9JZenAAJ1",
+      "name": "Simplicities",
+      "artists": [
+        "Ruby Jackson"
+      ],
+      "playedAt": "2026-02-15T16:31:07.495Z"
+    },
+    {
+      "id": "0BBwsVm77FPUSonCHdNZcN",
+      "name": "Scaredy Cat",
+      "artists": [
+        "NYVE"
+      ],
+      "playedAt": "2026-02-15T16:27:31.241Z"
+    },
+    {
+      "id": "5t3kJCjFtc69B80hDQQwYZ",
+      "name": "In Our Veins",
+      "artists": [
+        "Cézanne",
+        "Superfuse",
+        "Uevo",
+        "Thierry Ganz",
+        "Prime8"
+      ],
+      "playedAt": "2026-02-15T16:24:28.627Z"
+    },
+    {
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T16:20:48.400Z"
+    },
+    {
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T16:16:59.238Z"
+    },
+    {
+      "id": "4XaPsEXr9GbEBONfzWH2XS",
+      "name": "Intro",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T16:13:39.866Z"
+    },
+    {
+      "id": "3ZGZ4n4MCb2ZpfaSwqSFJE",
+      "name": "Veloce",
+      "artists": [
+        "The Grove"
+      ],
+      "playedAt": "2026-02-15T16:11:31.111Z"
+    },
+    {
+      "id": "2ACyKeZppMsv9zIdYjkAvg",
+      "name": "Why Did It Take You So Long",
+      "artists": [
+        "River Simmons"
+      ],
+      "playedAt": "2026-02-15T16:08:06.054Z"
+    },
+    {
+      "id": "0Ln3vcMJRcSYCmXEdGzWjS",
+      "name": "With Me",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T16:04:54.115Z"
+    },
+    {
+      "id": "7bRZSHUpTQFne0BbARBO8i",
+      "name": "End of Time",
+      "artists": [
+        "Olive Jones"
+      ],
+      "playedAt": "2026-02-15T16:00:28.756Z"
+    },
+    {
+      "id": "6rPXhy2eAzAKWLtysuDbzr",
+      "name": "Call",
+      "artists": [
+        "Moon Soul"
+      ],
+      "playedAt": "2026-02-15T15:56:42.266Z"
+    },
+    {
+      "id": "6IYaQQdLc1Qy8q2ejYiAEU",
+      "name": "Go Where You're Wanted",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:53:45.150Z"
+    },
+    {
+      "id": "6PTgaIzCc3bJCmOdKfknnY",
+      "name": "Deee-Lite",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:50:51.117Z"
+    },
+    {
+      "id": "4VLw9LxjMDHEjYe3Jgfjpd",
+      "name": "Invitation",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:47:37.162Z"
+    },
+    {
+      "id": "0aOCbmkti0L6NXbXMhCD2v",
+      "name": "The Owl",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:45:07.567Z"
+    },
+    {
+      "id": "7lTOCJK8AmPHjflgb3ajeg",
+      "name": "My Heart",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:42:21.142Z"
+    },
+    {
+      "id": "4JRhtXkAJPYcxGTbBqZ8H3",
+      "name": "Gorgeous Man",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:40:20.481Z"
+    },
+    {
+      "id": "2tMm2cqWUA2R5yP874jIC2",
+      "name": "Interlude",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:37:14.609Z"
+    },
+    {
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:35:44.806Z"
+    },
+    {
+      "id": "3PEWq5EXEPcJf8DhhMOgme",
+      "name": "Breathe Deep",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:31:57.516Z"
+    },
+    {
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:28:12.227Z"
+    },
+    {
+      "id": "1d694VNqGFxbaI1aSCSryl",
+      "name": "Never Enough",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:22:06.980Z"
+    },
+    {
+      "id": "4XaPsEXr9GbEBONfzWH2XS",
+      "name": "Intro",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-15T15:19:07.346Z"
+    },
+    {
+      "id": "09oYN0uq4LOoifmgk8bHeP",
+      "name": "Kimpton",
+      "artists": [
+        "Barry Can't Swim",
+        "O'Flynn"
+      ],
+      "playedAt": "2026-02-15T15:16:13.046Z"
+    },
+    {
+      "id": "7oO0QY3HutngLaEnP6zmAY",
+      "name": "Phantom Deep Blue",
+      "artists": [
+        "Luigi Tozzi"
+      ],
+      "playedAt": "2026-02-15T15:12:24.071Z"
+    },
+    {
+      "id": "7nooTU7jO9LuRoMurNHN4Q",
+      "name": "I Fell In Love",
+      "artists": [
+        "Gidge"
+      ],
+      "playedAt": "2026-02-15T15:06:58.509Z"
+    },
+    {
+      "id": "79BpfjCZi5r16P0vZNyKwz",
+      "name": "Rocky",
+      "artists": [
+        "Ten Walls"
+      ],
+      "playedAt": "2026-02-15T15:00:34.238Z"
+    },
+    {
+      "id": "5bjXTibRMVzZUQwiT47Z93",
+      "name": "Love Inc",
+      "artists": [
+        "Booka Shade"
+      ],
+      "playedAt": "2026-02-15T14:57:17.974Z"
+    },
+    {
+      "id": "1ghknBNxMTf01WJkXPvNNv",
+      "name": "When the Sun Sets (The End is Near Edit) - Claudio Prc Remix",
+      "artists": [
+        "Nur Jaber",
+        "Claudio PRC"
+      ],
+      "playedAt": "2026-02-15T14:51:23.001Z"
+    }
+  ]
+}

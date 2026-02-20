@@ -3,29 +3,171 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6364285714285716,
-    "avgEnergy": 0.31714285714285717,
-    "avgAcousticness": 0.8392857142857141,
+    "avgValence": 0.6747058823529413,
+    "avgEnergy": 0.3432352941176471,
+    "avgAcousticness": 0.8126470588235292,
     "trackCount": 50,
-    "analyzedCount": 28
+    "analyzedCount": 34
   },
-  "date": "2026-02-19T23:21:52.258Z",
+  "date": "2026-02-20T23:20:28.166Z",
   "tracks": [
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "7ePUUWG2N8x7L8M1OkYoue",
+      "name": "Turned Away",
       "artists": [
-        "efdemin"
+        "Siggerr"
       ],
-      "playedAt": "2026-02-19T20:30:47.735Z"
+      "playedAt": "2026-02-20T18:33:39.429Z"
     },
     {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
+      "id": "3tYYypENWxaS1DKUtcH8S8",
+      "name": "Don't Stop",
       "artists": [
-        "Electrypnose"
+        "DJ HEARTSTRING",
+        "southstar"
       ],
-      "playedAt": "2026-02-19T20:25:34.842Z"
+      "playedAt": "2026-02-20T18:30:53.102Z"
+    },
+    {
+      "id": "1JfRSuCAZl5cyyoOo2CMK4",
+      "name": "Weg von dir",
+      "artists": [
+        "Raphael Schön"
+      ],
+      "playedAt": "2026-02-20T18:27:17.364Z"
+    },
+    {
+      "id": "7AZ0Nda8vCpsPcKPTelrND",
+      "name": "Matadora",
+      "artists": [
+        "SOFI TUKKER"
+      ],
+      "playedAt": "2026-02-20T18:24:34.257Z"
+    },
+    {
+      "id": "5MG69A9XyXDbBbeOxdR3Tl",
+      "name": "don't miss me",
+      "artists": [
+        "Claire Rosinkranz"
+      ],
+      "playedAt": "2026-02-20T16:58:00.471Z"
+    },
+    {
+      "id": "1ELh6jiv1yniPyQaT73kh1",
+      "name": "Lemonhaze",
+      "artists": [
+        "PawPaw Rod"
+      ],
+      "playedAt": "2026-02-20T16:55:56.281Z"
+    },
+    {
+      "id": "3nOz1U41SZZ0N3fuUWr9nb",
+      "name": "I AM WOMAN",
+      "artists": [
+        "Emmy Meli"
+      ],
+      "playedAt": "2026-02-20T16:53:19.272Z"
+    },
+    {
+      "id": "3mwQfVhQ0xrO5a3l8qy082",
+      "name": "Focus (Love Theme)",
+      "artists": [
+        "Nick Urata"
+      ],
+      "playedAt": "2026-02-20T16:47:38.575Z"
+    },
+    {
+      "id": "1yvFoBp2Bq1ilD0518ZpQx",
+      "name": "DON'T JEALOUS ME",
+      "artists": [
+        "Tekno",
+        "Lord Afrixana",
+        "Mr Eazi",
+        "Yemi Alade"
+      ],
+      "playedAt": "2026-02-20T16:42:50.025Z"
+    },
+    {
+      "id": "7ja0rsJBBCqZH4f3Ga9uGn",
+      "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
+      "artists": [
+        "James Newton Howard"
+      ],
+      "playedAt": "2026-02-20T16:40:00.055Z"
+    },
+    {
+      "id": "5gDWsRxpJ2lZAffh5p7K0w",
+      "name": "Stargirl Interlude",
+      "artists": [
+        "The Weeknd",
+        "Lana Del Rey"
+      ],
+      "playedAt": "2026-02-20T16:36:10.680Z"
+    },
+    {
+      "id": "2k5SEAK05D29ZkqbnFgIVL",
+      "name": "Satisfied (Ambient Reprise)",
+      "artists": [
+        "Catching Flies"
+      ],
+      "playedAt": "2026-02-20T16:34:19.131Z"
+    },
+    {
+      "id": "0am7xDdDFuNBUA6cU4DGVQ",
+      "name": "Lust auf Dich",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-02-20T16:30:55.844Z"
+    },
+    {
+      "id": "1dNDxVM1HDpdKgon58QvtU",
+      "name": "There's A Place",
+      "artists": [
+        "Roo Panes"
+      ],
+      "playedAt": "2026-02-20T16:29:04.937Z"
+    },
+    {
+      "id": "3l3iCfpZsxbxWJhYoiQNkD",
+      "name": "The Feels",
+      "artists": [
+        "Labrinth"
+      ],
+      "playedAt": "2026-02-20T16:22:59.358Z"
+    },
+    {
+      "id": "2YIIDMcF9zWJ2xcFSA99lH",
+      "name": "Charge It",
+      "artists": [
+        "ENNY"
+      ],
+      "playedAt": "2026-02-20T16:19:40.934Z"
+    },
+    {
+      "id": "0OK4Dhc10O8cTXdesihLGL",
+      "name": "mwah :3",
+      "artists": [
+        "rusowsky",
+        "Dinamarca"
+      ],
+      "playedAt": "2026-02-20T16:16:34.857Z"
+    },
+    {
+      "id": "4dxd3tUsKT52EMboYtceOQ",
+      "name": "It's a good day (to fight the system)",
+      "artists": [
+        "Shungudzo"
+      ],
+      "playedAt": "2026-02-20T16:13:46.394Z"
+    },
+    {
+      "id": "45Z3m6yazmAi4jZuW0tzW0",
+      "name": "Aperture",
+      "artists": [
+        "Harry Styles"
+      ],
+      "playedAt": "2026-02-20T16:10:22.923Z"
     },
     {
       "id": "1UtsS1pmL3FkuEWT5dXHCS",
@@ -33,98 +175,92 @@
       "artists": [
         "AMANZI"
       ],
-      "playedAt": "2026-02-19T20:16:24.821Z"
+      "playedAt": "2026-02-20T15:46:54.521Z"
     },
     {
-      "id": "7A1YcSeFJpLTHybu78qgT9",
-      "name": "Aurora Centralis",
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
       "artists": [
-        "747"
+        "AMANZI"
       ],
-      "playedAt": "2026-02-19T20:11:47.265Z"
+      "playedAt": "2026-02-20T15:43:54.092Z"
     },
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "4XaPsEXr9GbEBONfzWH2XS",
+      "name": "Intro",
       "artists": [
-        "efdemin"
+        "AMANZI"
       ],
-      "playedAt": "2026-02-19T20:04:43.766Z"
+      "playedAt": "2026-02-20T15:39:46.045Z"
     },
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "1F1S0s0JsCZ3MhVq9C9ZEL",
+      "name": "Manifest - Audible Thought Remix",
       "artists": [
-        "Juelz"
+        "Taavi",
+        "Audible Thought"
       ],
-      "playedAt": "2026-02-19T19:59:33.915Z"
+      "playedAt": "2026-02-20T15:32:31.709Z"
     },
     {
-      "id": "6V4ntlX6608rd3Ec5SpVhj",
-      "name": "Berghain",
+      "id": "3QywQH8lshVdbmLqLqhWya",
+      "name": "Next Chapter",
       "artists": [
-        "ROSALÍA",
-        "Björk",
-        "Yves Tumor"
+        "Gabriel Albuquerqüe",
+        "Renzyx"
       ],
-      "playedAt": "2026-02-19T16:37:23.351Z"
+      "playedAt": "2026-02-20T15:24:53.382Z"
     },
     {
-      "id": "2ke17KqBdUbhjHDve5m9DH",
-      "name": "Craw-Fever",
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
       "artists": [
-        "Elvis Presley"
+        "AMANZI"
       ],
-      "playedAt": "2026-02-19T16:34:23.965Z"
+      "playedAt": "2026-02-20T12:29:26.137Z"
     },
     {
-      "id": "0yljUudXzjVcGEoYmLB17X",
-      "name": "Genesis",
+      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
+      "name": "Influenced",
       "artists": [
-        "Grimes"
+        "Electrypnose"
       ],
-      "playedAt": "2026-02-19T16:30:36.825Z"
+      "playedAt": "2026-02-20T11:23:55.094Z"
     },
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "2toWSLiO0t0eJmwqnn2UHy",
+      "name": "Run from Me",
       "artists": [
-        "efdemin"
+        "Timber Timbre"
       ],
-      "playedAt": "2026-02-19T16:26:23.046Z"
+      "playedAt": "2026-02-20T11:14:17.996Z"
     },
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "7D6oFV1ST67jQSO1Ly4INc",
+      "name": "Hombre Honrado",
       "artists": [
-        "Juelz"
+        "Hermanos Gutiérrez"
       ],
-      "playedAt": "2026-02-19T16:21:10.873Z"
+      "playedAt": "2026-02-20T09:57:08.785Z"
     },
     {
-      "id": "5uE0ggArLjnpwVPEXc36Hx",
-      "name": "It's Happening Again",
+      "id": "3flWoQdYrWyqUsHbURIJby",
+      "name": "Stephanie - HNTR Remix",
       "artists": [
-        "Agnes Obel"
+        "Cloonee",
+        "Young M.A",
+        "InntRaw",
+        "HNTR"
       ],
-      "playedAt": "2026-02-19T16:16:27.886Z"
+      "playedAt": "2026-02-20T09:50:43.982Z"
     },
     {
-      "id": "6KqmNOabQQ5QxKrWL8fvoK",
-      "name": "Jupiter Sunrise",
+      "id": "5jcrFtjW9dscpbkFjjLmyH",
+      "name": "Moonchild",
       "artists": [
-        "Kollektiv Turmstrasse"
+        "M83"
       ],
-      "playedAt": "2026-02-19T16:10:04.527Z"
-    },
-    {
-      "id": "7caycKUiLznuxYK1C9Wxd6",
-      "name": "Maya",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-02-19T16:00:31.701Z"
+      "playedAt": "2026-02-20T09:48:17.943Z"
     },
     {
       "id": "7AlJWH45s6NgsfgsKxWOIM",
@@ -132,190 +268,125 @@
       "artists": [
         "Curtis Harding"
       ],
-      "playedAt": "2026-02-19T15:46:09.722Z"
+      "playedAt": "2026-02-20T09:43:39.212Z"
     },
     {
-      "id": "7caycKUiLznuxYK1C9Wxd6",
-      "name": "Maya",
+      "id": "10nyNJ6zNy2YVYLrcwLccB",
+      "name": "No Surprises",
       "artists": [
-        "Nico Morano",
-        "Mewhy"
+        "Radiohead"
       ],
-      "playedAt": "2026-02-19T15:41:42.212Z"
+      "playedAt": "2026-02-20T09:37:59.878Z"
     },
     {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
+      "id": "10pfamFYvg5ftwq6rGJrWx",
+      "name": "Can't Decide",
       "artists": [
-        "Geoffroy"
+        "Max Dean",
+        "Luke Dean",
+        "Locky"
       ],
-      "playedAt": "2026-02-19T15:37:19.546Z"
+      "playedAt": "2026-02-20T09:34:08.831Z"
     },
     {
-      "id": "7oO0QY3HutngLaEnP6zmAY",
-      "name": "Phantom Deep Blue",
+      "id": "5LhQzr07rLYHuRS6Q7T0rv",
+      "name": "Dream",
       "artists": [
-        "Luigi Tozzi"
+        "Alex Lustig"
       ],
-      "playedAt": "2026-02-19T15:32:11.596Z"
+      "playedAt": "2026-02-20T09:31:12.044Z"
     },
     {
-      "id": "0HjfBGUGEhmbTbjwBeL543",
-      "name": "Thinking Pattern - Funkable Remix",
+      "id": "13cX2o4cASGLYXNaQyXWxt",
+      "name": "Don't Stop",
       "artists": [
-        "Airi",
-        "Funkable"
+        "Prospa"
       ],
-      "playedAt": "2026-02-19T15:21:03.496Z"
+      "playedAt": "2026-02-20T09:28:32.510Z"
     },
     {
-      "id": "4JVZUa9DYtJ72QIVwYHYTi",
-      "name": "Tú Y Yo",
+      "id": "5K2XRHW0ZdFsPyc7m0NxRs",
+      "name": "Thief of Your Heart",
       "artists": [
-        "Camel Power Club",
-        "Gizmo Varillas"
+        "Amarone"
       ],
-      "playedAt": "2026-02-19T15:13:48.992Z"
+      "playedAt": "2026-02-20T09:26:04.712Z"
     },
     {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
+      "id": "2wQbLNxYgRnZSDs0YBNFBe",
+      "name": "Aké",
       "artists": [
-        "Shungudzo"
+        "Blick Bassy"
       ],
-      "playedAt": "2026-02-19T15:10:10.529Z"
+      "playedAt": "2026-02-20T09:20:11.964Z"
     },
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "090df4BpfETesA7Hg45G5d",
+      "name": "Fine Anyway",
       "artists": [
-        "efdemin"
+        "Rogér Fakhr"
       ],
-      "playedAt": "2026-02-19T15:03:53.780Z"
+      "playedAt": "2026-02-20T09:16:40.326Z"
     },
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "16OVnx7GaiV91Cvg7qfpgy",
+      "name": "Run Wild",
       "artists": [
-        "Juelz"
+        "Corrina Repp",
+        "Arch Cape"
       ],
-      "playedAt": "2026-02-19T14:58:43.668Z"
+      "playedAt": "2026-02-20T09:12:35.278Z"
     },
     {
-      "id": "2nTGUH5KRYIhkuyXS2jUUW",
-      "name": "Grounded",
+      "id": "3QywQH8lshVdbmLqLqhWya",
+      "name": "Next Chapter",
       "artists": [
-        "Mementomor",
-        "Widox"
+        "Gabriel Albuquerqüe",
+        "Renzyx"
       ],
-      "playedAt": "2026-02-19T14:54:30.561Z"
+      "playedAt": "2026-02-20T09:07:29.813Z"
     },
     {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
+      "id": "5tDmfhBI55upBunEsYoffI",
+      "name": "Can You Blame the Sky?",
       "artists": [
-        "Electrypnose"
+        "Alela Diane"
       ],
-      "playedAt": "2026-02-19T14:46:44.914Z"
+      "playedAt": "2026-02-20T09:03:47.483Z"
     },
     {
-      "id": "0HjfBGUGEhmbTbjwBeL543",
-      "name": "Thinking Pattern - Funkable Remix",
+      "id": "6anbHjGgQbYQH5FbF6bAvR",
+      "name": "Where The Names Are Real",
       "artists": [
-        "Airi",
-        "Funkable"
+        "Warhaus"
       ],
-      "playedAt": "2026-02-19T14:37:55.802Z"
+      "playedAt": "2026-02-20T09:01:18.414Z"
     },
     {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
+      "id": "2QThU21Z82nM2lWQs7b5JY",
+      "name": "Reincarnation - Taavi Remix",
       "artists": [
-        "Goldie Boutilier"
+        "Javiis",
+        "Taavi"
       ],
-      "playedAt": "2026-02-19T14:30:19.559Z"
+      "playedAt": "2026-02-20T08:55:56.632Z"
     },
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "4tAbdhAtgakhJyALYCWVvC",
+      "name": "She Knows How To Say My Name",
       "artists": [
-        "efdemin"
+        "Marlon Funaki"
       ],
-      "playedAt": "2026-02-19T14:20:46.202Z"
+      "playedAt": "2026-02-20T08:26:33.622Z"
     },
     {
-      "id": "38ggnZHcWLdzPXAFOv3wOZ",
-      "name": "How The Light Gets In",
+      "id": "0y9FKVVX72WQhhiQvBQTT5",
+      "name": "Ojos Nuevos",
       "artists": [
-        "Kerala Dust"
+        "Gizmo Varillas",
+        "Amanda Whiting"
       ],
-      "playedAt": "2026-02-19T14:13:51.119Z"
-    },
-    {
-      "id": "2Lcnfw9Q6RpAMzn94Zhfmc",
-      "name": "Suéltalo",
-      "artists": [
-        "Hermanos Gutiérrez"
-      ],
-      "playedAt": "2026-02-19T14:09:32.061Z"
-    },
-    {
-      "id": "1PjRPNMRvd9qVoGSr27YEq",
-      "name": "Butterflies",
-      "artists": [
-        "benzii"
-      ],
-      "playedAt": "2026-02-19T14:05:29.748Z"
-    },
-    {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
-      "artists": [
-        "efdemin"
-      ],
-      "playedAt": "2026-02-19T13:16:03.610Z"
-    },
-    {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
-      "artists": [
-        "Juelz"
-      ],
-      "playedAt": "2026-02-19T13:10:53.740Z"
-    },
-    {
-      "id": "2nTGUH5KRYIhkuyXS2jUUW",
-      "name": "Grounded",
-      "artists": [
-        "Mementomor",
-        "Widox"
-      ],
-      "playedAt": "2026-02-19T13:06:41.105Z"
-    },
-    {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
-      "artists": [
-        "Electrypnose"
-      ],
-      "playedAt": "2026-02-19T12:58:52.620Z"
-    },
-    {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
-      "artists": [
-        "Electrypnose"
-      ],
-      "playedAt": "2026-02-19T12:50:28.024Z"
-    },
-    {
-      "id": "0HjfBGUGEhmbTbjwBeL543",
-      "name": "Thinking Pattern - Funkable Remix",
-      "artists": [
-        "Airi",
-        "Funkable"
-      ],
-      "playedAt": "2026-02-19T12:50:15.558Z"
+      "playedAt": "2026-02-20T08:21:51.953Z"
     },
     {
       "id": "0FLFE8mxBn1yWAX8s2L8ru",
@@ -323,7 +394,7 @@
       "artists": [
         "Clams Casino"
       ],
-      "playedAt": "2026-02-19T12:42:39.730Z"
+      "playedAt": "2026-02-20T08:18:03.856Z"
     },
     {
       "id": "7A1YcSeFJpLTHybu78qgT9",
@@ -331,7 +402,7 @@
       "artists": [
         "747"
       ],
-      "playedAt": "2026-02-19T12:38:57.693Z"
+      "playedAt": "2026-02-20T08:14:19.309Z"
     },
     {
       "id": "4iTD09SbhEauGj5JX6t7b2",
@@ -339,7 +410,7 @@
       "artists": [
         "efdemin"
       ],
-      "playedAt": "2026-02-19T12:31:52.381Z"
+      "playedAt": "2026-02-20T08:07:16.530Z"
     },
     {
       "id": "5vlE3zQD8G0rCCnM3WDs0y",
@@ -347,15 +418,7 @@
       "artists": [
         "Juelz"
       ],
-      "playedAt": "2026-02-19T12:26:42.470Z"
-    },
-    {
-      "id": "7A1YcSeFJpLTHybu78qgT9",
-      "name": "Aurora Centralis",
-      "artists": [
-        "747"
-      ],
-      "playedAt": "2026-02-19T11:24:01.607Z"
+      "playedAt": "2026-02-20T08:02:07.119Z"
     },
     {
       "id": "0HjfBGUGEhmbTbjwBeL543",
@@ -364,64 +427,7 @@
         "Airi",
         "Funkable"
       ],
-      "playedAt": "2026-02-19T11:21:18.168Z"
-    },
-    {
-      "id": "61KapusHaUgQ7Zhv3GxoZO",
-      "name": "Ringleader",
-      "artists": [
-        "Public Memory"
-      ],
-      "playedAt": "2026-02-19T11:14:11.295Z"
-    },
-    {
-      "id": "768QnTZVvJ4DUDeouU98fk",
-      "name": "F Major",
-      "artists": [
-        "Hania Rani"
-      ],
-      "playedAt": "2026-02-19T11:11:00.742Z"
-    },
-    {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
-      "artists": [
-        "efdemin"
-      ],
-      "playedAt": "2026-02-19T08:55:28.080Z"
-    },
-    {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
-      "artists": [
-        "Juelz"
-      ],
-      "playedAt": "2026-02-19T08:50:18.328Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-02-19T08:28:57.478Z"
-    },
-    {
-      "id": "7caycKUiLznuxYK1C9Wxd6",
-      "name": "Maya",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-02-19T06:36:14.011Z"
-    },
-    {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
-      "artists": [
-        "Shungudzo"
-      ],
-      "playedAt": "2026-02-19T06:31:39.846Z"
+      "playedAt": "2026-02-20T07:49:01.586Z"
     }
   ]
 }

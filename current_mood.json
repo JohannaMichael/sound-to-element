@@ -3,95 +3,87 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6065384615384615,
-    "avgEnergy": 0.3007692307692308,
-    "avgAcousticness": 0.795,
+    "avgValence": 0.6799999999999999,
+    "avgEnergy": 0.3031034482758621,
+    "avgAcousticness": 0.8037931034482758,
     "trackCount": 50,
-    "analyzedCount": 26
+    "analyzedCount": 29
   },
-  "date": "2026-02-22T23:16:58.750Z",
+  "date": "2026-02-23T23:27:38.541Z",
   "tracks": [
     {
-      "id": "6ccmd1Pz7lrcQTsWJWeAAM",
-      "name": "1883 Theme (From \"1883: Season 1\" Soundtrack)",
+      "id": "2ke17KqBdUbhjHDve5m9DH",
+      "name": "Craw-Fever",
       "artists": [
-        "Brian Tyler"
+        "Elvis Presley"
       ],
-      "playedAt": "2026-02-22T21:31:25.880Z"
+      "playedAt": "2026-02-23T19:46:02.959Z"
     },
     {
-      "id": "2gn3MVCaK7QbDZItT5tF54",
-      "name": "Rhiannon",
+      "id": "41CpEqRT3TqIf5DoB0trcw",
+      "name": "Manifest",
       "artists": [
-        "Isobel Waller-Bridge"
+        "Taavi"
       ],
-      "playedAt": "2026-02-22T21:23:19.801Z"
+      "playedAt": "2026-02-23T19:42:17.845Z"
     },
     {
-      "id": "42kxhrdAzozs1M51pRxWX4",
-      "name": "Do You See Me Now (Music from the Original TV Series)",
+      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
+      "name": "Chaleur",
       "artists": [
-        "CHINCHILLA",
-        "Isobel Waller-Bridge"
+        "Sames"
       ],
-      "playedAt": "2026-02-22T21:20:35.141Z"
+      "playedAt": "2026-02-23T19:37:00.704Z"
     },
     {
-      "id": "50VdQjvCLyLJS6BqXQELDB",
-      "name": "Harvey",
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
       "artists": [
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-02-22T21:18:37.139Z"
+      "playedAt": "2026-02-23T16:27:03.590Z"
     },
     {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
+      "id": "7ja0rsJBBCqZH4f3Ga9uGn",
+      "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
       "artists": [
-        "Sames"
+        "James Newton Howard"
       ],
-      "playedAt": "2026-02-22T21:15:03.872Z"
+      "playedAt": "2026-02-23T16:11:47.729Z"
     },
     {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
+      "id": "5jsSRZV38oVh9l2Tf6UREU",
+      "name": "Enid & Rebecca",
       "artists": [
-        "Gizmo Varillas"
+        "Les Gordon"
       ],
-      "playedAt": "2026-02-22T21:11:06.642Z"
+      "playedAt": "2026-02-23T16:08:02.125Z"
     },
     {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
+      "id": "0WFryfbNKPXVtVQlz5dZ8H",
+      "name": "hotline (edit)",
       "artists": [
-        "Tami Neilson"
+        "Billie Eilish"
       ],
-      "playedAt": "2026-02-22T21:08:03.903Z"
+      "playedAt": "2026-02-23T16:04:49.330Z"
     },
     {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
+      "id": "6CyoMFZcnFzoeiHBu5R32E",
+      "name": "The End",
       "artists": [
-        "Sames"
+        "JPOLND"
       ],
-      "playedAt": "2026-02-22T21:04:08.255Z"
+      "playedAt": "2026-02-23T16:03:47.957Z"
     },
     {
-      "id": "4XaPsEXr9GbEBONfzWH2XS",
-      "name": "Intro",
+      "id": "4qeIlzP0Z1JFXh0AckDcX8",
+      "name": "No Nein",
       "artists": [
-        "AMANZI"
+        "1tbsp",
+        "Mietze Conte"
       ],
-      "playedAt": "2026-02-22T20:32:02.449Z"
-    },
-    {
-      "id": "1ej1Z6AGBLaSI9tSizZMfa",
-      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-02-22T20:29:53.768Z"
+      "playedAt": "2026-02-23T16:00:13.956Z"
     },
     {
       "id": "1UtsS1pmL3FkuEWT5dXHCS",
@@ -99,72 +91,154 @@
       "artists": [
         "AMANZI"
       ],
-      "playedAt": "2026-02-22T20:26:05.434Z"
+      "playedAt": "2026-02-23T15:07:59.168Z"
     },
     {
-      "id": "2JE9o8Y2lyCuuxWmC5SfoS",
-      "name": "In the Sun",
-      "artists": [
-        "M1NT",
-        "STRNGE"
-      ],
-      "playedAt": "2026-02-22T20:22:06.025Z"
-    },
-    {
-      "id": "0hSnnJGW7qyxlbqTxM2nsf",
-      "name": "2AM To Málaga",
-      "artists": [
-        "Painted Dunes"
-      ],
-      "playedAt": "2026-02-22T20:18:13.660Z"
-    },
-    {
-      "id": "4sKuBym5NJqbwFkIbQU1OD",
-      "name": "Slowly Waking",
-      "artists": [
-        "TMPLE"
-      ],
-      "playedAt": "2026-02-22T20:15:12.709Z"
-    },
-    {
-      "id": "2Gt5XIdNRsz3ZO6zUXmp6J",
-      "name": "Call Me",
+      "id": "5V8lxgmj9RCs0zL2rVRj77",
+      "name": "Velours",
       "artists": [
         "Sames"
       ],
-      "playedAt": "2026-02-22T20:05:50.974Z"
+      "playedAt": "2026-02-23T14:50:35.767Z"
     },
     {
-      "id": "6eg2rOCPrWv4WbKFrM2RB7",
-      "name": "Et Le Porter",
+      "id": "6JZOlUntv4dNAbeJrNhUnu",
+      "name": "Mata - Edit",
       "artists": [
-        "47max"
+        "Traumer",
+        "antraum",
+        "Anton"
       ],
-      "playedAt": "2026-02-22T20:02:25.968Z"
+      "playedAt": "2026-02-23T14:46:43.962Z"
     },
     {
-      "id": "55fSeQBFDJDw1RSSxrg7et",
-      "name": "Vinyle Archéologie",
+      "id": "2husy9qLOLWom5uAb61dxv",
+      "name": "Paradiso Erotica",
+      "artists": [
+        "MAXI MERAKI"
+      ],
+      "playedAt": "2026-02-23T14:39:40.600Z"
+    },
+    {
+      "id": "2lWsGURL46r84HFUm4ZrvH",
+      "name": "All I Know",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-02-23T14:35:34.158Z"
+    },
+    {
+      "id": "4cQ1dZh1yF6GBrpE9kqsuc",
+      "name": "Gloria",
+      "artists": [
+        "DAWSON"
+      ],
+      "playedAt": "2026-02-23T14:32:04.451Z"
+    },
+    {
+      "id": "6xQNKtZ0ogvR8kQJrba4Vk",
+      "name": "Soul Elegance",
+      "artists": [
+        "Leo Meizoso"
+      ],
+      "playedAt": "2026-02-23T14:29:31.962Z"
+    },
+    {
+      "id": "0cr2WSBR1kbtcUR3MPC09T",
+      "name": "You",
+      "artists": [
+        "Nohr"
+      ],
+      "playedAt": "2026-02-23T14:23:31.608Z"
+    },
+    {
+      "id": "2cWDhpDPrGLxRuNabs4S7L",
+      "name": "On Falling",
+      "artists": [
+        "Helly Larson"
+      ],
+      "playedAt": "2026-02-23T14:20:47.221Z"
+    },
+    {
+      "id": "5dW2B0JNLoETsZy5dOPuuG",
+      "name": "Avion",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-02-23T14:14:49.388Z"
+    },
+    {
+      "id": "7n8Swu6RiPhtBgRlGUD7AT",
+      "name": "Don't Dribble - Radio Version",
+      "artists": [
+        "Etzu Mahkayah"
+      ],
+      "playedAt": "2026-02-23T13:18:05.660Z"
+    },
+    {
+      "id": "73uRmORpb5JSxTN9zKG8SU",
+      "name": "discothèque au minuit",
       "artists": [
         "sometimes jah"
       ],
-      "playedAt": "2026-02-22T19:59:55.989Z"
+      "playedAt": "2026-02-23T13:14:38.323Z"
     },
     {
-      "id": "64hw1sK5eUvHQRt5Jne0nR",
-      "name": "Searching",
+      "id": "6c02cLU7GSbDUfHjYNGS0G",
+      "name": "Late Dinner",
       "artists": [
-        "Soul Wun"
+        "FÉLINÉ",
+        "Miki Ikhifa"
       ],
-      "playedAt": "2026-02-22T19:56:45.592Z"
+      "playedAt": "2026-02-23T13:10:38.361Z"
     },
     {
-      "id": "5ze8PU3lJhTxbOg5HgiFCn",
-      "name": "Feel The Game - Remix",
+      "id": "1RL0v14VPmZuqmzB7nnsw7",
+      "name": "Told You",
       "artists": [
-        "Stereoclip"
+        "Jake Jeffery"
       ],
-      "playedAt": "2026-02-22T19:51:26.539Z"
+      "playedAt": "2026-02-23T13:07:28.911Z"
+    },
+    {
+      "id": "0K9xHJ9ZVaFJVQ1p4pXRFc",
+      "name": "Trésor",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-02-23T13:04:15.604Z"
+    },
+    {
+      "id": "2GfgaTAmEmtQTzpCbHOIs1",
+      "name": "Quasar",
+      "artists": [
+        "Mark Alow"
+      ],
+      "playedAt": "2026-02-23T13:00:31.502Z"
+    },
+    {
+      "id": "06Jz0fCBIazg682Rl0OUyA",
+      "name": "Who I Am",
+      "artists": [
+        "TMPLE"
+      ],
+      "playedAt": "2026-02-23T12:56:56.331Z"
+    },
+    {
+      "id": "56psu3Y2Xduq6VwqIky3IL",
+      "name": "inner city grooves",
+      "artists": [
+        "sometimes jah"
+      ],
+      "playedAt": "2026-02-23T12:53:42.716Z"
+    },
+    {
+      "id": "34KhCCPRdaW0zpzHLQYgPK",
+      "name": "Night Swim",
+      "artists": [
+        "bahkin"
+      ],
+      "playedAt": "2026-02-23T12:49:45.976Z"
     },
     {
       "id": "5iFW2iWkRnjwfGtJlCB8P5",
@@ -172,7 +246,7 @@
       "artists": [
         "Sames"
       ],
-      "playedAt": "2026-02-22T19:46:40.094Z"
+      "playedAt": "2026-02-23T12:45:41.292Z"
     },
     {
       "id": "0HBUq9Ixk7kHZhyAHqrBKd",
@@ -180,56 +254,15 @@
       "artists": [
         "Sames"
       ],
-      "playedAt": "2026-02-22T19:42:51.402Z"
+      "playedAt": "2026-02-23T12:41:52.719Z"
     },
     {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
       "artists": [
-        "Tami Neilson"
+        "efdemin"
       ],
-      "playedAt": "2026-02-22T19:38:10.761Z"
-    },
-    {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-02-22T19:36:06.055Z"
-    },
-    {
-      "id": "42kxhrdAzozs1M51pRxWX4",
-      "name": "Do You See Me Now (Music from the Original TV Series)",
-      "artists": [
-        "CHINCHILLA",
-        "Isobel Waller-Bridge"
-      ],
-      "playedAt": "2026-02-22T19:34:29.726Z"
-    },
-    {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-02-22T18:38:17.118Z"
-    },
-    {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
-      "artists": [
-        "Tami Neilson"
-      ],
-      "playedAt": "2026-02-22T18:35:15.551Z"
-    },
-    {
-      "id": "45MllV1fJos1Ef6Cd13H2E",
-      "name": "Life's Incredible Again",
-      "artists": [
-        "Michael Giacchino"
-      ],
-      "playedAt": "2026-02-22T18:31:44.353Z"
+      "playedAt": "2026-02-23T12:34:51.531Z"
     },
     {
       "id": "5vlE3zQD8G0rCCnM3WDs0y",
@@ -237,23 +270,24 @@
       "artists": [
         "Juelz"
       ],
-      "playedAt": "2026-02-22T18:30:20.327Z"
+      "playedAt": "2026-02-23T12:29:17.814Z"
     },
     {
-      "id": "6ccmd1Pz7lrcQTsWJWeAAM",
-      "name": "1883 Theme (From \"1883: Season 1\" Soundtrack)",
+      "id": "2nTGUH5KRYIhkuyXS2jUUW",
+      "name": "Grounded",
       "artists": [
-        "Brian Tyler"
+        "Mementomor",
+        "Widox"
       ],
-      "playedAt": "2026-02-22T18:26:06.437Z"
+      "playedAt": "2026-02-23T12:25:16.038Z"
     },
     {
-      "id": "2gn3MVCaK7QbDZItT5tF54",
-      "name": "Rhiannon",
+      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
+      "name": "Influenced",
       "artists": [
-        "Isobel Waller-Bridge"
+        "Electrypnose"
       ],
-      "playedAt": "2026-02-22T18:17:59.923Z"
+      "playedAt": "2026-02-23T12:17:25.017Z"
     },
     {
       "id": "42kxhrdAzozs1M51pRxWX4",
@@ -262,7 +296,7 @@
         "CHINCHILLA",
         "Isobel Waller-Bridge"
       ],
-      "playedAt": "2026-02-22T18:15:15.287Z"
+      "playedAt": "2026-02-23T12:07:57.953Z"
     },
     {
       "id": "50VdQjvCLyLJS6BqXQELDB",
@@ -271,15 +305,7 @@
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-02-22T18:13:14.929Z"
-    },
-    {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
-      "artists": [
-        "Tami Neilson"
-      ],
-      "playedAt": "2026-02-22T18:09:44.169Z"
+      "playedAt": "2026-02-23T12:06:15.597Z"
     },
     {
       "id": "0HBUq9Ixk7kHZhyAHqrBKd",
@@ -287,116 +313,41 @@
       "artists": [
         "Sames"
       ],
-      "playedAt": "2026-02-22T18:06:14.100Z"
+      "playedAt": "2026-02-23T12:02:44.748Z"
     },
     {
-      "id": "1fKdgKxxY5t20AcSa3jKLX",
-      "name": "Everywhere",
+      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
+      "name": "Chaleur",
       "artists": [
         "Sames"
       ],
-      "playedAt": "2026-02-22T17:36:30.949Z"
+      "playedAt": "2026-02-23T10:56:39.056Z"
     },
     {
-      "id": "49cghkFtL6rCLGzlrSjhfT",
-      "name": "Fënce",
+      "id": "2gn3MVCaK7QbDZItT5tF54",
+      "name": "Rhiannon",
       "artists": [
-        "MANARËM"
+        "Isobel Waller-Bridge"
       ],
-      "playedAt": "2026-02-22T17:34:18.624Z"
+      "playedAt": "2026-02-23T10:47:11.533Z"
     },
     {
-      "id": "5cpadD5wbr41Bdi6Q0ZlEt",
-      "name": "Believe",
+      "id": "42kxhrdAzozs1M51pRxWX4",
+      "name": "Do You See Me Now (Music from the Original TV Series)",
       "artists": [
-        "Nico Morano",
-        "GinGin"
+        "CHINCHILLA",
+        "Isobel Waller-Bridge"
       ],
-      "playedAt": "2026-02-22T17:31:00.083Z"
+      "playedAt": "2026-02-23T10:44:26.867Z"
     },
     {
-      "id": "4VS8SYb0xooX1bqpiGkkHa",
-      "name": "Metaphobia",
-      "artists": [
-        "Trashlagoon"
-      ],
-      "playedAt": "2026-02-22T17:27:56.077Z"
-    },
-    {
-      "id": "56SDusGcG8YbuZp3DPLfx9",
-      "name": "Sisters and Brothers",
-      "artists": [
-        "TMPLE"
-      ],
-      "playedAt": "2026-02-22T17:22:56.858Z"
-    },
-    {
-      "id": "1ae9NjGEQgx6R8Fn6exDvt",
-      "name": "Slow",
-      "artists": [
-        "Stereoclip",
-        "Dee Eye"
-      ],
-      "playedAt": "2026-02-22T17:18:45.527Z"
-    },
-    {
-      "id": "2lWsGURL46r84HFUm4ZrvH",
-      "name": "All I Know",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-02-22T17:14:56.388Z"
-    },
-    {
-      "id": "6WnDh4z7P1Hj3PgcZzN8Q2",
-      "name": "Blue Memory",
+      "id": "50VdQjvCLyLJS6BqXQELDB",
+      "name": "Harvey",
       "artists": [
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-02-22T17:11:30.498Z"
-    },
-    {
-      "id": "35c6sdyTu4euKo4WDMmtMg",
-      "name": "Unconditional Love",
-      "artists": [
-        "Sideluv"
-      ],
-      "playedAt": "2026-02-22T17:05:42.845Z"
-    },
-    {
-      "id": "4cQ1dZh1yF6GBrpE9kqsuc",
-      "name": "Gloria",
-      "artists": [
-        "DAWSON"
-      ],
-      "playedAt": "2026-02-22T17:02:18.379Z"
-    },
-    {
-      "id": "702TQdZDsXUIMXsBz4nFuY",
-      "name": "She Who Sees All",
-      "artists": [
-        "Soul Wun",
-        "Mauricesax"
-      ],
-      "playedAt": "2026-02-22T16:59:45.652Z"
-    },
-    {
-      "id": "1TMkxdc4uBtKbKjTbI55jd",
-      "name": "Moonlight Drive",
-      "artists": [
-        "Stereoclip"
-      ],
-      "playedAt": "2026-02-22T16:55:53.332Z"
-    },
-    {
-      "id": "2PnRb973Quju3xXATCTEzL",
-      "name": "Misunderstood",
-      "artists": [
-        "Nico Morano",
-        "Mondingo"
-      ],
-      "playedAt": "2026-02-22T16:52:15.974Z"
+      "playedAt": "2026-02-23T10:42:26.189Z"
     },
     {
       "id": "0HBUq9Ixk7kHZhyAHqrBKd",
@@ -404,23 +355,71 @@
       "artists": [
         "Sames"
       ],
-      "playedAt": "2026-02-22T16:48:21.143Z"
+      "playedAt": "2026-02-23T10:38:55.395Z"
     },
     {
-      "id": "5Cnd4KnPQROrCGPILvlkDl",
-      "name": "Let Your Body Fly",
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
       "artists": [
-        "MAISON ROYALE"
+        "efdemin"
       ],
-      "playedAt": "2026-02-22T16:44:43.500Z"
+      "playedAt": "2026-02-23T10:31:33Z"
     },
     {
-      "id": "56psu3Y2Xduq6VwqIky3IL",
-      "name": "inner city grooves",
+      "id": "5vlE3zQD8G0rCCnM3WDs0y",
+      "name": "Dodi",
       "artists": [
-        "sometimes jah"
+        "Juelz"
       ],
-      "playedAt": "2026-02-22T16:41:18.295Z"
+      "playedAt": "2026-02-23T10:26:22.942Z"
+    },
+    {
+      "id": "4bQ7mjty0UVlKRalhizpGT",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "playedAt": "2026-02-23T10:21:42.960Z"
+    },
+    {
+      "id": "3HCiek4vMUYV67L0tcokBI",
+      "name": "Dubmission",
+      "artists": [
+        "Anja Schneider"
+      ],
+      "playedAt": "2026-02-23T10:17:24.145Z"
+    },
+    {
+      "id": "7nooTU7jO9LuRoMurNHN4Q",
+      "name": "I Fell In Love",
+      "artists": [
+        "Gidge"
+      ],
+      "playedAt": "2026-02-23T10:10:48.369Z"
+    },
+    {
+      "id": "79BpfjCZi5r16P0vZNyKwz",
+      "name": "Rocky",
+      "artists": [
+        "Ten Walls"
+      ],
+      "playedAt": "2026-02-23T10:04:21.898Z"
+    },
+    {
+      "id": "5bjXTibRMVzZUQwiT47Z93",
+      "name": "Love Inc",
+      "artists": [
+        "Booka Shade"
+      ],
+      "playedAt": "2026-02-23T10:01:06.773Z"
+    },
+    {
+      "id": "7pM9cLbrgRGX1hHElTX92m",
+      "name": "Acid Rain",
+      "artists": [
+        "Lorn"
+      ],
+      "playedAt": "2026-02-23T09:55:06.620Z"
     }
   ]
 }

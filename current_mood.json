@@ -1,80 +1,106 @@
 {
-  "name": "WATER",
-  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
-  "description": "Flowing & Emotional",
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.5970967741935485,
-    "avgEnergy": 0.3170967741935483,
-    "avgAcousticness": 0.8158064516129031,
-    "trackCount": 50,
-    "analyzedCount": 31
+    "avgValence": 0.6396666666666668,
+    "avgEnergy": 0.32933333333333326,
+    "avgAcousticness": 0.8006666666666665,
+    "trackCount": 42,
+    "analyzedCount": 30
   },
-  "date": "2026-02-24T23:23:24.860Z",
+  "date": "2026-02-25T23:21:13.252Z",
   "tracks": [
     {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
       "artists": [
-        "Shungudzo"
+        "AMANZI"
       ],
-      "playedAt": "2026-02-24T18:16:56.617Z"
+      "playedAt": "2026-02-25T20:59:32.427Z"
     },
     {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
+      "id": "3NHzW6H45I5VO0ftDRhtpY",
+      "name": "Sunny",
       "artists": [
-        "Goldie Boutilier"
+        "Boney M.",
+        "R3HAB"
       ],
-      "playedAt": "2026-02-24T18:12:22.284Z"
+      "playedAt": "2026-02-25T20:51:00.150Z"
     },
     {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
+      "id": "19kA9MB5gD4xX27NFmBTVs",
+      "name": "Love In The Eyes",
       "artists": [
-        "Sames"
+        "Ramin Djawadi"
       ],
-      "playedAt": "2026-02-24T18:10:03.711Z"
+      "playedAt": "2026-02-25T17:17:34.236Z"
     },
     {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
+      "id": "6TYzaO31pog2PwBm4O7OOM",
+      "name": "Fire And Blood",
       "artists": [
-        "Tami Neilson"
+        "Ramin Djawadi"
       ],
-      "playedAt": "2026-02-24T18:08:04.673Z"
+      "playedAt": "2026-02-25T17:13:02.715Z"
     },
     {
-      "id": "0HjfBGUGEhmbTbjwBeL543",
-      "name": "Thinking Pattern - Funkable Remix",
+      "id": "3Z0QYWxOndrwwtiUyybjSl",
+      "name": "Finale",
       "artists": [
-        "Airi",
-        "Funkable"
+        "Ramin Djawadi"
       ],
-      "playedAt": "2026-02-24T17:59:33.233Z"
+      "playedAt": "2026-02-25T17:08:31.775Z"
     },
     {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
+      "id": "2iH1dTkVI0pdFMSfLd4MaW",
+      "name": "Vapo Vapo (Remix)",
       "artists": [
-        "Tami Neilson"
+        "MC Ingryd",
+        "Mandragora"
       ],
-      "playedAt": "2026-02-24T17:47:46.016Z"
+      "playedAt": "2026-02-25T17:06:00.008Z"
     },
     {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
+      "id": "5NoIDaacAEA4UEWn9qXIhA",
+      "name": "Duality",
       "artists": [
-        "Sames"
+        "Montee"
       ],
-      "playedAt": "2026-02-24T17:44:15.801Z"
+      "playedAt": "2026-02-25T16:58:08.039Z"
     },
     {
-      "id": "3qV8W6cytQG53azQ5FnSE4",
-      "name": "Let Go",
+      "id": "6juffWW6TFI5geCgjU6Lvp",
+      "name": "Headache",
       "artists": [
-        "Sharon Van Etten"
+        "Asal"
       ],
-      "playedAt": "2026-02-24T17:36:03.456Z"
+      "playedAt": "2026-02-25T16:54:17.112Z"
+    },
+    {
+      "id": "61KapusHaUgQ7Zhv3GxoZO",
+      "name": "Ringleader",
+      "artists": [
+        "Public Memory"
+      ],
+      "playedAt": "2026-02-25T16:52:14.536Z"
+    },
+    {
+      "id": "4u7vj352S98d9iA7ac1EVG",
+      "name": "Alesis",
+      "artists": [
+        "Mk.gee"
+      ],
+      "playedAt": "2026-02-25T16:51:07.072Z"
+    },
+    {
+      "id": "7qC70bOUaH16OI6VXuiqGy",
+      "name": "Juno Love",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-02-25T16:47:45.454Z"
     },
     {
       "id": "6HZiDsrA00Jiy1EBkukFNr",
@@ -83,55 +109,24 @@
         "Fritz Kalkbrenner",
         "Ede"
       ],
-      "playedAt": "2026-02-24T16:44:04.163Z"
+      "playedAt": "2026-02-25T16:40:10.730Z"
     },
     {
-      "id": "1JfRSuCAZl5cyyoOo2CMK4",
-      "name": "Weg von dir",
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
       "artists": [
-        "Raphael Schön"
+        "Nico Morano",
+        "Mewhy"
       ],
-      "playedAt": "2026-02-24T16:40:09.822Z"
+      "playedAt": "2026-02-25T16:36:55.974Z"
     },
     {
-      "id": "4tnksYPh1C7j4qEoJipDFO",
-      "name": "Hana Mash Hu Al Yaman",
-      "artists": [
-        "A-WA"
-      ],
-      "playedAt": "2026-02-24T16:37:32.163Z"
-    },
-    {
-      "id": "2hrsZWMTQBQzTOhtKxFQvm",
-      "name": "No War",
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
       "artists": [
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-02-24T16:33:22.265Z"
-    },
-    {
-      "id": "4XaPsEXr9GbEBONfzWH2XS",
-      "name": "Intro",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-02-24T16:29:29.113Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-02-24T16:27:13.752Z"
-    },
-    {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
-      "artists": [
-        "Tami Neilson"
-      ],
-      "playedAt": "2026-02-24T16:23:02.957Z"
+      "playedAt": "2026-02-25T15:42:14.686Z"
     },
     {
       "id": "50VdQjvCLyLJS6BqXQELDB",
@@ -140,7 +135,7 @@
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-02-24T16:18:07.860Z"
+      "playedAt": "2026-02-25T15:38:46.331Z"
     },
     {
       "id": "0HBUq9Ixk7kHZhyAHqrBKd",
@@ -148,73 +143,89 @@
       "artists": [
         "Sames"
       ],
-      "playedAt": "2026-02-24T16:14:36.218Z"
+      "playedAt": "2026-02-25T15:35:15.918Z"
     },
     {
-      "id": "1F1S0s0JsCZ3MhVq9C9ZEL",
-      "name": "Manifest - Audible Thought Remix",
+      "id": "5y3xBtIKuO3j2TkhTx4Dol",
+      "name": "Short Notice",
       "artists": [
-        "Taavi",
-        "Audible Thought"
+        "Mpax",
+        "Brit Fox"
       ],
-      "playedAt": "2026-02-24T15:52:20.518Z"
+      "playedAt": "2026-02-25T08:20:11.010Z"
     },
     {
-      "id": "5K2XRHW0ZdFsPyc7m0NxRs",
-      "name": "Thief of Your Heart",
+      "id": "4XfI7M5gLwEY84gYiH4RDD",
+      "name": "Devil's Advocate",
       "artists": [
-        "Amarone"
+        "The Neighbourhood"
       ],
-      "playedAt": "2026-02-24T15:44:25.868Z"
+      "playedAt": "2026-02-25T08:17:15.482Z"
     },
     {
-      "id": "3QywQH8lshVdbmLqLqhWya",
-      "name": "Next Chapter",
+      "id": "5l9Ndp6CVqMIlim0NY7aCa",
+      "name": "Body Godly",
       "artists": [
-        "Gabriel Albuquerqüe",
-        "Renzyx"
+        "YULLOLA"
       ],
-      "playedAt": "2026-02-24T15:20:12.756Z"
+      "playedAt": "2026-02-25T08:13:46.661Z"
     },
     {
-      "id": "0FLFE8mxBn1yWAX8s2L8ru",
-      "name": "All I Need",
+      "id": "45Z3m6yazmAi4jZuW0tzW0",
+      "name": "Aperture",
       "artists": [
-        "Clams Casino"
+        "Harry Styles"
       ],
-      "playedAt": "2026-02-24T15:16:44.567Z"
+      "playedAt": "2026-02-25T08:10:37.967Z"
     },
     {
-      "id": "7A1YcSeFJpLTHybu78qgT9",
-      "name": "Aurora Centralis",
+      "id": "6WOetG6tyZnU3TccP7UTv7",
+      "name": "Kaleidoskop",
       "artists": [
-        "747"
+        "Bernstein"
       ],
-      "playedAt": "2026-02-24T15:09:24.257Z"
+      "playedAt": "2026-02-25T08:02:42.886Z"
     },
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "52BDBFhOsrLo4O49BPU9Ri",
+      "name": "Schulterblick",
       "artists": [
-        "efdemin"
+        "Bernstein"
       ],
-      "playedAt": "2026-02-24T15:02:21.771Z"
+      "playedAt": "2026-02-25T07:59:13.028Z"
     },
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "19t0Z7qsoV6A1CGJVYRnjm",
+      "name": "Rabiosa (feat. El Cata)",
       "artists": [
-        "Juelz"
+        "Shakira",
+        "El Cata"
       ],
-      "playedAt": "2026-02-24T14:57:10.005Z"
+      "playedAt": "2026-02-25T07:56:17.117Z"
     },
     {
-      "id": "7AlJWH45s6NgsfgsKxWOIM",
-      "name": "I Won't Let You Down",
+      "id": "0pwe8j2VhTBRiAb5gystJO",
+      "name": "Cómo Me Quieres",
       "artists": [
-        "Curtis Harding"
+        "Khruangbin"
       ],
-      "playedAt": "2026-02-24T14:13:33.520Z"
+      "playedAt": "2026-02-25T07:53:10.410Z"
+    },
+    {
+      "id": "7beo8NFFHfxAuQJjO0FFyW",
+      "name": "The Actress",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-02-25T07:49:24.663Z"
+    },
+    {
+      "id": "6AdDi9540EEHZEfEMqWqUL",
+      "name": "Goldie Montana",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-02-25T07:47:07.949Z"
     },
     {
       "id": "41CpEqRT3TqIf5DoB0trcw",
@@ -222,64 +233,124 @@
       "artists": [
         "Taavi"
       ],
-      "playedAt": "2026-02-24T14:08:46.567Z"
+      "playedAt": "2026-02-25T07:11:43.532Z"
     },
     {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
+      "id": "6anbHjGgQbYQH5FbF6bAvR",
+      "name": "Where The Names Are Real",
       "artists": [
-        "Geoffroy"
+        "Warhaus"
       ],
-      "playedAt": "2026-02-24T14:02:07.826Z"
+      "playedAt": "2026-02-25T07:07:16.705Z"
     },
     {
-      "id": "47a7Hn4fFE4mHgVJF19CO1",
-      "name": "No Choir",
+      "id": "2QThU21Z82nM2lWQs7b5JY",
+      "name": "Reincarnation - Taavi Remix",
       "artists": [
-        "Florence + The Machine"
-      ],
-      "playedAt": "2026-02-24T13:54:35.086Z"
-    },
-    {
-      "id": "2J9UiW1gTs2YTxA6JPk849",
-      "name": "Parallax Effect",
-      "artists": [
-        "Juelz",
+        "Javiis",
         "Taavi"
       ],
-      "playedAt": "2026-02-24T13:52:05.209Z"
+      "playedAt": "2026-02-25T07:01:54.602Z"
     },
     {
-      "id": "4Oq0AUVncfWa2rD0idz6oV",
-      "name": "Like a Ship",
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
       "artists": [
-        "Pastor T.L. Barrett and the Youth for Christ Choir"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-02-24T13:40:33.138Z"
+      "playedAt": "2026-02-25T06:54:59.610Z"
     },
     {
-      "id": "3NGrEQrSz7Wev5LhsjpI18",
-      "name": "Amor Dulce",
+      "id": "6XaJfhwof7qIgbbXO5tIQI",
+      "name": "Igual Que Un Ángel (with Peso Pluma)",
       "artists": [
-        "AEREA"
+        "Kali Uchis",
+        "Peso Pluma"
       ],
-      "playedAt": "2026-02-24T13:36:07.947Z"
+      "playedAt": "2026-02-25T06:51:56.860Z"
     },
     {
-      "id": "0hfKJsATmfrRFpDa2jEK3F",
-      "name": "+",
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
       "artists": [
-        "AEREA"
+        "Tami Neilson"
       ],
-      "playedAt": "2026-02-24T13:33:51.516Z"
+      "playedAt": "2026-02-25T06:47:36.021Z"
     },
     {
-      "id": "05i0gnCc4Tj9Rshavrirfh",
-      "name": "Free",
+      "id": "1s9i7W8zx7Nxx78MUIsvjV",
+      "name": "Outro",
       "artists": [
-        "Little Simz"
+        "M83"
       ],
-      "playedAt": "2026-02-24T13:30:25.413Z"
+      "playedAt": "2026-02-25T06:20:17.850Z"
+    },
+    {
+      "id": "0nrnsitY0PL2tSh9iIqEVb",
+      "name": "4am",
+      "artists": [
+        "soft siren",
+        "CASHFORGOLD",
+        "Sidewalks and Skeletons"
+      ],
+      "playedAt": "2026-02-25T06:16:12.978Z"
+    },
+    {
+      "id": "3a6PN6BRB8PP3ms48s7kU1",
+      "name": "Empire Ants (feat. Little Dragon)",
+      "artists": [
+        "Gorillaz",
+        "Little Dragon"
+      ],
+      "playedAt": "2026-02-25T06:13:12.279Z"
+    },
+    {
+      "id": "5tXoYnudQeaCQjWmFjP5f5",
+      "name": "Sit Down Beside Me",
+      "artists": [
+        "Patrick Watson"
+      ],
+      "playedAt": "2026-02-25T06:08:27.755Z"
+    },
+    {
+      "id": "7aU8ycwySg1LQAuCKgr3z9",
+      "name": "Red Hearts",
+      "artists": [
+        "Marlon Funaki"
+      ],
+      "playedAt": "2026-02-25T06:03:54.883Z"
+    },
+    {
+      "id": "2LXtyj95dK56ENS1QLt4IB",
+      "name": "Beach Baby",
+      "artists": [
+        "Bon Iver"
+      ],
+      "playedAt": "2026-02-25T06:00:37.989Z"
+    },
+    {
+      "id": "7N2rGqOwOL4RoGMQuUQnfK",
+      "name": "Wonderful Life",
+      "artists": [
+        "Katie Melua"
+      ],
+      "playedAt": "2026-02-25T05:57:59.079Z"
+    },
+    {
+      "id": "04pMx29snydsnkCQJZaQtV",
+      "name": "Werewolf",
+      "artists": [
+        "Cat Power"
+      ],
+      "playedAt": "2026-02-25T05:53:50.037Z"
+    },
+    {
+      "id": "4KlL5Bwlm4yHYxr0B2rHci",
+      "name": "Heal",
+      "artists": [
+        "Tom Odell"
+      ],
+      "playedAt": "2026-02-25T05:43:52.939Z"
     },
     {
       "id": "4JVZUa9DYtJ72QIVwYHYTi",
@@ -288,138 +359,7 @@
         "Camel Power Club",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-02-24T13:27:00.618Z"
-    },
-    {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
-      "artists": [
-        "Shungudzo"
-      ],
-      "playedAt": "2026-02-24T13:23:21.219Z"
-    },
-    {
-      "id": "0FLFE8mxBn1yWAX8s2L8ru",
-      "name": "All I Need",
-      "artists": [
-        "Clams Casino"
-      ],
-      "playedAt": "2026-02-24T13:20:10.091Z"
-    },
-    {
-      "id": "7A1YcSeFJpLTHybu78qgT9",
-      "name": "Aurora Centralis",
-      "artists": [
-        "747"
-      ],
-      "playedAt": "2026-02-24T13:16:06.342Z"
-    },
-    {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
-      "artists": [
-        "efdemin"
-      ],
-      "playedAt": "2026-02-24T13:09:03.937Z"
-    },
-    {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
-      "artists": [
-        "Juelz"
-      ],
-      "playedAt": "2026-02-24T13:03:54.149Z"
-    },
-    {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
-      "artists": [
-        "Electrypnose"
-      ],
-      "playedAt": "2026-02-24T12:59:15.413Z"
-    },
-    {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
-      "artists": [
-        "Tami Neilson"
-      ],
-      "playedAt": "2026-02-24T12:50:08.751Z"
-    },
-    {
-      "id": "09oYN0uq4LOoifmgk8bHeP",
-      "name": "Kimpton",
-      "artists": [
-        "Barry Can't Swim",
-        "O'Flynn"
-      ],
-      "playedAt": "2026-02-24T10:18:38.086Z"
-    },
-    {
-      "id": "50VdQjvCLyLJS6BqXQELDB",
-      "name": "Harvey",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-02-24T10:13:53.015Z"
-    },
-    {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-02-24T10:10:22.805Z"
-    },
-    {
-      "id": "06Jz0fCBIazg682Rl0OUyA",
-      "name": "Who I Am",
-      "artists": [
-        "TMPLE"
-      ],
-      "playedAt": "2026-02-24T10:06:46.456Z"
-    },
-    {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-02-24T10:01:02.778Z"
-    },
-    {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-02-24T08:24:24.128Z"
-    },
-    {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
-      "artists": [
-        "efdemin"
-      ],
-      "playedAt": "2026-02-24T08:19:13.613Z"
-    },
-    {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
-      "artists": [
-        "Juelz"
-      ],
-      "playedAt": "2026-02-24T08:14:04.149Z"
-    },
-    {
-      "id": "4a9WGirpUwaonGcdOG4RbO",
-      "name": "When I See You - Super Flu Remix",
-      "artists": [
-        "Fritz Kalkbrenner",
-        "Super Flu"
-      ],
-      "playedAt": "2026-02-24T07:48:38.679Z"
+      "playedAt": "2026-02-25T02:54:02.120Z"
     }
   ]
 }

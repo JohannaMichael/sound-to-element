@@ -3,229 +3,45 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6396666666666668,
-    "avgEnergy": 0.32933333333333326,
-    "avgAcousticness": 0.8006666666666665,
-    "trackCount": 42,
-    "analyzedCount": 30
+    "avgValence": 0.6708823529411766,
+    "avgEnergy": 0.3144117647058823,
+    "avgAcousticness": 0.8779411764705883,
+    "trackCount": 50,
+    "analyzedCount": 34
   },
-  "date": "2026-02-25T23:21:13.252Z",
+  "date": "2026-02-26T23:21:24.409Z",
   "tracks": [
     {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
+      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
+      "name": "Influenced",
       "artists": [
-        "AMANZI"
+        "Electrypnose"
       ],
-      "playedAt": "2026-02-25T20:59:32.427Z"
+      "playedAt": "2026-02-26T21:10:49.021Z"
     },
     {
-      "id": "3NHzW6H45I5VO0ftDRhtpY",
-      "name": "Sunny",
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
       "artists": [
-        "Boney M.",
-        "R3HAB"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-25T20:51:00.150Z"
+      "playedAt": "2026-02-26T20:55:13.743Z"
     },
     {
-      "id": "19kA9MB5gD4xX27NFmBTVs",
-      "name": "Love In The Eyes",
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
       "artists": [
-        "Ramin Djawadi"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-25T17:17:34.236Z"
+      "playedAt": "2026-02-26T17:12:22.562Z"
     },
     {
-      "id": "6TYzaO31pog2PwBm4O7OOM",
-      "name": "Fire And Blood",
+      "id": "2ke17KqBdUbhjHDve5m9DH",
+      "name": "Craw-Fever",
       "artists": [
-        "Ramin Djawadi"
+        "Elvis Presley"
       ],
-      "playedAt": "2026-02-25T17:13:02.715Z"
-    },
-    {
-      "id": "3Z0QYWxOndrwwtiUyybjSl",
-      "name": "Finale",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-02-25T17:08:31.775Z"
-    },
-    {
-      "id": "2iH1dTkVI0pdFMSfLd4MaW",
-      "name": "Vapo Vapo (Remix)",
-      "artists": [
-        "MC Ingryd",
-        "Mandragora"
-      ],
-      "playedAt": "2026-02-25T17:06:00.008Z"
-    },
-    {
-      "id": "5NoIDaacAEA4UEWn9qXIhA",
-      "name": "Duality",
-      "artists": [
-        "Montee"
-      ],
-      "playedAt": "2026-02-25T16:58:08.039Z"
-    },
-    {
-      "id": "6juffWW6TFI5geCgjU6Lvp",
-      "name": "Headache",
-      "artists": [
-        "Asal"
-      ],
-      "playedAt": "2026-02-25T16:54:17.112Z"
-    },
-    {
-      "id": "61KapusHaUgQ7Zhv3GxoZO",
-      "name": "Ringleader",
-      "artists": [
-        "Public Memory"
-      ],
-      "playedAt": "2026-02-25T16:52:14.536Z"
-    },
-    {
-      "id": "4u7vj352S98d9iA7ac1EVG",
-      "name": "Alesis",
-      "artists": [
-        "Mk.gee"
-      ],
-      "playedAt": "2026-02-25T16:51:07.072Z"
-    },
-    {
-      "id": "7qC70bOUaH16OI6VXuiqGy",
-      "name": "Juno Love",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-02-25T16:47:45.454Z"
-    },
-    {
-      "id": "6HZiDsrA00Jiy1EBkukFNr",
-      "name": "Can We Find A Way - Ede Remix",
-      "artists": [
-        "Fritz Kalkbrenner",
-        "Ede"
-      ],
-      "playedAt": "2026-02-25T16:40:10.730Z"
-    },
-    {
-      "id": "7caycKUiLznuxYK1C9Wxd6",
-      "name": "Maya",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-02-25T16:36:55.974Z"
-    },
-    {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-02-25T15:42:14.686Z"
-    },
-    {
-      "id": "50VdQjvCLyLJS6BqXQELDB",
-      "name": "Harvey",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-02-25T15:38:46.331Z"
-    },
-    {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-02-25T15:35:15.918Z"
-    },
-    {
-      "id": "5y3xBtIKuO3j2TkhTx4Dol",
-      "name": "Short Notice",
-      "artists": [
-        "Mpax",
-        "Brit Fox"
-      ],
-      "playedAt": "2026-02-25T08:20:11.010Z"
-    },
-    {
-      "id": "4XfI7M5gLwEY84gYiH4RDD",
-      "name": "Devil's Advocate",
-      "artists": [
-        "The Neighbourhood"
-      ],
-      "playedAt": "2026-02-25T08:17:15.482Z"
-    },
-    {
-      "id": "5l9Ndp6CVqMIlim0NY7aCa",
-      "name": "Body Godly",
-      "artists": [
-        "YULLOLA"
-      ],
-      "playedAt": "2026-02-25T08:13:46.661Z"
-    },
-    {
-      "id": "45Z3m6yazmAi4jZuW0tzW0",
-      "name": "Aperture",
-      "artists": [
-        "Harry Styles"
-      ],
-      "playedAt": "2026-02-25T08:10:37.967Z"
-    },
-    {
-      "id": "6WOetG6tyZnU3TccP7UTv7",
-      "name": "Kaleidoskop",
-      "artists": [
-        "Bernstein"
-      ],
-      "playedAt": "2026-02-25T08:02:42.886Z"
-    },
-    {
-      "id": "52BDBFhOsrLo4O49BPU9Ri",
-      "name": "Schulterblick",
-      "artists": [
-        "Bernstein"
-      ],
-      "playedAt": "2026-02-25T07:59:13.028Z"
-    },
-    {
-      "id": "19t0Z7qsoV6A1CGJVYRnjm",
-      "name": "Rabiosa (feat. El Cata)",
-      "artists": [
-        "Shakira",
-        "El Cata"
-      ],
-      "playedAt": "2026-02-25T07:56:17.117Z"
-    },
-    {
-      "id": "0pwe8j2VhTBRiAb5gystJO",
-      "name": "Cómo Me Quieres",
-      "artists": [
-        "Khruangbin"
-      ],
-      "playedAt": "2026-02-25T07:53:10.410Z"
-    },
-    {
-      "id": "7beo8NFFHfxAuQJjO0FFyW",
-      "name": "The Actress",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-02-25T07:49:24.663Z"
-    },
-    {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-02-25T07:47:07.949Z"
+      "playedAt": "2026-02-26T17:01:59.286Z"
     },
     {
       "id": "41CpEqRT3TqIf5DoB0trcw",
@@ -233,41 +49,23 @@
       "artists": [
         "Taavi"
       ],
-      "playedAt": "2026-02-25T07:11:43.532Z"
+      "playedAt": "2026-02-26T16:57:44.952Z"
     },
     {
-      "id": "6anbHjGgQbYQH5FbF6bAvR",
-      "name": "Where The Names Are Real",
+      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
+      "name": "Chaleur",
       "artists": [
-        "Warhaus"
+        "Sames"
       ],
-      "playedAt": "2026-02-25T07:07:16.705Z"
+      "playedAt": "2026-02-26T16:52:30.976Z"
     },
     {
-      "id": "2QThU21Z82nM2lWQs7b5JY",
-      "name": "Reincarnation - Taavi Remix",
+      "id": "0ySKTAwX6IEL8hOnHSa4pD",
+      "name": "Mirage",
       "artists": [
-        "Javiis",
-        "Taavi"
+        "Mark Alow"
       ],
-      "playedAt": "2026-02-25T07:01:54.602Z"
-    },
-    {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-02-25T06:54:59.610Z"
-    },
-    {
-      "id": "6XaJfhwof7qIgbbXO5tIQI",
-      "name": "Igual Que Un Ángel (with Peso Pluma)",
-      "artists": [
-        "Kali Uchis",
-        "Peso Pluma"
-      ],
-      "playedAt": "2026-02-25T06:51:56.860Z"
+      "playedAt": "2026-02-26T16:48:18.838Z"
     },
     {
       "id": "2t75rwAHmPqCvb1B86NiGN",
@@ -275,82 +73,185 @@
       "artists": [
         "Tami Neilson"
       ],
-      "playedAt": "2026-02-25T06:47:36.021Z"
+      "playedAt": "2026-02-26T16:41:24.322Z"
     },
     {
-      "id": "1s9i7W8zx7Nxx78MUIsvjV",
-      "name": "Outro",
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
       "artists": [
-        "M83"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-25T06:20:17.850Z"
+      "playedAt": "2026-02-26T16:37:54.039Z"
     },
     {
-      "id": "0nrnsitY0PL2tSh9iIqEVb",
-      "name": "4am",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
-        "soft siren",
-        "CASHFORGOLD",
-        "Sidewalks and Skeletons"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-25T06:16:12.978Z"
+      "playedAt": "2026-02-26T16:34:00.175Z"
     },
     {
-      "id": "3a6PN6BRB8PP3ms48s7kU1",
-      "name": "Empire Ants (feat. Little Dragon)",
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
       "artists": [
-        "Gorillaz",
-        "Little Dragon"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-25T06:13:12.279Z"
+      "playedAt": "2026-02-26T16:29:25.427Z"
     },
     {
-      "id": "5tXoYnudQeaCQjWmFjP5f5",
-      "name": "Sit Down Beside Me",
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
       "artists": [
-        "Patrick Watson"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-25T06:08:27.755Z"
+      "playedAt": "2026-02-26T16:25:27.666Z"
     },
     {
-      "id": "7aU8ycwySg1LQAuCKgr3z9",
-      "name": "Red Hearts",
+      "id": "36fuukCeIJTqAXqsU4mhuS",
+      "name": "A Life Without Limitations",
       "artists": [
-        "Marlon Funaki"
+        "Amie Doherty"
       ],
-      "playedAt": "2026-02-25T06:03:54.883Z"
+      "playedAt": "2026-02-26T15:24:03.926Z"
     },
     {
-      "id": "2LXtyj95dK56ENS1QLt4IB",
-      "name": "Beach Baby",
+      "id": "7893T13s6urM1GOl7mGRCC",
+      "name": "Paraiso",
       "artists": [
-        "Bon Iver"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-02-25T06:00:37.989Z"
+      "playedAt": "2026-02-26T15:22:49.200Z"
     },
     {
-      "id": "7N2rGqOwOL4RoGMQuUQnfK",
-      "name": "Wonderful Life",
+      "id": "3PM5QCszNluVhIlKZZ59I2",
+      "name": "My Dove, To Sleep - One Day Version",
       "artists": [
-        "Katie Melua"
+        "Vanbur"
       ],
-      "playedAt": "2026-02-25T05:57:59.079Z"
+      "playedAt": "2026-02-26T15:12:50.274Z"
     },
     {
-      "id": "04pMx29snydsnkCQJZaQtV",
-      "name": "Werewolf",
+      "id": "4a4Yg92DzF3NqIrY2qLVUV",
+      "name": "Victoria & Abdul",
       "artists": [
-        "Cat Power"
+        "Thomas Newman"
       ],
-      "playedAt": "2026-02-25T05:53:50.037Z"
+      "playedAt": "2026-02-26T15:10:47.909Z"
     },
     {
-      "id": "4KlL5Bwlm4yHYxr0B2rHci",
-      "name": "Heal",
+      "id": "5mbLTFP3GSGp1NH1ah2KG9",
+      "name": "Labrinth - Love Is Complicated (The Angels Sing)",
       "artists": [
-        "Tom Odell"
+        "Labrinth"
       ],
-      "playedAt": "2026-02-25T05:43:52.939Z"
+      "playedAt": "2026-02-26T15:08:49.883Z"
+    },
+    {
+      "id": "6ey66s3rrXBgsuX36GG1ci",
+      "name": "beine spüren",
+      "artists": [
+        "benzii"
+      ],
+      "playedAt": "2026-02-26T15:03:23.193Z"
+    },
+    {
+      "id": "5cGB96ty4CZzizvP6K7itr",
+      "name": "Desert Flower In Blossom - instrumental",
+      "artists": [
+        "Martin Todsharow"
+      ],
+      "playedAt": "2026-02-26T14:59:58.651Z"
+    },
+    {
+      "id": "2AsthUAUp5KmDplPZjOHjP",
+      "name": "Endure",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-02-26T14:58:02.214Z"
+    },
+    {
+      "id": "6355jA0xdIxSh6y3DSaeoP",
+      "name": "Tree of Life",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-02-26T14:34:36.834Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-02-26T14:30:52.564Z"
+    },
+    {
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-02-26T14:26:57.632Z"
+    },
+    {
+      "id": "6355jA0xdIxSh6y3DSaeoP",
+      "name": "Tree of Life",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-02-26T14:22:39.371Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-02-26T14:18:26.150Z"
+    },
+    {
+      "id": "1SvrYcv5QvKIofC632L7PS",
+      "name": "The Grave",
+      "artists": [
+        "Daniel Ciurlizza"
+      ],
+      "playedAt": "2026-02-26T14:15:00.183Z"
+    },
+    {
+      "id": "3b4r1GCodWUwi66hr0Q1sd",
+      "name": "Taken",
+      "artists": [
+        "ABBOTT"
+      ],
+      "playedAt": "2026-02-26T14:13:09.536Z"
+    },
+    {
+      "id": "6wweDtDm9L7c34wCkNci2Z",
+      "name": "Chaoticism",
+      "artists": [
+        "Daniel Ciurlizza",
+        "Joni Fuller"
+      ],
+      "playedAt": "2026-02-26T14:09:17.525Z"
+    },
+    {
+      "id": "3XtRV2psKfa9HkRGlCqE1Y",
+      "name": "Cold Sweats",
+      "artists": [
+        "Daniel Ciurlizza"
+      ],
+      "playedAt": "2026-02-26T14:05:05.327Z"
+    },
+    {
+      "id": "0o7Zc88vK9B2tx5bk9Egta",
+      "name": "You Deserved A Different Life",
+      "artists": [
+        "Daniel Ciurlizza",
+        "Nestor Estrada"
+      ],
+      "playedAt": "2026-02-26T14:02:31.568Z"
     },
     {
       "id": "4JVZUa9DYtJ72QIVwYHYTi",
@@ -359,7 +260,163 @@
         "Camel Power Club",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-02-25T02:54:02.120Z"
+      "playedAt": "2026-02-26T13:47:04.945Z"
+    },
+    {
+      "id": "6ccmd1Pz7lrcQTsWJWeAAM",
+      "name": "1883 Theme (From \"1883: Season 1\" Soundtrack)",
+      "artists": [
+        "Brian Tyler"
+      ],
+      "playedAt": "2026-02-26T13:43:06.218Z"
+    },
+    {
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-26T13:34:29.736Z"
+    },
+    {
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-26T13:30:41.063Z"
+    },
+    {
+      "id": "4XaPsEXr9GbEBONfzWH2XS",
+      "name": "Intro",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-26T13:27:21.441Z"
+    },
+    {
+      "id": "5vlE3zQD8G0rCCnM3WDs0y",
+      "name": "Dodi",
+      "artists": [
+        "Juelz"
+      ],
+      "playedAt": "2026-02-26T13:24:48.975Z"
+    },
+    {
+      "id": "3bHhUEOTIbezeZ856R0BX5",
+      "name": "Society",
+      "artists": [
+        "Eddie Vedder"
+      ],
+      "playedAt": "2026-02-26T13:18:52.297Z"
+    },
+    {
+      "id": "6DAnfSOcjQ1k0pXtIYiZnA",
+      "name": "It's Ok",
+      "artists": [
+        "Tom Rosenthal"
+      ],
+      "playedAt": "2026-02-26T13:14:55.351Z"
+    },
+    {
+      "id": "0Ziohm1Ku8E2yUDYoclfhO",
+      "name": "Angeles",
+      "artists": [
+        "Elliott Smith"
+      ],
+      "playedAt": "2026-02-26T13:11:43.583Z"
+    },
+    {
+      "id": "01QToocDKbJS9yZRFoDuvj",
+      "name": "1515 - Original Mix",
+      "artists": [
+        "François Ier"
+      ],
+      "playedAt": "2026-02-26T13:01:48.132Z"
+    },
+    {
+      "id": "6cl1fg9hT546eBSORCCcEM",
+      "name": "Glitch",
+      "artists": [
+        "OsMan"
+      ],
+      "playedAt": "2026-02-26T12:57:52.655Z"
+    },
+    {
+      "id": "3tYYypENWxaS1DKUtcH8S8",
+      "name": "Don't Stop",
+      "artists": [
+        "DJ HEARTSTRING",
+        "southstar"
+      ],
+      "playedAt": "2026-02-26T12:56:30.265Z"
+    },
+    {
+      "id": "0o7Zc88vK9B2tx5bk9Egta",
+      "name": "You Deserved A Different Life",
+      "artists": [
+        "Daniel Ciurlizza",
+        "Nestor Estrada"
+      ],
+      "playedAt": "2026-02-26T12:54:10.908Z"
+    },
+    {
+      "id": "0vp09QgBhShrQOL2w7P8k4",
+      "name": "Recovery",
+      "artists": [
+        "Rival Consoles"
+      ],
+      "playedAt": "2026-02-26T12:51:51.517Z"
+    },
+    {
+      "id": "41CpEqRT3TqIf5DoB0trcw",
+      "name": "Manifest",
+      "artists": [
+        "Taavi"
+      ],
+      "playedAt": "2026-02-26T12:45:05.115Z"
+    },
+    {
+      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
+      "name": "Influenced",
+      "artists": [
+        "Electrypnose"
+      ],
+      "playedAt": "2026-02-26T12:35:20.515Z"
+    },
+    {
+      "id": "5QA15zPcA4yCCsjeHTTZ6x",
+      "name": "Misirlou",
+      "artists": [
+        "Dick Dale"
+      ],
+      "playedAt": "2026-02-26T12:25:56.127Z"
+    },
+    {
+      "id": "1v8mEfH69e1ib1DD9Yp1X9",
+      "name": "Becoming a Geisha (From \"Memoirs of a Geisha\" Soundtrack)",
+      "artists": [
+        "John Williams",
+        "Yo-Yo Ma",
+        "Itzhak Perlman"
+      ],
+      "playedAt": "2026-02-26T12:23:40.740Z"
+    },
+    {
+      "id": "0pUVeEgZuNyFzIMKp67RbS",
+      "name": "Eyes Without A Face",
+      "artists": [
+        "Billy Idol"
+      ],
+      "playedAt": "2026-02-26T11:34:11.423Z"
+    },
+    {
+      "id": "1yV7QxodAm2gNtqQbU13aN",
+      "name": "Indulge in Darkness",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-02-26T11:29:11.437Z"
     }
   ]
 }

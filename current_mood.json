@@ -3,88 +3,37 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6824324324324323,
-    "avgEnergy": 0.34459459459459457,
-    "avgAcousticness": 0.8032432432432433,
-    "trackCount": 50,
-    "analyzedCount": 37
+    "avgValence": 0.6543478260869566,
+    "avgEnergy": 0.31347826086956515,
+    "avgAcousticness": 0.8743478260869565,
+    "trackCount": 31,
+    "analyzedCount": 23
   },
-  "date": "2026-02-27T23:16:54.764Z",
+  "date": "2026-02-28T23:13:39.148Z",
   "tracks": [
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
       "artists": [
-        "Juelz"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-27T23:00:19.879Z"
+      "playedAt": "2026-02-28T21:17:39.446Z"
     },
     {
-      "id": "2nTGUH5KRYIhkuyXS2jUUW",
-      "name": "Grounded",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
-        "Mementomor",
-        "Widox"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-27T22:56:06.169Z"
+      "playedAt": "2026-02-28T21:13:45.997Z"
     },
     {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
-        "Electrypnose"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-27T22:48:17.977Z"
-    },
-    {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
-      "artists": [
-        "Tami Neilson"
-      ],
-      "playedAt": "2026-02-27T22:39:12.220Z"
-    },
-    {
-      "id": "2BJI8RyfQQaV84HuDiwvI6",
-      "name": "DAWAN",
-      "artists": [
-        "Apparat"
-      ],
-      "playedAt": "2026-02-27T18:15:48.633Z"
-    },
-    {
-      "id": "3pV30axIy72kLFwmgCjVg4",
-      "name": "Amnésie",
-      "artists": [
-        "Nhyx"
-      ],
-      "playedAt": "2026-02-27T18:11:16.016Z"
-    },
-    {
-      "id": "3Jc8DUdZ1iX5FbYaKzKVh1",
-      "name": "SALTA",
-      "artists": [
-        "Mitú",
-        "Ela Minus"
-      ],
-      "playedAt": "2026-02-27T18:03:03.372Z"
-    },
-    {
-      "id": "6R2ZVjF3rw7Pju9DdRj11K",
-      "name": "Sans Fin",
-      "artists": [
-        "Montee",
-        "Shiita"
-      ],
-      "playedAt": "2026-02-27T18:00:13.012Z"
-    },
-    {
-      "id": "60r0mEqH580d1kYWGeEpwM",
-      "name": "Jimmy",
-      "artists": [
-        "M.I.A."
-      ],
-      "playedAt": "2026-02-27T15:51:25.723Z"
+      "playedAt": "2026-02-28T19:24:57.741Z"
     },
     {
       "id": "44oRggaLM8pvCaSiQAM7OQ",
@@ -92,133 +41,31 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-02-27T15:32:09.330Z"
+      "playedAt": "2026-02-28T18:37:34.633Z"
     },
     {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-02-27T15:28:26.041Z"
+      "playedAt": "2026-02-28T18:33:41.226Z"
     },
     {
-      "id": "7893T13s6urM1GOl7mGRCC",
-      "name": "Paraiso",
+      "id": "3UCYp1hyLw59Gw9dnyg7ck",
+      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An HBO Original Series",
       "artists": [
-        "Gizmo Varillas"
+        "Labrinth"
       ],
-      "playedAt": "2026-02-27T15:28:00.450Z"
+      "playedAt": "2026-02-28T17:07:24.193Z"
     },
     {
-      "id": "6j8OrKDQHxXakjA7KKbWzj",
-      "name": "tau mich auf",
+      "id": "2IjyXpNgpBJuOoyKqNnvLh",
+      "name": "Wolf",
       "artists": [
-        "Zartmann"
+        "First Aid Kit"
       ],
-      "playedAt": "2026-02-27T15:24:49.857Z"
-    },
-    {
-      "id": "6z6Nd3M3D38XJMnkEC0GZh",
-      "name": "The Last Man on Earth",
-      "artists": [
-        "Wolf Alice"
-      ],
-      "playedAt": "2026-02-27T15:22:48.559Z"
-    },
-    {
-      "id": "0Ujq6dOlBbkyGsqtRICWmC",
-      "name": "Dream Woman",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-02-27T15:18:01.574Z"
-    },
-    {
-      "id": "2c4V2EXliQHfLGajs1mAuH",
-      "name": "ô vent",
-      "artists": [
-        "flavie mialon"
-      ],
-      "playedAt": "2026-02-27T15:13:20.035Z"
-    },
-    {
-      "id": "03LllwDLW6JtjGmPJBF9dP",
-      "name": "Lotta Love - Jim Burgess Disco Mix",
-      "artists": [
-        "Nicolette Larson"
-      ],
-      "playedAt": "2026-02-27T15:09:46.911Z"
-    },
-    {
-      "id": "63o2beCIPXUOPja0EtGPD6",
-      "name": "Brujas",
-      "artists": [
-        "Princess Nokia"
-      ],
-      "playedAt": "2026-02-27T15:04:19.435Z"
-    },
-    {
-      "id": "2vCGb0Sr5ismOhXPliKLRW",
-      "name": "Van Gogh",
-      "artists": [
-        "Virginio Aiello",
-        "On Piano"
-      ],
-      "playedAt": "2026-02-27T14:28:45.339Z"
-    },
-    {
-      "id": "5GKsUqnQ90T5kkvG6u30wZ",
-      "name": "CRUSH",
-      "artists": [
-        "Yellow Claw",
-        "Natte Visstick",
-        "RHYME"
-      ],
-      "playedAt": "2026-02-27T14:25:29.498Z"
-    },
-    {
-      "id": "4acZFxefEvWVnrchaNFpX1",
-      "name": "Figa De Guiné - Trinix Version",
-      "artists": [
-        "Mari Froes",
-        "Trinix Remix"
-      ],
-      "playedAt": "2026-02-27T14:18:52.019Z"
-    },
-    {
-      "id": "4Q0VPrw0jgRB7onKAtRnFG",
-      "name": "David's Writings",
-      "artists": [
-        "Christopher Willis"
-      ],
-      "playedAt": "2026-02-27T14:17:12.429Z"
-    },
-    {
-      "id": "7qC70bOUaH16OI6VXuiqGy",
-      "name": "Juno Love",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-02-27T14:13:48.454Z"
-    },
-    {
-      "id": "6HZiDsrA00Jiy1EBkukFNr",
-      "name": "Can We Find A Way - Ede Remix",
-      "artists": [
-        "Fritz Kalkbrenner",
-        "Ede"
-      ],
-      "playedAt": "2026-02-27T14:05:55.839Z"
-    },
-    {
-      "id": "6zldvnVMC25b4uliSKO9Lz",
-      "name": "Appetite",
-      "artists": [
-        "Chris Lorenzo"
-      ],
-      "playedAt": "2026-02-27T14:02:09.247Z"
+      "playedAt": "2026-02-28T17:05:14.928Z"
     },
     {
       "id": "5azaaeLKtKevqs8u1XHRHI",
@@ -226,7 +73,7 @@
       "artists": [
         "Alela Diane"
       ],
-      "playedAt": "2026-02-27T13:58:24.101Z"
+      "playedAt": "2026-02-28T15:10:06.462Z"
     },
     {
       "id": "4qeIlzP0Z1JFXh0AckDcX8",
@@ -235,66 +82,39 @@
         "1tbsp",
         "Mietze Conte"
       ],
-      "playedAt": "2026-02-27T13:55:18.424Z"
+      "playedAt": "2026-02-28T15:06:42.639Z"
     },
     {
-      "id": "41ExyRHV6Yib5ZsqIroFMn",
-      "name": "We're Never Coming Home",
+      "id": "6xE6ZWzK1YDDSYzqOCoQlz",
+      "name": "Last Train to London",
       "artists": [
-        "Molly Nilsson"
+        "Electric Light Orchestra"
       ],
-      "playedAt": "2026-02-27T13:43:40.607Z"
+      "playedAt": "2026-02-28T15:04:07.608Z"
     },
     {
-      "id": "7eg1Nt5JDeXmpkCVlsPhhm",
-      "name": "She got the bomb",
+      "id": "37YLEHlqNHrN5AISi38VKu",
+      "name": "Follow The Sun",
       "artists": [
-        "Billylildove"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-02-27T13:39:52.577Z"
+      "playedAt": "2026-02-28T14:59:28.617Z"
     },
     {
-      "id": "6V4ntlX6608rd3Ec5SpVhj",
-      "name": "Berghain",
+      "id": "6KqmNOabQQ5QxKrWL8fvoK",
+      "name": "Jupiter Sunrise",
       "artists": [
-        "ROSALÍA",
-        "Björk",
-        "Yves Tumor"
+        "Kollektiv Turmstrasse"
       ],
-      "playedAt": "2026-02-27T13:36:39.803Z"
+      "playedAt": "2026-02-28T14:54:43.125Z"
     },
     {
-      "id": "5jcrFtjW9dscpbkFjjLmyH",
-      "name": "Moonchild",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
-        "M83"
+        "David A. Molina"
       ],
-      "playedAt": "2026-02-27T13:29:07.692Z"
-    },
-    {
-      "id": "7AlJWH45s6NgsfgsKxWOIM",
-      "name": "I Won't Let You Down",
-      "artists": [
-        "Curtis Harding"
-      ],
-      "playedAt": "2026-02-27T13:24:38.345Z"
-    },
-    {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
-      "artists": [
-        "Geoffroy"
-      ],
-      "playedAt": "2026-02-27T13:17:45.664Z"
-    },
-    {
-      "id": "2QThU21Z82nM2lWQs7b5JY",
-      "name": "Reincarnation - Taavi Remix",
-      "artists": [
-        "Javiis",
-        "Taavi"
-      ],
-      "playedAt": "2026-02-27T13:14:40.272Z"
+      "playedAt": "2026-02-28T14:24:20.939Z"
     },
     {
       "id": "44oRggaLM8pvCaSiQAM7OQ",
@@ -302,34 +122,130 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-02-27T13:07:09.507Z"
+      "playedAt": "2026-02-28T14:19:59.668Z"
     },
     {
-      "id": "2TM24qZOOgsmA94g6Ovy48",
-      "name": "Nobody Knows",
+      "id": "19t0Z7qsoV6A1CGJVYRnjm",
+      "name": "Rabiosa (feat. El Cata)",
       "artists": [
-        "Pastor T.L. Barrett and the Youth for Christ Choir"
+        "Shakira",
+        "El Cata"
       ],
-      "playedAt": "2026-02-27T11:51:47.989Z"
+      "playedAt": "2026-02-28T13:19:51.188Z"
     },
     {
-      "id": "28jaG0nLqlijtHGQzZqGWK",
-      "name": "Unfinished Sympathy",
+      "id": "69Ej1xrGjOcHvIMtMKxK0G",
+      "name": "Dile",
       "artists": [
-        "Massive Attack",
-        "Shara Nelson"
+        "Don Omar"
       ],
-      "playedAt": "2026-02-27T11:45:16.925Z"
+      "playedAt": "2026-02-28T09:03:44.381Z"
     },
     {
-      "id": "1RQY1ZTZxZ9IRN2b7aYUr6",
-      "name": "Sayuri's Theme and End Credits (From \"Memoirs of a Geisha\" Soundtrack)",
+      "id": "0pwe8j2VhTBRiAb5gystJO",
+      "name": "Cómo Me Quieres",
       "artists": [
-        "John Williams",
-        "Itzhak Perlman",
-        "Yo-Yo Ma"
+        "Khruangbin"
       ],
-      "playedAt": "2026-02-27T11:40:00.677Z"
+      "playedAt": "2026-02-28T09:00:15.583Z"
+    },
+    {
+      "id": "6AdDi9540EEHZEfEMqWqUL",
+      "name": "Goldie Montana",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-02-28T08:56:30.132Z"
+    },
+    {
+      "id": "5bjXTibRMVzZUQwiT47Z93",
+      "name": "Love Inc",
+      "artists": [
+        "Booka Shade"
+      ],
+      "playedAt": "2026-02-28T08:04:09.724Z"
+    },
+    {
+      "id": "1ghknBNxMTf01WJkXPvNNv",
+      "name": "When the Sun Sets (The End is Near Edit) - Claudio Prc Remix",
+      "artists": [
+        "Nur Jaber",
+        "Claudio PRC"
+      ],
+      "playedAt": "2026-02-28T07:52:14.917Z"
+    },
+    {
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-02-28T07:45:35.720Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-02-28T07:41:10.163Z"
+    },
+    {
+      "id": "50VdQjvCLyLJS6BqXQELDB",
+      "name": "Harvey",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-02-28T07:37:19.947Z"
+    },
+    {
+      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
+      "name": "Chaleur",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-02-28T07:33:49.609Z"
+    },
+    {
+      "id": "06Jz0fCBIazg682Rl0OUyA",
+      "name": "Who I Am",
+      "artists": [
+        "TMPLE"
+      ],
+      "playedAt": "2026-02-28T07:30:12.034Z"
+    },
+    {
+      "id": "5dW2B0JNLoETsZy5dOPuuG",
+      "name": "Avion",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-02-28T07:26:58.077Z"
+    },
+    {
+      "id": "2cWDhpDPrGLxRuNabs4S7L",
+      "name": "On Falling",
+      "artists": [
+        "Helly Larson"
+      ],
+      "playedAt": "2026-02-28T07:24:26.717Z"
+    },
+    {
+      "id": "3hzvNYkwIHZebMEviBwWZU",
+      "name": "Maybe It's Love...",
+      "artists": [
+        "yungpolar"
+      ],
+      "playedAt": "2026-02-28T07:18:32.965Z"
+    },
+    {
+      "id": "0ySKTAwX6IEL8hOnHSa4pD",
+      "name": "Mirage",
+      "artists": [
+        "Mark Alow"
+      ],
+      "playedAt": "2026-02-28T07:13:14.979Z"
     },
     {
       "id": "44oRggaLM8pvCaSiQAM7OQ",
@@ -337,97 +253,15 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-02-27T11:34:53.064Z"
+      "playedAt": "2026-02-28T07:06:19.695Z"
     },
     {
-      "id": "2usrT8QIbIk9y0NEtQwS4j",
-      "name": "Intro",
-      "artists": [
-        "The xx"
-      ],
-      "playedAt": "2026-02-27T11:31:00.583Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-02-27T10:59:22.373Z"
-    },
-    {
-      "id": "1ElySIlHwm1HX7sUjAZZnp",
-      "name": "Hot Blooded",
-      "artists": [
-        "New Constellations"
-      ],
-      "playedAt": "2026-02-27T10:55:11.008Z"
-    },
-    {
-      "id": "6B0jmvh5DiYUUlBrQenaTB",
-      "name": "Looking For Love",
-      "artists": [
-        "Chromatics"
-      ],
-      "playedAt": "2026-02-27T10:50:23.567Z"
-    },
-    {
-      "id": "3y1EzRl5UEQxxd1f6Bv2aN",
-      "name": "When I'm Small",
-      "artists": [
-        "Phantogram"
-      ],
-      "playedAt": "2026-02-27T10:40:51.088Z"
-    },
-    {
-      "id": "1siRw9E67ouBWsORObDuhZ",
-      "name": "Low Sun",
-      "artists": [
-        "Hermanos Gutiérrez"
-      ],
-      "playedAt": "2026-02-27T10:36:41.142Z"
-    },
-    {
-      "id": "6pWgRkpqVfxnj3WuIcJ7WP",
-      "name": "Cornfield Chase",
-      "artists": [
-        "Hans Zimmer"
-      ],
-      "playedAt": "2026-02-27T10:33:32.449Z"
-    },
-    {
-      "id": "6170lJSBtiM5trzOtHtdD2",
-      "name": "Gimme Some",
-      "artists": [
-        "Weval"
-      ],
-      "playedAt": "2026-02-27T10:31:10.558Z"
-    },
-    {
-      "id": "3W2ZcrRsInZbjWylOi6KhZ",
-      "name": "You & Me - Flume Remix",
-      "artists": [
-        "Disclosure",
-        "Eliza Doolittle",
-        "Flume"
-      ],
-      "playedAt": "2026-02-27T10:25:01.913Z"
-    },
-    {
-      "id": "1oSDiyNMslJoTCfUZBHNP2",
-      "name": "Happy Man",
-      "artists": [
-        "Jungle"
-      ],
-      "playedAt": "2026-02-27T10:17:46.690Z"
-    },
-    {
-      "id": "6rq5HvEBZbrzBB39ygzoFC",
-      "name": "Hijos Del Sol",
-      "artists": [
-        "Hermanos Gutiérrez"
-      ],
-      "playedAt": "2026-02-27T10:14:34.872Z"
+      "playedAt": "2026-02-28T07:02:26.034Z"
     }
   ]
 }

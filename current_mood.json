@@ -1,47 +1,32 @@
 {
-  "name": "AETHER",
-  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
-  "description": "Ethereal & Transcendent",
+  "name": "WATER",
+  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
+  "description": "Flowing & Emotional",
   "mood": {
-    "avgValence": 0.641891891891892,
-    "avgEnergy": 0.3245945945945945,
-    "avgAcousticness": 0.8172972972972973,
+    "avgValence": 0.5759259259259261,
+    "avgEnergy": 0.307037037037037,
+    "avgAcousticness": 0.8729629629629629,
     "trackCount": 50,
-    "analyzedCount": 37
+    "analyzedCount": 27
   },
-  "date": "2026-03-01T23:15:29.063Z",
+  "date": "2026-03-02T23:17:31.208Z",
   "tracks": [
     {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-03-01T21:08:41.859Z"
-    },
-    {
       "id": "2t75rwAHmPqCvb1B86NiGN",
       "name": "Baby, You're a Gun",
       "artists": [
         "Tami Neilson"
       ],
-      "playedAt": "2026-03-01T19:36:42.903Z"
+      "playedAt": "2026-03-02T17:18:32.827Z"
     },
     {
-      "id": "45MllV1fJos1Ef6Cd13H2E",
-      "name": "Life's Incredible Again",
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
       "artists": [
-        "Michael Giacchino"
+        "TÂCHES",
+        "Carmen Vandenberg"
       ],
-      "playedAt": "2026-03-01T19:33:05.845Z"
-    },
-    {
-      "id": "6ccmd1Pz7lrcQTsWJWeAAM",
-      "name": "1883 Theme (From \"1883: Season 1\" Soundtrack)",
-      "artists": [
-        "Brian Tyler"
-      ],
-      "playedAt": "2026-03-01T19:31:40.206Z"
+      "playedAt": "2026-03-02T17:14:49.451Z"
     },
     {
       "id": "44oRggaLM8pvCaSiQAM7OQ",
@@ -49,7 +34,7 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-03-01T19:23:07.026Z"
+      "playedAt": "2026-03-02T17:10:03.029Z"
     },
     {
       "id": "1B5Oc0Y6dpE7ylG85lCkUt",
@@ -57,253 +42,32 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-03-01T19:19:13.609Z"
+      "playedAt": "2026-03-02T17:06:08.540Z"
     },
     {
-      "id": "5dW2B0JNLoETsZy5dOPuuG",
-      "name": "Avion",
+      "id": "7GtOjSSp5Qyi3gNbNDZgja",
+      "name": "Dream Girl Evil",
       "artists": [
-        "Sames"
+        "Florence + The Machine"
       ],
-      "playedAt": "2026-03-01T19:15:13.578Z"
+      "playedAt": "2026-03-02T17:01:51.747Z"
     },
     {
-      "id": "4CvcHqKWwGcWCdZCN1Y5a9",
-      "name": "What Remains",
+      "id": "2mMKHvIvL5hc7LU1QtKr7G",
+      "name": "Lay Back (bad tuner remix)",
       "artists": [
-        "Felix Rösch",
-        "mondëna quartet"
+        "CLAVVS",
+        "bad tuner"
       ],
-      "playedAt": "2026-03-01T19:12:40.654Z"
+      "playedAt": "2026-03-02T16:57:17.244Z"
     },
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "1gcqDR3H534SZtLzefRTq9",
+      "name": "Milonga",
       "artists": [
-        "Juelz"
+        "Ibu Selva"
       ],
-      "playedAt": "2026-03-01T19:09:31.721Z"
-    },
-    {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-03-01T13:38:22.958Z"
-    },
-    {
-      "id": "0HjfBGUGEhmbTbjwBeL543",
-      "name": "Thinking Pattern - Funkable Remix",
-      "artists": [
-        "Airi",
-        "Funkable"
-      ],
-      "playedAt": "2026-03-01T13:18:34.148Z"
-    },
-    {
-      "id": "61KapusHaUgQ7Zhv3GxoZO",
-      "name": "Ringleader",
-      "artists": [
-        "Public Memory"
-      ],
-      "playedAt": "2026-03-01T13:11:28.897Z"
-    },
-    {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-03-01T13:08:13.551Z"
-    },
-    {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
-      "artists": [
-        "Tami Neilson"
-      ],
-      "playedAt": "2026-03-01T13:05:11.065Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-01T12:33:53.105Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-01T12:29:59.488Z"
-    },
-    {
-      "id": "1F1S0s0JsCZ3MhVq9C9ZEL",
-      "name": "Manifest - Audible Thought Remix",
-      "artists": [
-        "Taavi",
-        "Audible Thought"
-      ],
-      "playedAt": "2026-03-01T11:46:11.937Z"
-    },
-    {
-      "id": "2QThU21Z82nM2lWQs7b5JY",
-      "name": "Reincarnation - Taavi Remix",
-      "artists": [
-        "Javiis",
-        "Taavi"
-      ],
-      "playedAt": "2026-03-01T11:38:27.794Z"
-    },
-    {
-      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
-      "name": "Chaleur",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-03-01T11:29:58.822Z"
-    },
-    {
-      "id": "60r0mEqH580d1kYWGeEpwM",
-      "name": "Jimmy",
-      "artists": [
-        "M.I.A."
-      ],
-      "playedAt": "2026-03-01T11:26:22.975Z"
-    },
-    {
-      "id": "1KsI8NEeAna8ZIdojI3FiT",
-      "name": "Hungry Heart",
-      "artists": [
-        "Bruce Springsteen"
-      ],
-      "playedAt": "2026-03-01T11:20:20.116Z"
-    },
-    {
-      "id": "7orBBkQgdmanhPCD0FyHHZ",
-      "name": "Overload",
-      "artists": [
-        "Sugababes"
-      ],
-      "playedAt": "2026-03-01T11:16:59.945Z"
-    },
-    {
-      "id": "254bXAqt3zP6P50BdQvEsq",
-      "name": "Everywhere - 2017 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "playedAt": "2026-03-01T11:12:24.033Z"
-    },
-    {
-      "id": "1WN4uNclrDuczTO3bCr8s1",
-      "name": "Be My Baby",
-      "artists": [
-        "The Ronettes"
-      ],
-      "playedAt": "2026-03-01T11:08:36.665Z"
-    },
-    {
-      "id": "59rkTkputMqoxunf9IRzOc",
-      "name": "Dominoes",
-      "artists": [
-        "Jungle"
-      ],
-      "playedAt": "2026-03-01T11:05:55.692Z"
-    },
-    {
-      "id": "60r0mEqH580d1kYWGeEpwM",
-      "name": "Jimmy",
-      "artists": [
-        "M.I.A."
-      ],
-      "playedAt": "2026-03-01T10:59:59.628Z"
-    },
-    {
-      "id": "4tKGFmENO69tZR9ahgZu48",
-      "name": "Murder On The Dancefloor",
-      "artists": [
-        "Sophie Ellis-Bextor"
-      ],
-      "playedAt": "2026-03-01T10:56:17.791Z"
-    },
-    {
-      "id": "1j7ll1vNFLdgU7XUagyFV0",
-      "name": "Every Night",
-      "artists": [
-        "Jungle"
-      ],
-      "playedAt": "2026-03-01T10:52:27.284Z"
-    },
-    {
-      "id": "4ZnkygoWLzcGbQYCm3lkae",
-      "name": "Rush",
-      "artists": [
-        "Troye Sivan"
-      ],
-      "playedAt": "2026-03-01T10:49:23.061Z"
-    },
-    {
-      "id": "2pX4FpOgwItRVPPUFdRcxA",
-      "name": "Smooth (feat. Rob Thomas)",
-      "artists": [
-        "Santana",
-        "Rob Thomas"
-      ],
-      "playedAt": "2026-03-01T10:46:08.019Z"
-    },
-    {
-      "id": "6caODjFlH5iakvYJIrhATv",
-      "name": "The Time Is Now",
-      "artists": [
-        "Moloko"
-      ],
-      "playedAt": "2026-03-01T10:40:48.907Z"
-    },
-    {
-      "id": "6lx1n63qJmhzPpirxxksbI",
-      "name": "Time of the Season - Mono Remastered",
-      "artists": [
-        "The Zombies"
-      ],
-      "playedAt": "2026-03-01T10:34:36.915Z"
-    },
-    {
-      "id": "1deWgqhgAzI6dY35TbKKh7",
-      "name": "The Obvious Child",
-      "artists": [
-        "Paul Simon"
-      ],
-      "playedAt": "2026-03-01T10:31:05.767Z"
-    },
-    {
-      "id": "16HePCb6eQBp0bfwtpe8vS",
-      "name": "Yes Sir, I Can Boogie",
-      "artists": [
-        "Baccara"
-      ],
-      "playedAt": "2026-03-01T10:25:36.737Z"
-    },
-    {
-      "id": "5dW2B0JNLoETsZy5dOPuuG",
-      "name": "Avion",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-03-01T10:19:40.648Z"
-    },
-    {
-      "id": "1ghknBNxMTf01WJkXPvNNv",
-      "name": "When the Sun Sets (The End is Near Edit) - Claudio Prc Remix",
-      "artists": [
-        "Nur Jaber",
-        "Claudio PRC"
-      ],
-      "playedAt": "2026-03-01T10:16:09.467Z"
+      "playedAt": "2026-03-02T16:41:52.607Z"
     },
     {
       "id": "1UtsS1pmL3FkuEWT5dXHCS",
@@ -311,40 +75,7 @@
       "artists": [
         "AMANZI"
       ],
-      "playedAt": "2026-03-01T10:06:01.248Z"
-    },
-    {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-03-01T08:46:47.383Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-01T08:42:15.809Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-01T08:38:21.677Z"
-    },
-    {
-      "id": "1mMYYCxwj9ELAbLYEhqfPY",
-      "name": "DESNUDA SOY TU ARTE",
-      "artists": [
-        "EMPIRICAL",
-        "Sussy Rohon"
-      ],
-      "playedAt": "2026-03-01T08:34:23.072Z"
+      "playedAt": "2026-03-02T16:33:49.111Z"
     },
     {
       "id": "7mdXBQ9D4xe3AKyk3mU4P8",
@@ -352,7 +83,7 @@
       "artists": [
         "Eric Kinny"
       ],
-      "playedAt": "2026-03-01T08:32:04.729Z"
+      "playedAt": "2026-03-02T16:30:07.691Z"
     },
     {
       "id": "6R2ZVjF3rw7Pju9DdRj11K",
@@ -361,23 +92,7 @@
         "Montee",
         "Shiita"
       ],
-      "playedAt": "2026-03-01T08:28:19.847Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-01T08:25:27.142Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-01T08:21:33.633Z"
+      "playedAt": "2026-03-02T16:26:22.351Z"
     },
     {
       "id": "4CvcHqKWwGcWCdZCN1Y5a9",
@@ -386,7 +101,190 @@
         "Felix Rösch",
         "mondëna quartet"
       ],
-      "playedAt": "2026-03-01T08:17:34.709Z"
+      "playedAt": "2026-03-02T16:23:29.884Z"
+    },
+    {
+      "id": "6gLPEppgYLH0jRMhdBiRnh",
+      "name": "Calling",
+      "artists": [
+        "vibessmusic"
+      ],
+      "playedAt": "2026-03-02T16:20:09.876Z"
+    },
+    {
+      "id": "4KduBNgVeGyiRZFm562WXK",
+      "name": "I've Made the Bed for You - Baham Remix",
+      "artists": [
+        "Gab Rhome",
+        "Baham"
+      ],
+      "playedAt": "2026-03-02T16:17:58.856Z"
+    },
+    {
+      "id": "57KEBS7u6ymn1bECkyxELO",
+      "name": "Are You Sure?",
+      "artists": [
+        "ERHA"
+      ],
+      "playedAt": "2026-03-02T16:13:37.283Z"
+    },
+    {
+      "id": "0gybTCrAMkkWjkZzDdYSbN",
+      "name": "Into You",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-03-02T16:09:45.679Z"
+    },
+    {
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
+      "artists": [
+        "TÂCHES",
+        "Carmen Vandenberg"
+      ],
+      "playedAt": "2026-03-02T16:04:28.284Z"
+    },
+    {
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
+      "artists": [
+        "TÂCHES",
+        "Carmen Vandenberg"
+      ],
+      "playedAt": "2026-03-02T15:57:41.571Z"
+    },
+    {
+      "id": "1fKdgKxxY5t20AcSa3jKLX",
+      "name": "Everywhere",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-03-02T15:52:54.915Z"
+    },
+    {
+      "id": "50VdQjvCLyLJS6BqXQELDB",
+      "name": "Harvey",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-03-02T15:50:07.462Z"
+    },
+    {
+      "id": "0HBUq9Ixk7kHZhyAHqrBKd",
+      "name": "Chaleur",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-03-02T15:46:37.330Z"
+    },
+    {
+      "id": "06Jz0fCBIazg682Rl0OUyA",
+      "name": "Who I Am",
+      "artists": [
+        "TMPLE"
+      ],
+      "playedAt": "2026-03-02T15:43:02.166Z"
+    },
+    {
+      "id": "7mdXBQ9D4xe3AKyk3mU4P8",
+      "name": "Daydream in D for Cello",
+      "artists": [
+        "Eric Kinny"
+      ],
+      "playedAt": "2026-03-02T15:39:18.962Z"
+    },
+    {
+      "id": "6R2ZVjF3rw7Pju9DdRj11K",
+      "name": "Sans Fin",
+      "artists": [
+        "Montee",
+        "Shiita"
+      ],
+      "playedAt": "2026-03-02T15:35:34.901Z"
+    },
+    {
+      "id": "4CvcHqKWwGcWCdZCN1Y5a9",
+      "name": "What Remains",
+      "artists": [
+        "Felix Rösch",
+        "mondëna quartet"
+      ],
+      "playedAt": "2026-03-02T15:32:40.504Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-03-02T15:28:35.366Z"
+    },
+    {
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-03-02T13:35:43.882Z"
+    },
+    {
+      "id": "1I3r9tP1wkPSmWW9U33mVT",
+      "name": "I Just Want You",
+      "artists": [
+        "The Helltones"
+      ],
+      "playedAt": "2026-03-02T13:31:54.526Z"
+    },
+    {
+      "id": "4tAbdhAtgakhJyALYCWVvC",
+      "name": "She Knows How To Say My Name",
+      "artists": [
+        "Marlon Funaki"
+      ],
+      "playedAt": "2026-03-02T13:27:59.799Z"
+    },
+    {
+      "id": "0y9FKVVX72WQhhiQvBQTT5",
+      "name": "Ojos Nuevos",
+      "artists": [
+        "Gizmo Varillas",
+        "Amanda Whiting"
+      ],
+      "playedAt": "2026-03-02T13:23:18.448Z"
+    },
+    {
+      "id": "0FLFE8mxBn1yWAX8s2L8ru",
+      "name": "All I Need",
+      "artists": [
+        "Clams Casino"
+      ],
+      "playedAt": "2026-03-02T13:19:30.188Z"
+    },
+    {
+      "id": "7A1YcSeFJpLTHybu78qgT9",
+      "name": "Aurora Centralis",
+      "artists": [
+        "747"
+      ],
+      "playedAt": "2026-03-02T13:15:45.223Z"
+    },
+    {
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
+      "artists": [
+        "efdemin"
+      ],
+      "playedAt": "2026-03-02T13:08:43.132Z"
+    },
+    {
+      "id": "5vlE3zQD8G0rCCnM3WDs0y",
+      "name": "Dodi",
+      "artists": [
+        "Juelz"
+      ],
+      "playedAt": "2026-03-02T13:03:33.117Z"
     },
     {
       "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
@@ -394,32 +292,141 @@
       "artists": [
         "Electrypnose"
       ],
-      "playedAt": "2026-03-01T07:54:58.257Z"
+      "playedAt": "2026-03-02T12:53:38.609Z"
     },
     {
-      "id": "5HzWbFpjFBo219h3Gt5PRb",
-      "name": "Falling Colour",
+      "id": "4VS8SYb0xooX1bqpiGkkHa",
+      "name": "Metaphobia",
       "artists": [
-        "Vanbur"
+        "Trashlagoon"
       ],
-      "playedAt": "2026-03-01T07:08:08.451Z"
+      "playedAt": "2026-03-02T12:44:06.606Z"
     },
     {
-      "id": "4xF4ZBGPZKxECeDFrqSAG4",
-      "name": "snowfall",
+      "id": "34KhCCPRdaW0zpzHLQYgPK",
+      "name": "Night Swim",
       "artists": [
-        "Øneheart",
-        "reidenshi"
+        "bahkin"
       ],
-      "playedAt": "2026-03-01T06:59:21.182Z"
+      "playedAt": "2026-03-02T12:39:04.098Z"
     },
     {
-      "id": "3aUpuIWsLwiFmjhe9OjSmJ",
-      "name": "Make You Feel My Love",
+      "id": "5qLDDGGVAlOesVVMYWB2xf",
+      "name": "Circles",
       "artists": [
-        "Ane Brun"
+        "Sames"
       ],
-      "playedAt": "2026-03-01T06:57:16.143Z"
+      "playedAt": "2026-03-02T12:34:59.889Z"
+    },
+    {
+      "id": "2DbTOnHRmUNYpWdIiMNTTO",
+      "name": "Shantaram",
+      "artists": [
+        "Grotesque"
+      ],
+      "playedAt": "2026-03-02T12:30:17.638Z"
+    },
+    {
+      "id": "6WnDh4z7P1Hj3PgcZzN8Q2",
+      "name": "Blue Memory",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-03-02T12:25:04.966Z"
+    },
+    {
+      "id": "1fKdgKxxY5t20AcSa3jKLX",
+      "name": "Everywhere",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-03-02T10:53:53.698Z"
+    },
+    {
+      "id": "04MhHZQuU64vYVG9emmzgj",
+      "name": "Foreign Lands",
+      "artists": [
+        "TMPLE"
+      ],
+      "playedAt": "2026-03-02T10:51:41.074Z"
+    },
+    {
+      "id": "0V89NS4oTX2wLIVndhjw6M",
+      "name": "Twisted and Strange - Radio Edit",
+      "artists": [
+        "She Knows"
+      ],
+      "playedAt": "2026-03-02T10:47:42.771Z"
+    },
+    {
+      "id": "0a5k3KjB10gC3Qa6S3NMpl",
+      "name": "Sense of You",
+      "artists": [
+        "Jay West",
+        "Manuel Sahagun",
+        "Cody Chesnutt"
+      ],
+      "playedAt": "2026-03-02T10:43:42.905Z"
+    },
+    {
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
+      "artists": [
+        "TÂCHES",
+        "Carmen Vandenberg"
+      ],
+      "playedAt": "2026-03-02T10:37:52Z"
+    },
+    {
+      "id": "0gybTCrAMkkWjkZzDdYSbN",
+      "name": "Into You",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-03-02T10:33:04.806Z"
+    },
+    {
+      "id": "57KEBS7u6ymn1bECkyxELO",
+      "name": "Are You Sure?",
+      "artists": [
+        "ERHA"
+      ],
+      "playedAt": "2026-03-02T10:27:49.493Z"
+    },
+    {
+      "id": "4Ym5QKaa26Chdyc0wuk3wt",
+      "name": "Hyaku - Edit",
+      "artists": [
+        "Traumer",
+        "antraum",
+        "Anton"
+      ],
+      "playedAt": "2026-03-02T10:23:51.867Z"
+    },
+    {
+      "id": "56SDusGcG8YbuZp3DPLfx9",
+      "name": "Sisters and Brothers",
+      "artists": [
+        "TMPLE"
+      ],
+      "playedAt": "2026-03-02T10:19:39.544Z"
+    },
+    {
+      "id": "7vt6A5Bax7GAGAG2RuC4tH",
+      "name": "Mozambique",
+      "artists": [
+        "Elfenberg"
+      ],
+      "playedAt": "2026-03-02T10:15:31.222Z"
+    },
+    {
+      "id": "5V8lxgmj9RCs0zL2rVRj77",
+      "name": "Velours",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-03-02T10:08:39.334Z"
     }
   ]
 }

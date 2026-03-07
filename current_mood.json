@@ -1,40 +1,72 @@
 {
-  "name": "AETHER",
-  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
-  "description": "Ethereal & Transcendent",
+  "name": "WATER",
+  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
+  "description": "Flowing & Emotional",
   "mood": {
-    "avgValence": 0.6467741935483872,
-    "avgEnergy": 0.30806451612903224,
-    "avgAcousticness": 0.8229032258064516,
-    "trackCount": 50,
-    "analyzedCount": 31
+    "avgValence": 0.5937499999999999,
+    "avgEnergy": 0.2808333333333333,
+    "avgAcousticness": 0.8716666666666669,
+    "trackCount": 30,
+    "analyzedCount": 24
   },
-  "date": "2026-03-06T23:19:44.987Z",
+  "date": "2026-03-07T23:14:30.989Z",
   "tracks": [
     {
-      "id": "4MyceticLjPfqzkjzgFSgq",
-      "name": "Mesa Redonda",
+      "id": "4hW9f3oSvyyjZjkfSI7LEj",
+      "name": "Bit of Fluff",
       "artists": [
-        "Hermanos Gutiérrez"
+        "Rupert Gregson-Williams"
       ],
-      "playedAt": "2026-03-06T20:30:29.189Z"
+      "playedAt": "2026-03-07T09:53:51.048Z"
     },
     {
-      "id": "3QywQH8lshVdbmLqLqhWya",
-      "name": "Next Chapter",
+      "id": "5qemX4KsYbYfzKlG3ngCEm",
+      "name": "The Anointing",
       "artists": [
-        "Gabriel Albuquerqüe",
-        "Renzyx"
+        "Rupert Gregson-Williams"
       ],
-      "playedAt": "2026-03-06T20:25:29.734Z"
+      "playedAt": "2026-03-07T09:51:21.082Z"
     },
     {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
+      "id": "2zdFgBbORyhK5bzEymD9PY",
+      "name": "Simple Harp Variation No. 1",
+      "artists": [
+        "Martin Phipps"
+      ],
+      "playedAt": "2026-03-07T09:46:04.013Z"
+    },
+    {
+      "id": "05rNWKxli5goHcA4e77sGC",
+      "name": "Princess Margaret",
+      "artists": [
+        "Rupert Gregson-Williams",
+        "Lorne Balfe"
+      ],
+      "playedAt": "2026-03-07T09:24:50.713Z"
+    },
+    {
+      "id": "4KJHTdyIUdhKEuZdV3UuWR",
+      "name": "Séduction",
+      "artists": [
+        "René Aubry"
+      ],
+      "playedAt": "2026-03-07T09:21:48.651Z"
+    },
+    {
+      "id": "4XaPsEXr9GbEBONfzWH2XS",
+      "name": "Intro",
       "artists": [
         "AMANZI"
       ],
-      "playedAt": "2026-03-06T20:21:24.511Z"
+      "playedAt": "2026-03-07T09:17:06.610Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-03-07T09:13:42.047Z"
     },
     {
       "id": "1B5Oc0Y6dpE7ylG85lCkUt",
@@ -42,98 +74,33 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-03-06T20:17:46.476Z"
+      "playedAt": "2026-03-07T09:09:48.176Z"
     },
     {
-      "id": "4JsxWwCOfyxDdlLYUpGPJr",
-      "name": "Chasing Affection",
+      "id": "1mMYYCxwj9ELAbLYEhqfPY",
+      "name": "DESNUDA SOY TU ARTE",
       "artists": [
-        "TÂCHES",
-        "Carmen Vandenberg"
+        "EMPIRICAL",
+        "Sussy Rohon"
       ],
-      "playedAt": "2026-03-06T20:13:49.424Z"
+      "playedAt": "2026-03-07T09:05:49.181Z"
     },
     {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
+      "id": "7mdXBQ9D4xe3AKyk3mU4P8",
+      "name": "Daydream in D for Cello",
       "artists": [
-        "Donna Summer"
+        "Eric Kinny"
       ],
-      "playedAt": "2026-03-06T20:08:58.955Z"
+      "playedAt": "2026-03-07T09:03:31.112Z"
     },
     {
-      "id": "48Jf12YHPBCAfAzi255Rvr",
-      "name": "Redlight",
+      "id": "4CvcHqKWwGcWCdZCN1Y5a9",
+      "name": "What Remains",
       "artists": [
-        "Swedish House Mafia",
-        "Sting"
+        "Felix Rösch",
+        "mondëna quartet"
       ],
-      "playedAt": "2026-03-06T20:04:54.556Z"
-    },
-    {
-      "id": "6HZiDsrA00Jiy1EBkukFNr",
-      "name": "Can We Find A Way - Ede Remix",
-      "artists": [
-        "Fritz Kalkbrenner",
-        "Ede"
-      ],
-      "playedAt": "2026-03-06T17:37:06.265Z"
-    },
-    {
-      "id": "7z4faVYNs01Qxwt34R4pYd",
-      "name": "Lunita",
-      "artists": [
-        "Danit"
-      ],
-      "playedAt": "2026-03-06T17:33:22.761Z"
-    },
-    {
-      "id": "2HyzvdOcJLmeAMoxx2VoP3",
-      "name": "All Related",
-      "artists": [
-        "Nessi Gomes"
-      ],
-      "playedAt": "2026-03-06T17:26:56.941Z"
-    },
-    {
-      "id": "2hrsZWMTQBQzTOhtKxFQvm",
-      "name": "No War",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-03-06T17:20:48.569Z"
-    },
-    {
-      "id": "37YLEHlqNHrN5AISi38VKu",
-      "name": "Follow The Sun",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-03-06T17:17:39.362Z"
-    },
-    {
-      "id": "7AlJWH45s6NgsfgsKxWOIM",
-      "name": "I Won't Let You Down",
-      "artists": [
-        "Curtis Harding"
-      ],
-      "playedAt": "2026-03-06T17:12:57.397Z"
-    },
-    {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
-      "artists": [
-        "Geoffroy"
-      ],
-      "playedAt": "2026-03-06T17:08:54.226Z"
-    },
-    {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-03-06T17:05:09.850Z"
+      "playedAt": "2026-03-07T08:59:29.142Z"
     },
     {
       "id": "6gLPEppgYLH0jRMhdBiRnh",
@@ -141,231 +108,42 @@
       "artists": [
         "vibessmusic"
       ],
-      "playedAt": "2026-03-06T17:00:17.483Z"
+      "playedAt": "2026-03-07T08:56:22.059Z"
     },
     {
-      "id": "7mgaHZBHLNlxBnJ5uR64bf",
-      "name": "My Love for You",
+      "id": "6gzj5Fs4XFTMv0eGsU9ijV",
+      "name": "Bricks in a Wall",
       "artists": [
-        "ESG"
+        "SLUMB",
+        "Senbeï",
+        "Aurus"
       ],
-      "playedAt": "2026-03-06T16:58:15.217Z"
+      "playedAt": "2026-03-07T08:55:13.891Z"
     },
     {
-      "id": "2JvE8G9oewYIt2MKwbahtU",
-      "name": "Ballade in C# Minor: Coronation",
+      "id": "2k5SEAK05D29ZkqbnFgIVL",
+      "name": "Satisfied (Ambient Reprise)",
       "artists": [
-        "Nicholas Britell"
+        "Catching Flies"
       ],
-      "playedAt": "2026-03-06T16:12:00.002Z"
+      "playedAt": "2026-03-07T07:53:00.215Z"
     },
     {
-      "id": "0WBa6rf5NCpkAbvhgWgmEE",
-      "name": "WINDMILLS",
+      "id": "0ot8VA36fmxBlIqa5xbnf7",
+      "name": "Crushed Velvet",
       "artists": [
-        "Ludwig Göransson"
+        "Molly Lewis",
+        "Thee Sacred Souls"
       ],
-      "playedAt": "2026-03-06T16:09:30.644Z"
+      "playedAt": "2026-03-07T07:43:25.070Z"
     },
     {
-      "id": "0yVq58uQ2Bp2OVADYlLHNk",
-      "name": "Yumeji's Theme - Theme from 'in the Mood for Love'",
+      "id": "63SKPsrN4KfLjUwAEugilm",
+      "name": "Smoldering Fire",
       "artists": [
-        "Shigeru Umebayashi"
+        "Ural Thomas and the Pain"
       ],
-      "playedAt": "2026-03-06T16:04:13.873Z"
-    },
-    {
-      "id": "6tPBfd9R7TdNYWz7nOZe7o",
-      "name": "Little Marriage",
-      "artists": [
-        "Lia Ices"
-      ],
-      "playedAt": "2026-03-06T16:01:43.100Z"
-    },
-    {
-      "id": "4ctF91Wxw8rSLwTBXF4TEW",
-      "name": "Bittersweet Symphony",
-      "artists": [
-        "The Crown",
-        "Fort Nowhere",
-        "Emma Allaway"
-      ],
-      "playedAt": "2026-03-06T15:58:33.602Z"
-    },
-    {
-      "id": "6Su3tpwV9plA79jGtiL8rf",
-      "name": "Love Yourself (Short Reprise)",
-      "artists": [
-        "Sufjan Stevens"
-      ],
-      "playedAt": "2026-03-06T15:54:24.321Z"
-    },
-    {
-      "id": "2hnA4tmaBMisNvz4TOl1Rk",
-      "name": "Together Again",
-      "artists": [
-        "Stephen Rennicks"
-      ],
-      "playedAt": "2026-03-06T15:52:40.786Z"
-    },
-    {
-      "id": "6GUq9y0Iy5QrAuPYxTrFp2",
-      "name": "S.T.A.Y.",
-      "artists": [
-        "Hans Zimmer"
-      ],
-      "playedAt": "2026-03-06T15:49:46.743Z"
-    },
-    {
-      "id": "1eRuo0cdRSqJClg7G6ZjdT",
-      "name": "Earth",
-      "artists": [
-        "Hans Zimmer",
-        "Gavin Greenaway"
-      ],
-      "playedAt": "2026-03-06T15:42:32.005Z"
-    },
-    {
-      "id": "4OCdgLLcPPqDJg8eWFi8rM",
-      "name": "The Floating Bed",
-      "artists": [
-        "Elliot Goldenthal"
-      ],
-      "playedAt": "2026-03-06T15:39:30.027Z"
-    },
-    {
-      "id": "0YA9Ofybww924Dy12PkaXq",
-      "name": "Heart Of Glass - Crabtree Remix",
-      "artists": [
-        "Blondie",
-        "Philip Glass",
-        "Jonas Crabtree"
-      ],
-      "playedAt": "2026-03-06T15:37:59.850Z"
-    },
-    {
-      "id": "6HZiDsrA00Jiy1EBkukFNr",
-      "name": "Can We Find A Way - Ede Remix",
-      "artists": [
-        "Fritz Kalkbrenner",
-        "Ede"
-      ],
-      "playedAt": "2026-03-06T15:28:50.771Z"
-    },
-    {
-      "id": "4JVZUa9DYtJ72QIVwYHYTi",
-      "name": "Tú Y Yo",
-      "artists": [
-        "Camel Power Club",
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-03-06T15:22:45.007Z"
-    },
-    {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
-      "artists": [
-        "Shungudzo"
-      ],
-      "playedAt": "2026-03-06T15:19:05.342Z"
-    },
-    {
-      "id": "1nZA4yLtfFN3q2Vd2ZfXwZ",
-      "name": "Laughter",
-      "artists": [
-        "Astrocolor",
-        "Wendy Rene"
-      ],
-      "playedAt": "2026-03-06T15:15:47.377Z"
-    },
-    {
-      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
-      "name": "Weißer Ferrari",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-03-06T15:12:13.116Z"
-    },
-    {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-03-06T15:08:42.549Z"
-    },
-    {
-      "id": "6GEIpzW14NtOjqHejbcSRE",
-      "name": "Journal of Ardency",
-      "artists": [
-        "Class Actress"
-      ],
-      "playedAt": "2026-03-06T15:07:16.626Z"
-    },
-    {
-      "id": "6lMxGGVsO1JAdzk0z6Q3Rh",
-      "name": "Babyyy",
-      "artists": [
-        "Grace Ives"
-      ],
-      "playedAt": "2026-03-06T15:05:49.563Z"
-    },
-    {
-      "id": "5UmaPP9gQDy9E5nNOnOUUk",
-      "name": "Please!",
-      "artists": [
-        "Edward Sharpe & The Magnetic Zeros"
-      ],
-      "playedAt": "2026-03-06T14:22:56.272Z"
-    },
-    {
-      "id": "0WFryfbNKPXVtVQlz5dZ8H",
-      "name": "hotline (edit)",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-03-06T14:19:23.381Z"
-    },
-    {
-      "id": "1KX30hHDvpBRvm3JXxtYEY",
-      "name": "Tunnel of You",
-      "artists": [
-        "Cannons"
-      ],
-      "playedAt": "2026-03-06T14:18:21.724Z"
-    },
-    {
-      "id": "2KnuaZYoGzDoHiBTNYOTXG",
-      "name": "Billie Bossa Nova",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-03-06T14:12:47.246Z"
-    },
-    {
-      "id": "4X1qDzQdpuxN6UOkaq6UXi",
-      "name": "Toxic",
-      "artists": [
-        "AnnenMayKantereit"
-      ],
-      "playedAt": "2026-03-06T14:09:29.899Z"
-    },
-    {
-      "id": "3EkwCXyPeH6xGs23tVnJJy",
-      "name": "The Power of Prophecy",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-03-06T14:04:39.335Z"
-    },
-    {
-      "id": "5jsSRZV38oVh9l2Tf6UREU",
-      "name": "Enid & Rebecca",
-      "artists": [
-        "Les Gordon"
-      ],
-      "playedAt": "2026-03-06T13:34:52.051Z"
+      "playedAt": "2026-03-07T07:40:09.322Z"
     },
     {
       "id": "5GbVzc6Ex5LYlLJqzRQhuy",
@@ -373,56 +151,116 @@
       "artists": [
         "Sufjan Stevens"
       ],
-      "playedAt": "2026-03-06T13:32:02.354Z"
+      "playedAt": "2026-03-07T07:36:24.412Z"
     },
     {
-      "id": "53OdUJreaDUyR8bHMts1tu",
-      "name": "Aemond Rides Vhagar",
+      "id": "4K1imZQQ0yKtJ40vGmUajS",
+      "name": "Girl from the North Country",
       "artists": [
-        "Ramin Djawadi"
+        "Bob Dylan",
+        "Johnny Cash"
       ],
-      "playedAt": "2026-03-06T13:27:46.574Z"
+      "playedAt": "2026-03-07T07:32:16.989Z"
     },
     {
-      "id": "3FqqhdU8egriKmnpfuXKE0",
-      "name": "Duck Shoot",
+      "id": "6J3HNhDBIwEX11bX8hzx5u",
+      "name": "Colors",
       "artists": [
-        "Rupert Gregson-Williams"
+        "Black Pumas"
       ],
-      "playedAt": "2026-03-06T13:24:07.668Z"
+      "playedAt": "2026-03-07T07:07:06.576Z"
     },
     {
-      "id": "6chkDKDiskOeKnctKVO5GK",
-      "name": "Dance, Dance, Dance (Disco Version)",
+      "id": "3TPr2Em1i454nDS8UJbaFW",
+      "name": "Petit pays",
       "artists": [
-        "Marta Acuna"
+        "Cesária Evora"
       ],
-      "playedAt": "2026-03-06T13:19:53.426Z"
+      "playedAt": "2026-03-07T07:02:59.483Z"
     },
     {
-      "id": "5gDWsRxpJ2lZAffh5p7K0w",
-      "name": "Stargirl Interlude",
+      "id": "0oA9wBGDY4uyILLg4GymWP",
+      "name": "Tom's Diner",
       "artists": [
-        "The Weeknd",
-        "Lana Del Rey"
+        "AnnenMayKantereit",
+        "Giant Rooks"
       ],
-      "playedAt": "2026-03-06T13:13:33.013Z"
+      "playedAt": "2026-03-07T06:40:52.030Z"
     },
     {
-      "id": "5hQSXkFgbxjZo9uCwd11so",
-      "name": "False God",
+      "id": "5k44yc5bXO1XRedzjaugdQ",
+      "name": "Cherry",
       "artists": [
-        "Taylor Swift"
+        "Jungle"
       ],
-      "playedAt": "2026-03-06T13:04:01.298Z"
+      "playedAt": "2026-03-07T06:36:22.131Z"
     },
     {
-      "id": "0y1Bay4UAdzWvpDJinzGz1",
-      "name": "Winterfell",
+      "id": "090df4BpfETesA7Hg45G5d",
+      "name": "Fine Anyway",
       "artists": [
-        "Ramin Djawadi"
+        "Rogér Fakhr"
       ],
-      "playedAt": "2026-03-06T13:00:40.310Z"
+      "playedAt": "2026-03-07T06:33:05.397Z"
+    },
+    {
+      "id": "72VliVsh3slpViyWTgRtgs",
+      "name": "Got Caught in Amsterdam",
+      "artists": [
+        "Arc De Soleil"
+      ],
+      "playedAt": "2026-03-07T06:30:21.606Z"
+    },
+    {
+      "id": "7iQmjnDXYngWGsbjVnDc1U",
+      "name": "Amsterdam",
+      "artists": [
+        "Gregory Alan Isakov"
+      ],
+      "playedAt": "2026-03-07T06:27:30.048Z"
+    },
+    {
+      "id": "4WF9rzBLxY2lho92eDZgv7",
+      "name": "Miniyamba",
+      "artists": [
+        "Yeahman",
+        "Hajna",
+        "Mina Shankha"
+      ],
+      "playedAt": "2026-03-07T06:24:11.032Z"
+    },
+    {
+      "id": "6hljcHcXCHYsYJph2WmENk",
+      "name": "Sunday",
+      "artists": [
+        "HNNY"
+      ],
+      "playedAt": "2026-03-07T06:19:59.626Z"
+    },
+    {
+      "id": "45Z3m6yazmAi4jZuW0tzW0",
+      "name": "Aperture",
+      "artists": [
+        "Harry Styles"
+      ],
+      "playedAt": "2026-03-07T06:17:29.144Z"
+    },
+    {
+      "id": "6rq5HvEBZbrzBB39ygzoFC",
+      "name": "Hijos Del Sol",
+      "artists": [
+        "Hermanos Gutiérrez"
+      ],
+      "playedAt": "2026-03-07T06:11:31.197Z"
+    },
+    {
+      "id": "7CiBrNzJrRDCx0viAECy3e",
+      "name": "Tres Hermanos [Feat. Dan Auerbach]",
+      "artists": [
+        "Hermanos Gutiérrez",
+        "Dan Auerbach"
+      ],
+      "playedAt": "2026-03-07T06:08:00.896Z"
     }
   ]
 }

@@ -1,241 +1,91 @@
 {
-  "name": "WATER",
-  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
-  "description": "Flowing & Emotional",
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.5937499999999999,
-    "avgEnergy": 0.2808333333333333,
-    "avgAcousticness": 0.8716666666666669,
-    "trackCount": 30,
+    "avgValence": 0.6466666666666666,
+    "avgEnergy": 0.32416666666666666,
+    "avgAcousticness": 0.81625,
+    "trackCount": 50,
     "analyzedCount": 24
   },
-  "date": "2026-03-07T23:14:30.989Z",
+  "date": "2026-03-08T23:15:22.968Z",
   "tracks": [
-    {
-      "id": "4hW9f3oSvyyjZjkfSI7LEj",
-      "name": "Bit of Fluff",
-      "artists": [
-        "Rupert Gregson-Williams"
-      ],
-      "playedAt": "2026-03-07T09:53:51.048Z"
-    },
-    {
-      "id": "5qemX4KsYbYfzKlG3ngCEm",
-      "name": "The Anointing",
-      "artists": [
-        "Rupert Gregson-Williams"
-      ],
-      "playedAt": "2026-03-07T09:51:21.082Z"
-    },
-    {
-      "id": "2zdFgBbORyhK5bzEymD9PY",
-      "name": "Simple Harp Variation No. 1",
-      "artists": [
-        "Martin Phipps"
-      ],
-      "playedAt": "2026-03-07T09:46:04.013Z"
-    },
-    {
-      "id": "05rNWKxli5goHcA4e77sGC",
-      "name": "Princess Margaret",
-      "artists": [
-        "Rupert Gregson-Williams",
-        "Lorne Balfe"
-      ],
-      "playedAt": "2026-03-07T09:24:50.713Z"
-    },
-    {
-      "id": "4KJHTdyIUdhKEuZdV3UuWR",
-      "name": "Séduction",
-      "artists": [
-        "René Aubry"
-      ],
-      "playedAt": "2026-03-07T09:21:48.651Z"
-    },
-    {
-      "id": "4XaPsEXr9GbEBONfzWH2XS",
-      "name": "Intro",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-03-07T09:17:06.610Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-07T09:13:42.047Z"
-    },
     {
       "id": "1B5Oc0Y6dpE7ylG85lCkUt",
       "name": "Genesis",
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-03-07T09:09:48.176Z"
+      "playedAt": "2026-03-08T20:19:18.195Z"
     },
     {
-      "id": "1mMYYCxwj9ELAbLYEhqfPY",
-      "name": "DESNUDA SOY TU ARTE",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "EMPIRICAL",
-        "Sussy Rohon"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-07T09:05:49.181Z"
+      "playedAt": "2026-03-08T20:14:04.585Z"
     },
     {
-      "id": "7mdXBQ9D4xe3AKyk3mU4P8",
-      "name": "Daydream in D for Cello",
+      "id": "297UW2vKNreeUClKWq8Xkz",
+      "name": "Gajendra",
       "artists": [
-        "Eric Kinny"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-07T09:03:31.112Z"
+      "playedAt": "2026-03-08T20:10:45.300Z"
     },
     {
-      "id": "4CvcHqKWwGcWCdZCN1Y5a9",
-      "name": "What Remains",
+      "id": "0W95eMaAxNVYTquOsXXkC5",
+      "name": "Female Energy, Part 2",
       "artists": [
-        "Felix Rösch",
-        "mondëna quartet"
+        "WILLOW"
       ],
-      "playedAt": "2026-03-07T08:59:29.142Z"
+      "playedAt": "2026-03-08T20:07:21.119Z"
     },
     {
-      "id": "6gLPEppgYLH0jRMhdBiRnh",
-      "name": "Calling",
+      "id": "192JvWG4KtSSJJD2M7xjpz",
+      "name": "Surrender (Krishna Keshava)",
       "artists": [
-        "vibessmusic"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-07T08:56:22.059Z"
+      "playedAt": "2026-03-08T20:04:26.753Z"
     },
     {
-      "id": "6gzj5Fs4XFTMv0eGsU9ijV",
-      "name": "Bricks in a Wall",
+      "id": "7DffaHi9eCrbi3mkDwyzHF",
+      "name": "Brahma’s Song",
       "artists": [
-        "SLUMB",
-        "Senbeï",
-        "Aurus"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-07T08:55:13.891Z"
+      "playedAt": "2026-03-08T19:58:24.738Z"
     },
     {
-      "id": "2k5SEAK05D29ZkqbnFgIVL",
-      "name": "Satisfied (Ambient Reprise)",
+      "id": "0gxVuBfUu1TbmFyJZwK6X0",
+      "name": "Rise",
       "artists": [
-        "Catching Flies"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-07T07:53:00.215Z"
+      "playedAt": "2026-03-08T19:55:37.440Z"
     },
     {
-      "id": "0ot8VA36fmxBlIqa5xbnf7",
-      "name": "Crushed Velvet",
+      "id": "0pAV4Vyxxag2uEWVu00Jxi",
+      "name": "Quedate Luna",
       "artists": [
-        "Molly Lewis",
-        "Thee Sacred Souls"
+        "Devendra Banhart"
       ],
-      "playedAt": "2026-03-07T07:43:25.070Z"
+      "playedAt": "2026-03-08T19:51:51.469Z"
     },
     {
-      "id": "63SKPsrN4KfLjUwAEugilm",
-      "name": "Smoldering Fire",
+      "id": "3Gkg9mRJXJgNpozGIs7Nrm",
+      "name": "Cuatro Vientos",
       "artists": [
-        "Ural Thomas and the Pain"
+        "Danit"
       ],
-      "playedAt": "2026-03-07T07:40:09.322Z"
-    },
-    {
-      "id": "5GbVzc6Ex5LYlLJqzRQhuy",
-      "name": "Mystery of Love",
-      "artists": [
-        "Sufjan Stevens"
-      ],
-      "playedAt": "2026-03-07T07:36:24.412Z"
-    },
-    {
-      "id": "4K1imZQQ0yKtJ40vGmUajS",
-      "name": "Girl from the North Country",
-      "artists": [
-        "Bob Dylan",
-        "Johnny Cash"
-      ],
-      "playedAt": "2026-03-07T07:32:16.989Z"
-    },
-    {
-      "id": "6J3HNhDBIwEX11bX8hzx5u",
-      "name": "Colors",
-      "artists": [
-        "Black Pumas"
-      ],
-      "playedAt": "2026-03-07T07:07:06.576Z"
-    },
-    {
-      "id": "3TPr2Em1i454nDS8UJbaFW",
-      "name": "Petit pays",
-      "artists": [
-        "Cesária Evora"
-      ],
-      "playedAt": "2026-03-07T07:02:59.483Z"
-    },
-    {
-      "id": "0oA9wBGDY4uyILLg4GymWP",
-      "name": "Tom's Diner",
-      "artists": [
-        "AnnenMayKantereit",
-        "Giant Rooks"
-      ],
-      "playedAt": "2026-03-07T06:40:52.030Z"
-    },
-    {
-      "id": "5k44yc5bXO1XRedzjaugdQ",
-      "name": "Cherry",
-      "artists": [
-        "Jungle"
-      ],
-      "playedAt": "2026-03-07T06:36:22.131Z"
-    },
-    {
-      "id": "090df4BpfETesA7Hg45G5d",
-      "name": "Fine Anyway",
-      "artists": [
-        "Rogér Fakhr"
-      ],
-      "playedAt": "2026-03-07T06:33:05.397Z"
-    },
-    {
-      "id": "72VliVsh3slpViyWTgRtgs",
-      "name": "Got Caught in Amsterdam",
-      "artists": [
-        "Arc De Soleil"
-      ],
-      "playedAt": "2026-03-07T06:30:21.606Z"
-    },
-    {
-      "id": "7iQmjnDXYngWGsbjVnDc1U",
-      "name": "Amsterdam",
-      "artists": [
-        "Gregory Alan Isakov"
-      ],
-      "playedAt": "2026-03-07T06:27:30.048Z"
-    },
-    {
-      "id": "4WF9rzBLxY2lho92eDZgv7",
-      "name": "Miniyamba",
-      "artists": [
-        "Yeahman",
-        "Hajna",
-        "Mina Shankha"
-      ],
-      "playedAt": "2026-03-07T06:24:11.032Z"
-    },
-    {
-      "id": "6hljcHcXCHYsYJph2WmENk",
-      "name": "Sunday",
-      "artists": [
-        "HNNY"
-      ],
-      "playedAt": "2026-03-07T06:19:59.626Z"
+      "playedAt": "2026-03-08T19:48:44.207Z"
     },
     {
       "id": "45Z3m6yazmAi4jZuW0tzW0",
@@ -243,24 +93,329 @@
       "artists": [
         "Harry Styles"
       ],
-      "playedAt": "2026-03-07T06:17:29.144Z"
+      "playedAt": "2026-03-08T19:39:32.223Z"
     },
     {
-      "id": "6rq5HvEBZbrzBB39ygzoFC",
-      "name": "Hijos Del Sol",
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
       "artists": [
-        "Hermanos Gutiérrez"
+        "AMANZI"
       ],
-      "playedAt": "2026-03-07T06:11:31.197Z"
+      "playedAt": "2026-03-08T19:34:19.775Z"
     },
     {
-      "id": "7CiBrNzJrRDCx0viAECy3e",
-      "name": "Tres Hermanos [Feat. Dan Auerbach]",
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
       "artists": [
-        "Hermanos Gutiérrez",
-        "Dan Auerbach"
+        "AMANZI"
       ],
-      "playedAt": "2026-03-07T06:08:00.896Z"
+      "playedAt": "2026-03-08T19:31:00.167Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T19:26:41.111Z"
+    },
+    {
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T18:20:54.161Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-08T18:16:17.780Z"
+    },
+    {
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
+      "artists": [
+        "Husky"
+      ],
+      "playedAt": "2026-03-08T18:12:22.189Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T18:08:21.978Z"
+    },
+    {
+      "id": "0djZ2ndRfAL69WYNra5jRC",
+      "name": "April Come She Will",
+      "artists": [
+        "Simon & Garfunkel"
+      ],
+      "playedAt": "2026-03-08T18:00:08.659Z"
+    },
+    {
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T17:53:12.853Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T17:49:18.433Z"
+    },
+    {
+      "id": "0gxVuBfUu1TbmFyJZwK6X0",
+      "name": "Rise",
+      "artists": [
+        "WILLOW",
+        "Jahnavi Harrison"
+      ],
+      "playedAt": "2026-03-08T17:45:28.441Z"
+    },
+    {
+      "id": "0ED79PS7Tgnnb1fr9fD7g4",
+      "name": "Give a Little Love",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-03-08T17:41:49.472Z"
+    },
+    {
+      "id": "2MnSPY2QYMbtkDWGzY02In",
+      "name": "Asc. Scorpio",
+      "artists": [
+        "Oracle Sisters"
+      ],
+      "playedAt": "2026-03-08T17:38:52.199Z"
+    },
+    {
+      "id": "37qeFXMtZzeu74JJOgUIZu",
+      "name": "Love",
+      "artists": [
+        "The Something Specials",
+        "Taylor Olin"
+      ],
+      "playedAt": "2026-03-08T17:35:32.728Z"
+    },
+    {
+      "id": "0hOA8SoraNo2ZP1amtVYnY",
+      "name": "Big Love - 2017 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "playedAt": "2026-03-08T17:31:40.456Z"
+    },
+    {
+      "id": "37YLEHlqNHrN5AISi38VKu",
+      "name": "Follow The Sun",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-03-08T17:27:58.967Z"
+    },
+    {
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-03-08T17:23:16.867Z"
+    },
+    {
+      "id": "1cii2FFnWD45ToMZfdxktI",
+      "name": "Recuerdo de Ti",
+      "artists": [
+        "Geoffroy"
+      ],
+      "playedAt": "2026-03-08T17:19:18.345Z"
+    },
+    {
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T17:16:21.813Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T17:11:54.603Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T15:18:15.363Z"
+    },
+    {
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-03-08T09:27:05.781Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T09:23:05.283Z"
+    },
+    {
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T09:19:45.059Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-08T09:15:08.780Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T09:11:02.310Z"
+    },
+    {
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T09:07:42.471Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-08T08:58:11.191Z"
+    },
+    {
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
+      "artists": [
+        "Husky"
+      ],
+      "playedAt": "2026-03-08T08:54:15.667Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T08:50:15.705Z"
+    },
+    {
+      "id": "0mnWNvwXRNu82bpfi2rsuz",
+      "name": "San Luis",
+      "artists": [
+        "Gregory Alan Isakov"
+      ],
+      "playedAt": "2026-03-08T08:46:56.872Z"
+    },
+    {
+      "id": "1q4L3WSZSygxR2GjuFswAF",
+      "name": "It Could Be Nice",
+      "artists": [
+        "Chet Faker"
+      ],
+      "playedAt": "2026-03-08T08:42:30.280Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T08:39:37.315Z"
+    },
+    {
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
+      "artists": [
+        "Husky"
+      ],
+      "playedAt": "2026-03-08T08:29:58.506Z"
+    },
+    {
+      "id": "1mCvM05OlYWQd77RDxCTLD",
+      "name": "Life Worth Living",
+      "artists": [
+        "LAUREL"
+      ],
+      "playedAt": "2026-03-08T08:25:58.211Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-08T08:21:53.398Z"
+    },
+    {
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T08:17:45.679Z"
+    },
+    {
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-08T08:13:09.600Z"
+    },
+    {
+      "id": "1QJnDJuYOGj05iSc4eWGr5",
+      "name": "Fever To The Form",
+      "artists": [
+        "Nick Mulvey"
+      ],
+      "playedAt": "2026-03-08T08:08:17.735Z"
+    },
+    {
+      "id": "3tSC0g3q9C1dHR7LnNmHwL",
+      "name": "March",
+      "artists": [
+        "Skullcrusher"
+      ],
+      "playedAt": "2026-03-08T06:59:19.883Z"
     }
   ]
 }

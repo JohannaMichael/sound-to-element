@@ -3,131 +3,30 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6139393939393941,
-    "avgEnergy": 0.29818181818181816,
-    "avgAcousticness": 0.8766666666666667,
+    "avgValence": 0.6403225806451613,
+    "avgEnergy": 0.30806451612903224,
+    "avgAcousticness": 0.8432258064516128,
     "trackCount": 50,
-    "analyzedCount": 33
+    "analyzedCount": 31
   },
-  "date": "2026-03-10T23:19:28.734Z",
+  "date": "2026-03-11T23:17:27.895Z",
   "tracks": [
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "3fHDbOrSf2IQhLeKaShLS4",
+      "name": "Fuel to Fire",
       "artists": [
-        "Still Corners"
+        "Agnes Obel"
       ],
-      "playedAt": "2026-03-10T20:11:59.875Z"
+      "playedAt": "2026-03-11T17:01:39.625Z"
     },
     {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
+      "id": "192JvWG4KtSSJJD2M7xjpz",
+      "name": "Surrender (Krishna Keshava)",
       "artists": [
-        "Husky"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-10T20:08:03.724Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-10T20:04:03.949Z"
-    },
-    {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-10T20:00:43.571Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-10T19:56:16.515Z"
-    },
-    {
-      "id": "42WjfDtnP5Ktt8GzpPAwkq",
-      "name": "Tender Is The Night",
-      "artists": [
-        "Luigi Tozzi"
-      ],
-      "playedAt": "2026-03-10T19:53:23.783Z"
-    },
-    {
-      "id": "5JZdKynHn8pKmIfDBSOB1t",
-      "name": "Earth",
-      "artists": [
-        "Hans Zimmer",
-        "Gavin Greenaway",
-        "The Lyndhurst Orchestra"
-      ],
-      "playedAt": "2026-03-10T19:52:48.907Z"
-    },
-    {
-      "id": "5aaXqH8rgKZxg61HjECldi",
-      "name": "No Time for Caution",
-      "artists": [
-        "Hans Zimmer"
-      ],
-      "playedAt": "2026-03-10T16:44:44.550Z"
-    },
-    {
-      "id": "6TnfdR9iEcLnWdw1AIJeWZ",
-      "name": "Farewell to Dobby",
-      "artists": [
-        "Alexandre Desplat"
-      ],
-      "playedAt": "2026-03-10T16:40:39.451Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-10T16:26:09.164Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-10T16:22:03.184Z"
-    },
-    {
-      "id": "6mlsrhOJXure8sr4uGczaQ",
-      "name": "Destiny's Path (From \"Memoirs of a Geisha\" Soundtrack)",
-      "artists": [
-        "John Williams",
-        "Yo-Yo Ma",
-        "Itzhak Perlman"
-      ],
-      "playedAt": "2026-03-10T16:17:58.908Z"
-    },
-    {
-      "id": "1RQY1ZTZxZ9IRN2b7aYUr6",
-      "name": "Sayuri's Theme and End Credits (From \"Memoirs of a Geisha\" Soundtrack)",
-      "artists": [
-        "John Williams",
-        "Itzhak Perlman",
-        "Yo-Yo Ma"
-      ],
-      "playedAt": "2026-03-10T16:14:37.086Z"
-    },
-    {
-      "id": "7oO0QY3HutngLaEnP6zmAY",
-      "name": "Phantom Deep Blue",
-      "artists": [
-        "Luigi Tozzi"
-      ],
-      "playedAt": "2026-03-10T15:41:32.058Z"
+      "playedAt": "2026-03-11T16:56:06.266Z"
     },
     {
       "id": "4JsxWwCOfyxDdlLYUpGPJr",
@@ -136,31 +35,24 @@
         "TÂCHES",
         "Carmen Vandenberg"
       ],
-      "playedAt": "2026-03-10T15:33:51.137Z"
+      "playedAt": "2026-03-11T16:33:10.660Z"
     },
     {
-      "id": "0ZplRXackRMYmf8VThWX6z",
-      "name": "Heart Beats Slow",
+      "id": "297UW2vKNreeUClKWq8Xkz",
+      "name": "Gajendra",
       "artists": [
-        "Angus & Julia Stone"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-10T15:26:15.808Z"
+      "playedAt": "2026-03-11T16:32:13.673Z"
     },
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "44sVQfPdCTGM5JLBRHUngc",
+      "name": "Come Back to Us (From \"1917\" Soundtrack)",
       "artists": [
-        "Still Corners"
+        "Thomas Newman"
       ],
-      "playedAt": "2026-03-10T15:21:09.554Z"
-    },
-    {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
-      "artists": [
-        "Husky"
-      ],
-      "playedAt": "2026-03-10T15:17:14.337Z"
+      "playedAt": "2026-03-11T16:28:57.881Z"
     },
     {
       "id": "7sPaHKAHhDzsTmgipIV5Io",
@@ -168,80 +60,7 @@
       "artists": [
         "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-10T15:13:13.984Z"
-    },
-    {
-      "id": "1I6LFohPBMnEu9CXamGCwY",
-      "name": "Line of Fire",
-      "artists": [
-        "José González"
-      ],
-      "playedAt": "2026-03-10T15:09:08.398Z"
-    },
-    {
-      "id": "5gR0XaIYkvQ7pJ7lg597Z3",
-      "name": "The Dream",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-10T15:05:59.870Z"
-    },
-    {
-      "id": "5TDbrjJueMt3b71c5tgOn9",
-      "name": "Smokeless Fire",
-      "artists": [
-        "Octave Lissner"
-      ],
-      "playedAt": "2026-03-10T15:01:09.477Z"
-    },
-    {
-      "id": "1OQJGoaLUDOHl5GhJCIFba",
-      "name": "My House Your House",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-10T14:58:25.331Z"
-    },
-    {
-      "id": "5JQeFVoT7dpl6NmVObf3LG",
-      "name": "Stonecutters",
-      "artists": [
-        "DOPE LEMON"
-      ],
-      "playedAt": "2026-03-10T14:53:41.590Z"
-    },
-    {
-      "id": "79vS51eJbq9S7ssEj8pBbQ",
-      "name": "A Prayer Of My Own",
-      "artists": [
-        "Nick Mulvey"
-      ],
-      "playedAt": "2026-03-10T14:49:11.282Z"
-    },
-    {
-      "id": "5g8xjUhQ3OwOwIziC6hBtn",
-      "name": "Without Your Love",
-      "artists": [
-        "The Paper Kites",
-        "Julia Stone"
-      ],
-      "playedAt": "2026-03-10T14:44:06.616Z"
-    },
-    {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-10T14:40:35.421Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-10T14:01:22.214Z"
+      "playedAt": "2026-03-11T16:23:18.853Z"
     },
     {
       "id": "6HZiDsrA00Jiy1EBkukFNr",
@@ -250,89 +69,119 @@
         "Fritz Kalkbrenner",
         "Ede"
       ],
-      "playedAt": "2026-03-10T13:57:36.521Z"
+      "playedAt": "2026-03-11T16:19:11.264Z"
     },
     {
-      "id": "4HrJu1oEafqA6vLMWDJUQn",
-      "name": "On This Love",
+      "id": "0yljUudXzjVcGEoYmLB17X",
+      "name": "Genesis",
       "artists": [
-        "Suki Waterhouse"
+        "Grimes"
       ],
-      "playedAt": "2026-03-10T13:53:00.115Z"
+      "playedAt": "2026-03-11T16:15:09.518Z"
     },
     {
-      "id": "3AuVZyDw1VhjjLfHZR4ba3",
-      "name": "House Of The Rising Sun",
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
       "artists": [
-        "Joan Baez"
+        "Donna Summer"
       ],
-      "playedAt": "2026-03-10T13:50:09.592Z"
+      "playedAt": "2026-03-11T15:58:51.688Z"
     },
     {
-      "id": "4qeIlzP0Z1JFXh0AckDcX8",
-      "name": "No Nein",
+      "id": "6GEIpzW14NtOjqHejbcSRE",
+      "name": "Journal of Ardency",
       "artists": [
-        "1tbsp",
-        "Mietze Conte"
+        "Class Actress"
       ],
-      "playedAt": "2026-03-10T13:39:44.706Z"
+      "playedAt": "2026-03-11T15:54:55.441Z"
     },
     {
-      "id": "2rMCO8bSn6zzKEZnjKabbh",
-      "name": "Tell Me",
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
       "artists": [
-        "Rene Wise"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-10T13:11:26.673Z"
+      "playedAt": "2026-03-11T15:51:09.674Z"
     },
     {
-      "id": "1z4oM8z8IT8IBSMHR13e2V",
-      "name": "Surrender",
+      "id": "1JMyndqIXDM7cKmRu3nFws",
+      "name": "Leap Year",
       "artists": [
-        "Paul Hauck"
+        "Billie Marten"
       ],
-      "playedAt": "2026-03-10T13:05:51.031Z"
+      "playedAt": "2026-03-11T15:46:45.349Z"
     },
     {
-      "id": "3d7lH2ppf2aIELQXY4nagn",
-      "name": "Only You",
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
       "artists": [
-        "Steve Monite"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-10T13:00:25.621Z"
+      "playedAt": "2026-03-11T15:40:59.890Z"
     },
     {
-      "id": "6JZj85Iz5sc4cGKvOefO7G",
-      "name": "Neon Signs",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "Suki Waterhouse"
+        "Still Corners"
       ],
-      "playedAt": "2026-03-10T12:54:03.584Z"
+      "playedAt": "2026-03-11T15:36:23.265Z"
     },
     {
-      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
-      "name": "Witches",
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
       "artists": [
-        "Alice Phoebe Lou"
+        "Husky"
       ],
-      "playedAt": "2026-03-10T12:50:49.588Z"
+      "playedAt": "2026-03-11T15:32:27.995Z"
     },
     {
-      "id": "32NMmAVohuSJeiYuuiVUbo",
-      "name": "r&r",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "berlioz"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-10T12:47:33.718Z"
+      "playedAt": "2026-03-11T15:28:27.743Z"
     },
     {
-      "id": "3NsZZpRmWNGvE0WmCuZPAu",
-      "name": "Slow Sun",
+      "id": "2k5SEAK05D29ZkqbnFgIVL",
+      "name": "Satisfied (Ambient Reprise)",
       "artists": [
-        "Aukai",
-        "Richard Houghten"
+        "Catching Flies"
       ],
-      "playedAt": "2026-03-10T12:43:56.117Z"
+      "playedAt": "2026-03-11T13:25:50.596Z"
+    },
+    {
+      "id": "3ZCTVFBt2Brf31RLEnCkWJ",
+      "name": "everything i wanted",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-03-11T13:22:09.468Z"
+    },
+    {
+      "id": "6Pn9xvGxfZdg0BvAiQsMmJ",
+      "name": "La Luna en Tu Mirada",
+      "artists": [
+        "Los Zafiros"
+      ],
+      "playedAt": "2026-03-11T12:55:30.402Z"
+    },
+    {
+      "id": "5cMZLL8DVg2TRgdb407LrF",
+      "name": "Un jour comme un autre",
+      "artists": [
+        "Brigitte Bardot"
+      ],
+      "playedAt": "2026-03-11T12:52:52.355Z"
+    },
+    {
+      "id": "6chkDKDiskOeKnctKVO5GK",
+      "name": "Dance, Dance, Dance (Disco Version)",
+      "artists": [
+        "Marta Acuna"
+      ],
+      "playedAt": "2026-03-11T12:50:30.791Z"
     },
     {
       "id": "7caycKUiLznuxYK1C9Wxd6",
@@ -341,74 +190,33 @@
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-03-10T12:38:37.801Z"
+      "playedAt": "2026-03-11T12:42:15.856Z"
     },
     {
-      "id": "1sgUr9aH3QCl20qFjR8N6z",
-      "name": "Recuerdo de Ti (Seb Wildblood Remix)",
+      "id": "6cl1fg9hT546eBSORCCcEM",
+      "name": "Glitch",
       "artists": [
-        "Geoffroy",
-        "Seb Wildblood"
+        "OsMan"
       ],
-      "playedAt": "2026-03-10T11:20:50.569Z"
+      "playedAt": "2026-03-11T12:34:39.062Z"
     },
     {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
+      "id": "70c5OzZyrRw1Nvr42PysFG",
+      "name": "Cariñito",
       "artists": [
-        "Geoffroy"
+        "Yeahman",
+        "Mina Shankha",
+        "Hajna"
       ],
-      "playedAt": "2026-03-10T11:17:01.540Z"
+      "playedAt": "2026-03-11T12:32:13.837Z"
     },
     {
-      "id": "4JVZUa9DYtJ72QIVwYHYTi",
-      "name": "Tú Y Yo",
+      "id": "47a7Hn4fFE4mHgVJF19CO1",
+      "name": "No Choir",
       "artists": [
-        "Camel Power Club",
-        "Gizmo Varillas"
+        "Florence + The Machine"
       ],
-      "playedAt": "2026-03-10T11:14:04.528Z"
-    },
-    {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
-      "artists": [
-        "Shungudzo"
-      ],
-      "playedAt": "2026-03-10T11:07:03.797Z"
-    },
-    {
-      "id": "1nZA4yLtfFN3q2Vd2ZfXwZ",
-      "name": "Laughter",
-      "artists": [
-        "Astrocolor",
-        "Wendy Rene"
-      ],
-      "playedAt": "2026-03-10T11:03:45.865Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-03-10T10:55:51.221Z"
-    },
-    {
-      "id": "1ej1Z6AGBLaSI9tSizZMfa",
-      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-03-10T10:52:31.883Z"
-    },
-    {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
-      "artists": [
-        "Electrypnose"
-      ],
-      "playedAt": "2026-03-10T10:43:31.612Z"
+      "playedAt": "2026-03-11T12:26:39.192Z"
     },
     {
       "id": "2J9UiW1gTs2YTxA6JPk849",
@@ -417,7 +225,98 @@
         "Juelz",
         "Taavi"
       ],
-      "playedAt": "2026-03-10T10:37:27.348Z"
+      "playedAt": "2026-03-11T12:24:08.293Z"
+    },
+    {
+      "id": "4CvcHqKWwGcWCdZCN1Y5a9",
+      "name": "What Remains",
+      "artists": [
+        "Felix Rösch",
+        "mondëna quartet"
+      ],
+      "playedAt": "2026-03-11T12:14:36.130Z"
+    },
+    {
+      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
+      "name": "Weißer Ferrari",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-03-11T12:11:16.901Z"
+    },
+    {
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-03-11T10:42:05.086Z"
+    },
+    {
+      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
+      "name": "Influenced",
+      "artists": [
+        "Electrypnose"
+      ],
+      "playedAt": "2026-03-11T09:47:08.035Z"
+    },
+    {
+      "id": "0HjfBGUGEhmbTbjwBeL543",
+      "name": "Thinking Pattern - Funkable Remix",
+      "artists": [
+        "Airi",
+        "Funkable"
+      ],
+      "playedAt": "2026-03-11T09:38:00.605Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-03-11T09:30:54.877Z"
+    },
+    {
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-11T09:26:31.375Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-11T09:21:54.969Z"
+    },
+    {
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
+      "artists": [
+        "Husky"
+      ],
+      "playedAt": "2026-03-11T09:17:59.559Z"
+    },
+    {
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
+      "artists": [
+        "TÂCHES",
+        "Carmen Vandenberg"
+      ],
+      "playedAt": "2026-03-11T09:13:59.378Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-11T09:09:12.433Z"
     },
     {
       "id": "1B5Oc0Y6dpE7ylG85lCkUt",
@@ -425,7 +324,104 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-03-10T10:34:04.626Z"
+      "playedAt": "2026-03-11T07:52:46.348Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-03-11T07:48:40.591Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-11T07:44:44.184Z"
+    },
+    {
+      "id": "4K1imZQQ0yKtJ40vGmUajS",
+      "name": "Girl from the North Country",
+      "artists": [
+        "Bob Dylan",
+        "Johnny Cash"
+      ],
+      "playedAt": "2026-03-11T07:41:25.020Z"
+    },
+    {
+      "id": "3uCkIqD0VzQUijbs8WIizs",
+      "name": "These Days",
+      "artists": [
+        "Nico"
+      ],
+      "playedAt": "2026-03-11T07:34:06.649Z"
+    },
+    {
+      "id": "3XFcUSSbb3ezNem7EnPq2G",
+      "name": "Howling Around My Happy Home",
+      "artists": [
+        "Daniel Norgren"
+      ],
+      "playedAt": "2026-03-11T07:30:35.448Z"
+    },
+    {
+      "id": "3S36aqn9EqvHkRCAa86oiF",
+      "name": "Rich Folks Hoax",
+      "artists": [
+        "Rodríguez"
+      ],
+      "playedAt": "2026-03-11T06:27:11.350Z"
+    },
+    {
+      "id": "6L5BZEcZmD6RBJnimzlyKr",
+      "name": "Nights In White Satin - Single Version / Mono",
+      "artists": [
+        "The Moody Blues"
+      ],
+      "playedAt": "2026-03-11T06:24:05.269Z"
+    },
+    {
+      "id": "6Qb7gtV6Q4MnUjSbkFcopl",
+      "name": "50 Ways to Leave Your Lover",
+      "artists": [
+        "Paul Simon"
+      ],
+      "playedAt": "2026-03-11T06:19:35.527Z"
+    },
+    {
+      "id": "27hhIs2fp6w06N5zx4Eaa5",
+      "name": "Dream A Little Dream Of Me",
+      "artists": [
+        "The Mamas & The Papas"
+      ],
+      "playedAt": "2026-03-11T06:15:57.693Z"
+    },
+    {
+      "id": "2hrsZWMTQBQzTOhtKxFQvm",
+      "name": "No War",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-03-11T06:12:42.934Z"
+    },
+    {
+      "id": "0uwNtbl80CvP4EFio32PYv",
+      "name": "Full Moon",
+      "artists": [
+        "The Black Ghosts"
+      ],
+      "playedAt": "2026-03-11T06:09:32.949Z"
+    },
+    {
+      "id": "20RzArTj8t5exuBbnszRLz",
+      "name": "Summer Sun",
+      "artists": [
+        "Cari Cari"
+      ],
+      "playedAt": "2026-03-11T05:44:54.802Z"
     }
   ]
 }

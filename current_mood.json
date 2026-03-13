@@ -3,93 +3,94 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.7164705882352941,
-    "avgEnergy": 0.31470588235294117,
-    "avgAcousticness": 0.9052941176470588,
+    "avgValence": 0.6199999999999999,
+    "avgEnergy": 0.29913043478260865,
+    "avgAcousticness": 0.8591304347826088,
     "trackCount": 50,
-    "analyzedCount": 17
+    "analyzedCount": 23
   },
-  "date": "2026-03-12T23:19:08.639Z",
+  "date": "2026-03-13T23:19:26.942Z",
   "tracks": [
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "1ghknBNxMTf01WJkXPvNNv",
+      "name": "When the Sun Sets (The End is Near Edit) - Claudio Prc Remix",
       "artists": [
-        "James Asher"
+        "Nur Jaber",
+        "Claudio PRC"
       ],
-      "playedAt": "2026-03-12T20:16:03.554Z"
+      "playedAt": "2026-03-13T21:05:15.816Z"
     },
     {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
       "artists": [
-        "Poranguí",
-        "Liquid Bloom"
+        "AMANZI"
       ],
-      "playedAt": "2026-03-12T19:21:52.754Z"
+      "playedAt": "2026-03-13T20:58:36.248Z"
     },
     {
-      "id": "64DxdXTNY58CVu2j5QjCIk",
-      "name": "Does Your Mother Know - From 'Mamma Mia!' Original Motion Picture Soundtrack",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Christine Baranski",
-        "Philip Michael"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-03-12T19:14:38.052Z"
+      "playedAt": "2026-03-13T20:52:59.031Z"
     },
     {
-      "id": "26seN94mgiImzDyVRkl3hl",
-      "name": "SOS - From 'Mamma Mia!' Original Motion Picture Soundtrack",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "Pierce Brosnan",
-        "Meryl Streep"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-03-12T19:11:35.462Z"
+      "playedAt": "2026-03-13T20:48:44.785Z"
     },
     {
-      "id": "74wySERHHxB8Ul9A0CNBla",
-      "name": "Lay All Your Love On Me - From 'Mamma Mia!' Original Motion Picture Soundtrack",
+      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
+      "name": "Can I Tell You a Secret",
       "artists": [
-        "Dominic Cooper",
-        "Amanda Seyfried"
+        "Camel Power Club"
       ],
-      "playedAt": "2026-03-12T19:08:15.580Z"
+      "playedAt": "2026-03-13T20:44:47.456Z"
     },
     {
-      "id": "4uytiW8D73yWQHkg1PzYlB",
-      "name": "The Winner Takes It All - From \"Mamma Mia!\"",
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
       "artists": [
-        "Meryl Streep"
+        "Hannah Stater"
       ],
-      "playedAt": "2026-03-12T19:03:45.706Z"
+      "playedAt": "2026-03-13T20:41:27.270Z"
     },
     {
-      "id": "4UeDMzA4XjmRpl1RHogDzx",
-      "name": "Voulez-Vous - From 'Mamma Mia!' Original Motion Picture Soundtrack",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Cast of Mamma Mia! The Movie",
-        "Philip Michael",
-        "Christine Baranski",
-        "Julie Walters",
-        "Stellan Skarsgård"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-03-12T18:58:47.399Z"
+      "playedAt": "2026-03-13T20:37:33.946Z"
     },
     {
-      "id": "38u0aOa2FyQ7BerCsXHw0k",
-      "name": "Kundu Tribal",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "James Asher"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-03-12T18:45:13.627Z"
+      "playedAt": "2026-03-13T20:34:38.588Z"
     },
     {
-      "id": "41SuErzAcPlRABwCtYKqJH",
-      "name": "Drum Dialogue",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "James Asher"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-03-12T18:40:11.669Z"
+      "playedAt": "2026-03-13T20:25:49.024Z"
+    },
+    {
+      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
+      "name": "Can I Tell You a Secret",
+      "artists": [
+        "Camel Power Club"
+      ],
+      "playedAt": "2026-03-13T20:21:51.862Z"
     },
     {
       "id": "7sPaHKAHhDzsTmgipIV5Io",
@@ -97,7 +98,7 @@
       "artists": [
         "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-12T18:34:38.373Z"
+      "playedAt": "2026-03-13T20:17:12.032Z"
     },
     {
       "id": "6Cojy8iCgddqDVje5fWfjO",
@@ -105,7 +106,7 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-03-12T18:26:10.585Z"
+      "playedAt": "2026-03-13T20:13:51.303Z"
     },
     {
       "id": "5cJBLutdQO3ikhfOItxPTc",
@@ -113,7 +114,7 @@
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-03-12T18:21:46.242Z"
+      "playedAt": "2026-03-13T20:09:26.825Z"
     },
     {
       "id": "1OArQ5np9biqJlGL2RMpOE",
@@ -122,48 +123,47 @@
         "Poranguí",
         "Liquid Bloom"
       ],
-      "playedAt": "2026-03-12T18:15:49.325Z"
+      "playedAt": "2026-03-13T20:03:31.029Z"
     },
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
       "artists": [
-        "James Asher"
+        "Hannah Stater"
       ],
-      "playedAt": "2026-03-12T18:08:59.718Z"
+      "playedAt": "2026-03-13T19:55:28.219Z"
     },
     {
-      "id": "4Jsi81TRikhlT0XjVdfH2m",
-      "name": "Gold Jaguar",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Zuma Dionys"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-03-12T18:02:18.378Z"
+      "playedAt": "2026-03-13T19:51:32.911Z"
     },
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "James Asher"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-03-12T17:55:01.534Z"
+      "playedAt": "2026-03-13T19:48:44.391Z"
     },
     {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
+      "name": "Can I Tell You a Secret",
       "artists": [
-        "Poranguí",
-        "Liquid Bloom"
+        "Camel Power Club"
       ],
-      "playedAt": "2026-03-12T16:48:59.955Z"
+      "playedAt": "2026-03-13T19:40:13.270Z"
     },
     {
-      "id": "4Jsi81TRikhlT0XjVdfH2m",
-      "name": "Gold Jaguar",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "Zuma Dionys"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-12T16:41:51.853Z"
+      "playedAt": "2026-03-13T17:59:15.165Z"
     },
     {
       "id": "7caycKUiLznuxYK1C9Wxd6",
@@ -172,49 +172,51 @@
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-03-12T15:42:19.615Z"
+      "playedAt": "2026-03-13T17:55:56.647Z"
     },
     {
-      "id": "2QThU21Z82nM2lWQs7b5JY",
-      "name": "Reincarnation - Taavi Remix",
+      "id": "7AlJWH45s6NgsfgsKxWOIM",
+      "name": "I Won't Let You Down",
       "artists": [
-        "Javiis",
-        "Taavi"
+        "Curtis Harding"
       ],
-      "playedAt": "2026-03-12T15:35:07.662Z"
+      "playedAt": "2026-03-13T17:49:17.384Z"
     },
     {
-      "id": "6gLPEppgYLH0jRMhdBiRnh",
-      "name": "Calling",
+      "id": "1sgUr9aH3QCl20qFjR8N6z",
+      "name": "Recuerdo de Ti (Seb Wildblood Remix)",
       "artists": [
-        "vibessmusic"
+        "Geoffroy",
+        "Seb Wildblood"
       ],
-      "playedAt": "2026-03-12T15:28:07.950Z"
+      "playedAt": "2026-03-13T15:55:09.887Z"
     },
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "7DffaHi9eCrbi3mkDwyzHF",
+      "name": "Brahma’s Song",
       "artists": [
-        "Still Corners"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-12T15:25:43.782Z"
+      "playedAt": "2026-03-13T15:50:54.970Z"
     },
     {
-      "id": "4JVZUa9DYtJ72QIVwYHYTi",
-      "name": "Tú Y Yo",
+      "id": "0gxVuBfUu1TbmFyJZwK6X0",
+      "name": "Rise",
       "artists": [
-        "Camel Power Club",
-        "Gizmo Varillas"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-12T15:21:45.776Z"
+      "playedAt": "2026-03-13T15:47:26.260Z"
     },
     {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
+      "id": "192JvWG4KtSSJJD2M7xjpz",
+      "name": "Surrender (Krishna Keshava)",
       "artists": [
-        "David A. Molina"
+        "WILLOW",
+        "Jahnavi Harrison"
       ],
-      "playedAt": "2026-03-12T15:17:48.082Z"
+      "playedAt": "2026-03-13T15:43:46.879Z"
     },
     {
       "id": "1B5Oc0Y6dpE7ylG85lCkUt",
@@ -222,16 +224,7 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-03-12T15:13:50.539Z"
-    },
-    {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
-      "artists": [
-        "Poranguí",
-        "Liquid Bloom"
-      ],
-      "playedAt": "2026-03-12T15:06:12.760Z"
+      "playedAt": "2026-03-13T15:37:52.583Z"
     },
     {
       "id": "6XR5hfcXi2kqLzep3ze9WJ",
@@ -240,23 +233,7 @@
         "Victor Norman",
         "Alex Kaminski"
       ],
-      "playedAt": "2026-03-12T14:59:11.760Z"
-    },
-    {
-      "id": "4Jsi81TRikhlT0XjVdfH2m",
-      "name": "Gold Jaguar",
-      "artists": [
-        "Zuma Dionys"
-      ],
-      "playedAt": "2026-03-12T14:51:45.751Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-12T14:28:32.638Z"
+      "playedAt": "2026-03-13T15:33:53.769Z"
     },
     {
       "id": "5cJBLutdQO3ikhfOItxPTc",
@@ -264,173 +241,195 @@
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-03-12T14:25:13.101Z"
+      "playedAt": "2026-03-13T15:26:43.024Z"
     },
     {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
       "artists": [
-        "Poranguí",
-        "Liquid Bloom"
+        "Hannah Stater"
       ],
-      "playedAt": "2026-03-12T14:19:06.249Z"
+      "playedAt": "2026-03-13T15:08:38.375Z"
     },
     {
-      "id": "6XR5hfcXi2kqLzep3ze9WJ",
-      "name": "Tatanka and the Toad - Alex Kaminski's Vision",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Victor Norman",
-        "Alex Kaminski"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-03-12T14:01:07.187Z"
+      "playedAt": "2026-03-13T15:04:43.774Z"
     },
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
       "artists": [
-        "James Asher"
+        "Hannah Stater"
       ],
-      "playedAt": "2026-03-12T13:54:09.012Z"
+      "playedAt": "2026-03-13T14:28:40.451Z"
     },
     {
-      "id": "4Jsi81TRikhlT0XjVdfH2m",
-      "name": "Gold Jaguar",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Zuma Dionys"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-03-12T13:48:12.232Z"
+      "playedAt": "2026-03-13T14:24:15.515Z"
     },
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "2dDuHXxFxLsdYdBBtgjoEi",
+      "name": "Dreaming of the Crash",
       "artists": [
-        "Still Corners"
+        "Hans Zimmer"
       ],
-      "playedAt": "2026-03-12T13:01:29.826Z"
+      "playedAt": "2026-03-13T14:20:42.399Z"
     },
     {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
+      "id": "4tlUdMgY0lwPVIfVYhr3qU",
+      "name": "Open the Gate",
       "artists": [
-        "Husky"
+        "Johannes Lehniger",
+        "Lisa Morgenstern",
+        "Sebastian Damerius"
       ],
-      "playedAt": "2026-03-12T12:57:34.062Z"
+      "playedAt": "2026-03-13T14:15:09.867Z"
     },
     {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
+      "id": "6ZFbXIJkuI1dVNWvzJzown",
+      "name": "Time",
       "artists": [
-        "Angus & Julia Stone"
+        "Hans Zimmer"
       ],
-      "playedAt": "2026-03-12T12:53:33.764Z"
+      "playedAt": "2026-03-13T14:08:06.799Z"
     },
     {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
+      "id": "7e41gTSV9fKdsDqOgS47Wg",
+      "name": "Where We're Going",
       "artists": [
-        "Angus & Julia Stone"
+        "Hans Zimmer"
       ],
-      "playedAt": "2026-03-12T12:43:20.848Z"
+      "playedAt": "2026-03-13T14:03:06.473Z"
     },
     {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
+      "id": "0Sg3UL7f40ulmTh0Xwr6qY",
+      "name": "Mountains",
       "artists": [
-        "Still Corners"
+        "Hans Zimmer"
       ],
-      "playedAt": "2026-03-12T12:40:01.326Z"
+      "playedAt": "2026-03-13T13:54:55.117Z"
     },
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "2aXDWWlbLUapMZnYNDErmv",
+      "name": "El Tango De Roxanne - From \"Moulin Rouge\" Soundtrack",
       "artists": [
-        "James Asher"
+        "José Feliciano",
+        "Ewan McGregor",
+        "Jacek Koman"
       ],
-      "playedAt": "2026-03-12T12:35:36.094Z"
+      "playedAt": "2026-03-13T13:50:46.284Z"
     },
     {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "id": "0W8XFThbr9Kbg6sh7Pm12k",
+      "name": "The Crown of Jaehaerys",
       "artists": [
-        "Poranguí",
-        "Liquid Bloom"
+        "Ramin Djawadi"
       ],
-      "playedAt": "2026-03-12T12:29:40.300Z"
+      "playedAt": "2026-03-13T13:45:32.335Z"
     },
     {
-      "id": "6XR5hfcXi2kqLzep3ze9WJ",
-      "name": "Tatanka and the Toad - Alex Kaminski's Vision",
+      "id": "3c1nWxMzw76sU66l3VN9rL",
+      "name": "Quarantine",
       "artists": [
-        "Victor Norman",
-        "Alex Kaminski"
+        "Justin Hurwitz"
       ],
-      "playedAt": "2026-03-12T12:21:00.366Z"
+      "playedAt": "2026-03-13T13:42:11.455Z"
     },
     {
-      "id": "4Jsi81TRikhlT0XjVdfH2m",
-      "name": "Gold Jaguar",
+      "id": "51NAGtuMHI3x2KfrMc86z4",
+      "name": "The Night Café",
       "artists": [
-        "Zuma Dionys"
+        "Clint Mansell"
       ],
-      "playedAt": "2026-03-12T12:10:49.634Z"
+      "playedAt": "2026-03-13T13:39:55.693Z"
     },
     {
-      "id": "6XR5hfcXi2kqLzep3ze9WJ",
-      "name": "Tatanka and the Toad - Alex Kaminski's Vision",
+      "id": "4VxaUj96W2jw9UOtKHu51p",
+      "name": "Goodbye",
       "artists": [
-        "Victor Norman",
-        "Alex Kaminski"
+        "Apparat",
+        "Soap&Skin"
       ],
-      "playedAt": "2026-03-12T12:03:31.590Z"
+      "playedAt": "2026-03-13T13:20:15.083Z"
     },
     {
-      "id": "4WF7zntvHfsUAw0m3noWby",
-      "name": "Suddhosi Buddhosi",
+      "id": "0wrWxW18WK2MkrfDpRHkyh",
+      "name": "Me and the Devil",
       "artists": [
-        "Shimshai"
+        "Soap&Skin"
       ],
-      "playedAt": "2026-03-12T11:56:30.698Z"
+      "playedAt": "2026-03-13T13:15:30.505Z"
     },
     {
-      "id": "3wccGoCoTXY6R3sa2kAsjO",
-      "name": "Los Cuatro Elementos",
+      "id": "2h9hfOBltXYBdUM3hzL8u5",
+      "name": "Back To Black",
       "artists": [
-        "Pedro Vadhar"
+        "Bryan Ferry",
+        "The Bryan Ferry Orchestra"
       ],
-      "playedAt": "2026-03-12T11:48:36.267Z"
+      "playedAt": "2026-03-13T13:05:14.959Z"
     },
     {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "id": "5aaXqH8rgKZxg61HjECldi",
+      "name": "No Time for Caution",
       "artists": [
-        "Poranguí",
-        "Liquid Bloom"
+        "Hans Zimmer"
       ],
-      "playedAt": "2026-03-12T11:44:34.257Z"
+      "playedAt": "2026-03-13T13:00:39.491Z"
     },
     {
-      "id": "2JvE8G9oewYIt2MKwbahtU",
-      "name": "Ballade in C# Minor: Coronation",
+      "id": "6NmEbJz0hXsoe5mogu23it",
+      "name": "Seven Devils",
       "artists": [
-        "Nicholas Britell"
+        "Florence + The Machine"
       ],
-      "playedAt": "2026-03-12T11:29:18.759Z"
+      "playedAt": "2026-03-13T12:56:32.707Z"
     },
     {
-      "id": "4pteEcX2rHSJXK8XSOtWP8",
-      "name": "To Love",
+      "id": "5sT9L8WpqE9Ux1LpNyHGWi",
+      "name": "Creep",
       "artists": [
-        "Suki Waterhouse"
+        "Scala & Kolacny Brothers"
       ],
-      "playedAt": "2026-03-12T10:04:36.588Z"
+      "playedAt": "2026-03-13T12:51:15.940Z"
     },
     {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
+      "id": "0YA9Ofybww924Dy12PkaXq",
+      "name": "Heart Of Glass - Crabtree Remix",
       "artists": [
-        "David A. Molina"
+        "Blondie",
+        "Philip Glass",
+        "Jonas Crabtree"
       ],
-      "playedAt": "2026-03-12T09:55:54.784Z"
+      "playedAt": "2026-03-13T12:46:20.336Z"
+    },
+    {
+      "id": "2NGhKPZdZk2pPZinWphTzh",
+      "name": "November",
+      "artists": [
+        "Max Richter",
+        "Mari Samuelsen",
+        "Konzerthausorchester Berlin",
+        "Jonathan Stockhammer"
+      ],
+      "playedAt": "2026-03-13T12:39:55.476Z"
+    },
+    {
+      "id": "5QdATOQJp1kififgPZYQ2Q",
+      "name": "Balder",
+      "artists": [
+        "Christian Reindl",
+        "Lucie Paradis"
+      ],
+      "playedAt": "2026-03-13T12:33:41.825Z"
     }
   ]
 }

@@ -3,29 +3,62 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6015384615384616,
-    "avgEnergy": 0.27538461538461534,
-    "avgAcousticness": 0.9076923076923078,
-    "trackCount": 22,
-    "analyzedCount": 13
+    "avgValence": 0.6084615384615385,
+    "avgEnergy": 0.31384615384615383,
+    "avgAcousticness": 0.8238461538461539,
+    "trackCount": 50,
+    "analyzedCount": 26
   },
-  "date": "2026-03-15T23:20:57.548Z",
+  "date": "2026-03-16T23:22:46.018Z",
   "tracks": [
     {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
+      "id": "0bhudMmr0XdtBOjFbjq8R0",
+      "name": "Jealous",
       "artists": [
-        "Angus & Julia Stone"
+        "Eyedress"
       ],
-      "playedAt": "2026-03-15T21:19:10.554Z"
+      "playedAt": "2026-03-16T21:55:17.648Z"
     },
     {
-      "id": "15NNe4V26FOiwagrNb4lbS",
-      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
+      "id": "0WFryfbNKPXVtVQlz5dZ8H",
+      "name": "hotline (edit)",
       "artists": [
-        "Liz Callaway"
+        "Billie Eilish"
       ],
-      "playedAt": "2026-03-15T20:37:48.610Z"
+      "playedAt": "2026-03-16T21:53:14.565Z"
+    },
+    {
+      "id": "2QGVKiAGTa1YcDqPMhAzF7",
+      "name": "The Spins",
+      "artists": [
+        "Mac Miller",
+        "Empire Of The Sun"
+      ],
+      "playedAt": "2026-03-16T21:52:13.286Z"
+    },
+    {
+      "id": "3sLhMSePzxSrmxluIqeoAZ",
+      "name": "I Put a Spell On You",
+      "artists": [
+        "Screamin' Jay Hawkins"
+      ],
+      "playedAt": "2026-03-16T21:48:56.951Z"
+    },
+    {
+      "id": "6CyoMFZcnFzoeiHBu5R32E",
+      "name": "The End",
+      "artists": [
+        "JPOLND"
+      ],
+      "playedAt": "2026-03-16T21:46:31.655Z"
+    },
+    {
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
+      "artists": [
+        "Hannah Stater"
+      ],
+      "playedAt": "2026-03-16T20:49:24.418Z"
     },
     {
       "id": "7rJ4gnET5vlWtFtmeRMyko",
@@ -33,7 +66,7 @@
       "artists": [
         "Dhafer Youssef"
       ],
-      "playedAt": "2026-03-15T20:34:59.633Z"
+      "playedAt": "2026-03-16T20:01:57.081Z"
     },
     {
       "id": "7fD2UJzJnOUd2Hmq4aaEMa",
@@ -41,15 +74,39 @@
       "artists": [
         "Camel Power Club"
       ],
-      "playedAt": "2026-03-15T20:31:02.345Z"
+      "playedAt": "2026-03-16T19:57:55.048Z"
     },
     {
-      "id": "768QnTZVvJ4DUDeouU98fk",
-      "name": "F Major",
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
       "artists": [
-        "Hania Rani"
+        "James Asher"
       ],
-      "playedAt": "2026-03-15T19:55:17.244Z"
+      "playedAt": "2026-03-16T17:41:29.038Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-03-16T17:32:56.294Z"
+    },
+    {
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
+      "artists": [
+        "Tami Neilson"
+      ],
+      "playedAt": "2026-03-16T17:29:52.205Z"
+    },
+    {
+      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
+      "name": "Witches",
+      "artists": [
+        "Alice Phoebe Lou"
+      ],
+      "playedAt": "2026-03-16T16:24:29.017Z"
     },
     {
       "id": "7caycKUiLznuxYK1C9Wxd6",
@@ -58,134 +115,15 @@
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-03-15T19:50:24.944Z"
+      "playedAt": "2026-03-16T16:19:22.470Z"
     },
     {
-      "id": "2TF5Bdvdyz7L2XeNtsiULQ",
-      "name": "Canta",
-      "artists": [
-        "Julietta",
-        "The Human Experience",
-        "David Satori"
-      ],
-      "playedAt": "2026-03-15T19:46:25.528Z"
-    },
-    {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
-      "artists": [
-        "Geoffroy"
-      ],
-      "playedAt": "2026-03-15T19:42:51.519Z"
-    },
-    {
-      "id": "3QywQH8lshVdbmLqLqhWya",
-      "name": "Next Chapter",
-      "artists": [
-        "Gabriel Albuquerqüe",
-        "Renzyx"
-      ],
-      "playedAt": "2026-03-15T19:39:54.692Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-03-15T19:32:52.521Z"
-    },
-    {
-      "id": "05i0gnCc4Tj9Rshavrirfh",
-      "name": "Free",
-      "artists": [
-        "Little Simz"
-      ],
-      "playedAt": "2026-03-15T19:29:33.299Z"
-    },
-    {
-      "id": "4JVZUa9DYtJ72QIVwYHYTi",
-      "name": "Tú Y Yo",
-      "artists": [
-        "Camel Power Club",
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-03-15T19:26:02.340Z"
-    },
-    {
-      "id": "2rnCae7ZO9bIfQFscasS3q",
-      "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
-      "artists": [
-        "Maria Callas",
-        "Tullio Serafin",
-        "Philharmonia Orchestra"
-      ],
-      "playedAt": "2026-03-15T18:22:33.649Z"
-    },
-    {
-      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
-      "name": "Weißer Ferrari",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-03-15T17:16:18.677Z"
-    },
-    {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-15T17:13:56.553Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "38u0aOa2FyQ7BerCsXHw0k",
+      "name": "Kundu Tribal",
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-03-15T17:09:31.836Z"
-    },
-    {
-      "id": "2QThU21Z82nM2lWQs7b5JY",
-      "name": "Reincarnation - Taavi Remix",
-      "artists": [
-        "Javiis",
-        "Taavi"
-      ],
-      "playedAt": "2026-03-15T17:03:42.216Z"
-    },
-    {
-      "id": "2ke17KqBdUbhjHDve5m9DH",
-      "name": "Craw-Fever",
-      "artists": [
-        "Elvis Presley"
-      ],
-      "playedAt": "2026-03-15T10:23:05.608Z"
-    },
-    {
-      "id": "41CpEqRT3TqIf5DoB0trcw",
-      "name": "Manifest",
-      "artists": [
-        "Taavi"
-      ],
-      "playedAt": "2026-03-15T10:19:14.576Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-15T10:13:58.362Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-03-15T10:10:39.860Z"
+      "playedAt": "2026-03-16T16:13:00.244Z"
     },
     {
       "id": "0NA09EJ4C7LwvI7CvtpdnV",
@@ -193,7 +131,291 @@
       "artists": [
         "Hannah Stater"
       ],
-      "playedAt": "2026-03-15T09:58:36.368Z"
+      "playedAt": "2026-03-16T16:03:06.353Z"
+    },
+    {
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
+      "artists": [
+        "Liz Callaway"
+      ],
+      "playedAt": "2026-03-16T15:59:11.462Z"
+    },
+    {
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
+      "artists": [
+        "Dhafer Youssef"
+      ],
+      "playedAt": "2026-03-16T15:56:22.155Z"
+    },
+    {
+      "id": "2geMgD0SjUMcnnc0G0ftpg",
+      "name": "My Own Home (The Jungle Book Theme)",
+      "artists": [
+        "Darleen Carr"
+      ],
+      "playedAt": "2026-03-16T15:52:25.251Z"
+    },
+    {
+      "id": "44829YKHiEgkzKCnKTqJuO",
+      "name": "Trust In Me (The Python's Song)",
+      "artists": [
+        "Sterling Holloway"
+      ],
+      "playedAt": "2026-03-16T15:49:02.339Z"
+    },
+    {
+      "id": "4X1qDzQdpuxN6UOkaq6UXi",
+      "name": "Toxic",
+      "artists": [
+        "AnnenMayKantereit"
+      ],
+      "playedAt": "2026-03-16T15:25:23.287Z"
+    },
+    {
+      "id": "0yljUudXzjVcGEoYmLB17X",
+      "name": "Genesis",
+      "artists": [
+        "Grimes"
+      ],
+      "playedAt": "2026-03-16T15:20:49.759Z"
+    },
+    {
+      "id": "5jQI2r1RdgtuT8S3iG8zFC",
+      "name": "Lavender Haze",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "playedAt": "2026-03-16T14:20:34.051Z"
+    },
+    {
+      "id": "1ELh6jiv1yniPyQaT73kh1",
+      "name": "Lemonhaze",
+      "artists": [
+        "PawPaw Rod"
+      ],
+      "playedAt": "2026-03-16T14:17:13.255Z"
+    },
+    {
+      "id": "1nLFRsLfmL8Q7KysmaZ4OV",
+      "name": "Naive to the Bone",
+      "artists": [
+        "Marie Davidson"
+      ],
+      "playedAt": "2026-03-16T14:14:34.050Z"
+    },
+    {
+      "id": "5kJrMogX8dnZvwJVRQct8l",
+      "name": "Nena",
+      "artists": [
+        "YEИDRY"
+      ],
+      "playedAt": "2026-03-16T14:10:28.146Z"
+    },
+    {
+      "id": "6maTPqynTmrkWIralgGaoP",
+      "name": "If We Ever Broke Up",
+      "artists": [
+        "Mae Stephens"
+      ],
+      "playedAt": "2026-03-16T14:07:54.628Z"
+    },
+    {
+      "id": "5jsSRZV38oVh9l2Tf6UREU",
+      "name": "Enid & Rebecca",
+      "artists": [
+        "Les Gordon"
+      ],
+      "playedAt": "2026-03-16T14:05:31.157Z"
+    },
+    {
+      "id": "4unEKanhrUiSOMqja8Euw5",
+      "name": "The Last of Us",
+      "artists": [
+        "Gustavo Santaolalla"
+      ],
+      "playedAt": "2026-03-16T14:02:35.668Z"
+    },
+    {
+      "id": "3yHrZ0f21yKyzG0ox65nB0",
+      "name": "Obliviate",
+      "artists": [
+        "Alexandre Desplat"
+      ],
+      "playedAt": "2026-03-16T14:01:30.668Z"
+    },
+    {
+      "id": "1qwno7xb5mJe71xtMS6jl2",
+      "name": "High Enough",
+      "artists": [
+        "K.Flay"
+      ],
+      "playedAt": "2026-03-16T13:58:24.407Z"
+    },
+    {
+      "id": "5gDWsRxpJ2lZAffh5p7K0w",
+      "name": "Stargirl Interlude",
+      "artists": [
+        "The Weeknd",
+        "Lana Del Rey"
+      ],
+      "playedAt": "2026-03-16T13:54:32.209Z"
+    },
+    {
+      "id": "5jcrFtjW9dscpbkFjjLmyH",
+      "name": "Moonchild",
+      "artists": [
+        "M83"
+      ],
+      "playedAt": "2026-03-16T13:35:41.044Z"
+    },
+    {
+      "id": "7AlJWH45s6NgsfgsKxWOIM",
+      "name": "I Won't Let You Down",
+      "artists": [
+        "Curtis Harding"
+      ],
+      "playedAt": "2026-03-16T13:31:01.841Z"
+    },
+    {
+      "id": "2J9UiW1gTs2YTxA6JPk849",
+      "name": "Parallax Effect",
+      "artists": [
+        "Juelz",
+        "Taavi"
+      ],
+      "playedAt": "2026-03-16T13:21:24.623Z"
+    },
+    {
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
+      "artists": [
+        "James Asher"
+      ],
+      "playedAt": "2026-03-16T11:38:59.745Z"
+    },
+    {
+      "id": "11IK0MwTmgXaeGgpUkn65W",
+      "name": "Snow Falling",
+      "artists": [
+        "Eben Vogel"
+      ],
+      "playedAt": "2026-03-16T11:09:13.121Z"
+    },
+    {
+      "id": "4Oq0AUVncfWa2rD0idz6oV",
+      "name": "Like a Ship",
+      "artists": [
+        "Pastor T.L. Barrett and the Youth for Christ Choir"
+      ],
+      "playedAt": "2026-03-16T11:06:55.704Z"
+    },
+    {
+      "id": "3NGrEQrSz7Wev5LhsjpI18",
+      "name": "Amor Dulce",
+      "artists": [
+        "AEREA"
+      ],
+      "playedAt": "2026-03-16T10:59:13.196Z"
+    },
+    {
+      "id": "0hfKJsATmfrRFpDa2jEK3F",
+      "name": "+",
+      "artists": [
+        "AEREA"
+      ],
+      "playedAt": "2026-03-16T10:56:51.084Z"
+    },
+    {
+      "id": "4cIPLtg1avt2Jm3ne9S1zy",
+      "name": "Killer Queen - Remastered 2011",
+      "artists": [
+        "Queen"
+      ],
+      "playedAt": "2026-03-16T10:53:24.703Z"
+    },
+    {
+      "id": "2Yk44lQXJDw9jySBTOB0Ag",
+      "name": "Take It Slow (feat. Loyle Carner)",
+      "artists": [
+        "ENNY",
+        "Loyle Carner"
+      ],
+      "playedAt": "2026-03-16T10:50:24.760Z"
+    },
+    {
+      "id": "42WjfDtnP5Ktt8GzpPAwkq",
+      "name": "Tender Is The Night",
+      "artists": [
+        "Luigi Tozzi"
+      ],
+      "playedAt": "2026-03-16T10:46:42.722Z"
+    },
+    {
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
+      "artists": [
+        "Hannah Stater"
+      ],
+      "playedAt": "2026-03-16T10:43:54.816Z"
+    },
+    {
+      "id": "5FBzeuvltY6BOyMxB80ivu",
+      "name": "Magic Arrow",
+      "artists": [
+        "Timber Timbre"
+      ],
+      "playedAt": "2026-03-16T10:40:25.297Z"
+    },
+    {
+      "id": "30A85Tw6ucwT7IcolXHTN5",
+      "name": "Hot Dreams",
+      "artists": [
+        "Timber Timbre"
+      ],
+      "playedAt": "2026-03-16T10:26:17.455Z"
+    },
+    {
+      "id": "2toWSLiO0t0eJmwqnn2UHy",
+      "name": "Run from Me",
+      "artists": [
+        "Timber Timbre"
+      ],
+      "playedAt": "2026-03-16T10:21:23.271Z"
+    },
+    {
+      "id": "7jw0m7b9IVg4uU2D4gx48g",
+      "name": "Demon Host",
+      "artists": [
+        "Timber Timbre"
+      ],
+      "playedAt": "2026-03-16T10:17:06.254Z"
+    },
+    {
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "artists": [
+        "Poranguí",
+        "Liquid Bloom"
+      ],
+      "playedAt": "2026-03-16T10:03:50.970Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-16T09:56:32.297Z"
+    },
+    {
+      "id": "6Cojy8iCgddqDVje5fWfjO",
+      "name": "Today is the Day",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-16T09:53:14.092Z"
     }
   ]
 }

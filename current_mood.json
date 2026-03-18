@@ -3,85 +3,61 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6453125000000002,
-    "avgEnergy": 0.34343749999999995,
-    "avgAcousticness": 0.7890625,
+    "avgValence": 0.6584375,
+    "avgEnergy": 0.3315625,
+    "avgAcousticness": 0.8068749999999998,
     "trackCount": 50,
     "analyzedCount": 32
   },
-  "date": "2026-03-17T23:23:41.754Z",
+  "date": "2026-03-18T23:24:00.401Z",
   "tracks": [
     {
-      "id": "3E0gVkirGK2ouGHPuOO9cN",
-      "name": "Ooh La La",
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
       "artists": [
-        "Goldfrapp"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-17T20:25:22.834Z"
+      "playedAt": "2026-03-18T23:05:50.076Z"
     },
     {
-      "id": "1ixbwbeBi5ufN4noUKmW5a",
-      "name": "Paper Planes",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "M.I.A."
+        "Still Corners"
       ],
-      "playedAt": "2026-03-17T20:21:57.593Z"
+      "playedAt": "2026-03-18T22:59:16.010Z"
     },
     {
-      "id": "0YQEWdfq3ajtNtK106Dr0k",
-      "name": "Shinigami Eyes",
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
       "artists": [
-        "Grimes"
+        "Husky"
       ],
-      "playedAt": "2026-03-17T20:17:44.952Z"
+      "playedAt": "2026-03-18T22:55:20.427Z"
     },
     {
-      "id": "755xVrgyHyUpl9EP5e4ICf",
-      "name": "Players",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "Coi Leray"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-17T20:15:06.846Z"
+      "playedAt": "2026-03-18T22:51:20.376Z"
     },
     {
-      "id": "4XXfQ8fBHMIgcygY4hV6RC",
-      "name": "Raingurl",
+      "id": "6Cojy8iCgddqDVje5fWfjO",
+      "name": "Today is the Day",
       "artists": [
-        "Yaeji"
+        "Still Corners"
       ],
-      "playedAt": "2026-03-17T20:12:26.819Z"
+      "playedAt": "2026-03-18T22:47:59.940Z"
     },
     {
-      "id": "7FOQQJNvfC7x8yO6DQBSFO",
-      "name": "Ani Kuni - Edit",
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
       "artists": [
-        "Polo & Pan"
+        "James Asher"
       ],
-      "playedAt": "2026-03-17T20:08:27.805Z"
-    },
-    {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
-      "artists": [
-        "Scarlett Johansson"
-      ],
-      "playedAt": "2026-03-17T20:05:43.820Z"
-    },
-    {
-      "id": "60r0mEqH580d1kYWGeEpwM",
-      "name": "Jimmy",
-      "artists": [
-        "M.I.A."
-      ],
-      "playedAt": "2026-03-17T19:58:09.904Z"
-    },
-    {
-      "id": "1ZEOIhSn6BKErV59bIgn76",
-      "name": "California Dreamin'",
-      "artists": [
-        "The Mamas & The Papas"
-      ],
-      "playedAt": "2026-03-17T19:54:27.436Z"
+      "playedAt": "2026-03-18T22:43:35.441Z"
     },
     {
       "id": "6UtpOAQMPOYVDHBhj0o0CF",
@@ -89,7 +65,109 @@
       "artists": [
         "Scarlett Johansson"
       ],
-      "playedAt": "2026-03-17T19:50:34.700Z"
+      "playedAt": "2026-03-18T22:35:03.095Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-18T22:29:58.264Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-18T22:26:25.614Z"
+    },
+    {
+      "id": "6HvCOJvbEzVTmEFmv79pTf",
+      "name": "We Dance Again",
+      "artists": [
+        "Black Coffee",
+        "Nakhane"
+      ],
+      "playedAt": "2026-03-18T18:15:06.379Z"
+    },
+    {
+      "id": "4sOLtnLeIFwO4YUUSV5DM5",
+      "name": "Jolie Fille (feat. Layefa)",
+      "artists": [
+        "Maz",
+        "Antdot",
+        "Ginton",
+        "Layefa"
+      ],
+      "playedAt": "2026-03-18T18:14:04.797Z"
+    },
+    {
+      "id": "6Au1l0egQFYxbnCZxakoOL",
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "artists": [
+        "Nina Simone",
+        "SOFI TUKKER"
+      ],
+      "playedAt": "2026-03-18T18:05:34.835Z"
+    },
+    {
+      "id": "6HvCOJvbEzVTmEFmv79pTf",
+      "name": "We Dance Again",
+      "artists": [
+        "Black Coffee",
+        "Nakhane"
+      ],
+      "playedAt": "2026-03-18T18:01:39.812Z"
+    },
+    {
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
+      "artists": [
+        "Hannah Stater"
+      ],
+      "playedAt": "2026-03-18T17:55:32.726Z"
+    },
+    {
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
+      "artists": [
+        "Liz Callaway"
+      ],
+      "playedAt": "2026-03-18T17:51:38.232Z"
+    },
+    {
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
+      "artists": [
+        "Dhafer Youssef"
+      ],
+      "playedAt": "2026-03-18T17:48:48.833Z"
+    },
+    {
+      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
+      "name": "Can I Tell You a Secret",
+      "artists": [
+        "Camel Power Club"
+      ],
+      "playedAt": "2026-03-18T17:44:57.577Z"
+    },
+    {
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
+      "artists": [
+        "Scarlett Johansson"
+      ],
+      "playedAt": "2026-03-18T17:41:41.765Z"
+    },
+    {
+      "id": "2tB5sTm4Lb8e6U0dNGuqtz",
+      "name": "House of the Rising Sun",
+      "artists": [
+        "Lauren O'Connell"
+      ],
+      "playedAt": "2026-03-18T17:12:37.170Z"
     },
     {
       "id": "0FCUZdyI2UvVscNAnKHopR",
@@ -98,162 +176,197 @@
         "Miss Kittin",
         "The Hacker"
       ],
-      "playedAt": "2026-03-17T19:47:38.865Z"
+      "playedAt": "2026-03-18T17:09:31.904Z"
     },
     {
-      "id": "4VU5AFuuSaez5Nt7vTPlHH",
-      "name": "Raise Me Up",
+      "id": "4at0npP4QkdIUulFZIsYft",
+      "name": "Tunnel",
       "artists": [
-        "Hercules & Love Affair"
+        "Polo & Pan",
+        "Channel Tres"
       ],
-      "playedAt": "2026-03-17T18:55:37.154Z"
+      "playedAt": "2026-03-18T16:49:21.166Z"
     },
     {
-      "id": "7xJJExBSwaDZLwunMMEauF",
-      "name": "I'm His Girl",
+      "id": "0VuHuQtpOCEDi9uu6GhtEK",
+      "name": "Yasminah (see your face again)",
       "artists": [
-        "Friends"
+        "Fred again.."
       ],
-      "playedAt": "2026-03-17T18:51:47.596Z"
+      "playedAt": "2026-03-18T16:37:52.983Z"
     },
     {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "Scarlett Johansson"
+        "Still Corners"
       ],
-      "playedAt": "2026-03-17T18:49:34.029Z"
+      "playedAt": "2026-03-18T16:33:43.336Z"
     },
     {
-      "id": "60r0mEqH580d1kYWGeEpwM",
-      "name": "Jimmy",
+      "id": "1WGkofNgcsQlcSkGNNT331",
+      "name": "If Love Is A Skill",
       "artists": [
-        "M.I.A."
+        "LP Giobbi",
+        "SOFI TUKKER"
       ],
-      "playedAt": "2026-03-17T18:46:38.423Z"
+      "playedAt": "2026-03-18T16:32:28.382Z"
     },
     {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "Poranguí",
-        "Liquid Bloom"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-17T18:42:13.296Z"
+      "playedAt": "2026-03-18T16:29:40.750Z"
     },
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
       "artists": [
-        "James Asher"
+        "Hannah Stater"
       ],
-      "playedAt": "2026-03-17T18:35:21.684Z"
+      "playedAt": "2026-03-18T16:26:12.295Z"
     },
     {
-      "id": "3uOA1C80HuqKc6cFwSzBjT",
-      "name": "Feeling Exceptional",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Kris Bowers"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-03-17T18:29:24.692Z"
+      "playedAt": "2026-03-18T16:22:34.494Z"
     },
     {
-      "id": "0D1pEisM3QkiacGXJe5dmd",
-      "name": "(You're The) Devil in Disguise",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "Elvis Presley"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-03-17T18:26:13.810Z"
+      "playedAt": "2026-03-18T16:19:27.722Z"
     },
     {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
+      "id": "1sFbPuShR6R8v6vSMkx02x",
+      "name": "Possibility",
       "artists": [
-        "Scarlett Johansson"
+        "Lykke Li"
       ],
-      "playedAt": "2026-03-17T18:23:53.658Z"
+      "playedAt": "2026-03-18T16:14:38.286Z"
     },
     {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
+      "id": "4sOLtnLeIFwO4YUUSV5DM5",
+      "name": "Jolie Fille (feat. Layefa)",
       "artists": [
-        "Scarlett Johansson"
+        "Maz",
+        "Antdot",
+        "Ginton",
+        "Layefa"
       ],
-      "playedAt": "2026-03-17T18:20:15.120Z"
+      "playedAt": "2026-03-18T10:57:54.358Z"
     },
     {
-      "id": "54xQKzGRXCOg2csW5CJRHS",
-      "name": "Craw-Fever",
+      "id": "6HvCOJvbEzVTmEFmv79pTf",
+      "name": "We Dance Again",
       "artists": [
-        "Elvis Presley"
+        "Black Coffee",
+        "Nakhane"
       ],
-      "playedAt": "2026-03-17T18:16:46.755Z"
+      "playedAt": "2026-03-18T10:54:39.026Z"
     },
     {
-      "id": "0r9OkYadpBgYA2bkkrRSsI",
-      "name": "Hot Sugar",
+      "id": "6Au1l0egQFYxbnCZxakoOL",
+      "name": "Sinnerman - Sofi Tukker Remix",
       "artists": [
-        "Glass Animals"
+        "Nina Simone",
+        "SOFI TUKKER"
       ],
-      "playedAt": "2026-03-17T17:36:09.643Z"
+      "playedAt": "2026-03-18T10:49:57.479Z"
     },
     {
-      "id": "6CyoMFZcnFzoeiHBu5R32E",
-      "name": "The End",
+      "id": "0VuHuQtpOCEDi9uu6GhtEK",
+      "name": "Yasminah (see your face again)",
       "artists": [
-        "JPOLND"
+        "Fred again.."
       ],
-      "playedAt": "2026-03-17T17:32:14.767Z"
+      "playedAt": "2026-03-18T10:46:04.310Z"
     },
     {
-      "id": "5jsSRZV38oVh9l2Tf6UREU",
-      "name": "Enid & Rebecca",
+      "id": "3m04gMIUG6HgYHn65fy5Xt",
+      "name": "I Felt Love",
       "artists": [
-        "Les Gordon"
+        "Blue Hawaii"
       ],
-      "playedAt": "2026-03-17T17:28:39.946Z"
+      "playedAt": "2026-03-18T10:42:59.046Z"
     },
     {
-      "id": "6chkDKDiskOeKnctKVO5GK",
-      "name": "Dance, Dance, Dance (Disco Version)",
+      "id": "26wBcR6Damyd7l4xGI6DNg",
+      "name": "Embrace - Black Coffee + Aquatone Remix",
       "artists": [
-        "Marta Acuna"
+        "Agoria",
+        "Phoebe Killdeer",
+        "Black Coffee"
       ],
-      "playedAt": "2026-03-17T17:25:17.983Z"
+      "playedAt": "2026-03-18T10:39:46.611Z"
     },
     {
-      "id": "3td69vL9Py7Ai9wfXYnvji",
-      "name": "When You Die",
+      "id": "1a3u6JpaSEndtkzDyUFOqC",
+      "name": "Weightless (jamesjamesjames Remix)",
       "artists": [
-        "MGMT"
+        "Ben Böhmer",
+        "Panama",
+        "jamesjamesjames"
       ],
-      "playedAt": "2026-03-17T17:18:42.947Z"
+      "playedAt": "2026-03-18T10:32:48.925Z"
     },
     {
-      "id": "1pqjOgonZC2T3bB9JAl3Uz",
-      "name": "Everybody Supports Women",
+      "id": "69tfaZMe6zobEKoN7wAZlR",
+      "name": "It's Ok",
       "artists": [
-        "SOFIA ISELLA"
+        "Catz 'n Dogz"
       ],
-      "playedAt": "2026-03-17T17:09:36.105Z"
+      "playedAt": "2026-03-18T10:28:38.989Z"
     },
     {
-      "id": "5GKsUqnQ90T5kkvG6u30wZ",
-      "name": "CRUSH",
+      "id": "3whmx5Ptrqzx2c101FJFi3",
+      "name": "Help Me Lose My Mind",
       "artists": [
-        "Yellow Claw",
-        "Natte Visstick",
-        "RHYME"
+        "Disclosure",
+        "London Grammar"
       ],
-      "playedAt": "2026-03-17T17:04:50.640Z"
+      "playedAt": "2026-03-18T10:25:43.554Z"
     },
     {
-      "id": "73MKrTmJ5npd4Ha8DatSps",
-      "name": "Jungle",
+      "id": "7n8Swu6RiPhtBgRlGUD7AT",
+      "name": "Don't Dribble - Radio Version",
       "artists": [
-        "Taavi"
+        "Etzu Mahkayah"
       ],
-      "playedAt": "2026-03-17T17:01:50.961Z"
+      "playedAt": "2026-03-18T10:21:40.609Z"
+    },
+    {
+      "id": "4ZnkygoWLzcGbQYCm3lkae",
+      "name": "Rush",
+      "artists": [
+        "Troye Sivan"
+      ],
+      "playedAt": "2026-03-18T10:18:11.745Z"
+    },
+    {
+      "id": "4at0npP4QkdIUulFZIsYft",
+      "name": "Tunnel",
+      "artists": [
+        "Polo & Pan",
+        "Channel Tres"
+      ],
+      "playedAt": "2026-03-18T10:15:34.858Z"
+    },
+    {
+      "id": "7hb5jmdxk9qOwZeSkYJpqb",
+      "name": "WACUKA",
+      "artists": [
+        "AVAION",
+        "Sofiya Nzau"
+      ],
+      "playedAt": "2026-03-18T10:09:59.503Z"
     },
     {
       "id": "6HZiDsrA00Jiy1EBkukFNr",
@@ -262,74 +375,23 @@
         "Fritz Kalkbrenner",
         "Ede"
       ],
-      "playedAt": "2026-03-17T16:30:21.631Z"
+      "playedAt": "2026-03-18T10:06:20.400Z"
     },
     {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
       "artists": [
-        "Goldie Boutilier"
+        "Scarlett Johansson"
       ],
-      "playedAt": "2026-03-17T16:26:34.777Z"
+      "playedAt": "2026-03-18T08:16:07.626Z"
     },
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
+      "name": "Weißer Ferrari",
       "artists": [
-        "Juelz"
+        "nand"
       ],
-      "playedAt": "2026-03-17T16:22:27.154Z"
-    },
-    {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
-      "artists": [
-        "Poranguí",
-        "Liquid Bloom"
-      ],
-      "playedAt": "2026-03-17T16:18:19.504Z"
-    },
-    {
-      "id": "6XR5hfcXi2kqLzep3ze9WJ",
-      "name": "Tatanka and the Toad - Alex Kaminski's Vision",
-      "artists": [
-        "Victor Norman",
-        "Alex Kaminski"
-      ],
-      "playedAt": "2026-03-17T16:11:23.015Z"
-    },
-    {
-      "id": "7rJ4gnET5vlWtFtmeRMyko",
-      "name": "Shajan",
-      "artists": [
-        "Dhafer Youssef"
-      ],
-      "playedAt": "2026-03-17T16:04:24.477Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-17T16:00:27.868Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-17T15:50:06.612Z"
-    },
-    {
-      "id": "1OubIZ0ARYCUq5kceYUQiO",
-      "name": "Congratulations (feat. Bilal)",
-      "artists": [
-        "Mac Miller",
-        "Bilal"
-      ],
-      "playedAt": "2026-03-17T15:49:10.901Z"
+      "playedAt": "2026-03-18T08:12:45.059Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -337,15 +399,7 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-03-17T15:44:45.770Z"
-    },
-    {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
-      "artists": [
-        "Husky"
-      ],
-      "playedAt": "2026-03-17T15:40:50.105Z"
+      "playedAt": "2026-03-18T08:10:16.010Z"
     },
     {
       "id": "7sPaHKAHhDzsTmgipIV5Io",
@@ -353,73 +407,31 @@
       "artists": [
         "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-17T15:36:50.338Z"
+      "playedAt": "2026-03-18T08:06:11.394Z"
     },
     {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
       "artists": [
-        "Still Corners"
+        "Hannah Stater"
       ],
-      "playedAt": "2026-03-17T15:33:20.934Z"
+      "playedAt": "2026-03-18T08:00:34.805Z"
     },
     {
-      "id": "2xFa9MZkbvohXjLg2mWylk",
-      "name": "Eine gute Frau",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Nura"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-03-17T15:03:08.636Z"
+      "playedAt": "2026-03-18T07:56:39.775Z"
     },
     {
-      "id": "1v8mEfH69e1ib1DD9Yp1X9",
-      "name": "Becoming a Geisha (From \"Memoirs of a Geisha\" Soundtrack)",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "John Williams",
-        "Yo-Yo Ma",
-        "Itzhak Perlman"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-03-17T14:58:29.020Z"
-    },
-    {
-      "id": "1WeSxdELPrmtSwGRbjg6hz",
-      "name": "Art Deco",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "playedAt": "2026-03-17T14:30:35.459Z"
-    },
-    {
-      "id": "299rXvRKRr5E32DvIbk1sn",
-      "name": "Beginnings Are Such Delicate Times",
-      "artists": [
-        "Hans Zimmer"
-      ],
-      "playedAt": "2026-03-17T14:20:16.176Z"
-    },
-    {
-      "id": "61Ps2sXXwiYCcyAynt81JI",
-      "name": "Kiss the Ring",
-      "artists": [
-        "Hans Zimmer"
-      ],
-      "playedAt": "2026-03-17T14:11:19.163Z"
-    },
-    {
-      "id": "2Al2n6ziP5XjIMZEL4laQj",
-      "name": "Dumb Love",
-      "artists": [
-        "NEIL FRANCES"
-      ],
-      "playedAt": "2026-03-17T14:08:05.531Z"
-    },
-    {
-      "id": "0JkryawvRTmBeA6cfzKumy",
-      "name": "50//50",
-      "artists": [
-        "Vantage"
-      ],
-      "playedAt": "2026-03-17T14:03:24.066Z"
+      "playedAt": "2026-03-18T07:53:50.251Z"
     }
   ]
 }

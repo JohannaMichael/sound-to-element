@@ -3,21 +3,29 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6820588235294118,
-    "avgEnergy": 0.2994117647058823,
-    "avgAcousticness": 0.8250000000000001,
-    "trackCount": 45,
-    "analyzedCount": 34
+    "avgValence": 0.6594285714285715,
+    "avgEnergy": 0.3282857142857143,
+    "avgAcousticness": 0.8114285714285714,
+    "trackCount": 50,
+    "analyzedCount": 35
   },
-  "date": "2026-03-20T23:20:27.294Z",
+  "date": "2026-03-21T23:16:15.425Z",
   "tracks": [
     {
-      "id": "0M2qa9uXyL6dzejgseuszY",
-      "name": "Freydies",
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
       "artists": [
-        "Yuvèe"
+        "Bob Dylan"
       ],
-      "playedAt": "2026-03-20T23:16:50.913Z"
+      "playedAt": "2026-03-21T22:11:24.411Z"
+    },
+    {
+      "id": "7M9pPyt8Gr41THLhbz4NSB",
+      "name": "Don't Let Me Be Misunderstood",
+      "artists": [
+        "Nina Simone"
+      ],
+      "playedAt": "2026-03-21T22:08:54.080Z"
     },
     {
       "id": "67UOlZLz6tDEDuScefmWDd",
@@ -25,240 +33,47 @@
       "artists": [
         "Jürgen Paape"
       ],
-      "playedAt": "2026-03-20T23:12:57.189Z"
+      "playedAt": "2026-03-21T22:06:07.466Z"
     },
     {
-      "id": "6hHc7Pks7wtBIW8Z6A0iFq",
-      "name": "Blue Monday",
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
       "artists": [
-        "New Order"
+        "Cari Cari"
       ],
-      "playedAt": "2026-03-20T23:04:12.085Z"
+      "playedAt": "2026-03-21T22:00:18.749Z"
     },
     {
-      "id": "41CpEqRT3TqIf5DoB0trcw",
-      "name": "Manifest",
+      "id": "4ll1UfyVm9we6xoTNGnMYO",
+      "name": "Italove",
       "artists": [
-        "Taavi"
+        "EMMANUELLE"
       ],
-      "playedAt": "2026-03-20T17:29:23.431Z"
+      "playedAt": "2026-03-21T21:55:46.714Z"
     },
     {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
+      "id": "7AGoJqvPydierFwmc4i8gr",
+      "name": "Brisa Do Mar",
       "artists": [
-        "Geoffroy"
+        "Blancc"
       ],
-      "playedAt": "2026-03-20T17:24:49.899Z"
+      "playedAt": "2026-03-21T21:50:24.730Z"
     },
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
+      "name": "Weißer Ferrari",
       "artists": [
-        "Still Corners"
+        "nand"
       ],
-      "playedAt": "2026-03-20T17:21:55.624Z"
+      "playedAt": "2026-03-21T18:58:22.980Z"
     },
     {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
+      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
+      "name": "Can I Tell You a Secret",
       "artists": [
-        "Bob Dylan"
+        "Camel Power Club"
       ],
-      "playedAt": "2026-03-20T17:17:14.692Z"
-    },
-    {
-      "id": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
-      "artists": [
-        "Nina Simone"
-      ],
-      "playedAt": "2026-03-20T17:14:44.060Z"
-    },
-    {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
-      "artists": [
-        "Bob Dylan"
-      ],
-      "playedAt": "2026-03-20T17:09:28.731Z"
-    },
-    {
-      "id": "5l9c6bJmzvftumhz4TMPgk",
-      "name": "Harvest Moon",
-      "artists": [
-        "Neil Young"
-      ],
-      "playedAt": "2026-03-20T17:04:11.637Z"
-    },
-    {
-      "id": "6L5BZEcZmD6RBJnimzlyKr",
-      "name": "Nights In White Satin - Single Version / Mono",
-      "artists": [
-        "The Moody Blues"
-      ],
-      "playedAt": "2026-03-20T16:56:03.829Z"
-    },
-    {
-      "id": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
-      "artists": [
-        "Nina Simone"
-      ],
-      "playedAt": "2026-03-20T16:51:34.080Z"
-    },
-    {
-      "id": "1mFrjW8e8fuAOowlU3Q3Dr",
-      "name": "Dedicated To The One I Love",
-      "artists": [
-        "The Mamas & The Papas"
-      ],
-      "playedAt": "2026-03-20T16:48:48.005Z"
-    },
-    {
-      "id": "7n3WO6ESKS1uCI9fgkGs66",
-      "name": "I'd Love to Change the World - 2004 Remaster",
-      "artists": [
-        "Ten Years After"
-      ],
-      "playedAt": "2026-03-20T16:45:48.440Z"
-    },
-    {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
-      "artists": [
-        "Bob Dylan"
-      ],
-      "playedAt": "2026-03-20T16:42:03.802Z"
-    },
-    {
-      "id": "27hhIs2fp6w06N5zx4Eaa5",
-      "name": "Dream A Little Dream Of Me",
-      "artists": [
-        "The Mamas & The Papas"
-      ],
-      "playedAt": "2026-03-20T16:38:42.359Z"
-    },
-    {
-      "id": "1ZEOIhSn6BKErV59bIgn76",
-      "name": "California Dreamin'",
-      "artists": [
-        "The Mamas & The Papas"
-      ],
-      "playedAt": "2026-03-20T16:35:27.843Z"
-    },
-    {
-      "id": "6HvCOJvbEzVTmEFmv79pTf",
-      "name": "We Dance Again",
-      "artists": [
-        "Black Coffee",
-        "Nakhane"
-      ],
-      "playedAt": "2026-03-20T16:28:17.739Z"
-    },
-    {
-      "id": "2cWDhpDPrGLxRuNabs4S7L",
-      "name": "On Falling",
-      "artists": [
-        "Helly Larson"
-      ],
-      "playedAt": "2026-03-20T16:23:41.607Z"
-    },
-    {
-      "id": "3hzvNYkwIHZebMEviBwWZU",
-      "name": "Maybe It's Love...",
-      "artists": [
-        "yungpolar"
-      ],
-      "playedAt": "2026-03-20T15:18:37.828Z"
-    },
-    {
-      "id": "0ySKTAwX6IEL8hOnHSa4pD",
-      "name": "Mirage",
-      "artists": [
-        "Mark Alow"
-      ],
-      "playedAt": "2026-03-20T15:13:23.935Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-20T15:06:28.777Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-20T15:02:35.121Z"
-    },
-    {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-03-20T14:57:27.153Z"
-    },
-    {
-      "id": "155VhO5SaeFUz107dXb9CY",
-      "name": "Nothing Else",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-20T14:53:09.974Z"
-    },
-    {
-      "id": "1JMyndqIXDM7cKmRu3nFws",
-      "name": "Leap Year",
-      "artists": [
-        "Billie Marten"
-      ],
-      "playedAt": "2026-03-20T14:48:45.731Z"
-    },
-    {
-      "id": "0ZplRXackRMYmf8VThWX6z",
-      "name": "Heart Beats Slow",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-20T14:43:00.101Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-20T14:38:23.886Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-20T14:34:28.501Z"
-    },
-    {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-20T14:31:07.934Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-03-20T14:26:43.676Z"
+      "playedAt": "2026-03-21T18:55:07.788Z"
     },
     {
       "id": "1OArQ5np9biqJlGL2RMpOE",
@@ -267,31 +82,15 @@
         "Poranguí",
         "Liquid Bloom"
       ],
-      "playedAt": "2026-03-20T14:20:46.764Z"
+      "playedAt": "2026-03-21T18:51:58.351Z"
     },
     {
-      "id": "15NNe4V26FOiwagrNb4lbS",
-      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
       "artists": [
-        "Liz Callaway"
+        "James Asher"
       ],
-      "playedAt": "2026-03-20T14:13:39.847Z"
-    },
-    {
-      "id": "7rJ4gnET5vlWtFtmeRMyko",
-      "name": "Shajan",
-      "artists": [
-        "Dhafer Youssef"
-      ],
-      "playedAt": "2026-03-20T14:10:50.843Z"
-    },
-    {
-      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
-      "name": "Can I Tell You a Secret",
-      "artists": [
-        "Camel Power Club"
-      ],
-      "playedAt": "2026-03-20T14:06:53.365Z"
+      "playedAt": "2026-03-21T17:53:36.311Z"
     },
     {
       "id": "6UtpOAQMPOYVDHBhj0o0CF",
@@ -299,33 +98,302 @@
       "artists": [
         "Scarlett Johansson"
       ],
-      "playedAt": "2026-03-20T14:03:43.581Z"
+      "playedAt": "2026-03-21T17:47:38.947Z"
     },
     {
-      "id": "6Au1l0egQFYxbnCZxakoOL",
-      "name": "Sinnerman - Sofi Tukker Remix",
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
       "artists": [
-        "Nina Simone",
-        "SOFI TUKKER"
+        "Bob Dylan"
       ],
-      "playedAt": "2026-03-20T14:01:05.527Z"
+      "playedAt": "2026-03-21T17:44:14.080Z"
     },
     {
-      "id": "6HvCOJvbEzVTmEFmv79pTf",
-      "name": "We Dance Again",
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
       "artists": [
-        "Black Coffee",
-        "Nakhane"
+        "Cari Cari"
       ],
-      "playedAt": "2026-03-20T11:42:51.801Z"
+      "playedAt": "2026-03-21T17:41:46.194Z"
     },
     {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
+      "id": "4ll1UfyVm9we6xoTNGnMYO",
+      "name": "Italove",
       "artists": [
-        "David A. Molina"
+        "EMMANUELLE"
       ],
-      "playedAt": "2026-03-20T08:11:26.322Z"
+      "playedAt": "2026-03-21T17:37:09.196Z"
+    },
+    {
+      "id": "0rIwCzUSEE2p05asU1v9fj",
+      "name": "La Orilla",
+      "artists": [
+        "Federico Aubele"
+      ],
+      "playedAt": "2026-03-21T17:32:01.040Z"
+    },
+    {
+      "id": "7tU0xSzV3kJOLSt70iLNi6",
+      "name": "Amore fermati",
+      "artists": [
+        "Fred Bongusto"
+      ],
+      "playedAt": "2026-03-21T15:15:14.657Z"
+    },
+    {
+      "id": "5kJrMogX8dnZvwJVRQct8l",
+      "name": "Nena",
+      "artists": [
+        "YEИDRY"
+      ],
+      "playedAt": "2026-03-21T15:12:13.047Z"
+    },
+    {
+      "id": "3Wgs96Z4TdCpnqFj2CxpsI",
+      "name": "Come Here",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "playedAt": "2026-03-21T15:09:27.700Z"
+    },
+    {
+      "id": "3yHrZ0f21yKyzG0ox65nB0",
+      "name": "Obliviate",
+      "artists": [
+        "Alexandre Desplat"
+      ],
+      "playedAt": "2026-03-21T15:02:03.855Z"
+    },
+    {
+      "id": "3fHDbOrSf2IQhLeKaShLS4",
+      "name": "Fuel to Fire",
+      "artists": [
+        "Agnes Obel"
+      ],
+      "playedAt": "2026-03-21T14:58:56.968Z"
+    },
+    {
+      "id": "0am7xDdDFuNBUA6cU4DGVQ",
+      "name": "Lust auf Dich",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-03-21T14:53:26.744Z"
+    },
+    {
+      "id": "3oNQ6NkihVzQkV5qhk2Pbe",
+      "name": "Something About You",
+      "artists": [
+        "Eyedress",
+        "Dent May"
+      ],
+      "playedAt": "2026-03-21T14:51:42.588Z"
+    },
+    {
+      "id": "5MG69A9XyXDbBbeOxdR3Tl",
+      "name": "don't miss me",
+      "artists": [
+        "Claire Rosinkranz"
+      ],
+      "playedAt": "2026-03-21T14:48:27.455Z"
+    },
+    {
+      "id": "1yvFoBp2Bq1ilD0518ZpQx",
+      "name": "DON'T JEALOUS ME",
+      "artists": [
+        "Tekno",
+        "Lord Afrixana",
+        "Mr Eazi",
+        "Yemi Alade"
+      ],
+      "playedAt": "2026-03-21T14:46:20.861Z"
+    },
+    {
+      "id": "7ja0rsJBBCqZH4f3Ga9uGn",
+      "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
+      "artists": [
+        "James Newton Howard"
+      ],
+      "playedAt": "2026-03-21T14:43:43.930Z"
+    },
+    {
+      "id": "4unEKanhrUiSOMqja8Euw5",
+      "name": "The Last of Us",
+      "artists": [
+        "Gustavo Santaolalla"
+      ],
+      "playedAt": "2026-03-21T14:38:31.173Z"
+    },
+    {
+      "id": "3H2g0y2gTpukpiCgd6ZeTZ",
+      "name": "Make It",
+      "artists": [
+        "Aaron May"
+      ],
+      "playedAt": "2026-03-21T14:37:23.071Z"
+    },
+    {
+      "id": "5gDWsRxpJ2lZAffh5p7K0w",
+      "name": "Stargirl Interlude",
+      "artists": [
+        "The Weeknd",
+        "Lana Del Rey"
+      ],
+      "playedAt": "2026-03-21T14:35:03.067Z"
+    },
+    {
+      "id": "5Ftq5NoWX81T5WNp0qNGNa",
+      "name": "Atlas - MAUGLI Remix",
+      "artists": [
+        "KAYAM",
+        "MAUGLI"
+      ],
+      "playedAt": "2026-03-21T14:30:22.284Z"
+    },
+    {
+      "id": "04sN26COy28wTXYj3dMoiZ",
+      "name": "Bored",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-03-21T14:15:25.870Z"
+    },
+    {
+      "id": "0OK4Dhc10O8cTXdesihLGL",
+      "name": "mwah :3",
+      "artists": [
+        "rusowsky",
+        "Dinamarca"
+      ],
+      "playedAt": "2026-03-21T14:12:21.640Z"
+    },
+    {
+      "id": "4ll1UfyVm9we6xoTNGnMYO",
+      "name": "Italove",
+      "artists": [
+        "EMMANUELLE"
+      ],
+      "playedAt": "2026-03-21T14:10:23.924Z"
+    },
+    {
+      "id": "67UOlZLz6tDEDuScefmWDd",
+      "name": "So Weit Wie Noch Nie",
+      "artists": [
+        "Jürgen Paape"
+      ],
+      "playedAt": "2026-03-21T13:12:00.686Z"
+    },
+    {
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
+      "artists": [
+        "Cari Cari"
+      ],
+      "playedAt": "2026-03-21T11:19:00.914Z"
+    },
+    {
+      "id": "5JQeFVoT7dpl6NmVObf3LG",
+      "name": "Stonecutters",
+      "artists": [
+        "DOPE LEMON"
+      ],
+      "playedAt": "2026-03-21T10:15:56.247Z"
+    },
+    {
+      "id": "0tmL36cLa1S7Cgn0RccKyH",
+      "name": "Narrow Margins",
+      "artists": [
+        "Half Moon Run"
+      ],
+      "playedAt": "2026-03-21T10:11:28.627Z"
+    },
+    {
+      "id": "7aU8ycwySg1LQAuCKgr3z9",
+      "name": "Red Hearts",
+      "artists": [
+        "Marlon Funaki"
+      ],
+      "playedAt": "2026-03-21T08:56:29.355Z"
+    },
+    {
+      "id": "3kjcc5PMtoymSpInmhSxUN",
+      "name": "Sad Movies",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-21T08:53:11.692Z"
+    },
+    {
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
+      "artists": [
+        "Cari Cari"
+      ],
+      "playedAt": "2026-03-21T08:48:54.782Z"
+    },
+    {
+      "id": "4fClDRRHTAp7Fa8F3jmfok",
+      "name": "Amusement Park",
+      "artists": [
+        "Nicolas Michaux"
+      ],
+      "playedAt": "2026-03-21T08:44:20.998Z"
+    },
+    {
+      "id": "5GvCX8WNlOmu5eKzRofCC5",
+      "name": "The Ecstacy Once Told",
+      "artists": [
+        "The Dolly Rocker Movement"
+      ],
+      "playedAt": "2026-03-21T08:40:47.331Z"
+    },
+    {
+      "id": "2P5tq6IKBKjlFSZ6FZlZk6",
+      "name": "Make Way For The Sun",
+      "artists": [
+        "O & The Mo"
+      ],
+      "playedAt": "2026-03-21T08:35:43.982Z"
+    },
+    {
+      "id": "1WSXieHimlAi2I3hG52aNP",
+      "name": "A Kiss Before Dying",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-21T08:32:31.148Z"
+    },
+    {
+      "id": "0EvZksFiDpboeG4UVaIvJa",
+      "name": "Theworstthing",
+      "artists": [
+        "Parcels"
+      ],
+      "playedAt": "2026-03-21T08:29:45.273Z"
+    },
+    {
+      "id": "1mCvM05OlYWQd77RDxCTLD",
+      "name": "Life Worth Living",
+      "artists": [
+        "LAUREL"
+      ],
+      "playedAt": "2026-03-21T08:26:40.774Z"
+    },
+    {
+      "id": "3pwz3zha3KTc7dT9NhlHjm",
+      "name": "All Away",
+      "artists": [
+        "Nouvelle Phénomène"
+      ],
+      "playedAt": "2026-03-21T08:22:36.251Z"
+    },
+    {
+      "id": "1onfJOCPNOT7vcB7qYC1RP",
+      "name": "Like Sweetness",
+      "artists": [
+        "Warpaint"
+      ],
+      "playedAt": "2026-03-21T08:18:12.727Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -333,47 +401,26 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-03-20T08:11:14.231Z"
+      "playedAt": "2026-03-21T07:55:32.128Z"
     },
     {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
+      "id": "4sOLtnLeIFwO4YUUSV5DM5",
+      "name": "Jolie Fille (feat. Layefa)",
       "artists": [
-        "Angus & Julia Stone"
+        "Maz",
+        "Antdot",
+        "Ginton",
+        "Layefa"
       ],
-      "playedAt": "2026-03-20T08:00:42.448Z"
+      "playedAt": "2026-03-21T07:51:04.210Z"
     },
     {
-      "id": "7rJ4gnET5vlWtFtmeRMyko",
-      "name": "Shajan",
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
       "artists": [
-        "Dhafer Youssef"
+        "Bob Dylan"
       ],
-      "playedAt": "2026-03-20T06:50:24.688Z"
-    },
-    {
-      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
-      "name": "Can I Tell You a Secret",
-      "artists": [
-        "Camel Power Club"
-      ],
-      "playedAt": "2026-03-20T06:46:27.298Z"
-    },
-    {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
-      "artists": [
-        "Scarlett Johansson"
-      ],
-      "playedAt": "2026-03-20T06:43:17.663Z"
-    },
-    {
-      "id": "2tB5sTm4Lb8e6U0dNGuqtz",
-      "name": "House of the Rising Sun",
-      "artists": [
-        "Lauren O'Connell"
-      ],
-      "playedAt": "2026-03-20T06:40:22.426Z"
+      "playedAt": "2026-03-21T07:48:17.593Z"
     }
   ]
 }

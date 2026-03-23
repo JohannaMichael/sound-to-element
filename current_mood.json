@@ -3,62 +3,29 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.671842105263158,
-    "avgEnergy": 0.32868421052631575,
-    "avgAcousticness": 0.8181578947368421,
+    "avgValence": 0.6437837837837836,
+    "avgEnergy": 0.3118918918918919,
+    "avgAcousticness": 0.8632432432432432,
     "trackCount": 50,
-    "analyzedCount": 38
+    "analyzedCount": 37
   },
-  "date": "2026-03-22T23:18:38.245Z",
+  "date": "2026-03-23T23:23:48.751Z",
   "tracks": [
-    {
-      "id": "6HZiDsrA00Jiy1EBkukFNr",
-      "name": "Can We Find A Way - Ede Remix",
-      "artists": [
-        "Fritz Kalkbrenner",
-        "Ede"
-      ],
-      "playedAt": "2026-03-22T20:27:17.824Z"
-    },
-    {
-      "id": "7z4faVYNs01Qxwt34R4pYd",
-      "name": "Lunita",
-      "artists": [
-        "Danit"
-      ],
-      "playedAt": "2026-03-22T20:23:13.886Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-22T20:17:24.284Z"
-    },
     {
       "id": "7sPaHKAHhDzsTmgipIV5Io",
       "name": "Down To The Sea",
       "artists": [
         "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-22T20:12:50.391Z"
+      "playedAt": "2026-03-23T18:41:06.589Z"
     },
     {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
+      "id": "6Cojy8iCgddqDVje5fWfjO",
+      "name": "Today is the Day",
       "artists": [
-        "Bob Dylan"
+        "Still Corners"
       ],
-      "playedAt": "2026-03-22T20:09:31.852Z"
-    },
-    {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
-      "artists": [
-        "Geoffroy"
-      ],
-      "playedAt": "2026-03-22T20:06:51.362Z"
+      "playedAt": "2026-03-23T18:37:46.423Z"
     },
     {
       "id": "5cJBLutdQO3ikhfOItxPTc",
@@ -66,7 +33,7 @@
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-03-22T20:03:54.566Z"
+      "playedAt": "2026-03-23T18:33:22.387Z"
     },
     {
       "id": "1OArQ5np9biqJlGL2RMpOE",
@@ -75,23 +42,247 @@
         "Poranguí",
         "Liquid Bloom"
       ],
-      "playedAt": "2026-03-22T19:57:57.992Z"
+      "playedAt": "2026-03-23T18:27:25.327Z"
     },
     {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
+      "id": "5jsSRZV38oVh9l2Tf6UREU",
+      "name": "Enid & Rebecca",
       "artists": [
-        "EMMANUELLE"
+        "Les Gordon"
       ],
-      "playedAt": "2026-03-22T19:49:05.941Z"
+      "playedAt": "2026-03-23T18:20:23.666Z"
     },
     {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
+      "id": "3iEUDvanZwQhLCIqUmCR7N",
+      "name": "The Spins",
       "artists": [
-        "Bob Dylan"
+        "Mac Miller",
+        "Empire Of The Sun"
       ],
-      "playedAt": "2026-03-22T19:43:31.844Z"
+      "playedAt": "2026-03-23T17:35:28.762Z"
+    },
+    {
+      "id": "1oSDiyNMslJoTCfUZBHNP2",
+      "name": "Happy Man",
+      "artists": [
+        "Jungle"
+      ],
+      "playedAt": "2026-03-23T17:21:41.838Z"
+    },
+    {
+      "id": "1yvFoBp2Bq1ilD0518ZpQx",
+      "name": "DON'T JEALOUS ME",
+      "artists": [
+        "Tekno",
+        "Lord Afrixana",
+        "Mr Eazi",
+        "Yemi Alade"
+      ],
+      "playedAt": "2026-03-23T17:18:23.195Z"
+    },
+    {
+      "id": "0am7xDdDFuNBUA6cU4DGVQ",
+      "name": "Lust auf Dich",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-03-23T17:15:27.086Z"
+    },
+    {
+      "id": "0yljUudXzjVcGEoYmLB17X",
+      "name": "Genesis",
+      "artists": [
+        "Grimes"
+      ],
+      "playedAt": "2026-03-23T17:12:40.974Z"
+    },
+    {
+      "id": "5gDWsRxpJ2lZAffh5p7K0w",
+      "name": "Stargirl Interlude",
+      "artists": [
+        "The Weeknd",
+        "Lana Del Rey"
+      ],
+      "playedAt": "2026-03-23T17:08:24.713Z"
+    },
+    {
+      "id": "1KX30hHDvpBRvm3JXxtYEY",
+      "name": "Tunnel of You",
+      "artists": [
+        "Cannons"
+      ],
+      "playedAt": "2026-03-23T17:06:09.571Z"
+    },
+    {
+      "id": "6CyoMFZcnFzoeiHBu5R32E",
+      "name": "The End",
+      "artists": [
+        "JPOLND"
+      ],
+      "playedAt": "2026-03-23T17:01:42.165Z"
+    },
+    {
+      "id": "7M9pPyt8Gr41THLhbz4NSB",
+      "name": "Don't Let Me Be Misunderstood",
+      "artists": [
+        "Nina Simone"
+      ],
+      "playedAt": "2026-03-23T16:58:18.800Z"
+    },
+    {
+      "id": "1K18ZkRjuOTFEH0rxo5Zwq",
+      "name": "O, I Love You",
+      "artists": [
+        "Essie Jain"
+      ],
+      "playedAt": "2026-03-23T16:57:58.070Z"
+    },
+    {
+      "id": "4qeIlzP0Z1JFXh0AckDcX8",
+      "name": "No Nein",
+      "artists": [
+        "1tbsp",
+        "Mietze Conte"
+      ],
+      "playedAt": "2026-03-23T15:42:42.608Z"
+    },
+    {
+      "id": "5uE0ggArLjnpwVPEXc36Hx",
+      "name": "It's Happening Again",
+      "artists": [
+        "Agnes Obel"
+      ],
+      "playedAt": "2026-03-23T15:40:11.257Z"
+    },
+    {
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-03-23T15:32:24.755Z"
+    },
+    {
+      "id": "768QnTZVvJ4DUDeouU98fk",
+      "name": "F Major",
+      "artists": [
+        "Hania Rani"
+      ],
+      "playedAt": "2026-03-23T14:57:23.608Z"
+    },
+    {
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-03-23T14:52:31.166Z"
+    },
+    {
+      "id": "7D6oFV1ST67jQSO1Ly4INc",
+      "name": "Hombre Honrado",
+      "artists": [
+        "Hermanos Gutiérrez"
+      ],
+      "playedAt": "2026-03-23T13:58:54.621Z"
+    },
+    {
+      "id": "0o7Zc88vK9B2tx5bk9Egta",
+      "name": "You Deserved A Different Life",
+      "artists": [
+        "Daniel Ciurlizza",
+        "Nestor Estrada"
+      ],
+      "playedAt": "2026-03-23T13:55:02.239Z"
+    },
+    {
+      "id": "7AlJWH45s6NgsfgsKxWOIM",
+      "name": "I Won't Let You Down",
+      "artists": [
+        "Curtis Harding"
+      ],
+      "playedAt": "2026-03-23T13:51:55.143Z"
+    },
+    {
+      "id": "41CpEqRT3TqIf5DoB0trcw",
+      "name": "Manifest",
+      "artists": [
+        "Taavi"
+      ],
+      "playedAt": "2026-03-23T13:45:44.491Z"
+    },
+    {
+      "id": "2TF5Bdvdyz7L2XeNtsiULQ",
+      "name": "Canta",
+      "artists": [
+        "Julietta",
+        "The Human Experience",
+        "David Satori"
+      ],
+      "playedAt": "2026-03-23T13:41:17.306Z"
+    },
+    {
+      "id": "1cii2FFnWD45ToMZfdxktI",
+      "name": "Recuerdo de Ti",
+      "artists": [
+        "Geoffroy"
+      ],
+      "playedAt": "2026-03-23T13:37:40.543Z"
+    },
+    {
+      "id": "6gzj5Fs4XFTMv0eGsU9ijV",
+      "name": "Bricks in a Wall",
+      "artists": [
+        "SLUMB",
+        "Senbeï",
+        "Aurus"
+      ],
+      "playedAt": "2026-03-23T13:34:43.787Z"
+    },
+    {
+      "id": "2meghZxBIZ3h5LOdD7JKt2",
+      "name": "En boucle",
+      "artists": [
+        "Caroco"
+      ],
+      "playedAt": "2026-03-23T13:30:06.630Z"
+    },
+    {
+      "id": "0XZ88yKZieM0UhMSSJIobe",
+      "name": "Ketchup",
+      "artists": [
+        "Rutger"
+      ],
+      "playedAt": "2026-03-23T13:28:05.259Z"
+    },
+    {
+      "id": "70c5OzZyrRw1Nvr42PysFG",
+      "name": "Cariñito",
+      "artists": [
+        "Yeahman",
+        "Mina Shankha",
+        "Hajna"
+      ],
+      "playedAt": "2026-03-23T13:25:43.406Z"
+    },
+    {
+      "id": "47a7Hn4fFE4mHgVJF19CO1",
+      "name": "No Choir",
+      "artists": [
+        "Florence + The Machine"
+      ],
+      "playedAt": "2026-03-23T13:20:05.681Z"
+    },
+    {
+      "id": "2J9UiW1gTs2YTxA6JPk849",
+      "name": "Parallax Effect",
+      "artists": [
+        "Juelz",
+        "Taavi"
+      ],
+      "playedAt": "2026-03-23T13:17:36.111Z"
     },
     {
       "id": "67UOlZLz6tDEDuScefmWDd",
@@ -99,55 +290,73 @@
       "artists": [
         "Jürgen Paape"
       ],
-      "playedAt": "2026-03-22T19:41:07.962Z"
+      "playedAt": "2026-03-23T11:40:25.169Z"
     },
     {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
+      "id": "7A1YcSeFJpLTHybu78qgT9",
+      "name": "Aurora Centralis",
       "artists": [
-        "EMMANUELLE"
+        "747"
       ],
-      "playedAt": "2026-03-22T15:40:08.535Z"
+      "playedAt": "2026-03-23T11:10:40.415Z"
     },
     {
-      "id": "0WFryfbNKPXVtVQlz5dZ8H",
-      "name": "hotline (edit)",
+      "id": "3QywQH8lshVdbmLqLqhWya",
+      "name": "Next Chapter",
       "artists": [
-        "Billie Eilish"
+        "Gabriel Albuquerqüe",
+        "Renzyx"
       ],
-      "playedAt": "2026-03-22T15:29:29.869Z"
+      "playedAt": "2026-03-23T11:10:18.529Z"
     },
     {
-      "id": "5zZEP23ceNvvA9IT6CnqoY",
-      "name": "La Rumba D'el Jefe",
+      "id": "3wdWnJbBPFExinktlqD4d7",
+      "name": "So Long",
       "artists": [
-        "Jesse Cook"
+        "Danielle Ponder"
       ],
-      "playedAt": "2026-03-22T15:28:30.633Z"
+      "playedAt": "2026-03-23T11:02:13.040Z"
     },
     {
-      "id": "6chkDKDiskOeKnctKVO5GK",
-      "name": "Dance, Dance, Dance (Disco Version)",
+      "id": "23GwHXEZLdBsiSXQt7kUKB",
+      "name": "Dust Bowl III",
       "artists": [
-        "Marta Acuna"
+        "Other Lives"
       ],
-      "playedAt": "2026-03-22T15:24:45.923Z"
+      "playedAt": "2026-03-23T10:59:52.340Z"
     },
     {
-      "id": "2L6GpHyrFZGPSL5v31urql",
-      "name": "Se piangi se ridi",
+      "id": "5tDmfhBI55upBunEsYoffI",
+      "name": "Can You Blame the Sky?",
       "artists": [
-        "Mina"
+        "Alela Diane"
       ],
-      "playedAt": "2026-03-22T15:18:51.263Z"
+      "playedAt": "2026-03-23T10:54:53.662Z"
     },
     {
-      "id": "6GGtHZgBycCgGBUhZo81xe",
-      "name": "Say Yes To Heaven",
+      "id": "6anbHjGgQbYQH5FbF6bAvR",
+      "name": "Where The Names Are Real",
       "artists": [
-        "Lana Del Rey"
+        "Warhaus"
       ],
-      "playedAt": "2026-03-22T15:04:58.784Z"
+      "playedAt": "2026-03-23T10:52:21.564Z"
+    },
+    {
+      "id": "2QThU21Z82nM2lWQs7b5JY",
+      "name": "Reincarnation - Taavi Remix",
+      "artists": [
+        "Javiis",
+        "Taavi"
+      ],
+      "playedAt": "2026-03-23T10:47:02.362Z"
+    },
+    {
+      "id": "4XaPsEXr9GbEBONfzWH2XS",
+      "name": "Intro",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-03-23T10:39:53.192Z"
     },
     {
       "id": "4dxd3tUsKT52EMboYtceOQ",
@@ -155,15 +364,39 @@
       "artists": [
         "Shungudzo"
       ],
-      "playedAt": "2026-03-22T15:01:28.966Z"
+      "playedAt": "2026-03-23T10:37:30.514Z"
     },
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "6AdDi9540EEHZEfEMqWqUL",
+      "name": "Goldie Montana",
       "artists": [
-        "efdemin"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-03-22T14:41:44.530Z"
+      "playedAt": "2026-03-23T10:33:59.902Z"
+    },
+    {
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-03-23T10:27:51.972Z"
+    },
+    {
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-23T10:23:46.632Z"
+    },
+    {
+      "id": "1JMyndqIXDM7cKmRu3nFws",
+      "name": "Leap Year",
+      "artists": [
+        "Billie Marten"
+      ],
+      "playedAt": "2026-03-23T10:19:17.675Z"
     },
     {
       "id": "0ZplRXackRMYmf8VThWX6z",
@@ -171,7 +404,7 @@
       "artists": [
         "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-22T14:08:42.759Z"
+      "playedAt": "2026-03-23T10:13:32.291Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -179,23 +412,15 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-03-22T14:04:06.827Z"
+      "playedAt": "2026-03-23T10:08:58.810Z"
     },
     {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
       "artists": [
-        "David A. Molina"
+        "Husky"
       ],
-      "playedAt": "2026-03-22T13:59:53.091Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-03-22T13:55:54.108Z"
+      "playedAt": "2026-03-23T10:05:00.735Z"
     },
     {
       "id": "7sPaHKAHhDzsTmgipIV5Io",
@@ -203,223 +428,7 @@
       "artists": [
         "Angus & Julia Stone"
       ],
-      "playedAt": "2026-03-22T13:52:00.474Z"
-    },
-    {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
-      "artists": [
-        "Bob Dylan"
-      ],
-      "playedAt": "2026-03-22T13:48:31.199Z"
-    },
-    {
-      "id": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
-      "artists": [
-        "Nina Simone"
-      ],
-      "playedAt": "2026-03-22T13:46:01.010Z"
-    },
-    {
-      "id": "67UOlZLz6tDEDuScefmWDd",
-      "name": "So Weit Wie Noch Nie",
-      "artists": [
-        "Jürgen Paape"
-      ],
-      "playedAt": "2026-03-22T13:43:13.874Z"
-    },
-    {
-      "id": "1G3rpP4SpzMKx7fKu4NZPV",
-      "name": "Mazuka",
-      "artists": [
-        "Cari Cari"
-      ],
-      "playedAt": "2026-03-22T13:37:25.322Z"
-    },
-    {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
-      "artists": [
-        "EMMANUELLE"
-      ],
-      "playedAt": "2026-03-22T13:32:51.291Z"
-    },
-    {
-      "id": "4sOLtnLeIFwO4YUUSV5DM5",
-      "name": "Jolie Fille (feat. Layefa)",
-      "artists": [
-        "Maz",
-        "Antdot",
-        "Ginton",
-        "Layefa"
-      ],
-      "playedAt": "2026-03-22T12:24:03.682Z"
-    },
-    {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
-      "artists": [
-        "Bob Dylan"
-      ],
-      "playedAt": "2026-03-22T12:20:48.662Z"
-    },
-    {
-      "id": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
-      "artists": [
-        "Nina Simone"
-      ],
-      "playedAt": "2026-03-22T12:18:18.016Z"
-    },
-    {
-      "id": "67UOlZLz6tDEDuScefmWDd",
-      "name": "So Weit Wie Noch Nie",
-      "artists": [
-        "Jürgen Paape"
-      ],
-      "playedAt": "2026-03-22T12:15:31.357Z"
-    },
-    {
-      "id": "1G3rpP4SpzMKx7fKu4NZPV",
-      "name": "Mazuka",
-      "artists": [
-        "Cari Cari"
-      ],
-      "playedAt": "2026-03-22T12:09:42.389Z"
-    },
-    {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
-      "artists": [
-        "EMMANUELLE"
-      ],
-      "playedAt": "2026-03-22T12:05:08.981Z"
-    },
-    {
-      "id": "0VuHuQtpOCEDi9uu6GhtEK",
-      "name": "Yasminah (see your face again)",
-      "artists": [
-        "Fred again.."
-      ],
-      "playedAt": "2026-03-22T11:59:44.448Z"
-    },
-    {
-      "id": "6Au1l0egQFYxbnCZxakoOL",
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "artists": [
-        "Nina Simone",
-        "SOFI TUKKER"
-      ],
-      "playedAt": "2026-03-22T11:56:16.932Z"
-    },
-    {
-      "id": "6HvCOJvbEzVTmEFmv79pTf",
-      "name": "We Dance Again",
-      "artists": [
-        "Black Coffee",
-        "Nakhane"
-      ],
-      "playedAt": "2026-03-22T11:52:23.658Z"
-    },
-    {
-      "id": "4sOLtnLeIFwO4YUUSV5DM5",
-      "name": "Jolie Fille (feat. Layefa)",
-      "artists": [
-        "Maz",
-        "Antdot",
-        "Ginton",
-        "Layefa"
-      ],
-      "playedAt": "2026-03-22T11:47:41.454Z"
-    },
-    {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
-      "artists": [
-        "Bob Dylan"
-      ],
-      "playedAt": "2026-03-22T11:44:27.703Z"
-    },
-    {
-      "id": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
-      "artists": [
-        "Nina Simone"
-      ],
-      "playedAt": "2026-03-22T11:41:57.059Z"
-    },
-    {
-      "id": "67UOlZLz6tDEDuScefmWDd",
-      "name": "So Weit Wie Noch Nie",
-      "artists": [
-        "Jürgen Paape"
-      ],
-      "playedAt": "2026-03-22T11:39:10.718Z"
-    },
-    {
-      "id": "1G3rpP4SpzMKx7fKu4NZPV",
-      "name": "Mazuka",
-      "artists": [
-        "Cari Cari"
-      ],
-      "playedAt": "2026-03-22T11:33:20.882Z"
-    },
-    {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
-      "artists": [
-        "EMMANUELLE"
-      ],
-      "playedAt": "2026-03-22T11:28:46.897Z"
-    },
-    {
-      "id": "4uytiW8D73yWQHkg1PzYlB",
-      "name": "The Winner Takes It All - From \"Mamma Mia!\"",
-      "artists": [
-        "Meryl Streep"
-      ],
-      "playedAt": "2026-03-22T11:19:27.718Z"
-    },
-    {
-      "id": "1DxjoJ2w0K9zQ8KgU9rXhr",
-      "name": "Here I Am",
-      "artists": [
-        "Tom Odell"
-      ],
-      "playedAt": "2026-03-22T11:14:28.687Z"
-    },
-    {
-      "id": "0uYVJ8z5kgMayMNPJA6Cz9",
-      "name": "Running Up That Hill",
-      "artists": [
-        "Placebo"
-      ],
-      "playedAt": "2026-03-22T09:54:35.015Z"
-    },
-    {
-      "id": "38GBNKZUhfBkk3oNlWzRYd",
-      "name": "NDA",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-03-22T09:49:30.874Z"
-    },
-    {
-      "id": "1BLOVHYYlH4JUHQGcpt75R",
-      "name": "Ode To The Mets",
-      "artists": [
-        "The Strokes"
-      ],
-      "playedAt": "2026-03-22T09:46:14.792Z"
-    },
-    {
-      "id": "2TktkzfozZifbQhXjT6I33",
-      "name": "Evergreen (You Didn’t Deserve Me At All)",
-      "artists": [
-        "Omar Apollo"
-      ],
-      "playedAt": "2026-03-22T09:40:21.981Z"
+      "playedAt": "2026-03-23T10:01:03.251Z"
     }
   ]
 }

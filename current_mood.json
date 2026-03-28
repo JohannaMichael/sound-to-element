@@ -3,47 +3,29 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.7237837837837838,
-    "avgEnergy": 0.3421621621621621,
-    "avgAcousticness": 0.8091891891891894,
+    "avgValence": 0.6496969696969697,
+    "avgEnergy": 0.32727272727272727,
+    "avgAcousticness": 0.8318181818181817,
     "trackCount": 50,
-    "analyzedCount": 37
+    "analyzedCount": 33
   },
-  "date": "2026-03-27T23:23:39.340Z",
+  "date": "2026-03-28T23:22:02.430Z",
   "tracks": [
     {
-      "id": "0lwn93m9Q2Vp8T7THOx5HI",
-      "name": "Gain the Ocean (End Title)",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "Thomas Newman",
-        "Anoushka Shankar"
+        "Still Corners"
       ],
-      "playedAt": "2026-03-27T18:11:33.018Z"
+      "playedAt": "2026-03-28T21:23:55.285Z"
     },
     {
-      "id": "4NNR7bp1hXmdk08YLxpUBQ",
-      "name": "Miserlou",
+      "id": "32NMmAVohuSJeiYuuiVUbo",
+      "name": "r&r",
       "artists": [
-        "Dick Dale"
+        "berlioz"
       ],
-      "playedAt": "2026-03-27T18:08:44.700Z"
-    },
-    {
-      "id": "2U5dE3I2K8mCDrSiajZkbT",
-      "name": "Nara, Sayonara",
-      "artists": [
-        "PANTERA BLUE"
-      ],
-      "playedAt": "2026-03-27T17:59:39.287Z"
-    },
-    {
-      "id": "4qeIlzP0Z1JFXh0AckDcX8",
-      "name": "No Nein",
-      "artists": [
-        "1tbsp",
-        "Mietze Conte"
-      ],
-      "playedAt": "2026-03-27T17:58:11.098Z"
+      "playedAt": "2026-03-28T20:11:58.445Z"
     },
     {
       "id": "27R1A3WZ5Zv0ywNe0Zunfr",
@@ -51,7 +33,64 @@
       "artists": [
         "Alice Phoebe Lou"
       ],
-      "playedAt": "2026-03-27T17:49:03.349Z"
+      "playedAt": "2026-03-28T20:08:31.597Z"
+    },
+    {
+      "id": "7AlJWH45s6NgsfgsKxWOIM",
+      "name": "I Won't Let You Down",
+      "artists": [
+        "Curtis Harding"
+      ],
+      "playedAt": "2026-03-28T20:04:02.646Z"
+    },
+    {
+      "id": "1cii2FFnWD45ToMZfdxktI",
+      "name": "Recuerdo de Ti",
+      "artists": [
+        "Geoffroy"
+      ],
+      "playedAt": "2026-03-28T19:59:26.532Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-03-28T19:52:30.147Z"
+    },
+    {
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
+      "artists": [
+        "Tami Neilson"
+      ],
+      "playedAt": "2026-03-28T19:49:27.259Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-28T19:45:58.925Z"
+    },
+    {
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Bob Dylan"
+      ],
+      "playedAt": "2026-03-28T17:23:00.243Z"
+    },
+    {
+      "id": "7qC70bOUaH16OI6VXuiqGy",
+      "name": "Juno Love",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-03-28T17:20:29.829Z"
     },
     {
       "id": "7caycKUiLznuxYK1C9Wxd6",
@@ -60,23 +99,105 @@
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-03-27T17:43:49.369Z"
+      "playedAt": "2026-03-28T17:13:02.810Z"
     },
     {
-      "id": "2WMyu5IYgxEuCd6xgFgJrl",
-      "name": "Nature Boy",
+      "id": "4dxd3tUsKT52EMboYtceOQ",
+      "name": "It's a good day (to fight the system)",
       "artists": [
-        "Nat King Cole"
+        "Shungudzo"
       ],
-      "playedAt": "2026-03-27T17:39:38.651Z"
+      "playedAt": "2026-03-28T17:09:03.333Z"
     },
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "1nZA4yLtfFN3q2Vd2ZfXwZ",
+      "name": "Laughter",
       "artists": [
-        "Juelz"
+        "Astrocolor",
+        "Wendy Rene"
       ],
-      "playedAt": "2026-03-27T17:36:18.720Z"
+      "playedAt": "2026-03-28T17:05:45.624Z"
+    },
+    {
+      "id": "4ll1UfyVm9we6xoTNGnMYO",
+      "name": "Italove",
+      "artists": [
+        "EMMANUELLE"
+      ],
+      "playedAt": "2026-03-28T17:00:41.127Z"
+    },
+    {
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
+      "artists": [
+        "efdemin"
+      ],
+      "playedAt": "2026-03-28T16:55:08.007Z"
+    },
+    {
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
+      "artists": [
+        "TÂCHES",
+        "Carmen Vandenberg"
+      ],
+      "playedAt": "2026-03-28T16:35:00.783Z"
+    },
+    {
+      "id": "1fKdgKxxY5t20AcSa3jKLX",
+      "name": "Everywhere",
+      "artists": [
+        "Sames"
+      ],
+      "playedAt": "2026-03-28T16:30:13.920Z"
+    },
+    {
+      "id": "6G3IX9EfZHL75AGO99lUmb",
+      "name": "Commodore",
+      "artists": [
+        "DJ Dextro"
+      ],
+      "playedAt": "2026-03-28T16:28:01.153Z"
+    },
+    {
+      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
+      "name": "Weißer Ferrari",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-03-28T16:22:49.320Z"
+    },
+    {
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-03-28T16:20:08.519Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-03-28T16:15:31.509Z"
+    },
+    {
+      "id": "6Cojy8iCgddqDVje5fWfjO",
+      "name": "Today is the Day",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-03-28T16:12:11.323Z"
+    },
+    {
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
+      "artists": [
+        "James Asher"
+      ],
+      "playedAt": "2026-03-28T16:07:46.754Z"
     },
     {
       "id": "1OArQ5np9biqJlGL2RMpOE",
@@ -85,162 +206,7 @@
         "Poranguí",
         "Liquid Bloom"
       ],
-      "playedAt": "2026-03-27T17:31:54.521Z"
-    },
-    {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
-      "artists": [
-        "EMMANUELLE"
-      ],
-      "playedAt": "2026-03-27T17:24:34.315Z"
-    },
-    {
-      "id": "6GrqVZ8YyLVftyR3As0E3z",
-      "name": "White Sands",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T17:17:42.614Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T16:31:32.459Z"
-    },
-    {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-03-27T16:27:28.916Z"
-    },
-    {
-      "id": "1WSXieHimlAi2I3hG52aNP",
-      "name": "A Kiss Before Dying",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T16:23:27.735Z"
-    },
-    {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-03-27T16:23:15.901Z"
-    },
-    {
-      "id": "6GrqVZ8YyLVftyR3As0E3z",
-      "name": "White Sands",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T15:55:35.029Z"
-    },
-    {
-      "id": "7qVURpFZaTSQeNFQLyUOQb",
-      "name": "Strange Pleasures - 2023 Remaster",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T15:50:05.100Z"
-    },
-    {
-      "id": "0AJBa03FJvsCwXHjRoBpeM",
-      "name": "Twisted",
-      "artists": [
-        "Kaz James",
-        "Nick Morgan"
-      ],
-      "playedAt": "2026-03-27T15:40:50.882Z"
-    },
-    {
-      "id": "1WSXieHimlAi2I3hG52aNP",
-      "name": "A Kiss Before Dying",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T15:34:18.146Z"
-    },
-    {
-      "id": "6GEIpzW14NtOjqHejbcSRE",
-      "name": "Journal of Ardency",
-      "artists": [
-        "Class Actress"
-      ],
-      "playedAt": "2026-03-27T11:56:13.161Z"
-    },
-    {
-      "id": "155VhO5SaeFUz107dXb9CY",
-      "name": "Nothing Else",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-27T11:52:26.990Z"
-    },
-    {
-      "id": "1JMyndqIXDM7cKmRu3nFws",
-      "name": "Leap Year",
-      "artists": [
-        "Billie Marten"
-      ],
-      "playedAt": "2026-03-27T11:48:14.605Z"
-    },
-    {
-      "id": "0ZplRXackRMYmf8VThWX6z",
-      "name": "Heart Beats Slow",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-27T11:42:16.957Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T11:37:41.082Z"
-    },
-    {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
-      "artists": [
-        "Husky"
-      ],
-      "playedAt": "2026-03-27T11:33:45.079Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-03-27T11:29:45.380Z"
-    },
-    {
-      "id": "1D7PE3dDyonJfUP6oSuaq7",
-      "name": "Waves & Wavs",
-      "artists": [
-        "Ahmed Spins",
-        "Lizwi"
-      ],
-      "playedAt": "2026-03-27T11:26:00.073Z"
-    },
-    {
-      "id": "0AJBa03FJvsCwXHjRoBpeM",
-      "name": "Twisted",
-      "artists": [
-        "Kaz James",
-        "Nick Morgan"
-      ],
-      "playedAt": "2026-03-27T11:20:31.864Z"
+      "playedAt": "2026-03-28T16:01:49.995Z"
     },
     {
       "id": "0xSPANMuiyzybY35CTGAc0",
@@ -249,75 +215,56 @@
         "OTIOT",
         "BEMET"
       ],
-      "playedAt": "2026-03-27T11:16:11.096Z"
+      "playedAt": "2026-03-28T15:54:51.001Z"
     },
     {
-      "id": "1WSXieHimlAi2I3hG52aNP",
-      "name": "A Kiss Before Dying",
+      "id": "6WOetG6tyZnU3TccP7UTv7",
+      "name": "Kaleidoskop",
       "artists": [
-        "Still Corners"
+        "Bernstein"
       ],
-      "playedAt": "2026-03-27T11:10:36.725Z"
+      "playedAt": "2026-03-28T15:49:12.250Z"
     },
     {
-      "id": "1WSXieHimlAi2I3hG52aNP",
-      "name": "A Kiss Before Dying",
+      "id": "52BDBFhOsrLo4O49BPU9Ri",
+      "name": "Schulterblick",
       "artists": [
-        "Still Corners"
+        "Bernstein"
       ],
-      "playedAt": "2026-03-27T11:07:58.519Z"
+      "playedAt": "2026-03-28T12:22:59.642Z"
     },
     {
-      "id": "57KEBS7u6ymn1bECkyxELO",
-      "name": "Are You Sure?",
+      "id": "19t0Z7qsoV6A1CGJVYRnjm",
+      "name": "Rabiosa (feat. El Cata)",
       "artists": [
-        "ERHA"
+        "Shakira",
+        "El Cata"
       ],
-      "playedAt": "2026-03-27T11:07:32.961Z"
+      "playedAt": "2026-03-28T12:20:03.717Z"
     },
     {
-      "id": "1sfmzz34JOAlxQDyYQKhUA",
-      "name": "Shen Alazano",
+      "id": "0pwe8j2VhTBRiAb5gystJO",
+      "name": "Cómo Me Quieres",
       "artists": [
-        "Chveneburebi",
-        "Lela Nakeuri"
+        "Khruangbin"
       ],
-      "playedAt": "2026-03-27T10:51:09.348Z"
+      "playedAt": "2026-03-28T12:16:59.480Z"
     },
     {
-      "id": "1YXmg8CgRCNxch0DcvqA5g",
-      "name": "Just Let Go",
+      "id": "6AdDi9540EEHZEfEMqWqUL",
+      "name": "Goldie Montana",
       "artists": [
-        "Birds of Mind",
-        "Zemira Israel"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-03-27T10:45:11.045Z"
+      "playedAt": "2026-03-28T12:13:15.183Z"
     },
     {
-      "id": "0HvtGDMR4hVmNK3HBUIUOS",
-      "name": "Would You Believe",
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
       "artists": [
-        "Catz 'n Dogz",
-        "Jono McCleery"
+        "Scarlett Johansson"
       ],
-      "playedAt": "2026-03-27T10:38:34.889Z"
-    },
-    {
-      "id": "2j8aMIzFC5QhzyMOx7Sbj6",
-      "name": "Diana (You Don't Even Know)",
-      "artists": [
-        "Fred again.."
-      ],
-      "playedAt": "2026-03-27T10:34:03.700Z"
-    },
-    {
-      "id": "1D7PE3dDyonJfUP6oSuaq7",
-      "name": "Waves & Wavs",
-      "artists": [
-        "Ahmed Spins",
-        "Lizwi"
-      ],
-      "playedAt": "2026-03-27T10:30:38.255Z"
+      "playedAt": "2026-03-28T12:09:09.698Z"
     },
     {
       "id": "0AJBa03FJvsCwXHjRoBpeM",
@@ -326,48 +273,31 @@
         "Kaz James",
         "Nick Morgan"
       ],
-      "playedAt": "2026-03-27T10:25:09.894Z"
+      "playedAt": "2026-03-28T11:35:29.343Z"
     },
     {
-      "id": "0xSPANMuiyzybY35CTGAc0",
-      "name": "Sinai",
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
       "artists": [
-        "OTIOT",
-        "BEMET"
+        "Tami Neilson"
       ],
-      "playedAt": "2026-03-27T10:20:49.609Z"
+      "playedAt": "2026-03-28T11:29:45.653Z"
     },
     {
-      "id": "1WSXieHimlAi2I3hG52aNP",
-      "name": "A Kiss Before Dying",
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
       "artists": [
-        "Still Corners"
+        "David A. Molina"
       ],
-      "playedAt": "2026-03-27T10:15:14.763Z"
+      "playedAt": "2026-03-28T09:46:13.622Z"
     },
     {
-      "id": "1a4Rz2iTQ3V7nxkb1V7Ebt",
-      "name": "What is Real",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
-        "Still Corners"
+        "David A. Molina"
       ],
-      "playedAt": "2026-03-27T10:09:48.290Z"
-    },
-    {
-      "id": "4TUYw8snWwHUFzRdDVvXfi",
-      "name": "Faded Love",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T10:08:22.352Z"
-    },
-    {
-      "id": "5gR0XaIYkvQ7pJ7lg597Z3",
-      "name": "The Dream",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T10:04:14.587Z"
+      "playedAt": "2026-03-28T09:42:49.996Z"
     },
     {
       "id": "6Cojy8iCgddqDVje5fWfjO",
@@ -375,47 +305,99 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-03-27T09:59:25.167Z"
+      "playedAt": "2026-03-28T08:53:53.539Z"
     },
     {
-      "id": "0nGmz6gDOZdRh0rYd623P9",
-      "name": "Heavy Days",
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
+      "artists": [
+        "James Asher"
+      ],
+      "playedAt": "2026-03-28T08:49:24.438Z"
+    },
+    {
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "artists": [
+        "Poranguí",
+        "Liquid Bloom"
+      ],
+      "playedAt": "2026-03-28T08:43:27.974Z"
+    },
+    {
+      "id": "4sOLtnLeIFwO4YUUSV5DM5",
+      "name": "Jolie Fille (feat. Layefa)",
+      "artists": [
+        "Maz",
+        "Antdot",
+        "Ginton",
+        "Layefa"
+      ],
+      "playedAt": "2026-03-28T07:38:01.858Z"
+    },
+    {
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Bob Dylan"
+      ],
+      "playedAt": "2026-03-28T07:34:46.826Z"
+    },
+    {
+      "id": "7M9pPyt8Gr41THLhbz4NSB",
+      "name": "Don't Let Me Be Misunderstood",
+      "artists": [
+        "Nina Simone"
+      ],
+      "playedAt": "2026-03-28T07:32:16.428Z"
+    },
+    {
+      "id": "67UOlZLz6tDEDuScefmWDd",
+      "name": "So Weit Wie Noch Nie",
+      "artists": [
+        "Jürgen Paape"
+      ],
+      "playedAt": "2026-03-28T07:29:30.264Z"
+    },
+    {
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
+      "artists": [
+        "Cari Cari"
+      ],
+      "playedAt": "2026-03-28T07:23:40.975Z"
+    },
+    {
+      "id": "4ll1UfyVm9we6xoTNGnMYO",
+      "name": "Italove",
+      "artists": [
+        "EMMANUELLE"
+      ],
+      "playedAt": "2026-03-28T07:19:07.166Z"
+    },
+    {
+      "id": "0RK05diOXFsEDOm4gmDbwb",
+      "name": "Enemies",
+      "artists": [
+        "Nicolas Michaux"
+      ],
+      "playedAt": "2026-03-28T06:43:32.913Z"
+    },
+    {
+      "id": "0i5r3EWZsCMYRrpUy8YofZ",
+      "name": "The Message",
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-03-27T09:55:00.287Z"
+      "playedAt": "2026-03-28T06:38:02.837Z"
     },
     {
-      "id": "7qVURpFZaTSQeNFQLyUOQb",
-      "name": "Strange Pleasures - 2023 Remaster",
+      "id": "1T01w1vBwWdKScKmHnha53",
+      "name": "Sink Into Me",
       "artists": [
-        "Still Corners"
+        "Babeheaven"
       ],
-      "playedAt": "2026-03-27T09:51:12.432Z"
-    },
-    {
-      "id": "2IYRNM0sHZkgjY5ynSLfbO",
-      "name": "In the Middle of the Night",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T09:45:57.790Z"
-    },
-    {
-      "id": "6GrqVZ8YyLVftyR3As0E3z",
-      "name": "White Sands",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T09:42:17.972Z"
-    },
-    {
-      "id": "3kjcc5PMtoymSpInmhSxUN",
-      "name": "Sad Movies",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-03-27T09:36:26.560Z"
+      "playedAt": "2026-03-28T06:33:09.544Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -423,7 +405,23 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-03-27T09:33:06.464Z"
+      "playedAt": "2026-03-28T06:30:30.391Z"
+    },
+    {
+      "id": "1KX30hHDvpBRvm3JXxtYEY",
+      "name": "Tunnel of You",
+      "artists": [
+        "Cannons"
+      ],
+      "playedAt": "2026-03-28T06:26:04.328Z"
+    },
+    {
+      "id": "0a64exvT5aKVaRSmAVMaCT",
+      "name": "To Love",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "playedAt": "2026-03-28T06:21:40.562Z"
     }
   ]
 }

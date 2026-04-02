@@ -3,326 +3,53 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.67,
-    "avgEnergy": 0.3210526315789474,
-    "avgAcousticness": 0.7852631578947369,
-    "trackCount": 49,
-    "analyzedCount": 19
+    "avgValence": 0.6522222222222224,
+    "avgEnergy": 0.3096296296296296,
+    "avgAcousticness": 0.8522222222222223,
+    "trackCount": 50,
+    "analyzedCount": 27
   },
-  "date": "2026-04-01T23:28:30.446Z",
+  "date": "2026-04-02T23:25:54.860Z",
   "tracks": [
     {
-      "id": "1yV7QxodAm2gNtqQbU13aN",
-      "name": "Indulge in Darkness",
+      "id": "1cii2FFnWD45ToMZfdxktI",
+      "name": "Recuerdo de Ti",
       "artists": [
-        "Ramin Djawadi"
+        "Geoffroy"
       ],
-      "playedAt": "2026-04-01T21:18:24Z"
+      "playedAt": "2026-04-02T23:18:34.883Z"
     },
     {
-      "id": "4ZmB0OHrV5NH9dj9wMZY1S",
-      "name": "The Feeling of Betrayal",
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
       "artists": [
-        "Ramin Djawadi"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-04-01T21:10:47.148Z"
+      "playedAt": "2026-04-02T21:38:48.833Z"
     },
     {
-      "id": "6HZiDsrA00Jiy1EBkukFNr",
-      "name": "Can We Find A Way - Ede Remix",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "Fritz Kalkbrenner",
-        "Ede"
+        "Still Corners"
       ],
-      "playedAt": "2026-04-01T20:38:33.052Z"
+      "playedAt": "2026-04-02T21:12:51.020Z"
     },
     {
-      "id": "7893T13s6urM1GOl7mGRCC",
-      "name": "Paraiso",
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
       "artists": [
-        "Gizmo Varillas"
+        "Husky"
       ],
-      "playedAt": "2026-04-01T17:51:49.851Z"
+      "playedAt": "2026-04-02T21:08:20.103Z"
     },
     {
-      "id": "37YLEHlqNHrN5AISi38VKu",
-      "name": "Follow The Sun",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "Gizmo Varillas"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-04-01T17:49:50.810Z"
-    },
-    {
-      "id": "7caycKUiLznuxYK1C9Wxd6",
-      "name": "Maya",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-04-01T17:44:56.460Z"
-    },
-    {
-      "id": "7AlJWH45s6NgsfgsKxWOIM",
-      "name": "I Won't Let You Down",
-      "artists": [
-        "Curtis Harding"
-      ],
-      "playedAt": "2026-04-01T17:40:58.347Z"
-    },
-    {
-      "id": "4VxTzYm00mg82MuoT35Ja7",
-      "name": "CHANEL",
-      "artists": [
-        "Tyla"
-      ],
-      "playedAt": "2026-04-01T17:36:38.247Z"
-    },
-    {
-      "id": "1F1S0s0JsCZ3MhVq9C9ZEL",
-      "name": "Manifest - Audible Thought Remix",
-      "artists": [
-        "Taavi",
-        "Audible Thought"
-      ],
-      "playedAt": "2026-04-01T17:33:38.389Z"
-    },
-    {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
-      "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
-      ],
-      "playedAt": "2026-04-01T15:39:48.714Z"
-    },
-    {
-      "id": "4XaPsEXr9GbEBONfzWH2XS",
-      "name": "Intro",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-04-01T15:33:43.654Z"
-    },
-    {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
-      "artists": [
-        "Shungudzo"
-      ],
-      "playedAt": "2026-04-01T15:31:26.866Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-04-01T15:22:49.234Z"
-    },
-    {
-      "id": "4Jsi81TRikhlT0XjVdfH2m",
-      "name": "Gold Jaguar",
-      "artists": [
-        "Zuma Dionys"
-      ],
-      "playedAt": "2026-04-01T15:16:55.907Z"
-    },
-    {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-01T15:09:43.329Z"
-    },
-    {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-01T15:06:28.839Z"
-    },
-    {
-      "id": "5AglhU9luP6EBIRK3MBLf6",
-      "name": "El Jaguar Caza feat. Sāgarā",
-      "artists": [
-        "Da Iguana",
-        "Sāgarā"
-      ],
-      "playedAt": "2026-04-01T15:02:50.685Z"
-    },
-    {
-      "id": "17wBJ5bznjXbWGYdHtS2cX",
-      "name": "Under the Tabla",
-      "artists": [
-        "One Juno"
-      ],
-      "playedAt": "2026-04-01T14:57:19.363Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-04-01T14:55:26.083Z"
-    },
-    {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
-      "artists": [
-        "Hippiesónicos"
-      ],
-      "playedAt": "2026-04-01T14:49:52.769Z"
-    },
-    {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-01T14:45:33.364Z"
-    },
-    {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
-      "artists": [
-        "Poranguí",
-        "Liquid Bloom"
-      ],
-      "playedAt": "2026-04-01T14:41:54.785Z"
-    },
-    {
-      "id": "5AglhU9luP6EBIRK3MBLf6",
-      "name": "El Jaguar Caza feat. Sāgarā",
-      "artists": [
-        "Da Iguana",
-        "Sāgarā"
-      ],
-      "playedAt": "2026-04-01T14:27:15.484Z"
-    },
-    {
-      "id": "17wBJ5bznjXbWGYdHtS2cX",
-      "name": "Under the Tabla",
-      "artists": [
-        "One Juno"
-      ],
-      "playedAt": "2026-04-01T14:21:44.281Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-04-01T14:19:51.198Z"
-    },
-    {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
-      "artists": [
-        "Hippiesónicos"
-      ],
-      "playedAt": "2026-04-01T14:14:17.389Z"
-    },
-    {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
-      "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
-      ],
-      "playedAt": "2026-04-01T12:26:44.233Z"
-    },
-    {
-      "id": "6KOtheMY0KN4s9TrQHr9It",
-      "name": "She's A Rainbow",
-      "artists": [
-        "The Rolling Stones"
-      ],
-      "playedAt": "2026-04-01T12:22:20.747Z"
-    },
-    {
-      "id": "08PdFBcXzpkn1cWNgmKqhn",
-      "name": "Promise",
-      "artists": [
-        "Laufey"
-      ],
-      "playedAt": "2026-04-01T12:18:06.402Z"
-    },
-    {
-      "id": "4vDBJeeQCbhP9FaPPMsYkY",
-      "name": "Give Me One Reason",
-      "artists": [
-        "Tracy Chapman"
-      ],
-      "playedAt": "2026-04-01T10:00:05.470Z"
-    },
-    {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-01T09:55:36.652Z"
-    },
-    {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-01T09:52:21.779Z"
-    },
-    {
-      "id": "17wBJ5bznjXbWGYdHtS2cX",
-      "name": "Under the Tabla",
-      "artists": [
-        "One Juno"
-      ],
-      "playedAt": "2026-04-01T09:48:36.867Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-04-01T09:46:43.709Z"
-    },
-    {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
-      "artists": [
-        "Hippiesónicos"
-      ],
-      "playedAt": "2026-04-01T09:41:10.435Z"
-    },
-    {
-      "id": "5AglhU9luP6EBIRK3MBLf6",
-      "name": "El Jaguar Caza feat. Sāgarā",
-      "artists": [
-        "Da Iguana",
-        "Sāgarā"
-      ],
-      "playedAt": "2026-04-01T07:15:27.086Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-04-01T07:03:40.454Z"
-    },
-    {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
-      "artists": [
-        "Hippiesónicos"
-      ],
-      "playedAt": "2026-04-01T06:58:08.489Z"
+      "playedAt": "2026-04-02T21:02:17.576Z"
     },
     {
       "id": "6Cojy8iCgddqDVje5fWfjO",
@@ -330,7 +57,7 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-04-01T06:54:18.125Z"
+      "playedAt": "2026-04-02T20:57:57.778Z"
     },
     {
       "id": "5cJBLutdQO3ikhfOItxPTc",
@@ -338,33 +65,7 @@
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-04-01T06:49:59.227Z"
-    },
-    {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
-      "artists": [
-        "Poranguí",
-        "Liquid Bloom"
-      ],
-      "playedAt": "2026-04-01T06:44:02.767Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-04-01T06:30:11.980Z"
-    },
-    {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
-      "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
-      ],
-      "playedAt": "2026-04-01T06:24:24.672Z"
+      "playedAt": "2026-04-02T20:53:33.059Z"
     },
     {
       "id": "3eFBPuf0y3Vguk6GUCNpwP",
@@ -372,7 +73,7 @@
       "artists": [
         "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-01T05:39:40.029Z"
+      "playedAt": "2026-04-02T20:44:21.081Z"
     },
     {
       "id": "2nKUdHsO4cZixgmYJUJ3FJ",
@@ -380,7 +81,7 @@
       "artists": [
         "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-01T05:36:25.378Z"
+      "playedAt": "2026-04-02T20:41:05.699Z"
     },
     {
       "id": "5AglhU9luP6EBIRK3MBLf6",
@@ -389,7 +90,65 @@
         "Da Iguana",
         "Sāgarā"
       ],
-      "playedAt": "2026-04-01T05:32:47.552Z"
+      "playedAt": "2026-04-02T20:37:29.998Z"
+    },
+    {
+      "id": "4qeIlzP0Z1JFXh0AckDcX8",
+      "name": "No Nein",
+      "artists": [
+        "1tbsp",
+        "Mietze Conte"
+      ],
+      "playedAt": "2026-04-02T20:31:10.538Z"
+    },
+    {
+      "id": "5VYxtmyTV8ZSMLLt6PMyYu",
+      "name": "Sex To Me",
+      "artists": [
+        "Charlotte Cardin"
+      ],
+      "playedAt": "2026-04-02T20:25:11.984Z"
+    },
+    {
+      "id": "5MWMT5aWVqCyiQgLxYVRBs",
+      "name": "SexyBack",
+      "artists": [
+        "Ikan Gunuc",
+        "Clara Stegall"
+      ],
+      "playedAt": "2026-04-02T20:22:06.706Z"
+    },
+    {
+      "id": "1JfRSuCAZl5cyyoOo2CMK4",
+      "name": "Weg von dir",
+      "artists": [
+        "Raphael Schön"
+      ],
+      "playedAt": "2026-04-02T20:11:48.662Z"
+    },
+    {
+      "id": "5uE0ggArLjnpwVPEXc36Hx",
+      "name": "It's Happening Again",
+      "artists": [
+        "Agnes Obel"
+      ],
+      "playedAt": "2026-04-02T19:10:06.031Z"
+    },
+    {
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
+      "artists": [
+        "James Asher"
+      ],
+      "playedAt": "2026-04-02T15:25:34.325Z"
+    },
+    {
+      "id": "0y1Bay4UAdzWvpDJinzGz1",
+      "name": "Winterfell",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-04-02T15:19:39.655Z"
     },
     {
       "id": "17wBJ5bznjXbWGYdHtS2cX",
@@ -397,15 +156,170 @@
       "artists": [
         "One Juno"
       ],
-      "playedAt": "2026-04-01T05:27:16.498Z"
+      "playedAt": "2026-04-02T15:19:19.080Z"
     },
     {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
+      "id": "5pNwzTWBv86s3Ueho7C57q",
+      "name": "Trust Each Other",
       "artists": [
-        "Baka Beyond"
+        "Ramin Djawadi"
       ],
-      "playedAt": "2026-04-01T05:25:23.483Z"
+      "playedAt": "2026-04-02T15:13:23.038Z"
+    },
+    {
+      "id": "3Z0QYWxOndrwwtiUyybjSl",
+      "name": "Finale",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-04-02T15:09:07.046Z"
+    },
+    {
+      "id": "6TYzaO31pog2PwBm4O7OOM",
+      "name": "Fire And Blood",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-04-02T15:06:35.952Z"
+    },
+    {
+      "id": "4wxaEgPlUbEUwiAnThBUkw",
+      "name": "Mhysa",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-04-02T15:01:54.641Z"
+    },
+    {
+      "id": "5r6Yteno7vhY7Nqlwkg3Xf",
+      "name": "Rook's Rest, Pt. 1",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-04-02T14:57:09.527Z"
+    },
+    {
+      "id": "3eFBPuf0y3Vguk6GUCNpwP",
+      "name": "Back in Love",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "playedAt": "2026-04-02T14:48:18.909Z"
+    },
+    {
+      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
+      "name": "Good Looking (Stripped)",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "playedAt": "2026-04-02T14:45:04.854Z"
+    },
+    {
+      "id": "3NsZZpRmWNGvE0WmCuZPAu",
+      "name": "Slow Sun",
+      "artists": [
+        "Aukai",
+        "Richard Houghten"
+      ],
+      "playedAt": "2026-04-02T14:39:57.297Z"
+    },
+    {
+      "id": "37YLEHlqNHrN5AISi38VKu",
+      "name": "Follow The Sun",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-02T14:36:17.033Z"
+    },
+    {
+      "id": "5IdhVFJKEU4JNi7cwDnc6h",
+      "name": "Summer Rain",
+      "artists": [
+        "Le Parody",
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-02T14:31:45.795Z"
+    },
+    {
+      "id": "2toWSLiO0t0eJmwqnn2UHy",
+      "name": "Run from Me",
+      "artists": [
+        "Timber Timbre"
+      ],
+      "playedAt": "2026-04-02T14:27:46.275Z"
+    },
+    {
+      "id": "7D6oFV1ST67jQSO1Ly4INc",
+      "name": "Hombre Honrado",
+      "artists": [
+        "Hermanos Gutiérrez"
+      ],
+      "playedAt": "2026-04-02T14:23:29.059Z"
+    },
+    {
+      "id": "0o7Zc88vK9B2tx5bk9Egta",
+      "name": "You Deserved A Different Life",
+      "artists": [
+        "Daniel Ciurlizza",
+        "Nestor Estrada"
+      ],
+      "playedAt": "2026-04-02T14:19:54.717Z"
+    },
+    {
+      "id": "0vp09QgBhShrQOL2w7P8k4",
+      "name": "Recovery",
+      "artists": [
+        "Rival Consoles"
+      ],
+      "playedAt": "2026-04-02T14:15:16.032Z"
+    },
+    {
+      "id": "7AlJWH45s6NgsfgsKxWOIM",
+      "name": "I Won't Let You Down",
+      "artists": [
+        "Curtis Harding"
+      ],
+      "playedAt": "2026-04-02T14:10:17.360Z"
+    },
+    {
+      "id": "6tHVEMyRfxGgQuXRzl2yOF",
+      "name": "I've Seen It",
+      "artists": [
+        "Olivia Dean"
+      ],
+      "playedAt": "2026-04-02T14:06:12.970Z"
+    },
+    {
+      "id": "2WMyu5IYgxEuCd6xgFgJrl",
+      "name": "Nature Boy",
+      "artists": [
+        "Nat King Cole"
+      ],
+      "playedAt": "2026-04-02T14:04:06.111Z"
+    },
+    {
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
+      "artists": [
+        "Tami Neilson"
+      ],
+      "playedAt": "2026-04-02T14:01:12.554Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-04-02T13:51:38.040Z"
+    },
+    {
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-04-02T13:47:44.977Z"
     },
     {
       "id": "03u0PaWtamsNVJaim6osKG",
@@ -413,7 +327,97 @@
       "artists": [
         "Hippiesónicos"
       ],
-      "playedAt": "2026-04-01T05:19:56.819Z"
+      "playedAt": "2026-04-02T13:43:29.741Z"
+    },
+    {
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-04-02T13:39:02.830Z"
+    },
+    {
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-04-02T13:34:29.814Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-04-02T13:29:54.326Z"
+    },
+    {
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
+      "artists": [
+        "Cari Cari"
+      ],
+      "playedAt": "2026-04-02T13:24:35.539Z"
+    },
+    {
+      "id": "0QVJsWtmgj9SWZaLYiX2i3",
+      "name": "Heaven - Remastered",
+      "artists": [
+        "The Rolling Stones",
+        "Bob Clearmountain"
+      ],
+      "playedAt": "2026-04-02T13:19:44.856Z"
+    },
+    {
+      "id": "4vqp9GaO7RVkinyrYY5W6R",
+      "name": "Lighthouse",
+      "artists": [
+        "Patrick Watson"
+      ],
+      "playedAt": "2026-04-02T11:49:53.905Z"
+    },
+    {
+      "id": "12r1ZXidG7FnfJdkDd4d1l",
+      "name": "Losing Rachel",
+      "artists": [
+        "Jeff Beal"
+      ],
+      "playedAt": "2026-04-02T11:45:07.127Z"
+    },
+    {
+      "id": "5idHsP963WyMrHvch6Ve6r",
+      "name": "Sisters",
+      "artists": [
+        "Martin Phipps",
+        "The Chamber Orchestra Of London"
+      ],
+      "playedAt": "2026-04-02T11:42:39.890Z"
+    },
+    {
+      "id": "0uJr5n9g4Xc7y3bVogQdm9",
+      "name": "Little's Theme",
+      "artists": [
+        "Nicholas Britell"
+      ],
+      "playedAt": "2026-04-02T11:39:38.904Z"
+    },
+    {
+      "id": "0Q3GpBYKy5Mx97TNBJVibl",
+      "name": "Bookends Theme - Reprise",
+      "artists": [
+        "Simon & Garfunkel"
+      ],
+      "playedAt": "2026-04-02T11:38:39.046Z"
+    },
+    {
+      "id": "1knUACOt5yfNAYn7gnYQVt",
+      "name": "Work",
+      "artists": [
+        "Charlotte Day Wilson"
+      ],
+      "playedAt": "2026-04-02T11:37:15.470Z"
     }
   ]
 }

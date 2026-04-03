@@ -3,29 +3,21 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6522222222222224,
-    "avgEnergy": 0.3096296296296296,
-    "avgAcousticness": 0.8522222222222223,
-    "trackCount": 50,
-    "analyzedCount": 27
+    "avgValence": 0.6905555555555556,
+    "avgEnergy": 0.32499999999999996,
+    "avgAcousticness": 0.8311111111111111,
+    "trackCount": 37,
+    "analyzedCount": 18
   },
-  "date": "2026-04-02T23:25:54.860Z",
+  "date": "2026-04-03T23:25:38.339Z",
   "tracks": [
     {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
       "artists": [
-        "Geoffroy"
+        "efdemin"
       ],
-      "playedAt": "2026-04-02T23:18:34.883Z"
-    },
-    {
-      "id": "0ZplRXackRMYmf8VThWX6z",
-      "name": "Heart Beats Slow",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-02T21:38:48.833Z"
+      "playedAt": "2026-04-03T22:16:47.420Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -33,31 +25,7 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-04-02T21:12:51.020Z"
-    },
-    {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
-      "artists": [
-        "Husky"
-      ],
-      "playedAt": "2026-04-02T21:08:20.103Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-02T21:02:17.576Z"
-    },
-    {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-04-02T20:57:57.778Z"
+      "playedAt": "2026-04-03T22:09:43.471Z"
     },
     {
       "id": "5cJBLutdQO3ikhfOItxPTc",
@@ -65,301 +33,16 @@
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-04-02T20:53:33.059Z"
+      "playedAt": "2026-04-03T22:05:47.308Z"
     },
     {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
       "artists": [
-        "Suki Waterhouse"
+        "Poranguí",
+        "Liquid Bloom"
       ],
-      "playedAt": "2026-04-02T20:44:21.081Z"
-    },
-    {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-02T20:41:05.699Z"
-    },
-    {
-      "id": "5AglhU9luP6EBIRK3MBLf6",
-      "name": "El Jaguar Caza feat. Sāgarā",
-      "artists": [
-        "Da Iguana",
-        "Sāgarā"
-      ],
-      "playedAt": "2026-04-02T20:37:29.998Z"
-    },
-    {
-      "id": "4qeIlzP0Z1JFXh0AckDcX8",
-      "name": "No Nein",
-      "artists": [
-        "1tbsp",
-        "Mietze Conte"
-      ],
-      "playedAt": "2026-04-02T20:31:10.538Z"
-    },
-    {
-      "id": "5VYxtmyTV8ZSMLLt6PMyYu",
-      "name": "Sex To Me",
-      "artists": [
-        "Charlotte Cardin"
-      ],
-      "playedAt": "2026-04-02T20:25:11.984Z"
-    },
-    {
-      "id": "5MWMT5aWVqCyiQgLxYVRBs",
-      "name": "SexyBack",
-      "artists": [
-        "Ikan Gunuc",
-        "Clara Stegall"
-      ],
-      "playedAt": "2026-04-02T20:22:06.706Z"
-    },
-    {
-      "id": "1JfRSuCAZl5cyyoOo2CMK4",
-      "name": "Weg von dir",
-      "artists": [
-        "Raphael Schön"
-      ],
-      "playedAt": "2026-04-02T20:11:48.662Z"
-    },
-    {
-      "id": "5uE0ggArLjnpwVPEXc36Hx",
-      "name": "It's Happening Again",
-      "artists": [
-        "Agnes Obel"
-      ],
-      "playedAt": "2026-04-02T19:10:06.031Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-04-02T15:25:34.325Z"
-    },
-    {
-      "id": "0y1Bay4UAdzWvpDJinzGz1",
-      "name": "Winterfell",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-02T15:19:39.655Z"
-    },
-    {
-      "id": "17wBJ5bznjXbWGYdHtS2cX",
-      "name": "Under the Tabla",
-      "artists": [
-        "One Juno"
-      ],
-      "playedAt": "2026-04-02T15:19:19.080Z"
-    },
-    {
-      "id": "5pNwzTWBv86s3Ueho7C57q",
-      "name": "Trust Each Other",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-02T15:13:23.038Z"
-    },
-    {
-      "id": "3Z0QYWxOndrwwtiUyybjSl",
-      "name": "Finale",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-02T15:09:07.046Z"
-    },
-    {
-      "id": "6TYzaO31pog2PwBm4O7OOM",
-      "name": "Fire And Blood",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-02T15:06:35.952Z"
-    },
-    {
-      "id": "4wxaEgPlUbEUwiAnThBUkw",
-      "name": "Mhysa",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-02T15:01:54.641Z"
-    },
-    {
-      "id": "5r6Yteno7vhY7Nqlwkg3Xf",
-      "name": "Rook's Rest, Pt. 1",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-02T14:57:09.527Z"
-    },
-    {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-02T14:48:18.909Z"
-    },
-    {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-02T14:45:04.854Z"
-    },
-    {
-      "id": "3NsZZpRmWNGvE0WmCuZPAu",
-      "name": "Slow Sun",
-      "artists": [
-        "Aukai",
-        "Richard Houghten"
-      ],
-      "playedAt": "2026-04-02T14:39:57.297Z"
-    },
-    {
-      "id": "37YLEHlqNHrN5AISi38VKu",
-      "name": "Follow The Sun",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-02T14:36:17.033Z"
-    },
-    {
-      "id": "5IdhVFJKEU4JNi7cwDnc6h",
-      "name": "Summer Rain",
-      "artists": [
-        "Le Parody",
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-02T14:31:45.795Z"
-    },
-    {
-      "id": "2toWSLiO0t0eJmwqnn2UHy",
-      "name": "Run from Me",
-      "artists": [
-        "Timber Timbre"
-      ],
-      "playedAt": "2026-04-02T14:27:46.275Z"
-    },
-    {
-      "id": "7D6oFV1ST67jQSO1Ly4INc",
-      "name": "Hombre Honrado",
-      "artists": [
-        "Hermanos Gutiérrez"
-      ],
-      "playedAt": "2026-04-02T14:23:29.059Z"
-    },
-    {
-      "id": "0o7Zc88vK9B2tx5bk9Egta",
-      "name": "You Deserved A Different Life",
-      "artists": [
-        "Daniel Ciurlizza",
-        "Nestor Estrada"
-      ],
-      "playedAt": "2026-04-02T14:19:54.717Z"
-    },
-    {
-      "id": "0vp09QgBhShrQOL2w7P8k4",
-      "name": "Recovery",
-      "artists": [
-        "Rival Consoles"
-      ],
-      "playedAt": "2026-04-02T14:15:16.032Z"
-    },
-    {
-      "id": "7AlJWH45s6NgsfgsKxWOIM",
-      "name": "I Won't Let You Down",
-      "artists": [
-        "Curtis Harding"
-      ],
-      "playedAt": "2026-04-02T14:10:17.360Z"
-    },
-    {
-      "id": "6tHVEMyRfxGgQuXRzl2yOF",
-      "name": "I've Seen It",
-      "artists": [
-        "Olivia Dean"
-      ],
-      "playedAt": "2026-04-02T14:06:12.970Z"
-    },
-    {
-      "id": "2WMyu5IYgxEuCd6xgFgJrl",
-      "name": "Nature Boy",
-      "artists": [
-        "Nat King Cole"
-      ],
-      "playedAt": "2026-04-02T14:04:06.111Z"
-    },
-    {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
-      "artists": [
-        "Tami Neilson"
-      ],
-      "playedAt": "2026-04-02T14:01:12.554Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-04-02T13:51:38.040Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-04-02T13:47:44.977Z"
-    },
-    {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
-      "artists": [
-        "Hippiesónicos"
-      ],
-      "playedAt": "2026-04-02T13:43:29.741Z"
-    },
-    {
-      "id": "155VhO5SaeFUz107dXb9CY",
-      "name": "Nothing Else",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-02T13:39:02.830Z"
-    },
-    {
-      "id": "0ZplRXackRMYmf8VThWX6z",
-      "name": "Heart Beats Slow",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-02T13:34:29.814Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-04-02T13:29:54.326Z"
-    },
-    {
-      "id": "1G3rpP4SpzMKx7fKu4NZPV",
-      "name": "Mazuka",
-      "artists": [
-        "Cari Cari"
-      ],
-      "playedAt": "2026-04-02T13:24:35.539Z"
+      "playedAt": "2026-04-03T21:58:53.292Z"
     },
     {
       "id": "0QVJsWtmgj9SWZaLYiX2i3",
@@ -368,56 +51,269 @@
         "The Rolling Stones",
         "Bob Clearmountain"
       ],
-      "playedAt": "2026-04-02T13:19:44.856Z"
+      "playedAt": "2026-04-03T21:50:55.539Z"
     },
     {
-      "id": "4vqp9GaO7RVkinyrYY5W6R",
-      "name": "Lighthouse",
+      "id": "3eFBPuf0y3Vguk6GUCNpwP",
+      "name": "Back in Love",
       "artists": [
-        "Patrick Watson"
+        "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-02T11:49:53.905Z"
+      "playedAt": "2026-04-03T21:46:34.245Z"
     },
     {
-      "id": "12r1ZXidG7FnfJdkDd4d1l",
-      "name": "Losing Rachel",
+      "id": "03u0PaWtamsNVJaim6osKG",
+      "name": "Todo Florecerá",
       "artists": [
-        "Jeff Beal"
+        "Hippiesónicos"
       ],
-      "playedAt": "2026-04-02T11:45:07.127Z"
+      "playedAt": "2026-04-03T21:42:57.466Z"
     },
     {
-      "id": "5idHsP963WyMrHvch6Ve6r",
-      "name": "Sisters",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "Martin Phipps",
-        "The Chamber Orchestra Of London"
+        "Still Corners"
       ],
-      "playedAt": "2026-04-02T11:42:39.890Z"
+      "playedAt": "2026-04-03T21:38:59.439Z"
     },
     {
-      "id": "0uJr5n9g4Xc7y3bVogQdm9",
-      "name": "Little's Theme",
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
       "artists": [
-        "Nicholas Britell"
+        "Baka Beyond"
       ],
-      "playedAt": "2026-04-02T11:39:38.904Z"
+      "playedAt": "2026-04-03T16:44:56.237Z"
     },
     {
-      "id": "0Q3GpBYKy5Mx97TNBJVibl",
-      "name": "Bookends Theme - Reprise",
+      "id": "03u0PaWtamsNVJaim6osKG",
+      "name": "Todo Florecerá",
       "artists": [
-        "Simon & Garfunkel"
+        "Hippiesónicos"
       ],
-      "playedAt": "2026-04-02T11:38:39.046Z"
+      "playedAt": "2026-04-03T16:39:22.657Z"
     },
     {
-      "id": "1knUACOt5yfNAYn7gnYQVt",
-      "name": "Work",
+      "id": "0M2qa9uXyL6dzejgseuszY",
+      "name": "Freydies",
       "artists": [
-        "Charlotte Day Wilson"
+        "Yuvèe"
       ],
-      "playedAt": "2026-04-02T11:37:15.470Z"
+      "playedAt": "2026-04-03T16:34:27.463Z"
+    },
+    {
+      "id": "49NdrUjxqnLUajnQS4KzTO",
+      "name": "Reflections of God",
+      "artists": [
+        "Jaubi"
+      ],
+      "playedAt": "2026-04-03T16:29:12.394Z"
+    },
+    {
+      "id": "6arqzCF2dWIkDWpzEPZ929",
+      "name": "Chura Liya Hai Tumne Jo Dil Ko - Revival",
+      "artists": [
+        "Asha Bhosle",
+        "Mohammed Rafi"
+      ],
+      "playedAt": "2026-04-03T16:23:16.829Z"
+    },
+    {
+      "id": "2cTGPhd0rCh0G2LpeooRI1",
+      "name": "Live And Let Live",
+      "artists": [
+        "Darksoft"
+      ],
+      "playedAt": "2026-04-03T16:03:07.449Z"
+    },
+    {
+      "id": "1So5g0FHqTOlDloTC17YrY",
+      "name": "Blue Valentine (You Always Hurt The One You Love) (From \"Blue Valentine\")",
+      "artists": [
+        "Regency Movie Orchestra"
+      ],
+      "playedAt": "2026-04-03T15:59:35.574Z"
+    },
+    {
+      "id": "4tnksYPh1C7j4qEoJipDFO",
+      "name": "Hana Mash Hu Al Yaman",
+      "artists": [
+        "A-WA"
+      ],
+      "playedAt": "2026-04-03T15:57:00.754Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-04-03T15:51:24.030Z"
+    },
+    {
+      "id": "4sOLtnLeIFwO4YUUSV5DM5",
+      "name": "Jolie Fille (feat. Layefa)",
+      "artists": [
+        "Maz",
+        "Antdot",
+        "Ginton",
+        "Layefa"
+      ],
+      "playedAt": "2026-04-03T15:43:41.501Z"
+    },
+    {
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Bob Dylan"
+      ],
+      "playedAt": "2026-04-03T15:40:33.874Z"
+    },
+    {
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
+      "artists": [
+        "Baka Beyond"
+      ],
+      "playedAt": "2026-04-03T15:37:37.140Z"
+    },
+    {
+      "id": "5VYxtmyTV8ZSMLLt6PMyYu",
+      "name": "Sex To Me",
+      "artists": [
+        "Charlotte Cardin"
+      ],
+      "playedAt": "2026-04-03T15:30:14.514Z"
+    },
+    {
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
+      "artists": [
+        "efdemin"
+      ],
+      "playedAt": "2026-04-03T15:26:43.743Z"
+    },
+    {
+      "id": "2nTGUH5KRYIhkuyXS2jUUW",
+      "name": "Grounded",
+      "artists": [
+        "Mementomor",
+        "Widox"
+      ],
+      "playedAt": "2026-04-03T10:36:42.730Z"
+    },
+    {
+      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
+      "name": "Influenced",
+      "artists": [
+        "Electrypnose"
+      ],
+      "playedAt": "2026-04-03T10:28:54.424Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-03T10:14:19.149Z"
+    },
+    {
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
+      "artists": [
+        "Tami Neilson"
+      ],
+      "playedAt": "2026-04-03T10:11:16.593Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-04-03T10:07:27.067Z"
+    },
+    {
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-04-03T10:03:34.742Z"
+    },
+    {
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
+      "artists": [
+        "TÂCHES",
+        "Carmen Vandenberg"
+      ],
+      "playedAt": "2026-04-03T09:55:02.223Z"
+    },
+    {
+      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
+      "name": "Weißer Ferrari",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-04-03T09:50:09.730Z"
+    },
+    {
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-04-03T09:47:47.026Z"
+    },
+    {
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
+      "artists": [
+        "Husky"
+      ],
+      "playedAt": "2026-04-03T08:42:09.669Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-04-03T08:38:09.819Z"
+    },
+    {
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Bob Dylan"
+      ],
+      "playedAt": "2026-04-03T08:34:11.173Z"
+    },
+    {
+      "id": "7M9pPyt8Gr41THLhbz4NSB",
+      "name": "Don't Let Me Be Misunderstood",
+      "artists": [
+        "Nina Simone"
+      ],
+      "playedAt": "2026-04-03T08:31:41.149Z"
+    },
+    {
+      "id": "67UOlZLz6tDEDuScefmWDd",
+      "name": "So Weit Wie Noch Nie",
+      "artists": [
+        "Jürgen Paape"
+      ],
+      "playedAt": "2026-04-03T08:28:54.076Z"
+    },
+    {
+      "id": "03u0PaWtamsNVJaim6osKG",
+      "name": "Todo Florecerá",
+      "artists": [
+        "Hippiesónicos"
+      ],
+      "playedAt": "2026-04-03T08:11:08.695Z"
     }
   ]
 }

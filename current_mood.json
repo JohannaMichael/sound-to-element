@@ -3,194 +3,61 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6951999999999999,
-    "avgEnergy": 0.34600000000000003,
-    "avgAcousticness": 0.8012,
-    "trackCount": 50,
-    "analyzedCount": 25
+    "avgValence": 0.6645454545454546,
+    "avgEnergy": 0.30818181818181817,
+    "avgAcousticness": 0.848181818181818,
+    "trackCount": 23,
+    "analyzedCount": 11
   },
-  "date": "2026-04-04T23:22:16.859Z",
+  "date": "2026-04-05T23:25:05.906Z",
   "tracks": [
     {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
       "artists": [
-        "Husky"
+        "Anilah"
       ],
-      "playedAt": "2026-04-04T23:07:29.867Z"
+      "playedAt": "2026-04-05T21:50:12.632Z"
     },
     {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
+      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
+      "name": "Naked Spirit (featuring Djivan Gasparyan)",
       "artists": [
-        "Angus & Julia Stone"
+        "Sainkho Namtchylak"
       ],
-      "playedAt": "2026-04-04T22:45:39.238Z"
+      "playedAt": "2026-04-05T21:47:41.158Z"
     },
     {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
       "artists": [
-        "Still Corners"
+        "Anilah"
       ],
-      "playedAt": "2026-04-04T22:42:18.802Z"
+      "playedAt": "2026-04-05T21:41:30.337Z"
     },
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "2TM24qZOOgsmA94g6Ovy48",
+      "name": "Nobody Knows",
       "artists": [
-        "James Asher"
+        "Pastor T.L. Barrett and the Youth for Christ Choir"
       ],
-      "playedAt": "2026-04-04T22:37:54.524Z"
+      "playedAt": "2026-04-05T20:47:20.110Z"
     },
     {
-      "id": "2ke17KqBdUbhjHDve5m9DH",
-      "name": "Craw-Fever",
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
       "artists": [
-        "Elvis Presley"
+        "David A. Molina"
       ],
-      "playedAt": "2026-04-04T22:31:48.278Z"
+      "playedAt": "2026-04-05T11:29:11.601Z"
     },
     {
-      "id": "7e4zDInS6tA2jwzphvs2Ay",
-      "name": "Jamaican (Bam Bam)",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
-        "HUGEL",
-        "SOLTO (FR)"
+        "David A. Molina"
       ],
-      "playedAt": "2026-04-04T22:25:53.078Z"
-    },
-    {
-      "id": "73ZlmJxexVebFozgZhEhkd",
-      "name": "O Children",
-      "artists": [
-        "Nick Cave & The Bad Seeds"
-      ],
-      "playedAt": "2026-04-04T22:23:16.802Z"
-    },
-    {
-      "id": "65q0qZbQBdPPYfAcZ7n0e3",
-      "name": "Beautiful Hell",
-      "artists": [
-        "Adna"
-      ],
-      "playedAt": "2026-04-04T22:15:50.992Z"
-    },
-    {
-      "id": "0uYVJ8z5kgMayMNPJA6Cz9",
-      "name": "Running Up That Hill",
-      "artists": [
-        "Placebo"
-      ],
-      "playedAt": "2026-04-04T22:12:21.229Z"
-    },
-    {
-      "id": "5HzWbFpjFBo219h3Gt5PRb",
-      "name": "Falling Colour",
-      "artists": [
-        "Vanbur"
-      ],
-      "playedAt": "2026-04-04T22:07:23.820Z"
-    },
-    {
-      "id": "1sFbPuShR6R8v6vSMkx02x",
-      "name": "Possibility",
-      "artists": [
-        "Lykke Li"
-      ],
-      "playedAt": "2026-04-04T22:03:42.067Z"
-    },
-    {
-      "id": "7jw0m7b9IVg4uU2D4gx48g",
-      "name": "Demon Host",
-      "artists": [
-        "Timber Timbre"
-      ],
-      "playedAt": "2026-04-04T21:58:34.023Z"
-    },
-    {
-      "id": "1sgUr9aH3QCl20qFjR8N6z",
-      "name": "Recuerdo de Ti (Seb Wildblood Remix)",
-      "artists": [
-        "Geoffroy",
-        "Seb Wildblood"
-      ],
-      "playedAt": "2026-04-04T19:58:55.705Z"
-    },
-    {
-      "id": "4JVZUa9DYtJ72QIVwYHYTi",
-      "name": "Tú Y Yo",
-      "artists": [
-        "Camel Power Club",
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-04T19:39:50.144Z"
-    },
-    {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
-      "artists": [
-        "Shungudzo"
-      ],
-      "playedAt": "2026-04-04T19:36:11.445Z"
-    },
-    {
-      "id": "7e4zDInS6tA2jwzphvs2Ay",
-      "name": "Jamaican (Bam Bam)",
-      "artists": [
-        "HUGEL",
-        "SOLTO (FR)"
-      ],
-      "playedAt": "2026-04-04T19:18:44.538Z"
-    },
-    {
-      "id": "1y62v08lkqdPTBj7si8tnA",
-      "name": "Yamore - Edit Version",
-      "artists": [
-        "MoBlack",
-        "Salif Keita",
-        "Benja (NL)",
-        "Franc Fala",
-        "Cesária Evora"
-      ],
-      "playedAt": "2026-04-04T19:15:39.536Z"
-    },
-    {
-      "id": "5nPbKG04fhLkIAjcPFaZq7",
-      "name": "I Adore You (feat. Daecolm)",
-      "artists": [
-        "HUGEL",
-        "Topic",
-        "Arash",
-        "Daecolm"
-      ],
-      "playedAt": "2026-04-04T19:13:08.488Z"
-    },
-    {
-      "id": "7e4zDInS6tA2jwzphvs2Ay",
-      "name": "Jamaican (Bam Bam)",
-      "artists": [
-        "HUGEL",
-        "SOLTO (FR)"
-      ],
-      "playedAt": "2026-04-04T19:09:09.830Z"
-    },
-    {
-      "id": "7e4zDInS6tA2jwzphvs2Ay",
-      "name": "Jamaican (Bam Bam)",
-      "artists": [
-        "HUGEL",
-        "SOLTO (FR)"
-      ],
-      "playedAt": "2026-04-04T19:05:17.233Z"
-    },
-    {
-      "id": "0ZplRXackRMYmf8VThWX6z",
-      "name": "Heart Beats Slow",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-04T17:22:41.696Z"
+      "playedAt": "2026-04-05T11:25:24.352Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -198,167 +65,7 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-04-04T17:18:05.875Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-04T17:14:02.482Z"
-    },
-    {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-04-04T17:10:42.475Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-04-04T17:06:18.103Z"
-    },
-    {
-      "id": "0ZplRXackRMYmf8VThWX6z",
-      "name": "Heart Beats Slow",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-04T16:59:24.308Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-04-04T16:54:48.223Z"
-    },
-    {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
-      "artists": [
-        "Husky"
-      ],
-      "playedAt": "2026-04-04T16:50:52.639Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-04T16:46:52.632Z"
-    },
-    {
-      "id": "0INtJm8gCJKtNaAYQNVlpZ",
-      "name": "You Don't Love Me (No, No, No) - Extended Mix",
-      "artists": [
-        "Dawn Penn"
-      ],
-      "playedAt": "2026-04-04T16:42:51.862Z"
-    },
-    {
-      "id": "0rdWkO7ncrh1lrJGDmLq9L",
-      "name": "Gamesofluck",
-      "artists": [
-        "Parcels"
-      ],
-      "playedAt": "2026-04-04T16:37:41.709Z"
-    },
-    {
-      "id": "6zfczP87XO2SxWlQtnjFNa",
-      "name": "The Look",
-      "artists": [
-        "Metronomy"
-      ],
-      "playedAt": "2026-04-04T16:31:14.651Z"
-    },
-    {
-      "id": "6H3Wa6hWR9DRMzMSd4pZkT",
-      "name": "Make Your Own Kind Of Music",
-      "artists": [
-        "Cass Elliot"
-      ],
-      "playedAt": "2026-04-04T16:25:38.954Z"
-    },
-    {
-      "id": "2ZuMRfgqMItsAJVNGOSYkg",
-      "name": "Love Survive",
-      "artists": [
-        "Michael Nau"
-      ],
-      "playedAt": "2026-04-04T16:23:18.758Z"
-    },
-    {
-      "id": "2MnSPY2QYMbtkDWGzY02In",
-      "name": "Asc. Scorpio",
-      "artists": [
-        "Oracle Sisters"
-      ],
-      "playedAt": "2026-04-04T16:20:33.463Z"
-    },
-    {
-      "id": "5oiTnaEHK3OFDZIL8AIYwu",
-      "name": "Play",
-      "artists": [
-        "Alewya"
-      ],
-      "playedAt": "2026-04-04T16:17:33.550Z"
-    },
-    {
-      "id": "5t9KYe0Fhd5cW6UYT4qP8f",
-      "name": "Good Vibrations - Remastered 2001",
-      "artists": [
-        "The Beach Boys"
-      ],
-      "playedAt": "2026-04-04T14:09:53.320Z"
-    },
-    {
-      "id": "0NA09EJ4C7LwvI7CvtpdnV",
-      "name": "Mystery of Love [Instrumental] - Live",
-      "artists": [
-        "Hannah Stater"
-      ],
-      "playedAt": "2026-04-04T13:21:37.911Z"
-    },
-    {
-      "id": "4u9f8hqstB7iITDJNzKhQx",
-      "name": "My Generation - Stereo Version",
-      "artists": [
-        "The Who"
-      ],
-      "playedAt": "2026-04-04T13:17:25.712Z"
-    },
-    {
-      "id": "4vDBJeeQCbhP9FaPPMsYkY",
-      "name": "Give Me One Reason",
-      "artists": [
-        "Tracy Chapman"
-      ],
-      "playedAt": "2026-04-04T13:08:46.239Z"
-    },
-    {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-04T13:00:49.577Z"
-    },
-    {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-04T12:57:37.394Z"
+      "playedAt": "2026-04-05T11:21:13.893Z"
     },
     {
       "id": "3N4gUEMXtxvDhPo5ifI5uX",
@@ -366,15 +73,47 @@
       "artists": [
         "Baka Beyond"
       ],
-      "playedAt": "2026-04-04T12:53:31.039Z"
+      "playedAt": "2026-04-05T11:17:08.209Z"
     },
     {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
+      "id": "4tnksYPh1C7j4qEoJipDFO",
+      "name": "Hana Mash Hu Al Yaman",
       "artists": [
-        "Hippiesónicos"
+        "A-WA"
       ],
-      "playedAt": "2026-04-04T12:47:57.453Z"
+      "playedAt": "2026-04-05T11:11:33.144Z"
+    },
+    {
+      "id": "32NMmAVohuSJeiYuuiVUbo",
+      "name": "r&r",
+      "artists": [
+        "berlioz"
+      ],
+      "playedAt": "2026-04-05T11:07:22.843Z"
+    },
+    {
+      "id": "7AlJWH45s6NgsfgsKxWOIM",
+      "name": "I Won't Let You Down",
+      "artists": [
+        "Curtis Harding"
+      ],
+      "playedAt": "2026-04-05T11:03:58.680Z"
+    },
+    {
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
+      "artists": [
+        "efdemin"
+      ],
+      "playedAt": "2026-04-05T10:59:46.753Z"
+    },
+    {
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-04-05T10:54:22.703Z"
     },
     {
       "id": "7sPaHKAHhDzsTmgipIV5Io",
@@ -382,47 +121,82 @@
       "artists": [
         "Angus & Julia Stone"
       ],
-      "playedAt": "2026-04-04T12:43:42.571Z"
+      "playedAt": "2026-04-05T10:42:58.687Z"
     },
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "6Cojy8iCgddqDVje5fWfjO",
+      "name": "Today is the Day",
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-04-04T12:40:17.015Z"
+      "playedAt": "2026-04-05T10:39:38.517Z"
     },
     {
-      "id": "155VhO5SaeFUz107dXb9CY",
-      "name": "Nothing Else",
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
       "artists": [
-        "Angus & Julia Stone"
+        "James Asher"
       ],
-      "playedAt": "2026-04-04T12:36:16.661Z"
+      "playedAt": "2026-04-05T10:35:14.072Z"
     },
     {
-      "id": "4hEUp0JHJ0b20ICmvSebgI",
-      "name": "COMO TÚ",
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
       "artists": [
-        "Olivia C. Dacal"
+        "Poranguí",
+        "Liquid Bloom"
       ],
-      "playedAt": "2026-04-04T11:59:44.219Z"
+      "playedAt": "2026-04-05T10:29:17.204Z"
     },
     {
-      "id": "4kaqizkr7cp8YLsWmf5l9b",
-      "name": "Hey Now - ARTY Remix",
+      "id": "7e4zDInS6tA2jwzphvs2Ay",
+      "name": "Jamaican (Bam Bam)",
       "artists": [
-        "London Grammar"
+        "HUGEL",
+        "SOLTO (FR)"
       ],
-      "playedAt": "2026-04-04T11:59:41.910Z"
+      "playedAt": "2026-04-05T10:20:20.022Z"
     },
     {
-      "id": "5TXBD7mpGEeAUxudqboLGF",
-      "name": "Feels Like Heaven",
+      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
+      "name": "Influenced",
       "artists": [
-        "Inger Lise"
+        "Electrypnose"
       ],
-      "playedAt": "2026-04-04T11:52:23.269Z"
+      "playedAt": "2026-04-05T10:17:44.262Z"
+    },
+    {
+      "id": "7A1YcSeFJpLTHybu78qgT9",
+      "name": "Aurora Centralis",
+      "artists": [
+        "747"
+      ],
+      "playedAt": "2026-04-05T08:07:55.730Z"
+    },
+    {
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
+      "artists": [
+        "efdemin"
+      ],
+      "playedAt": "2026-04-05T07:33:46.708Z"
+    },
+    {
+      "id": "5VYxtmyTV8ZSMLLt6PMyYu",
+      "name": "Sex To Me",
+      "artists": [
+        "Charlotte Cardin"
+      ],
+      "playedAt": "2026-04-05T07:28:14.797Z"
+    },
+    {
+      "id": "7e4zDInS6tA2jwzphvs2Ay",
+      "name": "Jamaican (Bam Bam)",
+      "artists": [
+        "HUGEL",
+        "SOLTO (FR)"
+      ],
+      "playedAt": "2026-04-05T07:24:38.132Z"
     }
   ]
 }

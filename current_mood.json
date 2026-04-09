@@ -1,212 +1,83 @@
 {
-  "name": "WATER",
-  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
-  "description": "Flowing & Emotional",
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.5827272727272728,
-    "avgEnergy": 0.29363636363636364,
-    "avgAcousticness": 0.8527272727272728,
-    "trackCount": 32,
-    "analyzedCount": 11
+    "avgValence": 0.64,
+    "avgEnergy": 0.32500000000000007,
+    "avgAcousticness": 0.8139999999999998,
+    "trackCount": 44,
+    "analyzedCount": 20
   },
-  "date": "2026-04-08T23:30:38.511Z",
+  "date": "2026-04-09T23:31:19.292Z",
   "tracks": [
     {
-      "id": "45Z3m6yazmAi4jZuW0tzW0",
-      "name": "Aperture",
-      "artists": [
-        "Harry Styles"
-      ],
-      "playedAt": "2026-04-08T15:44:04.341Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-04-08T13:32:50.371Z"
-    },
-    {
       "id": "55TeNEjICafyjgWWieqlGg",
       "name": "Sky Burial",
       "artists": [
         "Anilah"
       ],
-      "playedAt": "2026-04-08T13:30:18.924Z"
+      "playedAt": "2026-04-09T19:48:08.351Z"
     },
     {
-      "id": "1ej1Z6AGBLaSI9tSizZMfa",
-      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "id": "6jhiAjwqgIF3d1qBZILLLD",
+      "name": "Internet",
       "artists": [
-        "AMANZI"
+        "BABY J",
+        "Techno Tupac"
       ],
-      "playedAt": "2026-04-08T13:29:30.273Z"
+      "playedAt": "2026-04-09T19:43:04.376Z"
     },
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "5y3xBtIKuO3j2TkhTx4Dol",
+      "name": "Short Notice",
       "artists": [
-        "efdemin"
+        "Mpax",
+        "Brit Fox"
       ],
-      "playedAt": "2026-04-08T13:25:43.068Z"
+      "playedAt": "2026-04-09T17:56:11.277Z"
     },
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "6HZiDsrA00Jiy1EBkukFNr",
+      "name": "Can We Find A Way - Ede Remix",
       "artists": [
-        "Still Corners"
+        "Fritz Kalkbrenner",
+        "Ede"
       ],
-      "playedAt": "2026-04-08T13:20:30.787Z"
+      "playedAt": "2026-04-09T17:09:30.400Z"
     },
     {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "id": "3tYYypENWxaS1DKUtcH8S8",
+      "name": "Don't Stop",
       "artists": [
-        "Poranguí",
-        "Liquid Bloom"
+        "DJ HEARTSTRING",
+        "southstar"
       ],
-      "playedAt": "2026-04-08T13:16:30.477Z"
+      "playedAt": "2026-04-09T17:05:50.749Z"
     },
     {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
+      "id": "1JfRSuCAZl5cyyoOo2CMK4",
+      "name": "Weg von dir",
       "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
+        "Raphael Schön"
       ],
-      "playedAt": "2026-04-08T13:09:40.569Z"
+      "playedAt": "2026-04-09T17:02:29.551Z"
     },
     {
-      "id": "08PdFBcXzpkn1cWNgmKqhn",
-      "name": "Promise",
+      "id": "5qRJD1yaLJ5s0J3JpbgnwA",
+      "name": "Evil Woman",
       "artists": [
-        "Laufey"
+        "Electric Light Orchestra"
       ],
-      "playedAt": "2026-04-08T12:13:46.226Z"
+      "playedAt": "2026-04-09T16:58:17.661Z"
     },
     {
-      "id": "1ix4JCBW5VtnniwREmyVnv",
-      "name": "غصن رمان",
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
       "artists": [
-        "Maryam Shehab"
+        "David A. Molina"
       ],
-      "playedAt": "2026-04-08T12:09:50.960Z"
-    },
-    {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-04-08T12:07:21.425Z"
-    },
-    {
-      "id": "4XF44ZR69PSnEa1oIUfS88",
-      "name": "Body Moving",
-      "artists": [
-        "Umaedo"
-      ],
-      "playedAt": "2026-04-08T08:48:32.125Z"
-    },
-    {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-04-08T08:45:39.832Z"
-    },
-    {
-      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
-      "name": "Naked Spirit (featuring Djivan Gasparyan)",
-      "artists": [
-        "Sainkho Namtchylak"
-      ],
-      "playedAt": "2026-04-08T08:43:27.451Z"
-    },
-    {
-      "id": "4YMSSzhJHtjHIDpYzS9DS2",
-      "name": "Bamboo - Gingaí Remix",
-      "artists": [
-        "Janax Pacha",
-        "Gingaí"
-      ],
-      "playedAt": "2026-04-08T08:38:45.347Z"
-    },
-    {
-      "id": "5NzGioq5qkEvMBfLFu4EdB",
-      "name": "Final Transmission Home",
-      "artists": [
-        "Amaranth Cove"
-      ],
-      "playedAt": "2026-04-08T07:58:06.017Z"
-    },
-    {
-      "id": "6Ix7TgyKTf5VTlWlDOkt9j",
-      "name": "Pure Conscience",
-      "artists": [
-        "Elm Lake"
-      ],
-      "playedAt": "2026-04-08T07:57:07.187Z"
-    },
-    {
-      "id": "70fBfMLb9GwQkaCtYGd7s5",
-      "name": "Deep Dive",
-      "artists": [
-        "Master Minded"
-      ],
-      "playedAt": "2026-04-08T07:46:14.988Z"
-    },
-    {
-      "id": "4JsxWwCOfyxDdlLYUpGPJr",
-      "name": "Chasing Affection",
-      "artists": [
-        "TÂCHES",
-        "Carmen Vandenberg"
-      ],
-      "playedAt": "2026-04-08T07:20:08.418Z"
-    },
-    {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
-      "artists": [
-        "Poranguí",
-        "Liquid Bloom"
-      ],
-      "playedAt": "2026-04-08T07:15:24.855Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-04-08T07:02:48.126Z"
-    },
-    {
-      "id": "6kpJlZvI8164hNC2NAt7AV",
-      "name": "Wristwatch",
-      "artists": [
-        "Husky"
-      ],
-      "playedAt": "2026-04-08T06:58:52.205Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-04-08T06:54:52.066Z"
-    },
-    {
-      "id": "6Cojy8iCgddqDVje5fWfjO",
-      "name": "Today is the Day",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-04-08T06:51:32.179Z"
+      "playedAt": "2026-04-09T15:53:36.836Z"
     },
     {
       "id": "5cJBLutdQO3ikhfOItxPTc",
@@ -214,47 +85,96 @@
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-04-08T06:47:07.753Z"
+      "playedAt": "2026-04-09T15:49:44.604Z"
     },
     {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
+      "id": "7eg1Nt5JDeXmpkCVlsPhhm",
+      "name": "She got the bomb",
       "artists": [
-        "Anilah"
+        "Billylildove"
       ],
-      "playedAt": "2026-04-08T05:50:51.057Z"
+      "playedAt": "2026-04-09T15:43:05.610Z"
     },
     {
-      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
-      "name": "Naked Spirit (featuring Djivan Gasparyan)",
+      "id": "5uE0ggArLjnpwVPEXc36Hx",
+      "name": "It's Happening Again",
       "artists": [
-        "Sainkho Namtchylak"
+        "Agnes Obel"
       ],
-      "playedAt": "2026-04-08T05:48:38.649Z"
+      "playedAt": "2026-04-09T15:40:54.815Z"
     },
     {
-      "id": "5NzGioq5qkEvMBfLFu4EdB",
-      "name": "Final Transmission Home",
+      "id": "2E3itcCm7RGV10KPrla1HH",
+      "name": "Esperanza",
       "artists": [
-        "Amaranth Cove"
+        "Hermanos Gutiérrez"
       ],
-      "playedAt": "2026-04-08T05:43:50.686Z"
+      "playedAt": "2026-04-09T14:19:31.556Z"
     },
     {
-      "id": "6Ix7TgyKTf5VTlWlDOkt9j",
-      "name": "Pure Conscience",
+      "id": "1tXJMRPdTsQxmoWDWsGv1V",
+      "name": "Could've Been A Star",
       "artists": [
-        "Elm Lake"
+        "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-08T05:40:55.047Z"
+      "playedAt": "2026-04-09T14:14:02.224Z"
     },
     {
-      "id": "70fBfMLb9GwQkaCtYGd7s5",
-      "name": "Deep Dive",
+      "id": "1F1S0s0JsCZ3MhVq9C9ZEL",
+      "name": "Manifest - Audible Thought Remix",
       "artists": [
-        "Master Minded"
+        "Taavi",
+        "Audible Thought"
       ],
-      "playedAt": "2026-04-08T05:38:08.772Z"
+      "playedAt": "2026-04-09T13:57:37.296Z"
+    },
+    {
+      "id": "6AdDi9540EEHZEfEMqWqUL",
+      "name": "Goldie Montana",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-09T13:49:22.913Z"
+    },
+    {
+      "id": "6tCLQ3LO1V9l6qdrrwdV6q",
+      "name": "My Silver Lining",
+      "artists": [
+        "First Aid Kit"
+      ],
+      "playedAt": "2026-04-09T13:18:29.287Z"
+    },
+    {
+      "id": "3EIgAuegl9y3MKfYyNb8jS",
+      "name": "Daffodil",
+      "artists": [
+        "Florence + The Machine"
+      ],
+      "playedAt": "2026-04-09T13:05:14.270Z"
+    },
+    {
+      "id": "3fHDbOrSf2IQhLeKaShLS4",
+      "name": "Fuel to Fire",
+      "artists": [
+        "Agnes Obel"
+      ],
+      "playedAt": "2026-04-09T13:01:36.669Z"
+    },
+    {
+      "id": "17wBJ5bznjXbWGYdHtS2cX",
+      "name": "Under the Tabla",
+      "artists": [
+        "One Juno"
+      ],
+      "playedAt": "2026-04-09T13:00:22.764Z"
+    },
+    {
+      "id": "7GtOjSSp5Qyi3gNbNDZgja",
+      "name": "Dream Girl Evil",
+      "artists": [
+        "Florence + The Machine"
+      ],
+      "playedAt": "2026-04-09T12:56:06.648Z"
     },
     {
       "id": "3N4gUEMXtxvDhPo5ifI5uX",
@@ -262,7 +182,146 @@
       "artists": [
         "Baka Beyond"
       ],
-      "playedAt": "2026-04-08T05:33:05.895Z"
+      "playedAt": "2026-04-09T12:40:09.523Z"
+    },
+    {
+      "id": "5VYxtmyTV8ZSMLLt6PMyYu",
+      "name": "Sex To Me",
+      "artists": [
+        "Charlotte Cardin"
+      ],
+      "playedAt": "2026-04-09T12:34:22.662Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-04-09T11:02:25.838Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-04-09T10:57:36.549Z"
+    },
+    {
+      "id": "6Cojy8iCgddqDVje5fWfjO",
+      "name": "Today is the Day",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-04-09T10:54:15.991Z"
+    },
+    {
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
+      "artists": [
+        "James Asher"
+      ],
+      "playedAt": "2026-04-09T10:49:51.646Z"
+    },
+    {
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "artists": [
+        "Poranguí",
+        "Liquid Bloom"
+      ],
+      "playedAt": "2026-04-09T10:43:55.130Z"
+    },
+    {
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
+      "artists": [
+        "Anilah"
+      ],
+      "playedAt": "2026-04-09T10:36:40.735Z"
+    },
+    {
+      "id": "70fBfMLb9GwQkaCtYGd7s5",
+      "name": "Deep Dive",
+      "artists": [
+        "Master Minded"
+      ],
+      "playedAt": "2026-04-09T10:33:53.178Z"
+    },
+    {
+      "id": "524nCOIQg9fi0pETVnbpv8",
+      "name": "Mystified - 2017 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "playedAt": "2026-04-09T10:28:49.107Z"
+    },
+    {
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
+      "artists": [
+        "Anilah"
+      ],
+      "playedAt": "2026-04-09T10:25:34.532Z"
+    },
+    {
+      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
+      "name": "Naked Spirit (featuring Djivan Gasparyan)",
+      "artists": [
+        "Sainkho Namtchylak"
+      ],
+      "playedAt": "2026-04-09T07:57:23.622Z"
+    },
+    {
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
+      "artists": [
+        "Anilah"
+      ],
+      "playedAt": "2026-04-09T07:52:38.649Z"
+    },
+    {
+      "id": "0qWoOHqTirzo59FQ9eoECH",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "playedAt": "2026-04-09T06:41:43.906Z"
+    },
+    {
+      "id": "5VYxtmyTV8ZSMLLt6PMyYu",
+      "name": "Sex To Me",
+      "artists": [
+        "Charlotte Cardin"
+      ],
+      "playedAt": "2026-04-09T06:35:05.330Z"
+    },
+    {
+      "id": "7e4zDInS6tA2jwzphvs2Ay",
+      "name": "Jamaican (Bam Bam)",
+      "artists": [
+        "HUGEL",
+        "SOLTO (FR)"
+      ],
+      "playedAt": "2026-04-09T06:31:28.685Z"
+    },
+    {
+      "id": "4XF44ZR69PSnEa1oIUfS88",
+      "name": "Body Moving",
+      "artists": [
+        "Umaedo"
+      ],
+      "playedAt": "2026-04-09T06:28:52.476Z"
+    },
+    {
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
+      "artists": [
+        "Baka Beyond"
+      ],
+      "playedAt": "2026-04-09T06:25:42.693Z"
     },
     {
       "id": "03u0PaWtamsNVJaim6osKG",
@@ -270,7 +329,47 @@
       "artists": [
         "Hippiesónicos"
       ],
-      "playedAt": "2026-04-08T05:27:26.648Z"
+      "playedAt": "2026-04-09T06:20:08.973Z"
+    },
+    {
+      "id": "70fBfMLb9GwQkaCtYGd7s5",
+      "name": "Deep Dive",
+      "artists": [
+        "Master Minded"
+      ],
+      "playedAt": "2026-04-09T06:16:16.928Z"
+    },
+    {
+      "id": "6Ix7TgyKTf5VTlWlDOkt9j",
+      "name": "Pure Conscience",
+      "artists": [
+        "Elm Lake"
+      ],
+      "playedAt": "2026-04-09T06:11:13.253Z"
+    },
+    {
+      "id": "5NzGioq5qkEvMBfLFu4EdB",
+      "name": "Final Transmission Home",
+      "artists": [
+        "Amaranth Cove"
+      ],
+      "playedAt": "2026-04-09T06:08:26.983Z"
+    },
+    {
+      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
+      "name": "Naked Spirit (featuring Djivan Gasparyan)",
+      "artists": [
+        "Sainkho Namtchylak"
+      ],
+      "playedAt": "2026-04-09T06:05:31.064Z"
+    },
+    {
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
+      "artists": [
+        "Anilah"
+      ],
+      "playedAt": "2026-04-09T06:00:49.159Z"
     }
   ]
 }

@@ -3,247 +3,272 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6308695652173915,
-    "avgEnergy": 0.3356521739130435,
-    "avgAcousticness": 0.8065217391304347,
+    "avgValence": 0.6228125,
+    "avgEnergy": 0.3075000000000001,
+    "avgAcousticness": 0.855625,
     "trackCount": 50,
-    "analyzedCount": 23
+    "analyzedCount": 32
   },
-  "date": "2026-04-11T23:24:09.262Z",
+  "date": "2026-04-12T23:25:51.220Z",
   "tracks": [
     {
-      "id": "0YQEWdfq3ajtNtK106Dr0k",
-      "name": "Shinigami Eyes",
+      "id": "3svfTMSnUTPUxNYWiYMCNj",
+      "name": "The Stone Table",
       "artists": [
-        "Grimes"
+        "Harry Gregson-Williams"
       ],
-      "playedAt": "2026-04-11T22:03:42.423Z"
+      "playedAt": "2026-04-12T21:58:24.960Z"
     },
     {
-      "id": "2HwTo8cwpWKDO21rVrgZo0",
-      "name": "Angry Woman",
+      "id": "7qC70bOUaH16OI6VXuiqGy",
+      "name": "Juno Love",
       "artists": [
-        "Ashe"
+        "Nico Morano",
+        "Mewhy"
       ],
-      "playedAt": "2026-04-11T22:00:42.896Z"
+      "playedAt": "2026-04-12T20:33:53.230Z"
     },
     {
-      "id": "6maTPqynTmrkWIralgGaoP",
-      "name": "If We Ever Broke Up",
+      "id": "6HZiDsrA00Jiy1EBkukFNr",
+      "name": "Can We Find A Way - Ede Remix",
       "artists": [
-        "Mae Stephens"
+        "Fritz Kalkbrenner",
+        "Ede"
       ],
-      "playedAt": "2026-04-11T21:58:09.192Z"
+      "playedAt": "2026-04-12T20:26:16.978Z"
     },
     {
-      "id": "27Qz0cFmMGADsniMeUwyUe",
-      "name": "Bikini Bottom",
+      "id": "3tYYypENWxaS1DKUtcH8S8",
+      "name": "Don't Stop",
       "artists": [
-        "Ice Spice"
+        "DJ HEARTSTRING",
+        "southstar"
       ],
-      "playedAt": "2026-04-11T21:55:45.919Z"
+      "playedAt": "2026-04-12T20:16:21.015Z"
     },
     {
-      "id": "6nzXkCBOhb2mxctNihOqbb",
-      "name": "Bad Girls",
+      "id": "768QnTZVvJ4DUDeouU98fk",
+      "name": "F Major",
       "artists": [
-        "M.I.A."
+        "Hania Rani"
       ],
-      "playedAt": "2026-04-11T21:53:58.749Z"
+      "playedAt": "2026-04-12T19:44:05.385Z"
     },
     {
-      "id": "4t2OeILB07eMGTXSUbMPEu",
-      "name": "Oxytocin",
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
       "artists": [
-        "Billie Eilish"
+        "Nico Morano",
+        "Mewhy"
       ],
-      "playedAt": "2026-04-11T21:50:18.233Z"
+      "playedAt": "2026-04-12T19:39:12.518Z"
     },
     {
-      "id": "5YoITs1m0q8UOQ4AW7N5ga",
-      "name": "Gasolina",
+      "id": "1K18ZkRjuOTFEH0rxo5Zwq",
+      "name": "O, I Love You",
       "artists": [
-        "Daddy Yankee"
+        "Essie Jain"
       ],
-      "playedAt": "2026-04-11T21:46:40.325Z"
+      "playedAt": "2026-04-12T19:33:38.814Z"
     },
     {
-      "id": "6XNWEBcyeOYyp5w3E2aIGK",
-      "name": "a woman is a god",
+      "id": "2cTGPhd0rCh0G2LpeooRI1",
+      "name": "Live And Let Live",
       "artists": [
-        "Tommy Genesis"
+        "Darksoft"
       ],
-      "playedAt": "2026-04-11T21:42:23.584Z"
+      "playedAt": "2026-04-12T15:54:51.044Z"
     },
     {
-      "id": "56y1jOTK0XSvJzVv9vHQBK",
-      "name": "Paint The Town Red",
-      "artists": [
-        "Doja Cat"
-      ],
-      "playedAt": "2026-04-11T21:38:30.119Z"
-    },
-    {
-      "id": "0pwe8j2VhTBRiAb5gystJO",
-      "name": "Cómo Me Quieres",
-      "artists": [
-        "Khruangbin"
-      ],
-      "playedAt": "2026-04-11T21:33:03.994Z"
-    },
-    {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-11T21:29:18.240Z"
-    },
-    {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
+      "id": "2hrsZWMTQBQzTOhtKxFQvm",
+      "name": "No War",
       "artists": [
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-11T21:22:04.012Z"
+      "playedAt": "2026-04-12T15:51:19.509Z"
     },
     {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
+      "id": "4qeIlzP0Z1JFXh0AckDcX8",
+      "name": "No Nein",
       "artists": [
-        "Tami Neilson"
+        "1tbsp",
+        "Mietze Conte"
       ],
-      "playedAt": "2026-04-11T21:19:00.691Z"
+      "playedAt": "2026-04-12T15:48:10.937Z"
     },
     {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
+      "id": "7eg1Nt5JDeXmpkCVlsPhhm",
+      "name": "She got the bomb",
       "artists": [
-        "Donna Summer"
+        "Billylildove"
       ],
-      "playedAt": "2026-04-11T21:15:12.111Z"
+      "playedAt": "2026-04-12T15:45:36.231Z"
     },
     {
-      "id": "6Xoc4QevozD6Bfh8SlWrfY",
-      "name": "Lifting You",
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
       "artists": [
-        "Jungle"
+        "Nico Morano",
+        "Mewhy"
       ],
-      "playedAt": "2026-04-11T17:45:36.546Z"
+      "playedAt": "2026-04-12T15:43:28.553Z"
     },
     {
-      "id": "0W95eMaAxNVYTquOsXXkC5",
-      "name": "Female Energy, Part 2",
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
       "artists": [
-        "WILLOW"
+        "TÂCHES",
+        "Carmen Vandenberg"
       ],
-      "playedAt": "2026-04-11T16:51:56.699Z"
+      "playedAt": "2026-04-12T15:39:18.546Z"
     },
     {
-      "id": "4nPzk1lhLWmQUX7tM94KZL",
-      "name": "Hearts A Mess",
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
       "artists": [
-        "Gotye"
+        "Hannah Stater"
       ],
-      "playedAt": "2026-04-11T16:48:55.762Z"
+      "playedAt": "2026-04-12T15:19:36.622Z"
     },
     {
-      "id": "5p9XWUdvbUzmPCukOmwoU3",
-      "name": "Suddenly I See",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "KT Tunstall"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-04-11T16:40:08.908Z"
+      "playedAt": "2026-04-12T15:15:41.829Z"
     },
     {
-      "id": "1G1R0XgChe18Zr1o6tlmN6",
-      "name": "Watercolor Eyes - From “Euphoria” An HBO Original Series",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "Lana Del Rey"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-04-11T16:36:46.981Z"
+      "playedAt": "2026-04-12T15:12:52.296Z"
     },
     {
-      "id": "5DYD4zlGiFlkpLaf2Bk8Vl",
-      "name": "Your Love (Déjà Vu)",
+      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
+      "name": "Can I Tell You a Secret",
       "artists": [
-        "Glass Animals"
+        "Camel Power Club"
       ],
-      "playedAt": "2026-04-11T16:32:34.525Z"
+      "playedAt": "2026-04-12T15:08:57.298Z"
     },
     {
-      "id": "3GYlZ7tbxLOxe6ewMNVTkw",
-      "name": "TV",
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
       "artists": [
-        "Billie Eilish"
+        "Scarlett Johansson"
       ],
-      "playedAt": "2026-04-11T16:28:41.854Z"
+      "playedAt": "2026-04-12T15:05:46.066Z"
     },
     {
-      "id": "022vlOJzVAHTCMSbyEMEVt",
-      "name": "HOT",
+      "id": "4sOLtnLeIFwO4YUUSV5DM5",
+      "name": "Jolie Fille (feat. Layefa)",
       "artists": [
-        "The Last Artful, Dodgr"
+        "Maz",
+        "Antdot",
+        "Ginton",
+        "Layefa"
       ],
-      "playedAt": "2026-04-11T16:23:59.405Z"
+      "playedAt": "2026-04-12T15:02:26.377Z"
     },
     {
-      "id": "0Juciz8gOjrO89qw5KwQV5",
-      "name": "Call Me Irresponsible - 2001 Remaster",
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
       "artists": [
-        "Bobby Darin"
+        "Bob Dylan"
       ],
-      "playedAt": "2026-04-11T14:54:31.563Z"
+      "playedAt": "2026-04-12T14:59:11.162Z"
     },
     {
-      "id": "2WzZpFqwyQ7rmheUAwiOmL",
-      "name": "Lust auf Dich",
+      "id": "7M9pPyt8Gr41THLhbz4NSB",
+      "name": "Don't Let Me Be Misunderstood",
+      "artists": [
+        "Nina Simone"
+      ],
+      "playedAt": "2026-04-12T14:56:41.574Z"
+    },
+    {
+      "id": "67UOlZLz6tDEDuScefmWDd",
+      "name": "So Weit Wie Noch Nie",
+      "artists": [
+        "Jürgen Paape"
+      ],
+      "playedAt": "2026-04-12T14:53:54.259Z"
+    },
+    {
+      "id": "6ccmd1Pz7lrcQTsWJWeAAM",
+      "name": "1883 Theme (From \"1883: Season 1\" Soundtrack)",
+      "artists": [
+        "Brian Tyler"
+      ],
+      "playedAt": "2026-04-12T14:48:07.355Z"
+    },
+    {
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
+      "artists": [
+        "TÂCHES",
+        "Carmen Vandenberg"
+      ],
+      "playedAt": "2026-04-12T13:59:20.833Z"
+    },
+    {
+      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
+      "name": "Weißer Ferrari",
       "artists": [
         "nand"
       ],
-      "playedAt": "2026-04-11T14:51:50.129Z"
+      "playedAt": "2026-04-12T13:54:29.220Z"
     },
     {
-      "id": "2J9UiW1gTs2YTxA6JPk849",
-      "name": "Parallax Effect",
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
       "artists": [
-        "Juelz",
-        "Taavi"
+        "Donna Summer"
       ],
-      "playedAt": "2026-04-11T14:49:52.396Z"
+      "playedAt": "2026-04-12T13:52:06.308Z"
     },
     {
-      "id": "1sgUr9aH3QCl20qFjR8N6z",
-      "name": "Recuerdo de Ti (Seb Wildblood Remix)",
+      "id": "6GEIpzW14NtOjqHejbcSRE",
+      "name": "Journal of Ardency",
       "artists": [
-        "Geoffroy",
-        "Seb Wildblood"
+        "Class Actress"
       ],
-      "playedAt": "2026-04-11T14:40:52.460Z"
+      "playedAt": "2026-04-12T13:48:10.732Z"
     },
     {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
       "artists": [
-        "Baka Beyond"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-04-11T14:31:55.642Z"
+      "playedAt": "2026-04-12T13:44:25.030Z"
     },
     {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
+      "id": "1JMyndqIXDM7cKmRu3nFws",
+      "name": "Leap Year",
       "artists": [
-        "Hippiesónicos"
+        "Billie Marten"
       ],
-      "playedAt": "2026-04-11T14:26:17.797Z"
+      "playedAt": "2026-04-12T13:40:00.343Z"
     },
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
       "artists": [
-        "James Asher"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-04-11T13:57:01.665Z"
+      "playedAt": "2026-04-12T13:34:44.807Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-04-12T13:29:38.573Z"
     },
     {
       "id": "1OArQ5np9biqJlGL2RMpOE",
@@ -252,15 +277,23 @@
         "Poranguí",
         "Liquid Bloom"
       ],
-      "playedAt": "2026-04-11T13:51:03.956Z"
+      "playedAt": "2026-04-12T13:20:34.292Z"
     },
     {
-      "id": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
+      "id": "42tYHqMxXxXHAAWqLaoOfQ",
+      "name": "MacArthur Park - Single Version",
       "artists": [
-        "Nina Simone"
+        "Donna Summer"
       ],
-      "playedAt": "2026-04-11T12:14:18.049Z"
+      "playedAt": "2026-04-12T13:13:42.762Z"
+    },
+    {
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
+      "artists": [
+        "James Asher"
+      ],
+      "playedAt": "2026-04-12T13:09:46.839Z"
     },
     {
       "id": "55TeNEjICafyjgWWieqlGg",
@@ -268,7 +301,32 @@
       "artists": [
         "Anilah"
       ],
-      "playedAt": "2026-04-11T12:11:11.481Z"
+      "playedAt": "2026-04-12T12:42:13.388Z"
+    },
+    {
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
+      "artists": [
+        "Anilah"
+      ],
+      "playedAt": "2026-04-12T12:40:00.588Z"
+    },
+    {
+      "id": "0dbW82mncQ9ZCXza35gmVE",
+      "name": "Deep Blue Sea",
+      "artists": [
+        "Yehezkel Raz",
+        "Sivan Talmor"
+      ],
+      "playedAt": "2026-04-12T12:37:51.475Z"
+    },
+    {
+      "id": "0LWETWvUkoiCFUylObxXOF",
+      "name": "Wild Kindness",
+      "artists": [
+        "Cellomano"
+      ],
+      "playedAt": "2026-04-12T12:28:04.298Z"
     },
     {
       "id": "1Ohxk3MtOy9ljkJ2vwhBin",
@@ -276,154 +334,95 @@
       "artists": [
         "Sainkho Namtchylak"
       ],
-      "playedAt": "2026-04-11T12:08:58.585Z"
+      "playedAt": "2026-04-12T12:22:53.275Z"
     },
     {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
+      "id": "5NzGioq5qkEvMBfLFu4EdB",
+      "name": "Final Transmission Home",
       "artists": [
-        "Anilah"
+        "Amaranth Cove"
       ],
-      "playedAt": "2026-04-11T12:03:59.062Z"
+      "playedAt": "2026-04-12T12:18:20.582Z"
     },
     {
-      "id": "4VLgTzZqAJmvYgoOgrxDz5",
-      "name": "World On The Move",
+      "id": "6Ix7TgyKTf5VTlWlDOkt9j",
+      "name": "Pure Conscience",
       "artists": [
-        "Jasha Klebe",
-        "Thomas Farnon",
-        "Empara Mi"
+        "Elm Lake"
       ],
-      "playedAt": "2026-04-11T11:59:22.659Z"
+      "playedAt": "2026-04-12T12:15:08.185Z"
     },
     {
-      "id": "2vwzUYC6gc0gwLkzPYuqg3",
-      "name": "There Is No Light",
+      "id": "70fBfMLb9GwQkaCtYGd7s5",
+      "name": "Deep Dive",
       "artists": [
-        "Daniel Ciurlizza"
+        "Master Minded"
       ],
-      "playedAt": "2026-04-11T09:52:58.446Z"
+      "playedAt": "2026-04-12T12:12:22.138Z"
     },
     {
-      "id": "2YD1j2swOJLysIZII179n2",
-      "name": "The Green Dress",
+      "id": "3EIgAuegl9y3MKfYyNb8jS",
+      "name": "Daffodil",
       "artists": [
-        "Ramin Djawadi"
+        "Florence + The Machine"
       ],
-      "playedAt": "2026-04-11T09:51:48.903Z"
+      "playedAt": "2026-04-12T11:51:29.339Z"
     },
     {
-      "id": "3fHBrYPkjckK3svMnIvVHn",
-      "name": "Four Paths To Greatness",
+      "id": "168mDRF95TUgri1Kbl9GYA",
+      "name": "Magnolia Blues",
       "artists": [
-        "Amie Doherty"
+        "Adia Victoria"
       ],
-      "playedAt": "2026-04-11T09:48:58.306Z"
+      "playedAt": "2026-04-12T11:47:54.663Z"
     },
     {
-      "id": "0mqZVLnfjGk913Opc5gJ8f",
-      "name": "Last Stand",
+      "id": "015QxjqYIZ7eKTJYjDPC5n",
+      "name": "Various Storms & Saints",
       "artists": [
-        "Atticus Ross",
-        "Leopold Ross",
-        "Nick Chuba"
+        "Florence + The Machine"
       ],
-      "playedAt": "2026-04-11T09:46:17.507Z"
+      "playedAt": "2026-04-12T11:44:24.569Z"
     },
     {
-      "id": "5YLN3qR0nrTQewk4wa0Z2U",
-      "name": "Juliette",
+      "id": "32OTyJicSxEIEB72PXDqxr",
+      "name": "Think For Yourself",
       "artists": [
-        "Atli Örvarsson"
+        "I Am Roze"
       ],
-      "playedAt": "2026-04-11T09:42:59.884Z"
+      "playedAt": "2026-04-12T11:38:54.840Z"
     },
     {
-      "id": "4WkWp9Httz1z2arTFRx6lt",
-      "name": "Imperial Couple",
+      "id": "7hblg5kFjE9McIN7jocb2M",
+      "name": "I'm Looking",
       "artists": [
-        "Johannes Lehniger",
-        "Sebastian Damerius",
-        "Lisa Morgenstern"
+        "Kings & Queens"
       ],
-      "playedAt": "2026-04-11T09:41:35.360Z"
+      "playedAt": "2026-04-12T11:34:56.131Z"
     },
     {
-      "id": "2qezqQBMQFuVlEcx7UE936",
-      "name": "Firefight Robbery",
+      "id": "3mZ6PVxWBhCycZxeEJQDNs",
+      "name": "State of Independence",
       "artists": [
-        "Daniel Ciurlizza",
-        "Joni Fuller"
+        "Donna Summer"
       ],
-      "playedAt": "2026-04-11T09:38:42.260Z"
+      "playedAt": "2026-04-12T11:31:19.088Z"
     },
     {
-      "id": "487Xr0TKMwEtpuE196Q41e",
-      "name": "Sealed in Fire and Blood",
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
       "artists": [
-        "Ramin Djawadi"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-04-11T09:35:44.504Z"
+      "playedAt": "2026-04-12T08:34:18.318Z"
     },
     {
-      "id": "1kEm1HJcOj2oz9HHrjjUWg",
-      "name": "Thank You For My Ember",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "Amie Doherty"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-04-11T09:31:33.635Z"
-    },
-    {
-      "id": "0fRQOONMwT1oxyH16YHsnU",
-      "name": "Nothing Left to Be",
-      "artists": [
-        "Atticus Ross",
-        "Leopold Ross",
-        "Nick Chuba"
-      ],
-      "playedAt": "2026-04-11T09:29:14.725Z"
-    },
-    {
-      "id": "2AbrjcHCT2nHMatuXriYQn",
-      "name": "Spoken Request",
-      "artists": [
-        "Atli Örvarsson"
-      ],
-      "playedAt": "2026-04-11T09:25:37.882Z"
-    },
-    {
-      "id": "7KA71e870pGDKgYdIatq48",
-      "name": "Burden of the Crown",
-      "artists": [
-        "Johannes Lehniger",
-        "Lisa Morgenstern",
-        "Sebastian Damerius"
-      ],
-      "playedAt": "2026-04-11T09:18:32.677Z"
-    },
-    {
-      "id": "6YTc18izaUvCS2XD7rK9Am",
-      "name": "Dance of Dragons",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-11T09:15:48.821Z"
-    },
-    {
-      "id": "5hrhOgpaUSonofolJ4ZIL2",
-      "name": "No Honor Among Men Like Me, Pt. 2 - Slow Version",
-      "artists": [
-        "Daniel Ciurlizza"
-      ],
-      "playedAt": "2026-04-11T09:12:39.940Z"
-    },
-    {
-      "id": "2IOWsJTxTuYlwtuTSgn1b7",
-      "name": "The Arrival",
-      "artists": [
-        "Johan Söderqvist"
-      ],
-      "playedAt": "2026-04-11T09:08:37.388Z"
+      "playedAt": "2026-04-12T08:29:21.088Z"
     }
   ]
 }

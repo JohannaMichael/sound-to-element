@@ -3,47 +3,73 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6888888888888887,
-    "avgEnergy": 0.31777777777777766,
-    "avgAcousticness": 0.8083333333333331,
+    "avgValence": 0.6238888888888889,
+    "avgEnergy": 0.2983333333333334,
+    "avgAcousticness": 0.8433333333333335,
     "trackCount": 50,
     "analyzedCount": 36
   },
-  "date": "2026-04-13T23:35:45.781Z",
+  "date": "2026-04-14T23:36:15.251Z",
   "tracks": [
     {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
+      "id": "1RQY1ZTZxZ9IRN2b7aYUr6",
+      "name": "Sayuri's Theme and End Credits (From \"Memoirs of a Geisha\" Soundtrack)",
       "artists": [
-        "Donna Summer"
+        "John Williams",
+        "Itzhak Perlman",
+        "Yo-Yo Ma"
       ],
-      "playedAt": "2026-04-13T19:46:21.757Z"
+      "playedAt": "2026-04-14T20:53:09.684Z"
     },
     {
-      "id": "0dbW82mncQ9ZCXza35gmVE",
-      "name": "Deep Blue Sea",
+      "id": "6mlsrhOJXure8sr4uGczaQ",
+      "name": "Destiny's Path (From \"Memoirs of a Geisha\" Soundtrack)",
       "artists": [
-        "Yehezkel Raz",
-        "Sivan Talmor"
+        "John Williams",
+        "Yo-Yo Ma",
+        "Itzhak Perlman"
       ],
-      "playedAt": "2026-04-13T18:30:01.130Z"
+      "playedAt": "2026-04-14T20:47:26.790Z"
     },
     {
-      "id": "0LWETWvUkoiCFUylObxXOF",
-      "name": "Wild Kindness",
+      "id": "4KgOHADtS4HX5Dhkyyr1Ew",
+      "name": "The Wardrobe",
       "artists": [
-        "Cellomano"
+        "Harry Gregson-Williams"
       ],
-      "playedAt": "2026-04-13T18:28:19.048Z"
+      "playedAt": "2026-04-14T20:43:44.191Z"
     },
     {
-      "id": "5OzrMDf9ec7hm0J9GrovnY",
-      "name": "A Quiet Life",
+      "id": "1QfzxPGPepFcFNnvC248JB",
+      "name": "From Western Woods to Beaversdam",
       "artists": [
-        "Teho Teardo",
-        "Blixa Bargeld"
+        "Harry Gregson-Williams"
       ],
-      "playedAt": "2026-04-13T18:19:19.357Z"
+      "playedAt": "2026-04-14T20:40:46.762Z"
+    },
+    {
+      "id": "03pWkKJjo8ATe0z4SWGzyd",
+      "name": "A Narnia Lullaby",
+      "artists": [
+        "Harry Gregson-Williams"
+      ],
+      "playedAt": "2026-04-14T20:37:05.134Z"
+    },
+    {
+      "id": "7zY46aSULMG2pDG2fMlaI7",
+      "name": "Only The Beginning of The Adventure",
+      "artists": [
+        "Harry Gregson-Williams"
+      ],
+      "playedAt": "2026-04-14T20:35:51.716Z"
+    },
+    {
+      "id": "1ze3GTOVgAG5xLVrvcEoUS",
+      "name": "The Battle",
+      "artists": [
+        "Harry Gregson-Williams"
+      ],
+      "playedAt": "2026-04-14T20:30:19.553Z"
     },
     {
       "id": "3fbnbn6A5O5RNb08tlUEgd",
@@ -51,141 +77,47 @@
       "artists": [
         "Bruce Springsteen"
       ],
-      "playedAt": "2026-04-13T18:19:09.969Z"
+      "playedAt": "2026-04-14T20:17:37.275Z"
     },
     {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
+      "id": "3NGrEQrSz7Wev5LhsjpI18",
+      "name": "Amor Dulce",
       "artists": [
-        "Goldie Boutilier"
+        "AEREA"
       ],
-      "playedAt": "2026-04-13T18:15:50.312Z"
+      "playedAt": "2026-04-14T20:12:03.340Z"
     },
     {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
+      "id": "0hfKJsATmfrRFpDa2jEK3F",
+      "name": "+",
       "artists": [
-        "Donna Summer"
+        "AEREA"
       ],
-      "playedAt": "2026-04-13T18:12:52.293Z"
+      "playedAt": "2026-04-14T18:09:22.607Z"
     },
     {
-      "id": "7caycKUiLznuxYK1C9Wxd6",
-      "name": "Maya",
+      "id": "4cIPLtg1avt2Jm3ne9S1zy",
+      "name": "Killer Queen - Remastered 2011",
       "artists": [
-        "Nico Morano",
-        "Mewhy"
+        "Queen"
       ],
-      "playedAt": "2026-04-13T18:07:04.563Z"
+      "playedAt": "2026-04-14T18:05:55.601Z"
     },
     {
-      "id": "4VnDmjYCZkyeqeb0NIKqdA",
-      "name": "Can You Hear The Music",
+      "id": "4XaPsEXr9GbEBONfzWH2XS",
+      "name": "Intro",
       "artists": [
-        "Ludwig Göransson"
+        "AMANZI"
       ],
-      "playedAt": "2026-04-13T16:06:47.047Z"
+      "playedAt": "2026-04-14T18:02:38.680Z"
     },
     {
-      "id": "2cSRuejq6DU9U6OkSmUw17",
-      "name": "Under Your Spell",
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
       "artists": [
-        "Desire"
+        "Tami Neilson"
       ],
-      "playedAt": "2026-04-13T16:04:56.119Z"
-    },
-    {
-      "id": "426eL4gFMqgtu3hulUEMFs",
-      "name": "Egyptian Reggae (Live)",
-      "artists": [
-        "Jonathan Richman",
-        "The Modern Lovers"
-      ],
-      "playedAt": "2026-04-13T15:59:41.615Z"
-    },
-    {
-      "id": "4wxaEgPlUbEUwiAnThBUkw",
-      "name": "Mhysa",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-13T15:57:03.536Z"
-    },
-    {
-      "id": "67EOtoy4dasPCapvD0aycg",
-      "name": "The Chairman's Waltz (From \"Memoirs of a Geisha\" Soundtrack)",
-      "artists": [
-        "John Williams",
-        "Itzhak Perlman",
-        "Yo-Yo Ma"
-      ],
-      "playedAt": "2026-04-13T15:53:07.769Z"
-    },
-    {
-      "id": "1kBM7AURqQTIXFePNVpEwP",
-      "name": "Love Is Blindness",
-      "artists": [
-        "Jack White"
-      ],
-      "playedAt": "2026-04-13T15:49:07.846Z"
-    },
-    {
-      "id": "5aaXqH8rgKZxg61HjECldi",
-      "name": "No Time for Caution",
-      "artists": [
-        "Hans Zimmer"
-      ],
-      "playedAt": "2026-04-13T15:45:13.189Z"
-    },
-    {
-      "id": "4Q0VPrw0jgRB7onKAtRnFG",
-      "name": "David's Writings",
-      "artists": [
-        "Christopher Willis"
-      ],
-      "playedAt": "2026-04-13T15:39:09.867Z"
-    },
-    {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
-      "artists": [
-        "Bob Dylan"
-      ],
-      "playedAt": "2026-04-13T15:35:05.049Z"
-    },
-    {
-      "id": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
-      "artists": [
-        "Nina Simone"
-      ],
-      "playedAt": "2026-04-13T15:32:34.325Z"
-    },
-    {
-      "id": "67UOlZLz6tDEDuScefmWDd",
-      "name": "So Weit Wie Noch Nie",
-      "artists": [
-        "Jürgen Paape"
-      ],
-      "playedAt": "2026-04-13T15:29:47.601Z"
-    },
-    {
-      "id": "1D7PE3dDyonJfUP6oSuaq7",
-      "name": "Waves & Wavs",
-      "artists": [
-        "Ahmed Spins",
-        "Lizwi"
-      ],
-      "playedAt": "2026-04-13T15:23:48.003Z"
-    },
-    {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
-      "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
-      ],
-      "playedAt": "2026-04-13T15:17:00.628Z"
+      "playedAt": "2026-04-14T17:56:22.959Z"
     },
     {
       "id": "55TeNEjICafyjgWWieqlGg",
@@ -193,39 +125,15 @@
       "artists": [
         "Anilah"
       ],
-      "playedAt": "2026-04-13T15:10:22.815Z"
+      "playedAt": "2026-04-14T17:52:54.356Z"
     },
     {
-      "id": "3Vqcx4fajH02dyRuY99szQ",
-      "name": "Favorite Fear",
+      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
+      "name": "Naked Spirit (featuring Djivan Gasparyan)",
       "artists": [
-        "Goldie Boutilier"
+        "Sainkho Namtchylak"
       ],
-      "playedAt": "2026-04-13T15:08:10.914Z"
-    },
-    {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-13T15:03:53.211Z"
-    },
-    {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-13T15:01:02.126Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-04-13T14:57:03.127Z"
+      "playedAt": "2026-04-14T17:50:42.593Z"
     },
     {
       "id": "3mZ6PVxWBhCycZxeEJQDNs",
@@ -233,7 +141,15 @@
       "artists": [
         "Donna Summer"
       ],
-      "playedAt": "2026-04-13T14:52:11.060Z"
+      "playedAt": "2026-04-14T17:45:58.198Z"
+    },
+    {
+      "id": "1jUkHIMc7UaJQuzWe5Iop2",
+      "name": "Sweet Disposition",
+      "artists": [
+        "The Temper Trap"
+      ],
+      "playedAt": "2026-04-14T17:43:19.964Z"
     },
     {
       "id": "0dbW82mncQ9ZCXza35gmVE",
@@ -242,190 +158,266 @@
         "Yehezkel Raz",
         "Sivan Talmor"
       ],
-      "playedAt": "2026-04-13T14:26:47.990Z"
+      "playedAt": "2026-04-14T17:40:18.377Z"
     },
     {
-      "id": "3fbnbn6A5O5RNb08tlUEgd",
-      "name": "Streets of Philadelphia - Single Edit",
+      "id": "2aydv0bsXbIZg3Sk2S6u86",
+      "name": "Take Care",
       "artists": [
-        "Bruce Springsteen"
+        "Beach House"
       ],
-      "playedAt": "2026-04-13T14:20:14.878Z"
+      "playedAt": "2026-04-14T17:08:01.808Z"
     },
     {
-      "id": "28TdbFjX6047oZ5ADLTs2r",
-      "name": "Big Future",
+      "id": "1dSkZT65H6HTRkpiYhhwmY",
+      "name": "Alibis",
       "artists": [
-        "Obliques"
+        "Gregory Douglass"
       ],
-      "playedAt": "2026-04-13T14:16:36.518Z"
+      "playedAt": "2026-04-14T17:02:11.641Z"
     },
     {
-      "id": "1Z1R6FwnQdTiVIwKGgUDUj",
-      "name": "Main Title",
+      "id": "7HKW2F9UqwMVPdByorotm1",
+      "name": "Inside Out",
       "artists": [
-        "Carlos Rafael Rivera"
+        "Spoon"
       ],
-      "playedAt": "2026-04-13T14:13:17.559Z"
+      "playedAt": "2026-04-14T16:58:57.485Z"
     },
     {
-      "id": "2ybf0REmxfxdTN3ckmcONW",
-      "name": "Epilogue",
+      "id": "0Y2KDdZ3l381puDPueBSPw",
+      "name": "Gracias a la Vida",
       "artists": [
-        "Kris Bowers"
+        "Violeta Parra"
       ],
-      "playedAt": "2026-04-13T14:10:26.495Z"
+      "playedAt": "2026-04-14T16:53:44.885Z"
     },
     {
-      "id": "0s7TjXv4xupHpITjClr9Pv",
-      "name": "KINDRED II",
+      "id": "5gcvd99sN8sBBxiypZXZd0",
+      "name": "Hero",
       "artists": [
-        "Kelsey Lu"
+        "Regina Spektor"
       ],
-      "playedAt": "2026-04-13T14:07:12.388Z"
+      "playedAt": "2026-04-14T16:48:56.023Z"
     },
     {
-      "id": "3E7ZwUMJFqpsDOJzEkBrQ7",
-      "name": "Can't Get You out of My Head",
+      "id": "7bPWdJgx8vek7S5i5yAtvG",
+      "name": "Chemtrails Over The Country Club",
       "artists": [
-        "Kylie Minogue"
+        "Lana Del Rey"
       ],
-      "playedAt": "2026-04-13T14:06:20.185Z"
+      "playedAt": "2026-04-14T16:45:25.806Z"
     },
     {
-      "id": "1PnmXdkqRktZT67tE8fv7d",
-      "name": "I Follow Rivers - The Magician Remix",
+      "id": "3SvIbcr7uvjRp5PuPN47eo",
+      "name": "Snake Eyes",
       "artists": [
-        "Lykke Li",
-        "The Magician"
+        "Mumford & Sons"
       ],
-      "playedAt": "2026-04-13T14:02:28.719Z"
+      "playedAt": "2026-04-14T16:40:53.863Z"
     },
     {
-      "id": "68UU9oaQtMDnh6PRlW842H",
-      "name": "I Like Him",
+      "id": "67OhebffET8jFxLApBgddq",
+      "name": "You",
+      "artists": [
+        "Das Pop"
+      ],
+      "playedAt": "2026-04-14T16:36:45.119Z"
+    },
+    {
+      "id": "6J0OvmRxVmiRyLeJ0aBryf",
+      "name": "April",
+      "artists": [
+        "Nick Mulvey"
+      ],
+      "playedAt": "2026-04-14T16:32:30.859Z"
+    },
+    {
+      "id": "5Qnrgqy1pAm9GyNQOgyVFz",
+      "name": "Fourth of July",
+      "artists": [
+        "Sufjan Stevens"
+      ],
+      "playedAt": "2026-04-14T16:27:51.898Z"
+    },
+    {
+      "id": "6wf7Yu7cxBSPrRlWeSeK0Q",
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-04-14T16:23:11.477Z"
+    },
+    {
+      "id": "3aUZv357Bz6okQykfx7cId",
+      "name": "Childhood (2)",
+      "artists": [
+        "Yann Tiersen"
+      ],
+      "playedAt": "2026-04-14T16:19:20.640Z"
+    },
+    {
+      "id": "5PZhhmL9mcCKEABYTKOBsB",
+      "name": "Simple Harp",
+      "artists": [
+        "Martin Phipps",
+        "The Chamber Orchestra Of London"
+      ],
+      "playedAt": "2026-04-14T16:17:35.485Z"
+    },
+    {
+      "id": "0pAV4Vyxxag2uEWVu00Jxi",
+      "name": "Quedate Luna",
+      "artists": [
+        "Devendra Banhart"
+      ],
+      "playedAt": "2026-04-14T16:15:02.274Z"
+    },
+    {
+      "id": "0rPImnH72wOroTMvIedDC3",
+      "name": "The Armstrongs",
+      "artists": [
+        "Justin Hurwitz"
+      ],
+      "playedAt": "2026-04-14T16:11:50.992Z"
+    },
+    {
+      "id": "44A0o4jA8F2ZF03Zacwlwx",
+      "name": "Je te laisserai des mots",
+      "artists": [
+        "Patrick Watson"
+      ],
+      "playedAt": "2026-04-14T16:09:24.330Z"
+    },
+    {
+      "id": "3ZCTVFBt2Brf31RLEnCkWJ",
+      "name": "everything i wanted",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-04-14T16:06:43.167Z"
+    },
+    {
+      "id": "52Bg6oaos7twR7IUtEpqcE",
+      "name": "Between The Bars",
+      "artists": [
+        "Elliott Smith"
+      ],
+      "playedAt": "2026-04-14T16:02:10.437Z"
+    },
+    {
+      "id": "33TuBXD2UrdXtL572kG8be",
+      "name": "Looking for Stick Man",
+      "artists": [
+        "René Aubry"
+      ],
+      "playedAt": "2026-04-14T15:59:48.283Z"
+    },
+    {
+      "id": "0SUDiaR0qm30fXVGPjPvRp",
+      "name": "Visions of Gideon",
+      "artists": [
+        "Sufjan Stevens"
+      ],
+      "playedAt": "2026-04-14T15:57:12.720Z"
+    },
+    {
+      "id": "59ByAlhjt5WjJvOEwLv84T",
+      "name": "Somewhere Tonight",
+      "artists": [
+        "Beach House"
+      ],
+      "playedAt": "2026-04-14T15:53:04.757Z"
+    },
+    {
+      "id": "1ZgMsA55GIY7ICkQh5MILA",
+      "name": "Space Song",
+      "artists": [
+        "Beach House"
+      ],
+      "playedAt": "2026-04-14T15:48:49.027Z"
+    },
+    {
+      "id": "63o2beCIPXUOPja0EtGPD6",
+      "name": "Brujas",
       "artists": [
         "Princess Nokia"
       ],
-      "playedAt": "2026-04-13T13:57:48.762Z"
+      "playedAt": "2026-04-14T14:53:21.124Z"
     },
     {
-      "id": "2jF9ws9PpwZiCdPGG0WXaz",
-      "name": "Ikarus",
-      "artists": [
-        "Ladi6"
-      ],
-      "playedAt": "2026-04-13T13:55:36.116Z"
-    },
-    {
-      "id": "22D4uegQFpUhdN2gOrlYtb",
-      "name": "KINDRED I",
-      "artists": [
-        "Kelsey Lu"
-      ],
-      "playedAt": "2026-04-13T13:52:12.689Z"
-    },
-    {
-      "id": "2ybf0REmxfxdTN3ckmcONW",
-      "name": "Epilogue",
-      "artists": [
-        "Kris Bowers"
-      ],
-      "playedAt": "2026-04-13T13:50:22.873Z"
-    },
-    {
-      "id": "1PnmXdkqRktZT67tE8fv7d",
-      "name": "I Follow Rivers - The Magician Remix",
-      "artists": [
-        "Lykke Li",
-        "The Magician"
-      ],
-      "playedAt": "2026-04-13T13:46:25.210Z"
-    },
-    {
-      "id": "68UU9oaQtMDnh6PRlW842H",
-      "name": "I Like Him",
+      "id": "3P27Dj2AqFIyy6ExlstOVi",
+      "name": "It's Not My Fault",
       "artists": [
         "Princess Nokia"
       ],
-      "playedAt": "2026-04-13T13:41:45.133Z"
+      "playedAt": "2026-04-14T14:50:22.294Z"
     },
     {
-      "id": "0W95eMaAxNVYTquOsXXkC5",
-      "name": "Female Energy, Part 2",
+      "id": "70mpYOq7kaEVOZD6IIJAaw",
+      "name": "A Gira",
       "artists": [
-        "WILLOW"
+        "Trio Ternura"
       ],
-      "playedAt": "2026-04-13T13:39:18.347Z"
+      "playedAt": "2026-04-14T14:48:14.046Z"
     },
     {
-      "id": "1I8kTePadCCJULq6HOBbOC",
-      "name": "Magie des couleurs",
+      "id": "62Z5rlfm5y3VU8Q3QXceLT",
+      "name": "**GOLIATH**",
       "artists": [
-        "Fjellson Weber"
+        "Jessie Reyez"
       ],
-      "playedAt": "2026-04-13T13:35:52.321Z"
+      "playedAt": "2026-04-14T14:45:08.955Z"
     },
     {
-      "id": "3NsZZpRmWNGvE0WmCuZPAu",
-      "name": "Slow Sun",
+      "id": "37qeFXMtZzeu74JJOgUIZu",
+      "name": "Love",
       "artists": [
-        "Aukai",
-        "Richard Houghten"
+        "The Something Specials",
+        "Taylor Olin"
       ],
-      "playedAt": "2026-04-13T13:32:32.271Z"
+      "playedAt": "2026-04-14T14:41:37.115Z"
     },
     {
-      "id": "1FlZBywY9xInHtD803D1r7",
-      "name": "Corals Under the Sun",
+      "id": "7z4faVYNs01Qxwt34R4pYd",
+      "name": "Lunita",
       "artists": [
-        "Yehezkel Raz",
-        "Sivan Talmor"
+        "Danit"
       ],
-      "playedAt": "2026-04-13T13:28:51.977Z"
+      "playedAt": "2026-04-14T14:37:46.386Z"
     },
     {
-      "id": "5xbuJuQsTVheVZvX2AJVIv",
-      "name": "Spring 1 - 2012",
+      "id": "4qeIlzP0Z1JFXh0AckDcX8",
+      "name": "No Nein",
       "artists": [
-        "Max Richter",
-        "Daniel Hope",
-        "Konzerthaus Kammerorchester Berlin",
-        "Andre de Ridder"
+        "1tbsp",
+        "Mietze Conte"
       ],
-      "playedAt": "2026-04-13T13:26:43.748Z"
+      "playedAt": "2026-04-14T14:28:15.984Z"
     },
     {
-      "id": "36O0ZpLTP4aPCNim62cy61",
-      "name": "Sun",
+      "id": "6JZj85Iz5sc4cGKvOefO7G",
+      "name": "Neon Signs",
       "artists": [
-        "Hania Rani"
+        "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-13T13:24:11.669Z"
+      "playedAt": "2026-04-14T14:00:04.775Z"
     },
     {
-      "id": "5HzWbFpjFBo219h3Gt5PRb",
-      "name": "Falling Colour",
+      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
+      "name": "Witches",
       "artists": [
-        "Vanbur"
+        "Alice Phoebe Lou"
       ],
-      "playedAt": "2026-04-13T13:18:49.232Z"
+      "playedAt": "2026-04-14T13:56:50.682Z"
     },
     {
-      "id": "2STjPH9uGyNGmxcFqbtwdI",
-      "name": "Juana",
+      "id": "32NMmAVohuSJeiYuuiVUbo",
+      "name": "r&r",
       "artists": [
-        "Mayra Andrade"
+        "berlioz"
       ],
-      "playedAt": "2026-04-13T13:13:16.570Z"
-    },
-    {
-      "id": "6YM1OcTvtUe0bVuO9Bqzxb",
-      "name": "Stória, Stória...",
-      "artists": [
-        "Mayra Andrade"
-      ],
-      "playedAt": "2026-04-13T13:09:18.553Z"
+      "playedAt": "2026-04-14T13:53:35.193Z"
     }
   ]
 }

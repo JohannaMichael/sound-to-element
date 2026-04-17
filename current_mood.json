@@ -3,21 +3,53 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6188,
-    "avgEnergy": 0.33759999999999996,
-    "avgAcousticness": 0.8104,
-    "trackCount": 34,
-    "analyzedCount": 25
+    "avgValence": 0.6296969696969698,
+    "avgEnergy": 0.33181818181818196,
+    "avgAcousticness": 0.8003030303030305,
+    "trackCount": 50,
+    "analyzedCount": 33
   },
-  "date": "2026-04-16T23:32:42.784Z",
+  "date": "2026-04-17T23:31:03.424Z",
   "tracks": [
     {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
       "artists": [
-        "Suki Waterhouse"
+        "Temper City"
       ],
-      "playedAt": "2026-04-16T21:11:45.753Z"
+      "playedAt": "2026-04-17T19:18:26.311Z"
+    },
+    {
+      "id": "7893T13s6urM1GOl7mGRCC",
+      "name": "Paraiso",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-17T19:15:24.787Z"
+    },
+    {
+      "id": "6KqmNOabQQ5QxKrWL8fvoK",
+      "name": "Jupiter Sunrise",
+      "artists": [
+        "Kollektiv Turmstrasse"
+      ],
+      "playedAt": "2026-04-17T19:13:41.031Z"
+    },
+    {
+      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
+      "name": "Witches",
+      "artists": [
+        "Alice Phoebe Lou"
+      ],
+      "playedAt": "2026-04-17T19:09:22.764Z"
+    },
+    {
+      "id": "3mZ6PVxWBhCycZxeEJQDNs",
+      "name": "State of Independence",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-04-17T19:06:08.524Z"
     },
     {
       "id": "0bd5GXmM2eBgV11LiN37Gz",
@@ -25,7 +57,98 @@
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-16T21:08:24.459Z"
+      "playedAt": "2026-04-17T19:00:24.089Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T18:57:32.034Z"
+    },
+    {
+      "id": "0LWETWvUkoiCFUylObxXOF",
+      "name": "Wild Kindness",
+      "artists": [
+        "Cellomano"
+      ],
+      "playedAt": "2026-04-17T18:52:45.029Z"
+    },
+    {
+      "id": "3fbnbn6A5O5RNb08tlUEgd",
+      "name": "Streets of Philadelphia - Single Edit",
+      "artists": [
+        "Bruce Springsteen"
+      ],
+      "playedAt": "2026-04-17T18:34:54.779Z"
+    },
+    {
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T18:31:37.292Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-04-17T18:29:04.825Z"
+    },
+    {
+      "id": "6xxxEVDFgY0jAyWiGmHMp7",
+      "name": "Adagio for Strings, Op. 11",
+      "artists": [
+        "Samuel Barber",
+        "Leonard Bernstein",
+        "New York Philharmonic"
+      ],
+      "playedAt": "2026-04-17T16:45:59.312Z"
+    },
+    {
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-04-17T16:30:53.169Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-04-17T16:26:36.525Z"
+    },
+    {
+      "id": "0dbW82mncQ9ZCXza35gmVE",
+      "name": "Deep Blue Sea",
+      "artists": [
+        "Yehezkel Raz",
+        "Sivan Talmor"
+      ],
+      "playedAt": "2026-04-17T16:22:32.054Z"
+    },
+    {
+      "id": "3fbnbn6A5O5RNb08tlUEgd",
+      "name": "Streets of Philadelphia - Single Edit",
+      "artists": [
+        "Bruce Springsteen"
+      ],
+      "playedAt": "2026-04-17T15:54:16.939Z"
+    },
+    {
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T15:50:59.555Z"
     },
     {
       "id": "426eL4gFMqgtu3hulUEMFs",
@@ -34,64 +157,7 @@
         "Jonathan Richman",
         "The Modern Lovers"
       ],
-      "playedAt": "2026-04-16T21:05:32.647Z"
-    },
-    {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "playedAt": "2026-04-16T21:02:44.473Z"
-    },
-    {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-04-16T20:59:21.024Z"
-    },
-    {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
-      "artists": [
-        "Imarhan"
-      ],
-      "playedAt": "2026-04-16T20:53:17.405Z"
-    },
-    {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-16T20:48:51.496Z"
-    },
-    {
-      "id": "2t75rwAHmPqCvb1B86NiGN",
-      "name": "Baby, You're a Gun",
-      "artists": [
-        "Tami Neilson"
-      ],
-      "playedAt": "2026-04-16T20:46:02.498Z"
-    },
-    {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
-      "artists": [
-        "Imarhan"
-      ],
-      "playedAt": "2026-04-16T14:47:54.098Z"
-    },
-    {
-      "id": "3j506WDipR7MYz24ZW7sJQ",
-      "name": "Vuela",
-      "artists": [
-        "City of the Sun",
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-16T14:43:08.955Z"
+      "playedAt": "2026-04-17T15:48:07.887Z"
     },
     {
       "id": "0oaDJ4qjNcgTgG059wAvYG",
@@ -100,73 +166,124 @@
         "Pahua",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-16T14:39:08.027Z"
+      "playedAt": "2026-04-17T15:45:28.829Z"
     },
     {
-      "id": "0uHU3juqmE4y9pcbM6fFH0",
-      "name": "Early Days",
+      "id": "3j506WDipR7MYz24ZW7sJQ",
+      "name": "Vuela",
       "artists": [
+        "City of the Sun",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-16T14:36:06.271Z"
+      "playedAt": "2026-04-17T15:42:27.638Z"
     },
     {
-      "id": "4JVZUa9DYtJ72QIVwYHYTi",
-      "name": "Tú Y Yo",
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
       "artists": [
-        "Camel Power Club",
-        "Gizmo Varillas"
+        "Imarhan"
       ],
-      "playedAt": "2026-04-16T14:33:09.202Z"
+      "playedAt": "2026-04-17T15:38:38.534Z"
     },
     {
-      "id": "2hrsZWMTQBQzTOhtKxFQvm",
-      "name": "No War",
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
       "artists": [
-        "Gizmo Varillas"
+        "Temper City"
       ],
-      "playedAt": "2026-04-16T14:29:30.196Z"
+      "playedAt": "2026-04-17T15:34:21.155Z"
     },
     {
-      "id": "37YLEHlqNHrN5AISi38VKu",
-      "name": "Follow The Sun",
+      "id": "6xxxEVDFgY0jAyWiGmHMp7",
+      "name": "Adagio for Strings, Op. 11",
       "artists": [
-        "Gizmo Varillas"
+        "Samuel Barber",
+        "Leonard Bernstein",
+        "New York Philharmonic"
       ],
-      "playedAt": "2026-04-16T14:26:20.746Z"
+      "playedAt": "2026-04-17T15:31:07.260Z"
     },
     {
-      "id": "1ssrdw13fZZkdCjVGqKq6T",
-      "name": "Freedom for a Change",
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
       "artists": [
-        "Gizmo Varillas"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-16T14:21:48.634Z"
+      "playedAt": "2026-04-17T15:24:16.931Z"
     },
     {
-      "id": "5IdhVFJKEU4JNi7cwDnc6h",
-      "name": "Summer Rain",
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
       "artists": [
-        "Le Parody",
-        "Gizmo Varillas"
+        "Nico Morano",
+        "Mewhy"
       ],
-      "playedAt": "2026-04-16T14:09:44.013Z"
+      "playedAt": "2026-04-17T15:21:40.087Z"
     },
     {
-      "id": "5GIE9gzrnSvqdQqw9VKQ3G",
-      "name": "El Dorado",
+      "id": "426eL4gFMqgtu3hulUEMFs",
+      "name": "Egyptian Reggae (Live)",
       "artists": [
-        "Gizmo Varillas"
+        "Jonathan Richman",
+        "The Modern Lovers"
       ],
-      "playedAt": "2026-04-16T14:06:06.779Z"
+      "playedAt": "2026-04-17T15:21:21.078Z"
     },
     {
-      "id": "7893T13s6urM1GOl7mGRCC",
-      "name": "Paraiso",
+      "id": "7AlJWH45s6NgsfgsKxWOIM",
+      "name": "I Won't Let You Down",
       "artists": [
-        "Gizmo Varillas"
+        "Curtis Harding"
       ],
-      "playedAt": "2026-04-16T14:04:12.248Z"
+      "playedAt": "2026-04-17T15:14:22.069Z"
+    },
+    {
+      "id": "2WMyu5IYgxEuCd6xgFgJrl",
+      "name": "Nature Boy",
+      "artists": [
+        "Nat King Cole"
+      ],
+      "playedAt": "2026-04-17T15:09:38.596Z"
+    },
+    {
+      "id": "1cii2FFnWD45ToMZfdxktI",
+      "name": "Recuerdo de Ti",
+      "artists": [
+        "Geoffroy"
+      ],
+      "playedAt": "2026-04-17T15:06:39.318Z"
+    },
+    {
+      "id": "4dxd3tUsKT52EMboYtceOQ",
+      "name": "It's a good day (to fight the system)",
+      "artists": [
+        "Shungudzo"
+      ],
+      "playedAt": "2026-04-17T15:03:14.726Z"
+    },
+    {
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
+      "artists": [
+        "Tami Neilson"
+      ],
+      "playedAt": "2026-04-17T14:59:37.065Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-04-17T14:56:00.516Z"
+    },
+    {
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-04-17T14:52:06.613Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -174,31 +291,16 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-04-16T13:54:46.073Z"
+      "playedAt": "2026-04-17T14:48:08.164Z"
     },
     {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
       "artists": [
-        "EMMANUELLE"
+        "Poranguí",
+        "Liquid Bloom"
       ],
-      "playedAt": "2026-04-16T13:50:50.366Z"
-    },
-    {
-      "id": "524nCOIQg9fi0pETVnbpv8",
-      "name": "Mystified - 2017 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "playedAt": "2026-04-16T13:29:02.806Z"
-    },
-    {
-      "id": "7hblg5kFjE9McIN7jocb2M",
-      "name": "I'm Looking",
-      "artists": [
-        "Kings & Queens"
-      ],
-      "playedAt": "2026-04-16T13:22:34.257Z"
+      "playedAt": "2026-04-17T14:44:03.695Z"
     },
     {
       "id": "3mZ6PVxWBhCycZxeEJQDNs",
@@ -206,7 +308,97 @@
       "artists": [
         "Donna Summer"
       ],
-      "playedAt": "2026-04-16T13:18:57.228Z"
+      "playedAt": "2026-04-17T14:37:06.780Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T14:31:18.847Z"
+    },
+    {
+      "id": "3pdYo6FJHk8ZBr7r3MJvCe",
+      "name": "Body Heat",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T14:24:59.940Z"
+    },
+    {
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T14:21:00.710Z"
+    },
+    {
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T14:18:06.992Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T14:14:22.554Z"
+    },
+    {
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-17T14:11:22.902Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-04-17T14:05:12.686Z"
+    },
+    {
+      "id": "0oaDJ4qjNcgTgG059wAvYG",
+      "name": "La Cura",
+      "artists": [
+        "Pahua",
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-17T13:29:43.847Z"
+    },
+    {
+      "id": "3j506WDipR7MYz24ZW7sJQ",
+      "name": "Vuela",
+      "artists": [
+        "City of the Sun",
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-17T13:26:42.446Z"
+    },
+    {
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-04-17T13:22:52.690Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-04-17T13:18:35.800Z"
     },
     {
       "id": "3fbnbn6A5O5RNb08tlUEgd",
@@ -214,7 +406,7 @@
       "artists": [
         "Bruce Springsteen"
       ],
-      "playedAt": "2026-04-16T13:10:33.095Z"
+      "playedAt": "2026-04-17T11:52:01.627Z"
     },
     {
       "id": "0bd5GXmM2eBgV11LiN37Gz",
@@ -222,71 +414,15 @@
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-16T13:07:15.765Z"
+      "playedAt": "2026-04-17T11:48:49.288Z"
     },
     {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
       "artists": [
-        "Goldie Boutilier"
+        "Temper City"
       ],
-      "playedAt": "2026-04-16T10:12:26.194Z"
-    },
-    {
-      "id": "6G3IX9EfZHL75AGO99lUmb",
-      "name": "Commodore",
-      "artists": [
-        "DJ Dextro"
-      ],
-      "playedAt": "2026-04-16T10:08:50.249Z"
-    },
-    {
-      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
-      "name": "Weißer Ferrari",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-04-16T07:25:39.952Z"
-    },
-    {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-04-16T07:23:17.514Z"
-    },
-    {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-04-16T07:19:21.823Z"
-    },
-    {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-16T07:12:59.973Z"
-    },
-    {
-      "id": "65q0qZbQBdPPYfAcZ7n0e3",
-      "name": "Beautiful Hell",
-      "artists": [
-        "Adna"
-      ],
-      "playedAt": "2026-04-16T06:34:51.355Z"
-    },
-    {
-      "id": "7hblg5kFjE9McIN7jocb2M",
-      "name": "I'm Looking",
-      "artists": [
-        "Kings & Queens"
-      ],
-      "playedAt": "2026-04-16T05:54:05.496Z"
+      "playedAt": "2026-04-17T11:45:46.713Z"
     }
   ]
 }

@@ -3,78 +3,29 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6418518518518518,
-    "avgEnergy": 0.3092592592592593,
-    "avgAcousticness": 0.8455555555555555,
-    "trackCount": 50,
-    "analyzedCount": 27
+    "avgValence": 0.6365217391304349,
+    "avgEnergy": 0.3282608695652174,
+    "avgAcousticness": 0.7778260869565216,
+    "trackCount": 41,
+    "analyzedCount": 23
   },
-  "date": "2026-04-18T23:26:02.153Z",
+  "date": "2026-04-19T23:27:41.933Z",
   "tracks": [
     {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
+      "id": "3eFBPuf0y3Vguk6GUCNpwP",
+      "name": "Back in Love",
       "artists": [
-        "David A. Molina"
+        "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-18T22:37:44.355Z"
+      "playedAt": "2026-04-19T21:31:35.508Z"
     },
     {
-      "id": "0NA09EJ4C7LwvI7CvtpdnV",
-      "name": "Mystery of Love [Instrumental] - Live",
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
       "artists": [
-        "Hannah Stater"
+        "Imarhan"
       ],
-      "playedAt": "2026-04-18T22:28:18.401Z"
-    },
-    {
-      "id": "0uHU3juqmE4y9pcbM6fFH0",
-      "name": "Early Days",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-18T22:23:30.486Z"
-    },
-    {
-      "id": "4JVZUa9DYtJ72QIVwYHYTi",
-      "name": "Tú Y Yo",
-      "artists": [
-        "Camel Power Club",
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-18T22:20:31.812Z"
-    },
-    {
-      "id": "2hrsZWMTQBQzTOhtKxFQvm",
-      "name": "No War",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-18T22:16:52.975Z"
-    },
-    {
-      "id": "7893T13s6urM1GOl7mGRCC",
-      "name": "Paraiso",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-18T22:13:35.624Z"
-    },
-    {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-04-18T22:09:37.693Z"
-    },
-    {
-      "id": "524nCOIQg9fi0pETVnbpv8",
-      "name": "Mystified - 2017 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "playedAt": "2026-04-18T22:07:26.801Z"
+      "playedAt": "2026-04-19T20:37:10.931Z"
     },
     {
       "id": "4qW3BbQAwZsrnu8a3ZRdyT",
@@ -82,7 +33,130 @@
       "artists": [
         "Temper City"
       ],
-      "playedAt": "2026-04-18T22:04:22.593Z"
+      "playedAt": "2026-04-19T20:32:53.901Z"
+    },
+    {
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
+      "artists": [
+        "Liz Callaway"
+      ],
+      "playedAt": "2026-04-19T20:29:46.808Z"
+    },
+    {
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
+      "artists": [
+        "Scarlett Johansson"
+      ],
+      "playedAt": "2026-04-19T20:24:23.983Z"
+    },
+    {
+      "id": "0QVJsWtmgj9SWZaLYiX2i3",
+      "name": "Heaven - Remastered",
+      "artists": [
+        "The Rolling Stones",
+        "Bob Clearmountain"
+      ],
+      "playedAt": "2026-04-19T20:20:59.911Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T19:29:27.182Z"
+    },
+    {
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T19:26:50.711Z"
+    },
+    {
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-19T19:23:06.971Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T18:58:30.454Z"
+    },
+    {
+      "id": "2J9UiW1gTs2YTxA6JPk849",
+      "name": "Parallax Effect",
+      "artists": [
+        "Juelz",
+        "Taavi"
+      ],
+      "playedAt": "2026-04-19T18:56:16.990Z"
+    },
+    {
+      "id": "0HjfBGUGEhmbTbjwBeL543",
+      "name": "Thinking Pattern - Funkable Remix",
+      "artists": [
+        "Airi",
+        "Funkable"
+      ],
+      "playedAt": "2026-04-19T15:39:00.063Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-19T15:31:54.557Z"
+    },
+    {
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
+      "artists": [
+        "Tami Neilson"
+      ],
+      "playedAt": "2026-04-19T15:28:51.881Z"
+    },
+    {
+      "id": "13mRdBKMwgZEHnwp72SbJg",
+      "name": "Tarha Tadagh",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-04-19T15:24:50.584Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T15:19:13.965Z"
+    },
+    {
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-04-19T15:17:07.259Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-04-19T14:43:55.973Z"
     },
     {
       "id": "6xxxEVDFgY0jAyWiGmHMp7",
@@ -92,15 +166,7 @@
         "Leonard Bernstein",
         "New York Philharmonic"
       ],
-      "playedAt": "2026-04-18T22:01:11.567Z"
-    },
-    {
-      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
-      "name": "Weißer Ferrari",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-04-18T14:55:00.348Z"
+      "playedAt": "2026-04-19T14:40:53.981Z"
     },
     {
       "id": "2DJ0lLxggpQAw58tpsNSBC",
@@ -108,63 +174,31 @@
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-18T14:52:37.042Z"
+      "playedAt": "2026-04-19T14:31:04.136Z"
     },
     {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-04-18T14:47:19.673Z"
-    },
-    {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
-      "artists": [
-        "Scarlett Johansson"
-      ],
-      "playedAt": "2026-04-18T14:45:06.851Z"
-    },
-    {
-      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
-      "name": "Naked Spirit (featuring Djivan Gasparyan)",
-      "artists": [
-        "Sainkho Namtchylak"
-      ],
-      "playedAt": "2026-04-18T14:42:11.493Z"
-    },
-    {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
-      "artists": [
-        "Imarhan"
-      ],
-      "playedAt": "2026-04-18T14:37:29.689Z"
-    },
-    {
-      "id": "2DJ0lLxggpQAw58tpsNSBC",
-      "name": "King of Possibilities",
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-18T14:32:54.051Z"
+      "playedAt": "2026-04-19T14:27:41.070Z"
     },
     {
-      "id": "7hblg5kFjE9McIN7jocb2M",
-      "name": "I'm Looking",
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
       "artists": [
-        "Kings & Queens"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-18T14:17:22.963Z"
+      "playedAt": "2026-04-19T14:23:57.857Z"
     },
     {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
+      "id": "3fbnbn6A5O5RNb08tlUEgd",
+      "name": "Streets of Philadelphia - Single Edit",
       "artists": [
-        "Donna Summer"
+        "Bruce Springsteen"
       ],
-      "playedAt": "2026-04-18T14:13:45.284Z"
+      "playedAt": "2026-04-19T11:17:53.861Z"
     },
     {
       "id": "0bd5GXmM2eBgV11LiN37Gz",
@@ -172,177 +206,16 @@
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-18T14:07:03.939Z"
+      "playedAt": "2026-04-19T11:14:37.253Z"
     },
     {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
+      "id": "426eL4gFMqgtu3hulUEMFs",
+      "name": "Egyptian Reggae (Live)",
       "artists": [
-        "Imarhan"
+        "Jonathan Richman",
+        "The Modern Lovers"
       ],
-      "playedAt": "2026-04-18T14:03:25.208Z"
-    },
-    {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "playedAt": "2026-04-18T13:59:07.791Z"
-    },
-    {
-      "id": "4JsxWwCOfyxDdlLYUpGPJr",
-      "name": "Chasing Affection",
-      "artists": [
-        "TÂCHES",
-        "Carmen Vandenberg"
-      ],
-      "playedAt": "2026-04-18T13:05:51.801Z"
-    },
-    {
-      "id": "1fKdgKxxY5t20AcSa3jKLX",
-      "name": "Everywhere",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-04-18T13:01:05.033Z"
-    },
-    {
-      "id": "6G3IX9EfZHL75AGO99lUmb",
-      "name": "Commodore",
-      "artists": [
-        "DJ Dextro"
-      ],
-      "playedAt": "2026-04-18T12:58:48.738Z"
-    },
-    {
-      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
-      "name": "Weißer Ferrari",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-04-18T12:53:18.521Z"
-    },
-    {
-      "id": "0ySKTAwX6IEL8hOnHSa4pD",
-      "name": "Mirage",
-      "artists": [
-        "Mark Alow"
-      ],
-      "playedAt": "2026-04-18T12:49:44.353Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-04-18T12:42:52.176Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-04-18T12:38:55.309Z"
-    },
-    {
-      "id": "1fKdgKxxY5t20AcSa3jKLX",
-      "name": "Everywhere",
-      "artists": [
-        "Sames"
-      ],
-      "playedAt": "2026-04-18T12:18:22.821Z"
-    },
-    {
-      "id": "6G3IX9EfZHL75AGO99lUmb",
-      "name": "Commodore",
-      "artists": [
-        "DJ Dextro"
-      ],
-      "playedAt": "2026-04-18T12:15:45.444Z"
-    },
-    {
-      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
-      "name": "Weißer Ferrari",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-04-18T12:10:15.833Z"
-    },
-    {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-04-18T12:07:53.299Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-04-18T12:00:13.320Z"
-    },
-    {
-      "id": "67UOlZLz6tDEDuScefmWDd",
-      "name": "So Weit Wie Noch Nie",
-      "artists": [
-        "Jürgen Paape"
-      ],
-      "playedAt": "2026-04-18T11:54:17.029Z"
-    },
-    {
-      "id": "1G3rpP4SpzMKx7fKu4NZPV",
-      "name": "Mazuka",
-      "artists": [
-        "Cari Cari"
-      ],
-      "playedAt": "2026-04-18T11:48:28.381Z"
-    },
-    {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
-      "artists": [
-        "EMMANUELLE"
-      ],
-      "playedAt": "2026-04-18T11:43:54.281Z"
-    },
-    {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-18T11:38:35.966Z"
-    },
-    {
-      "id": "70fBfMLb9GwQkaCtYGd7s5",
-      "name": "Deep Dive",
-      "artists": [
-        "Master Minded"
-      ],
-      "playedAt": "2026-04-18T09:03:35.599Z"
-    },
-    {
-      "id": "524nCOIQg9fi0pETVnbpv8",
-      "name": "Mystified - 2017 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "playedAt": "2026-04-18T08:58:31.990Z"
-    },
-    {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
-      "artists": [
-        "Poranguí",
-        "Liquid Bloom"
-      ],
-      "playedAt": "2026-04-18T08:55:10.392Z"
+      "playedAt": "2026-04-19T11:11:44.993Z"
     },
     {
       "id": "3j506WDipR7MYz24ZW7sJQ",
@@ -351,7 +224,23 @@
         "City of the Sun",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-18T08:46:04.340Z"
+      "playedAt": "2026-04-19T11:07:43.665Z"
+    },
+    {
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T11:03:40.609Z"
+    },
+    {
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T10:42:31.471Z"
     },
     {
       "id": "6KiS9YtjvBEr96wazaVfO4",
@@ -359,39 +248,49 @@
       "artists": [
         "Imarhan"
       ],
-      "playedAt": "2026-04-18T08:42:14.951Z"
+      "playedAt": "2026-04-19T10:39:39.981Z"
     },
     {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
       "artists": [
-        "Temper City"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-18T08:37:57.598Z"
+      "playedAt": "2026-04-19T10:34:38.048Z"
     },
     {
-      "id": "5NzGioq5qkEvMBfLFu4EdB",
-      "name": "Final Transmission Home",
+      "id": "4JsxWwCOfyxDdlLYUpGPJr",
+      "name": "Chasing Affection",
       "artists": [
-        "Amaranth Cove"
+        "TÂCHES",
+        "Carmen Vandenberg"
       ],
-      "playedAt": "2026-04-18T08:14:01.224Z"
+      "playedAt": "2026-04-19T10:28:12.765Z"
     },
     {
-      "id": "6Ix7TgyKTf5VTlWlDOkt9j",
-      "name": "Pure Conscience",
+      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
+      "name": "Weißer Ferrari",
       "artists": [
-        "Elm Lake"
+        "nand"
       ],
-      "playedAt": "2026-04-18T08:11:05.842Z"
+      "playedAt": "2026-04-19T10:22:50.330Z"
     },
     {
-      "id": "70fBfMLb9GwQkaCtYGd7s5",
-      "name": "Deep Dive",
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
       "artists": [
-        "Master Minded"
+        "James Asher"
       ],
-      "playedAt": "2026-04-18T08:08:19.635Z"
+      "playedAt": "2026-04-19T10:20:26.782Z"
+    },
+    {
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "artists": [
+        "Poranguí",
+        "Liquid Bloom"
+      ],
+      "playedAt": "2026-04-19T10:14:31.528Z"
     },
     {
       "id": "524nCOIQg9fi0pETVnbpv8",
@@ -399,23 +298,56 @@
       "artists": [
         "Fleetwood Mac"
       ],
-      "playedAt": "2026-04-18T08:03:15.681Z"
+      "playedAt": "2026-04-19T10:05:48.920Z"
     },
     {
-      "id": "3ZIXPNe0ZsLdUXlIHGNAdx",
-      "name": "You Can Have It All",
+      "id": "0QVJsWtmgj9SWZaLYiX2i3",
+      "name": "Heaven - Remastered",
       "artists": [
-        "Florence + The Machine"
+        "The Rolling Stones",
+        "Bob Clearmountain"
       ],
-      "playedAt": "2026-04-18T08:00:31.511Z"
+      "playedAt": "2026-04-19T10:02:19.857Z"
     },
     {
-      "id": "3EIgAuegl9y3MKfYyNb8jS",
-      "name": "Daffodil",
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
       "artists": [
-        "Florence + The Machine"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-18T07:56:04.765Z"
+      "playedAt": "2026-04-19T09:57:07.206Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T09:53:53.792Z"
+    },
+    {
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T09:51:16.670Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-19T09:47:28.583Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-04-19T09:44:53.054Z"
     }
   ]
 }

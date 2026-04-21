@@ -3,37 +3,88 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6321951219512194,
-    "avgEnergy": 0.32951219512195123,
-    "avgAcousticness": 0.7941463414634147,
+    "avgValence": 0.645925925925926,
+    "avgEnergy": 0.31925925925925935,
+    "avgAcousticness": 0.801111111111111,
     "trackCount": 50,
-    "analyzedCount": 41
+    "analyzedCount": 27
   },
-  "date": "2026-04-20T23:34:48.047Z",
+  "date": "2026-04-21T23:28:35.407Z",
   "tracks": [
     {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
+      "id": "0WFryfbNKPXVtVQlz5dZ8H",
+      "name": "hotline (edit)",
       "artists": [
-        "AMANZI"
+        "Billie Eilish"
       ],
-      "playedAt": "2026-04-20T18:10:02.672Z"
+      "playedAt": "2026-04-21T20:53:23.102Z"
     },
     {
-      "id": "1ej1Z6AGBLaSI9tSizZMfa",
-      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "id": "3eFBPuf0y3Vguk6GUCNpwP",
+      "name": "Back in Love",
       "artists": [
-        "AMANZI"
+        "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-20T18:06:16.048Z"
+      "playedAt": "2026-04-21T20:52:26.205Z"
     },
     {
-      "id": "524nCOIQg9fi0pETVnbpv8",
-      "name": "Mystified - 2017 Remaster",
+      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
+      "name": "Good Looking (Stripped)",
       "artists": [
-        "Fleetwood Mac"
+        "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-20T18:02:28.791Z"
+      "playedAt": "2026-04-21T19:38:54.124Z"
+    },
+    {
+      "id": "5AglhU9luP6EBIRK3MBLf6",
+      "name": "El Jaguar Caza feat. Sāgarā",
+      "artists": [
+        "Da Iguana",
+        "Sāgarā"
+      ],
+      "playedAt": "2026-04-21T19:25:29.153Z"
+    },
+    {
+      "id": "17wBJ5bznjXbWGYdHtS2cX",
+      "name": "Under the Tabla",
+      "artists": [
+        "One Juno"
+      ],
+      "playedAt": "2026-04-21T19:13:11.829Z"
+    },
+    {
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
+      "artists": [
+        "Baka Beyond"
+      ],
+      "playedAt": "2026-04-21T19:11:18.946Z"
+    },
+    {
+      "id": "03u0PaWtamsNVJaim6osKG",
+      "name": "Todo Florecerá",
+      "artists": [
+        "Hippiesónicos"
+      ],
+      "playedAt": "2026-04-21T19:05:44.907Z"
+    },
+    {
+      "id": "5WGctLC3bvTwld9YdVG99n",
+      "name": "iconic",
+      "artists": [
+        "Shirin David"
+      ],
+      "playedAt": "2026-04-21T18:59:24.178Z"
+    },
+    {
+      "id": "21GgDK5XhuAyUoenrKeTey",
+      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andrò lontana",
+      "artists": [
+        "Maria Callas",
+        "Tullio Serafin",
+        "Philharmonia Orchestra"
+      ],
+      "playedAt": "2026-04-21T16:59:19.952Z"
     },
     {
       "id": "2DJ0lLxggpQAw58tpsNSBC",
@@ -41,7 +92,7 @@
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-20T17:57:07.412Z"
+      "playedAt": "2026-04-21T16:45:05.973Z"
     },
     {
       "id": "2tFhmgYfssxSCgDYSPeUH1",
@@ -49,7 +100,7 @@
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-20T17:54:31.629Z"
+      "playedAt": "2026-04-21T16:42:28.952Z"
     },
     {
       "id": "0uHU3juqmE4y9pcbM6fFH0",
@@ -57,15 +108,25 @@
       "artists": [
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-20T17:50:48.239Z"
+      "playedAt": "2026-04-21T16:38:45.047Z"
     },
     {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
+      "id": "69XZFnAx0vPT28cwFLKo7W",
+      "name": "Firebird",
       "artists": [
-        "Imarhan"
+        "Common Saints"
       ],
-      "playedAt": "2026-04-20T15:55:48.332Z"
+      "playedAt": "2026-04-21T16:35:48.084Z"
+    },
+    {
+      "id": "21GgDK5XhuAyUoenrKeTey",
+      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andrò lontana",
+      "artists": [
+        "Maria Callas",
+        "Tullio Serafin",
+        "Philharmonia Orchestra"
+      ],
+      "playedAt": "2026-04-21T16:32:37.317Z"
     },
     {
       "id": "4qW3BbQAwZsrnu8a3ZRdyT",
@@ -73,40 +134,125 @@
       "artists": [
         "Temper City"
       ],
-      "playedAt": "2026-04-20T15:51:32.019Z"
+      "playedAt": "2026-04-21T16:28:03.568Z"
     },
     {
-      "id": "4qeIlzP0Z1JFXh0AckDcX8",
-      "name": "No Nein",
+      "id": "0NA09EJ4C7LwvI7CvtpdnV",
+      "name": "Mystery of Love [Instrumental] - Live",
       "artists": [
-        "1tbsp",
-        "Mietze Conte"
+        "Hannah Stater"
       ],
-      "playedAt": "2026-04-20T15:48:05.848Z"
+      "playedAt": "2026-04-21T13:36:02.321Z"
     },
     {
-      "id": "7AlJWH45s6NgsfgsKxWOIM",
-      "name": "I Won't Let You Down",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Curtis Harding"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-04-20T15:45:35.838Z"
+      "playedAt": "2026-04-21T11:59:13.073Z"
     },
     {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
       "artists": [
-        "Geoffroy"
+        "Bob Dylan"
       ],
-      "playedAt": "2026-04-20T15:41:33.747Z"
+      "playedAt": "2026-04-21T11:54:35.337Z"
     },
     {
-      "id": "45Z3m6yazmAi4jZuW0tzW0",
-      "name": "Aperture",
+      "id": "7M9pPyt8Gr41THLhbz4NSB",
+      "name": "Don't Let Me Be Misunderstood",
       "artists": [
-        "Harry Styles"
+        "Nina Simone"
       ],
-      "playedAt": "2026-04-20T15:38:31.823Z"
+      "playedAt": "2026-04-21T11:52:04.842Z"
+    },
+    {
+      "id": "67UOlZLz6tDEDuScefmWDd",
+      "name": "So Weit Wie Noch Nie",
+      "artists": [
+        "Jürgen Paape"
+      ],
+      "playedAt": "2026-04-21T11:49:16.552Z"
+    },
+    {
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
+      "artists": [
+        "Cari Cari"
+      ],
+      "playedAt": "2026-04-21T11:43:34.798Z"
+    },
+    {
+      "id": "4ll1UfyVm9we6xoTNGnMYO",
+      "name": "Italove",
+      "artists": [
+        "EMMANUELLE"
+      ],
+      "playedAt": "2026-04-21T11:38:53.663Z"
+    },
+    {
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-04-21T10:16:19.130Z"
+    },
+    {
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-04-21T10:12:18.597Z"
+    },
+    {
+      "id": "21GgDK5XhuAyUoenrKeTey",
+      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andrò lontana",
+      "artists": [
+        "Maria Callas",
+        "Tullio Serafin",
+        "Philharmonia Orchestra"
+      ],
+      "playedAt": "2026-04-21T10:11:50.422Z"
+    },
+    {
+      "id": "2PHMNg5e3xMGR0oTLmdj0U",
+      "name": "Anotherclock",
+      "artists": [
+        "Parcels"
+      ],
+      "playedAt": "2026-04-21T10:11:04.390Z"
+    },
+    {
+      "id": "2rnCae7ZO9bIfQFscasS3q",
+      "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
+      "artists": [
+        "Maria Callas",
+        "Tullio Serafin",
+        "Philharmonia Orchestra"
+      ],
+      "playedAt": "2026-04-21T10:05:14.187Z"
+    },
+    {
+      "id": "6xxxEVDFgY0jAyWiGmHMp7",
+      "name": "Adagio for Strings, Op. 11",
+      "artists": [
+        "Samuel Barber",
+        "Leonard Bernstein",
+        "New York Philharmonic"
+      ],
+      "playedAt": "2026-04-21T10:00:21.481Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-21T09:50:04.983Z"
     },
     {
       "id": "524nCOIQg9fi0pETVnbpv8",
@@ -114,16 +260,106 @@
       "artists": [
         "Fleetwood Mac"
       ],
-      "playedAt": "2026-04-20T15:33:21.147Z"
+      "playedAt": "2026-04-21T09:00:41.053Z"
     },
     {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
+      "id": "3NsZZpRmWNGvE0WmCuZPAu",
+      "name": "Slow Sun",
       "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
+        "Aukai",
+        "Richard Houghten"
       ],
-      "playedAt": "2026-04-20T15:29:56.338Z"
+      "playedAt": "2026-04-21T06:15:13.489Z"
+    },
+    {
+      "id": "3GdogCZTpPHBODiiEJbqQm",
+      "name": "Teardrops",
+      "artists": [
+        "NEIL FRANCES"
+      ],
+      "playedAt": "2026-04-21T06:11:33.666Z"
+    },
+    {
+      "id": "4JVZUa9DYtJ72QIVwYHYTi",
+      "name": "Tú Y Yo",
+      "artists": [
+        "Camel Power Club",
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-21T06:08:14.591Z"
+    },
+    {
+      "id": "0oADgO0iK3YpTsPkVb2ptT",
+      "name": "Got It Bad",
+      "artists": [
+        "LEISURE"
+      ],
+      "playedAt": "2026-04-21T06:04:35.753Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-21T05:58:07.993Z"
+    },
+    {
+      "id": "5IdhVFJKEU4JNi7cwDnc6h",
+      "name": "Summer Rain",
+      "artists": [
+        "Le Parody",
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-21T05:55:05.315Z"
+    },
+    {
+      "id": "1gcbDj7nfYolTr09LklGlr",
+      "name": "Water Flow",
+      "artists": [
+        "Klyne"
+      ],
+      "playedAt": "2026-04-21T05:51:54.663Z"
+    },
+    {
+      "id": "2MnSPY2QYMbtkDWGzY02In",
+      "name": "Asc. Scorpio",
+      "artists": [
+        "Oracle Sisters"
+      ],
+      "playedAt": "2026-04-21T05:48:10.822Z"
+    },
+    {
+      "id": "5GIE9gzrnSvqdQqw9VKQ3G",
+      "name": "El Dorado",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-21T05:45:23.700Z"
+    },
+    {
+      "id": "2ZuMRfgqMItsAJVNGOSYkg",
+      "name": "Love Survive",
+      "artists": [
+        "Michael Nau"
+      ],
+      "playedAt": "2026-04-21T05:43:27.890Z"
+    },
+    {
+      "id": "69XZFnAx0vPT28cwFLKo7W",
+      "name": "Firebird",
+      "artists": [
+        "Common Saints"
+      ],
+      "playedAt": "2026-04-21T05:40:42.713Z"
+    },
+    {
+      "id": "1To3VopSqc8cWHcZJrpjvX",
+      "name": "Mumbo Sugar",
+      "artists": [
+        "Arc De Soleil"
+      ],
+      "playedAt": "2026-04-21T05:37:34.388Z"
     },
     {
       "id": "3j506WDipR7MYz24ZW7sJQ",
@@ -132,96 +368,15 @@
         "City of the Sun",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-20T15:17:17.177Z"
+      "playedAt": "2026-04-21T05:35:35.281Z"
     },
     {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
       "artists": [
-        "Imarhan"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-20T15:13:26.719Z"
-    },
-    {
-      "id": "4YwUAuwmWlbIvHPHH6TfBJ",
-      "name": "Next Best Thing",
-      "artists": [
-        "FLOOR CRY",
-        "Vansire"
-      ],
-      "playedAt": "2026-04-20T15:09:12.046Z"
-    },
-    {
-      "id": "6GGtHZgBycCgGBUhZo81xe",
-      "name": "Say Yes To Heaven",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "playedAt": "2026-04-20T15:08:40.320Z"
-    },
-    {
-      "id": "6TT7B4MigCJCc0tqKYEpZC",
-      "name": "Moves",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-20T15:00:33.528Z"
-    },
-    {
-      "id": "4X1qDzQdpuxN6UOkaq6UXi",
-      "name": "Toxic",
-      "artists": [
-        "AnnenMayKantereit"
-      ],
-      "playedAt": "2026-04-20T14:57:19.484Z"
-    },
-    {
-      "id": "6CyoMFZcnFzoeiHBu5R32E",
-      "name": "The End",
-      "artists": [
-        "JPOLND"
-      ],
-      "playedAt": "2026-04-20T14:52:49.318Z"
-    },
-    {
-      "id": "2zdFgBbORyhK5bzEymD9PY",
-      "name": "Simple Harp Variation No. 1",
-      "artists": [
-        "Martin Phipps"
-      ],
-      "playedAt": "2026-04-20T14:48:30.658Z"
-    },
-    {
-      "id": "0bhudMmr0XdtBOjFbjq8R0",
-      "name": "Jealous",
-      "artists": [
-        "Eyedress"
-      ],
-      "playedAt": "2026-04-20T14:45:54.940Z"
-    },
-    {
-      "id": "7tU0xSzV3kJOLSt70iLNi6",
-      "name": "Amore fermati",
-      "artists": [
-        "Fred Bongusto"
-      ],
-      "playedAt": "2026-04-20T13:59:13.920Z"
-    },
-    {
-      "id": "5kJrMogX8dnZvwJVRQct8l",
-      "name": "Nena",
-      "artists": [
-        "YEИDRY"
-      ],
-      "playedAt": "2026-04-20T13:56:38.065Z"
-    },
-    {
-      "id": "0y1Bay4UAdzWvpDJinzGz1",
-      "name": "Winterfell",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-20T13:53:20.372Z"
+      "playedAt": "2026-04-21T05:35:35.166Z"
     },
     {
       "id": "1dmJWX0nWAx5gjDzAohSbO",
@@ -229,196 +384,47 @@
       "artists": [
         "Hermanos Gutiérrez"
       ],
-      "playedAt": "2026-04-20T13:50:35.944Z"
+      "playedAt": "2026-04-21T05:35:31.286Z"
     },
     {
-      "id": "3yHrZ0f21yKyzG0ox65nB0",
-      "name": "Obliviate",
+      "id": "7893T13s6urM1GOl7mGRCC",
+      "name": "Paraiso",
       "artists": [
-        "Alexandre Desplat"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-20T13:48:47.041Z"
+      "playedAt": "2026-04-21T05:35:31.020Z"
     },
     {
-      "id": "1yvFoBp2Bq1ilD0518ZpQx",
-      "name": "DON'T JEALOUS ME",
+      "id": "37YLEHlqNHrN5AISi38VKu",
+      "name": "Follow The Sun",
       "artists": [
-        "Tekno",
-        "Lord Afrixana",
-        "Mr Eazi",
-        "Yemi Alade"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-20T13:45:45.191Z"
+      "playedAt": "2026-04-21T05:35:30.910Z"
     },
     {
-      "id": "4ZbrvxwWPNX0MgbubsqbZG",
-      "name": "Troy",
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
       "artists": [
-        "Sinéad O'Connor"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-20T13:43:07.300Z"
+      "playedAt": "2026-04-21T05:17:45.310Z"
     },
     {
-      "id": "4keclC0eBhQm8lFtYmX01K",
-      "name": "4ÆM",
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
       "artists": [
-        "Grimes"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-20T13:36:27.717Z"
+      "playedAt": "2026-04-21T05:14:01.260Z"
     },
     {
-      "id": "3EkwCXyPeH6xGs23tVnJJy",
-      "name": "The Power of Prophecy",
+      "id": "70fBfMLb9GwQkaCtYGd7s5",
+      "name": "Deep Dive",
       "artists": [
-        "Ramin Djawadi"
+        "Master Minded"
       ],
-      "playedAt": "2026-04-20T13:31:55.561Z"
-    },
-    {
-      "id": "0rIwCzUSEE2p05asU1v9fj",
-      "name": "La Orilla",
-      "artists": [
-        "Federico Aubele"
-      ],
-      "playedAt": "2026-04-20T13:29:18.621Z"
-    },
-    {
-      "id": "4KlL5Bwlm4yHYxr0B2rHci",
-      "name": "Heal",
-      "artists": [
-        "Tom Odell"
-      ],
-      "playedAt": "2026-04-20T13:26:05.507Z"
-    },
-    {
-      "id": "3l3iCfpZsxbxWJhYoiQNkD",
-      "name": "The Feels",
-      "artists": [
-        "Labrinth"
-      ],
-      "playedAt": "2026-04-20T13:22:51.994Z"
-    },
-    {
-      "id": "7iqQz931tn59mK6IZ3knRx",
-      "name": "Dealer",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "playedAt": "2026-04-20T13:19:34.048Z"
-    },
-    {
-      "id": "3H2g0y2gTpukpiCgd6ZeTZ",
-      "name": "Make It",
-      "artists": [
-        "Aaron May"
-      ],
-      "playedAt": "2026-04-20T13:14:10.170Z"
-    },
-    {
-      "id": "75EiP8M4Egeqndtv08lD66",
-      "name": "The Heirs of the Dragon",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-20T13:12:48.684Z"
-    },
-    {
-      "id": "0W6I02J9xcqK8MtSeosEXb",
-      "name": "Get Into It (Yuh)",
-      "artists": [
-        "Doja Cat"
-      ],
-      "playedAt": "2026-04-20T13:10:11.228Z"
-    },
-    {
-      "id": "1KX30hHDvpBRvm3JXxtYEY",
-      "name": "Tunnel of You",
-      "artists": [
-        "Cannons"
-      ],
-      "playedAt": "2026-04-20T13:07:34.273Z"
-    },
-    {
-      "id": "3oNQ6NkihVzQkV5qhk2Pbe",
-      "name": "Something About You",
-      "artists": [
-        "Eyedress",
-        "Dent May"
-      ],
-      "playedAt": "2026-04-20T13:03:08.496Z"
-    },
-    {
-      "id": "53OdUJreaDUyR8bHMts1tu",
-      "name": "Aemond Rides Vhagar",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-04-20T13:00:36.416Z"
-    },
-    {
-      "id": "0OK4Dhc10O8cTXdesihLGL",
-      "name": "mwah :3",
-      "artists": [
-        "rusowsky",
-        "Dinamarca"
-      ],
-      "playedAt": "2026-04-20T12:56:54.379Z"
-    },
-    {
-      "id": "2KnuaZYoGzDoHiBTNYOTXG",
-      "name": "Billie Bossa Nova",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-04-20T12:54:51.575Z"
-    },
-    {
-      "id": "1ElySIlHwm1HX7sUjAZZnp",
-      "name": "Hot Blooded",
-      "artists": [
-        "New Constellations"
-      ],
-      "playedAt": "2026-04-20T12:51:45.837Z"
-    },
-    {
-      "id": "0Juciz8gOjrO89qw5KwQV5",
-      "name": "Call Me Irresponsible - 2001 Remaster",
-      "artists": [
-        "Bobby Darin"
-      ],
-      "playedAt": "2026-04-20T12:37:10.969Z"
-    },
-    {
-      "id": "0kWQn0wLok1lawHAkGSMW9",
-      "name": "I Like That",
-      "artists": [
-        "Bazzi"
-      ],
-      "playedAt": "2026-04-20T12:35:06.069Z"
-    },
-    {
-      "id": "6lMxGGVsO1JAdzk0z6Q3Rh",
-      "name": "Babyyy",
-      "artists": [
-        "Grace Ives"
-      ],
-      "playedAt": "2026-04-20T12:32:27.016Z"
-    },
-    {
-      "id": "1K2RnVhm3eauKnA8PAcPu1",
-      "name": "Heat Waves - Slowed",
-      "artists": [
-        "Glass Animals"
-      ],
-      "playedAt": "2026-04-20T12:30:39.188Z"
-    },
-    {
-      "id": "0am7xDdDFuNBUA6cU4DGVQ",
-      "name": "Lust auf Dich",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-04-20T12:26:16.633Z"
+      "playedAt": "2026-04-21T05:11:03.087Z"
     }
   ]
 }

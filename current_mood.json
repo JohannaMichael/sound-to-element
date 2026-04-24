@@ -1,90 +1,56 @@
 {
-  "name": "AETHER",
-  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
-  "description": "Ethereal & Transcendent",
+  "name": "WATER",
+  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
+  "description": "Flowing & Emotional",
   "mood": {
-    "avgValence": 0.6022222222222223,
-    "avgEnergy": 0.3251851851851852,
-    "avgAcousticness": 0.8474074074074073,
-    "trackCount": 50,
-    "analyzedCount": 27
+    "avgValence": 0.5421428571428571,
+    "avgEnergy": 0.32071428571428573,
+    "avgAcousticness": 0.8007142857142856,
+    "trackCount": 33,
+    "analyzedCount": 14
   },
-  "date": "2026-04-23T23:37:10.946Z",
+  "date": "2026-04-24T23:32:25.955Z",
   "tracks": [
     {
-      "id": "32OTyJicSxEIEB72PXDqxr",
-      "name": "Think For Yourself",
+      "id": "6ZHKeoIOkvmYUIfxHLtE2Z",
+      "name": "Siesta Freestyle",
       "artists": [
-        "I Am Roze"
+        "Lewis OfMan",
+        "Alicia te quiero"
       ],
-      "playedAt": "2026-04-23T21:56:58.474Z"
+      "playedAt": "2026-04-24T17:12:15.106Z"
     },
     {
-      "id": "7hblg5kFjE9McIN7jocb2M",
-      "name": "I'm Looking",
+      "id": "1U3UL6FsYc2mcAQwWyYrn2",
+      "name": "Permis b bébé",
       "artists": [
-        "Kings & Queens"
+        "Miel De Montagne"
       ],
-      "playedAt": "2026-04-23T21:52:30.358Z"
+      "playedAt": "2026-04-24T17:09:00.807Z"
     },
     {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
+      "id": "7Lia8HVrC09vpuAtE8K0Yp",
+      "name": "Blood In The Wine",
       "artists": [
-        "Donna Summer"
+        "AURORA"
       ],
-      "playedAt": "2026-04-23T21:48:51.588Z"
+      "playedAt": "2026-04-24T17:05:50.322Z"
     },
     {
-      "id": "0dbW82mncQ9ZCXza35gmVE",
-      "name": "Deep Blue Sea",
+      "id": "58VTP6KnZs12PcAj5rMJ4W",
+      "name": "the fruits",
       "artists": [
-        "Yehezkel Raz",
-        "Sivan Talmor"
+        "Paris Paloma"
       ],
-      "playedAt": "2026-04-23T21:42:59.986Z"
+      "playedAt": "2026-04-24T17:02:20.007Z"
     },
     {
-      "id": "0LWETWvUkoiCFUylObxXOF",
-      "name": "Wild Kindness",
+      "id": "4NNR7bp1hXmdk08YLxpUBQ",
+      "name": "Miserlou",
       "artists": [
-        "Cellomano"
+        "Dick Dale"
       ],
-      "playedAt": "2026-04-23T21:37:17.238Z"
-    },
-    {
-      "id": "3fbnbn6A5O5RNb08tlUEgd",
-      "name": "Streets of Philadelphia - Single Edit",
-      "artists": [
-        "Bruce Springsteen"
-      ],
-      "playedAt": "2026-04-23T21:32:06.220Z"
-    },
-    {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-23T21:28:48.841Z"
-    },
-    {
-      "id": "426eL4gFMqgtu3hulUEMFs",
-      "name": "Egyptian Reggae (Live)",
-      "artists": [
-        "Jonathan Richman",
-        "The Modern Lovers"
-      ],
-      "playedAt": "2026-04-23T21:25:57.288Z"
-    },
-    {
-      "id": "0oaDJ4qjNcgTgG059wAvYG",
-      "name": "La Cura",
-      "artists": [
-        "Pahua",
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-04-23T21:22:27.061Z"
+      "playedAt": "2026-04-24T16:58:49.446Z"
     },
     {
       "id": "3j506WDipR7MYz24ZW7sJQ",
@@ -93,7 +59,7 @@
         "City of the Sun",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-23T21:19:25.477Z"
+      "playedAt": "2026-04-24T16:25:36.276Z"
     },
     {
       "id": "6KiS9YtjvBEr96wazaVfO4",
@@ -101,7 +67,7 @@
       "artists": [
         "Imarhan"
       ],
-      "playedAt": "2026-04-23T21:15:36.739Z"
+      "playedAt": "2026-04-24T16:21:46.689Z"
     },
     {
       "id": "4qW3BbQAwZsrnu8a3ZRdyT",
@@ -109,49 +75,181 @@
       "artists": [
         "Temper City"
       ],
-      "playedAt": "2026-04-23T21:11:20.146Z"
+      "playedAt": "2026-04-24T16:17:30.112Z"
     },
     {
-      "id": "6xxxEVDFgY0jAyWiGmHMp7",
-      "name": "Adagio for Strings, Op. 11",
+      "id": "3ZIXPNe0ZsLdUXlIHGNAdx",
+      "name": "You Can Have It All",
       "artists": [
-        "Samuel Barber",
-        "Leonard Bernstein",
-        "New York Philharmonic"
+        "Florence + The Machine"
       ],
-      "playedAt": "2026-04-23T21:08:18.212Z"
+      "playedAt": "2026-04-24T14:51:54.418Z"
     },
     {
-      "id": "2DJ0lLxggpQAw58tpsNSBC",
-      "name": "King of Possibilities",
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-04-24T14:47:43.324Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-04-24T14:43:26.482Z"
+    },
+    {
+      "id": "3NgwkdI4LED11P61QdrpjT",
+      "name": "Dachlatte - Kalte Liebe Remix",
+      "artists": [
+        "nand",
+        "Kalte Liebe"
+      ],
+      "playedAt": "2026-04-24T14:40:19.426Z"
+    },
+    {
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "artists": [
+        "Poranguí",
+        "Liquid Bloom"
+      ],
+      "playedAt": "2026-04-24T14:32:28.550Z"
+    },
+    {
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
+      "artists": [
+        "Dhafer Youssef"
+      ],
+      "playedAt": "2026-04-24T07:26:32.103Z"
+    },
+    {
+      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
+      "name": "Can I Tell You a Secret",
+      "artists": [
+        "Camel Power Club"
+      ],
+      "playedAt": "2026-04-24T07:16:10.307Z"
+    },
+    {
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
+      "artists": [
+        "Scarlett Johansson"
+      ],
+      "playedAt": "2026-04-24T07:13:00.624Z"
+    },
+    {
+      "id": "4ll1UfyVm9we6xoTNGnMYO",
+      "name": "Italove",
+      "artists": [
+        "EMMANUELLE"
+      ],
+      "playedAt": "2026-04-24T07:10:06.766Z"
+    },
+    {
+      "id": "0LWETWvUkoiCFUylObxXOF",
+      "name": "Wild Kindness",
+      "artists": [
+        "Cellomano"
+      ],
+      "playedAt": "2026-04-24T06:43:39.761Z"
+    },
+    {
+      "id": "3fbnbn6A5O5RNb08tlUEgd",
+      "name": "Streets of Philadelphia - Single Edit",
+      "artists": [
+        "Bruce Springsteen"
+      ],
+      "playedAt": "2026-04-24T06:38:28.630Z"
+    },
+    {
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-23T20:58:23.125Z"
+      "playedAt": "2026-04-24T06:35:11.130Z"
     },
     {
-      "id": "2tFhmgYfssxSCgDYSPeUH1",
-      "name": "The Angel And The Saint",
+      "id": "426eL4gFMqgtu3hulUEMFs",
+      "name": "Egyptian Reggae (Live)",
       "artists": [
-        "Goldie Boutilier"
+        "Jonathan Richman",
+        "The Modern Lovers"
       ],
-      "playedAt": "2026-04-23T20:55:45.823Z"
+      "playedAt": "2026-04-24T06:32:19.243Z"
     },
     {
-      "id": "0uHU3juqmE4y9pcbM6fFH0",
-      "name": "Early Days",
+      "id": "0oaDJ4qjNcgTgG059wAvYG",
+      "name": "La Cura",
       "artists": [
+        "Pahua",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-23T20:52:02.271Z"
+      "playedAt": "2026-04-24T06:29:40.816Z"
     },
     {
-      "id": "69XZFnAx0vPT28cwFLKo7W",
-      "name": "Firebird",
+      "id": "3j506WDipR7MYz24ZW7sJQ",
+      "name": "Vuela",
       "artists": [
-        "Common Saints"
+        "City of the Sun",
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-23T20:49:03.104Z"
+      "playedAt": "2026-04-24T06:26:39.477Z"
+    },
+    {
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-04-24T06:16:04.617Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-04-24T06:09:13.365Z"
+    },
+    {
+      "id": "5NzGioq5qkEvMBfLFu4EdB",
+      "name": "Final Transmission Home",
+      "artists": [
+        "Amaranth Cove"
+      ],
+      "playedAt": "2026-04-24T06:06:12.365Z"
+    },
+    {
+      "id": "6Ix7TgyKTf5VTlWlDOkt9j",
+      "name": "Pure Conscience",
+      "artists": [
+        "Elm Lake"
+      ],
+      "playedAt": "2026-04-24T06:03:16.732Z"
+    },
+    {
+      "id": "70fBfMLb9GwQkaCtYGd7s5",
+      "name": "Deep Dive",
+      "artists": [
+        "Master Minded"
+      ],
+      "playedAt": "2026-04-24T06:00:30.509Z"
+    },
+    {
+      "id": "0dbW82mncQ9ZCXza35gmVE",
+      "name": "Deep Blue Sea",
+      "artists": [
+        "Yehezkel Raz",
+        "Sivan Talmor"
+      ],
+      "playedAt": "2026-04-24T05:55:48.695Z"
     },
     {
       "id": "21GgDK5XhuAyUoenrKeTey",
@@ -161,254 +259,7 @@
         "Tullio Serafin",
         "Philharmonia Orchestra"
       ],
-      "playedAt": "2026-04-23T20:45:54.579Z"
-    },
-    {
-      "id": "5WGctLC3bvTwld9YdVG99n",
-      "name": "iconic",
-      "artists": [
-        "Shirin David"
-      ],
-      "playedAt": "2026-04-23T20:41:01.348Z"
-    },
-    {
-      "id": "6kM3Uqz3MRTVGTzu93EZIA",
-      "name": "Memory Be a Blade",
-      "artists": [
-        "waterbaby"
-      ],
-      "playedAt": "2026-04-23T20:39:12.924Z"
-    },
-    {
-      "id": "3NgwkdI4LED11P61QdrpjT",
-      "name": "Dachlatte - Kalte Liebe Remix",
-      "artists": [
-        "nand",
-        "Kalte Liebe"
-      ],
-      "playedAt": "2026-04-23T20:35:31.495Z"
-    },
-    {
-      "id": "1ix4JCBW5VtnniwREmyVnv",
-      "name": "غصن رمان",
-      "artists": [
-        "Maryam Shehab"
-      ],
-      "playedAt": "2026-04-23T20:32:11.816Z"
-    },
-    {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-23T18:19:54.213Z"
-    },
-    {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-23T18:16:37.518Z"
-    },
-    {
-      "id": "5AglhU9luP6EBIRK3MBLf6",
-      "name": "El Jaguar Caza feat. Sāgarā",
-      "artists": [
-        "Da Iguana",
-        "Sāgarā"
-      ],
-      "playedAt": "2026-04-23T18:12:59.332Z"
-    },
-    {
-      "id": "17wBJ5bznjXbWGYdHtS2cX",
-      "name": "Under the Tabla",
-      "artists": [
-        "One Juno"
-      ],
-      "playedAt": "2026-04-23T18:07:27.883Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-04-23T18:05:35.216Z"
-    },
-    {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
-      "artists": [
-        "Hippiesónicos"
-      ],
-      "playedAt": "2026-04-23T18:00:01.059Z"
-    },
-    {
-      "id": "7MZHqgTVTnN6xZGYAcEEAf",
-      "name": "Rein Me In (with Olivia Dean)",
-      "artists": [
-        "Sam Fender",
-        "Olivia Dean"
-      ],
-      "playedAt": "2026-04-23T17:56:09.510Z"
-    },
-    {
-      "id": "0qWoOHqTirzo59FQ9eoECH",
-      "name": "All I Did Was Dream of You (feat. The Marías)",
-      "artists": [
-        "beabadoobee",
-        "The Marías"
-      ],
-      "playedAt": "2026-04-23T17:50:28.793Z"
-    },
-    {
-      "id": "5VYxtmyTV8ZSMLLt6PMyYu",
-      "name": "Sex To Me",
-      "artists": [
-        "Charlotte Cardin"
-      ],
-      "playedAt": "2026-04-23T17:46:44.660Z"
-    },
-    {
-      "id": "7e4zDInS6tA2jwzphvs2Ay",
-      "name": "Jamaican (Bam Bam)",
-      "artists": [
-        "HUGEL",
-        "SOLTO (FR)"
-      ],
-      "playedAt": "2026-04-23T17:43:07.968Z"
-    },
-    {
-      "id": "4XF44ZR69PSnEa1oIUfS88",
-      "name": "Body Moving",
-      "artists": [
-        "Umaedo"
-      ],
-      "playedAt": "2026-04-23T17:40:30.819Z"
-    },
-    {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-04-23T17:37:39.204Z"
-    },
-    {
-      "id": "3EIgAuegl9y3MKfYyNb8jS",
-      "name": "Daffodil",
-      "artists": [
-        "Florence + The Machine"
-      ],
-      "playedAt": "2026-04-23T17:32:39.506Z"
-    },
-    {
-      "id": "168mDRF95TUgri1Kbl9GYA",
-      "name": "Magnolia Blues",
-      "artists": [
-        "Adia Victoria"
-      ],
-      "playedAt": "2026-04-23T17:29:05.033Z"
-    },
-    {
-      "id": "015QxjqYIZ7eKTJYjDPC5n",
-      "name": "Various Storms & Saints",
-      "artists": [
-        "Florence + The Machine"
-      ],
-      "playedAt": "2026-04-23T17:25:35.094Z"
-    },
-    {
-      "id": "32OTyJicSxEIEB72PXDqxr",
-      "name": "Think For Yourself",
-      "artists": [
-        "I Am Roze"
-      ],
-      "playedAt": "2026-04-23T17:21:25.507Z"
-    },
-    {
-      "id": "7hblg5kFjE9McIN7jocb2M",
-      "name": "I'm Looking",
-      "artists": [
-        "Kings & Queens"
-      ],
-      "playedAt": "2026-04-23T17:17:26.488Z"
-    },
-    {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-04-23T17:13:49.059Z"
-    },
-    {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "playedAt": "2026-04-23T17:07:57.336Z"
-    },
-    {
-      "id": "2DJ0lLxggpQAw58tpsNSBC",
-      "name": "King of Possibilities",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-23T17:04:44.103Z"
-    },
-    {
-      "id": "5WGctLC3bvTwld9YdVG99n",
-      "name": "iconic",
-      "artists": [
-        "Shirin David"
-      ],
-      "playedAt": "2026-04-23T17:02:00.757Z"
-    },
-    {
-      "id": "3NgwkdI4LED11P61QdrpjT",
-      "name": "Dachlatte - Kalte Liebe Remix",
-      "artists": [
-        "nand",
-        "Kalte Liebe"
-      ],
-      "playedAt": "2026-04-23T17:00:05.832Z"
-    },
-    {
-      "id": "5gDWsRxpJ2lZAffh5p7K0w",
-      "name": "Stargirl Interlude",
-      "artists": [
-        "The Weeknd",
-        "Lana Del Rey"
-      ],
-      "playedAt": "2026-04-23T15:36:54.523Z"
-    },
-    {
-      "id": "1ElySIlHwm1HX7sUjAZZnp",
-      "name": "Hot Blooded",
-      "artists": [
-        "New Constellations"
-      ],
-      "playedAt": "2026-04-23T15:34:24.078Z"
-    },
-    {
-      "id": "2zdFgBbORyhK5bzEymD9PY",
-      "name": "Simple Harp Variation No. 1",
-      "artists": [
-        "Martin Phipps"
-      ],
-      "playedAt": "2026-04-23T15:29:36.849Z"
-    },
-    {
-      "id": "3bHnoz2pfij19QUDhoLrcy",
-      "name": "Baba O'Riley - Remastered 2022",
-      "artists": [
-        "The Who"
-      ],
-      "playedAt": "2026-04-23T15:26:47.019Z"
+      "playedAt": "2026-04-24T05:50:06.394Z"
     },
     {
       "id": "6xxxEVDFgY0jAyWiGmHMp7",
@@ -418,15 +269,23 @@
         "Leonard Bernstein",
         "New York Philharmonic"
       ],
-      "playedAt": "2026-04-23T15:26:39.233Z"
+      "playedAt": "2026-04-24T05:45:13.763Z"
     },
     {
-      "id": "19c71wg1nEvMUtuaQc992j",
-      "name": "Laugh, I Nearly Died - Remastered",
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
       "artists": [
-        "The Rolling Stones"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-23T13:51:51.339Z"
+      "playedAt": "2026-04-24T05:35:18.630Z"
+    },
+    {
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-04-24T05:32:41.906Z"
     }
   ]
 }

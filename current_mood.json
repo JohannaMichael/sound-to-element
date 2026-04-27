@@ -3,38 +3,21 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.735,
-    "avgEnergy": 0.3561538461538462,
-    "avgAcousticness": 0.8011538461538462,
-    "trackCount": 50,
-    "analyzedCount": 26
+    "avgValence": 0.7783333333333334,
+    "avgEnergy": 0.34388888888888897,
+    "avgAcousticness": 0.7922222222222223,
+    "trackCount": 37,
+    "analyzedCount": 18
   },
-  "date": "2026-04-26T23:30:29.689Z",
+  "date": "2026-04-27T23:43:06.894Z",
   "tracks": [
     {
-      "id": "5WGctLC3bvTwld9YdVG99n",
-      "name": "iconic",
+      "id": "3mZ6PVxWBhCycZxeEJQDNs",
+      "name": "State of Independence",
       "artists": [
-        "Shirin David"
+        "Donna Summer"
       ],
-      "playedAt": "2026-04-26T21:20:18.403Z"
-    },
-    {
-      "id": "3NgwkdI4LED11P61QdrpjT",
-      "name": "Dachlatte - Kalte Liebe Remix",
-      "artists": [
-        "nand",
-        "Kalte Liebe"
-      ],
-      "playedAt": "2026-04-26T21:18:29.696Z"
-    },
-    {
-      "id": "3DWDF94KtVKoWFDS5p2vKF",
-      "name": "Chord Principle",
-      "artists": [
-        "Floorplan"
-      ],
-      "playedAt": "2026-04-26T21:14:44.669Z"
+      "playedAt": "2026-04-27T17:47:44.744Z"
     },
     {
       "id": "79Jl8KMvmnXedTjjW6pJan",
@@ -43,7 +26,7 @@
         "Jamie xx",
         "MC Moose"
       ],
-      "playedAt": "2026-04-26T21:02:31.124Z"
+      "playedAt": "2026-04-27T17:41:42.591Z"
     },
     {
       "id": "2lB8swV3T9yiXyU6OnZ3tY",
@@ -51,7 +34,143 @@
       "artists": [
         "Vangelis"
       ],
-      "playedAt": "2026-04-26T20:57:42.069Z"
+      "playedAt": "2026-04-27T17:36:51.649Z"
+    },
+    {
+      "id": "7Lia8HVrC09vpuAtE8K0Yp",
+      "name": "Blood In The Wine",
+      "artists": [
+        "AURORA"
+      ],
+      "playedAt": "2026-04-27T14:06:35.871Z"
+    },
+    {
+      "id": "58VTP6KnZs12PcAj5rMJ4W",
+      "name": "the fruits",
+      "artists": [
+        "Paris Paloma"
+      ],
+      "playedAt": "2026-04-27T14:03:05.876Z"
+    },
+    {
+      "id": "4NNR7bp1hXmdk08YLxpUBQ",
+      "name": "Miserlou",
+      "artists": [
+        "Dick Dale"
+      ],
+      "playedAt": "2026-04-27T13:59:35.401Z"
+    },
+    {
+      "id": "5Hn7uZqDarw5VTNX1XluV3",
+      "name": "Bullwinkle, Pt. II",
+      "artists": [
+        "The Centurians"
+      ],
+      "playedAt": "2026-04-27T13:57:22.163Z"
+    },
+    {
+      "id": "1mSzuXVjjKC0bPh6iG6xjy",
+      "name": "Girl, You'll Be a Woman Soon",
+      "artists": [
+        "Urge Overkill"
+      ],
+      "playedAt": "2026-04-27T13:55:05.795Z"
+    },
+    {
+      "id": "6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-04-27T13:52:01.198Z"
+    },
+    {
+      "id": "39Tg3supgkQOiyS43KiSOa",
+      "name": "Love To Love You Baby - Single Edit",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-04-27T13:48:23.148Z"
+    },
+    {
+      "id": "1xiYNAQ38ojUebjejhNf5N",
+      "name": "Love to Love You Baby - Tom Novy & The Gran' Flow Remix",
+      "artists": [
+        "Tom Tom Club",
+        "Tom Novy",
+        "The Gran"
+      ],
+      "playedAt": "2026-04-27T13:45:00.427Z"
+    },
+    {
+      "id": "1xiYNAQ38ojUebjejhNf5N",
+      "name": "Love to Love You Baby - Tom Novy & The Gran' Flow Remix",
+      "artists": [
+        "Tom Tom Club",
+        "Tom Novy",
+        "The Gran"
+      ],
+      "playedAt": "2026-04-27T13:41:27.422Z"
+    },
+    {
+      "id": "4NNR7bp1hXmdk08YLxpUBQ",
+      "name": "Miserlou",
+      "artists": [
+        "Dick Dale"
+      ],
+      "playedAt": "2026-04-27T13:40:26.529Z"
+    },
+    {
+      "id": "21GgDK5XhuAyUoenrKeTey",
+      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andrò lontana",
+      "artists": [
+        "Maria Callas",
+        "Tullio Serafin",
+        "Philharmonia Orchestra"
+      ],
+      "playedAt": "2026-04-27T13:38:14.336Z"
+    },
+    {
+      "id": "5WGctLC3bvTwld9YdVG99n",
+      "name": "iconic",
+      "artists": [
+        "Shirin David"
+      ],
+      "playedAt": "2026-04-27T10:21:59.294Z"
+    },
+    {
+      "id": "3NgwkdI4LED11P61QdrpjT",
+      "name": "Dachlatte - Kalte Liebe Remix",
+      "artists": [
+        "nand",
+        "Kalte Liebe"
+      ],
+      "playedAt": "2026-04-27T10:18:38.204Z"
+    },
+    {
+      "id": "3DWDF94KtVKoWFDS5p2vKF",
+      "name": "Chord Principle",
+      "artists": [
+        "Floorplan"
+      ],
+      "playedAt": "2026-04-27T10:14:16.357Z"
+    },
+    {
+      "id": "79Jl8KMvmnXedTjjW6pJan",
+      "name": "Gosh",
+      "artists": [
+        "Jamie xx",
+        "MC Moose"
+      ],
+      "playedAt": "2026-04-27T10:04:46.910Z"
+    },
+    {
+      "id": "2lB8swV3T9yiXyU6OnZ3tY",
+      "name": "La petite fille de la mer - Remastered",
+      "artists": [
+        "Vangelis"
+      ],
+      "playedAt": "2026-04-27T09:59:54.893Z"
     },
     {
       "id": "0q64O7oM5jsEQEv5hXXWfE",
@@ -60,126 +179,57 @@
         "Nina Simone",
         "Floorplan"
       ],
-      "playedAt": "2026-04-26T20:51:44.047Z"
+      "playedAt": "2026-04-27T09:54:00.279Z"
     },
     {
-      "id": "5WGctLC3bvTwld9YdVG99n",
-      "name": "iconic",
-      "artists": [
-        "Shirin David"
-      ],
-      "playedAt": "2026-04-26T20:45:05.013Z"
-    },
-    {
-      "id": "3NgwkdI4LED11P61QdrpjT",
-      "name": "Dachlatte - Kalte Liebe Remix",
-      "artists": [
-        "nand",
-        "Kalte Liebe"
-      ],
-      "playedAt": "2026-04-26T20:43:20.347Z"
-    },
-    {
-      "id": "3DWDF94KtVKoWFDS5p2vKF",
-      "name": "Chord Principle",
+      "id": "0ud7ma9G6buYyqfaeGRG4Y",
+      "name": "Tell You No Lie",
       "artists": [
         "Floorplan"
       ],
-      "playedAt": "2026-04-26T20:38:56.560Z"
+      "playedAt": "2026-04-27T09:48:03.501Z"
     },
     {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
+      "id": "6r8k1vznHrzlEKYxL4dZEe",
+      "name": "La Isla Bonita",
       "artists": [
-        "Jamie xx",
-        "MC Moose"
+        "Madonna"
       ],
-      "playedAt": "2026-04-26T20:32:17.399Z"
+      "playedAt": "2026-04-27T09:39:38.792Z"
     },
     {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
       "artists": [
-        "Angus & Julia Stone"
+        "Temper City"
       ],
-      "playedAt": "2026-04-26T16:16:45.312Z"
+      "playedAt": "2026-04-27T08:28:47.633Z"
     },
     {
-      "id": "6GrqVZ8YyLVftyR3As0E3z",
-      "name": "White Sands",
+      "id": "6xxxEVDFgY0jAyWiGmHMp7",
+      "name": "Adagio for Strings, Op. 11",
       "artists": [
-        "Still Corners"
+        "Samuel Barber",
+        "Leonard Bernstein",
+        "New York Philharmonic"
       ],
-      "playedAt": "2026-04-26T16:13:01.180Z"
+      "playedAt": "2026-04-27T08:25:55.982Z"
     },
     {
-      "id": "7qVURpFZaTSQeNFQLyUOQb",
-      "name": "Strange Pleasures - 2023 Remaster",
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
       "artists": [
-        "Still Corners"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-26T16:07:25.197Z"
+      "playedAt": "2026-04-27T08:15:51.618Z"
     },
     {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
       "artists": [
-        "Jamie xx",
-        "MC Moose"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-26T16:00:38.527Z"
-    },
-    {
-      "id": "2lB8swV3T9yiXyU6OnZ3tY",
-      "name": "La petite fille de la mer - Remastered",
-      "artists": [
-        "Vangelis"
-      ],
-      "playedAt": "2026-04-26T15:55:47.167Z"
-    },
-    {
-      "id": "21GgDK5XhuAyUoenrKeTey",
-      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andrò lontana",
-      "artists": [
-        "Maria Callas",
-        "Tullio Serafin",
-        "Philharmonia Orchestra"
-      ],
-      "playedAt": "2026-04-26T15:43:05.549Z"
-    },
-    {
-      "id": "5WGctLC3bvTwld9YdVG99n",
-      "name": "iconic",
-      "artists": [
-        "Shirin David"
-      ],
-      "playedAt": "2026-04-26T15:38:12.814Z"
-    },
-    {
-      "id": "3NgwkdI4LED11P61QdrpjT",
-      "name": "Dachlatte - Kalte Liebe Remix",
-      "artists": [
-        "nand",
-        "Kalte Liebe"
-      ],
-      "playedAt": "2026-04-26T15:36:23.692Z"
-    },
-    {
-      "id": "3DWDF94KtVKoWFDS5p2vKF",
-      "name": "Chord Principle",
-      "artists": [
-        "Floorplan"
-      ],
-      "playedAt": "2026-04-26T15:32:38.721Z"
-    },
-    {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
-      "artists": [
-        "Jamie xx",
-        "MC Moose"
-      ],
-      "playedAt": "2026-04-26T15:27:08.855Z"
+      "playedAt": "2026-04-27T08:13:14.493Z"
     },
     {
       "id": "0uHU3juqmE4y9pcbM6fFH0",
@@ -187,58 +237,7 @@
       "artists": [
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-26T13:47:58.738Z"
-    },
-    {
-      "id": "21GgDK5XhuAyUoenrKeTey",
-      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andrò lontana",
-      "artists": [
-        "Maria Callas",
-        "Tullio Serafin",
-        "Philharmonia Orchestra"
-      ],
-      "playedAt": "2026-04-26T12:40:08Z"
-    },
-    {
-      "id": "5WGctLC3bvTwld9YdVG99n",
-      "name": "iconic",
-      "artists": [
-        "Shirin David"
-      ],
-      "playedAt": "2026-04-26T12:35:15.479Z"
-    },
-    {
-      "id": "3NgwkdI4LED11P61QdrpjT",
-      "name": "Dachlatte - Kalte Liebe Remix",
-      "artists": [
-        "nand",
-        "Kalte Liebe"
-      ],
-      "playedAt": "2026-04-26T12:33:27.085Z"
-    },
-    {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-04-26T12:29:43.679Z"
-    },
-    {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-26T12:23:49.417Z"
-    },
-    {
-      "id": "3DWDF94KtVKoWFDS5p2vKF",
-      "name": "Chord Principle",
-      "artists": [
-        "Floorplan"
-      ],
-      "playedAt": "2026-04-26T12:19:44.220Z"
+      "playedAt": "2026-04-27T08:09:30.615Z"
     },
     {
       "id": "79Jl8KMvmnXedTjjW6pJan",
@@ -247,109 +246,7 @@
         "Jamie xx",
         "MC Moose"
       ],
-      "playedAt": "2026-04-26T12:14:13.930Z"
-    },
-    {
-      "id": "2iH1dTkVI0pdFMSfLd4MaW",
-      "name": "Vapo Vapo (Remix)",
-      "artists": [
-        "MC Ingryd",
-        "Mandragora"
-      ],
-      "playedAt": "2026-04-26T12:09:35.908Z"
-    },
-    {
-      "id": "0Fs9cdPDhptWEDJmiCbkEW",
-      "name": "She Knows (feat. Amber Coffman & Cults)",
-      "artists": [
-        "J. Cole",
-        "Cults",
-        "Amber Coffman"
-      ],
-      "playedAt": "2026-04-26T12:09:33.339Z"
-    },
-    {
-      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
-      "name": "Witches",
-      "artists": [
-        "Alice Phoebe Lou"
-      ],
-      "playedAt": "2026-04-26T11:50:05.283Z"
-    },
-    {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-04-26T11:46:08.465Z"
-    },
-    {
-      "id": "7nRmfGNhHKEEu5o8yFXLXt",
-      "name": "Magnets",
-      "artists": [
-        "Disclosure",
-        "Lorde"
-      ],
-      "playedAt": "2026-04-26T11:42:03.111Z"
-    },
-    {
-      "id": "2STjPH9uGyNGmxcFqbtwdI",
-      "name": "Juana",
-      "artists": [
-        "Mayra Andrade"
-      ],
-      "playedAt": "2026-04-26T11:38:47.136Z"
-    },
-    {
-      "id": "3o1plg7nwWCgZK5b9sNIDr",
-      "name": "Kill And Run",
-      "artists": [
-        "Sia"
-      ],
-      "playedAt": "2026-04-26T11:34:27.984Z"
-    },
-    {
-      "id": "60r0mEqH580d1kYWGeEpwM",
-      "name": "Jimmy",
-      "artists": [
-        "M.I.A."
-      ],
-      "playedAt": "2026-04-26T11:30:27.410Z"
-    },
-    {
-      "id": "0CXAhJ6elYAVugjnYDDyio",
-      "name": "I Put a Spell on You",
-      "artists": [
-        "Screamin' Jay Hawkins"
-      ],
-      "playedAt": "2026-04-26T11:21:26.265Z"
-    },
-    {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-04-26T11:17:38.206Z"
-    },
-    {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
-      "artists": [
-        "Jamie xx",
-        "MC Moose"
-      ],
-      "playedAt": "2026-04-26T11:10:57.577Z"
-    },
-    {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
-      "artists": [
-        "Jamie xx",
-        "MC Moose"
-      ],
-      "playedAt": "2026-04-26T11:00:43.494Z"
+      "playedAt": "2026-04-27T08:02:01.521Z"
     },
     {
       "id": "2lB8swV3T9yiXyU6OnZ3tY",
@@ -357,80 +254,72 @@
       "artists": [
         "Vangelis"
       ],
-      "playedAt": "2026-04-26T10:55:52.374Z"
+      "playedAt": "2026-04-27T07:57:07.684Z"
     },
     {
-      "id": "7qVURpFZaTSQeNFQLyUOQb",
-      "name": "Strange Pleasures - 2023 Remaster",
+      "id": "6r8k1vznHrzlEKYxL4dZEe",
+      "name": "La Isla Bonita",
       "artists": [
-        "Still Corners"
+        "Madonna"
       ],
-      "playedAt": "2026-04-26T10:49:56.722Z"
+      "playedAt": "2026-04-27T07:51:02.506Z"
     },
     {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
       "artists": [
-        "Suki Waterhouse"
+        "Imarhan"
       ],
-      "playedAt": "2026-04-26T10:44:35.112Z"
+      "playedAt": "2026-04-27T07:03:14.806Z"
     },
     {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
       "artists": [
-        "Suki Waterhouse"
+        "Temper City"
       ],
-      "playedAt": "2026-04-26T10:41:20.319Z"
+      "playedAt": "2026-04-27T06:58:57.831Z"
     },
     {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
+      "id": "79Jl8KMvmnXedTjjW6pJan",
+      "name": "Gosh",
       "artists": [
-        "Baka Beyond"
+        "Jamie xx",
+        "MC Moose"
       ],
-      "playedAt": "2026-04-26T10:37:19.917Z"
+      "playedAt": "2026-04-27T06:55:31.354Z"
     },
     {
-      "id": "03u0PaWtamsNVJaim6osKG",
-      "name": "Todo Florecerá",
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
       "artists": [
-        "Hippiesónicos"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-26T10:31:45.859Z"
+      "playedAt": "2026-04-27T06:15:16.699Z"
     },
     {
-      "id": "7MZHqgTVTnN6xZGYAcEEAf",
-      "name": "Rein Me In (with Olivia Dean)",
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
       "artists": [
-        "Sam Fender",
-        "Olivia Dean"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-26T10:27:53.915Z"
+      "playedAt": "2026-04-27T06:12:39.788Z"
     },
     {
-      "id": "70fBfMLb9GwQkaCtYGd7s5",
-      "name": "Deep Dive",
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
       "artists": [
-        "Master Minded"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-04-26T10:22:15.495Z"
+      "playedAt": "2026-04-27T06:08:55.452Z"
     },
     {
-      "id": "524nCOIQg9fi0pETVnbpv8",
-      "name": "Mystified - 2017 Remaster",
+      "id": "6r8k1vznHrzlEKYxL4dZEe",
+      "name": "La Isla Bonita",
       "artists": [
-        "Fleetwood Mac"
+        "Madonna"
       ],
-      "playedAt": "2026-04-26T10:17:14.704Z"
-    },
-    {
-      "id": "3ZIXPNe0ZsLdUXlIHGNAdx",
-      "name": "You Can Have It All",
-      "artists": [
-        "Florence + The Machine"
-      ],
-      "playedAt": "2026-04-26T10:14:04.223Z"
+      "playedAt": "2026-04-27T05:48:09.754Z"
     }
   ]
 }

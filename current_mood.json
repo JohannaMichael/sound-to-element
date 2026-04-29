@@ -3,37 +3,161 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.7557142857142857,
-    "avgEnergy": 0.3271428571428571,
-    "avgAcousticness": 0.8085714285714286,
-    "trackCount": 13,
-    "analyzedCount": 7
+    "avgValence": 0.606086956521739,
+    "avgEnergy": 0.31,
+    "avgAcousticness": 0.8165217391304347,
+    "trackCount": 50,
+    "analyzedCount": 23
   },
-  "date": "2026-04-28T23:44:38.266Z",
+  "date": "2026-04-29T23:44:15.739Z",
   "tracks": [
     {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
+      "id": "4nPzk1lhLWmQUX7tM94KZL",
+      "name": "Hearts A Mess",
       "artists": [
-        "Scarlett Johansson"
+        "Gotye"
       ],
-      "playedAt": "2026-04-28T15:10:09.991Z"
+      "playedAt": "2026-04-29T20:59:21.081Z"
     },
     {
-      "id": "1G3rpP4SpzMKx7fKu4NZPV",
-      "name": "Mazuka",
+      "id": "3GYlZ7tbxLOxe6ewMNVTkw",
+      "name": "TV",
       "artists": [
-        "Cari Cari"
+        "Billie Eilish"
       ],
-      "playedAt": "2026-04-28T15:06:49.220Z"
+      "playedAt": "2026-04-29T20:51:04.860Z"
     },
     {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
+      "id": "3Z0qLOS0cqWKPHXkbTXmNF",
+      "name": "Gilded Lily",
       "artists": [
-        "Anilah"
+        "Cults"
       ],
-      "playedAt": "2026-04-28T15:02:10.372Z"
+      "playedAt": "2026-04-29T20:46:22.834Z"
+    },
+    {
+      "id": "5OzrMDf9ec7hm0J9GrovnY",
+      "name": "A Quiet Life",
+      "artists": [
+        "Teho Teardo",
+        "Blixa Bargeld"
+      ],
+      "playedAt": "2026-04-29T20:42:49.781Z"
+    },
+    {
+      "id": "5sT9L8WpqE9Ux1LpNyHGWi",
+      "name": "Creep",
+      "artists": [
+        "Scala & Kolacny Brothers"
+      ],
+      "playedAt": "2026-04-29T20:27:46.424Z"
+    },
+    {
+      "id": "4ZbrvxwWPNX0MgbubsqbZG",
+      "name": "Troy",
+      "artists": [
+        "Sinéad O'Connor"
+      ],
+      "playedAt": "2026-04-29T20:22:53.826Z"
+    },
+    {
+      "id": "7aECBTWeMSjTfJgUl34Y1G",
+      "name": "I'm Tired - Long Version",
+      "artists": [
+        "Labrinth"
+      ],
+      "playedAt": "2026-04-29T20:15:01.797Z"
+    },
+    {
+      "id": "6GGtHZgBycCgGBUhZo81xe",
+      "name": "Say Yes To Heaven",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "playedAt": "2026-04-29T20:08:28.434Z"
+    },
+    {
+      "id": "6GGtHZgBycCgGBUhZo81xe",
+      "name": "Say Yes To Heaven",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "playedAt": "2026-04-29T18:03:53.291Z"
+    },
+    {
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-04-29T17:58:32.323Z"
+    },
+    {
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-04-29T17:55:12.892Z"
+    },
+    {
+      "id": "7qVURpFZaTSQeNFQLyUOQb",
+      "name": "Strange Pleasures - 2023 Remaster",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-04-29T17:51:23.848Z"
+    },
+    {
+      "id": "1ZCe8z0pUTvNdpZY0kgA0W",
+      "name": "Years After The Wedding",
+      "artists": [
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
+      ],
+      "playedAt": "2026-04-29T17:46:08.932Z"
+    },
+    {
+      "id": "0uwNtbl80CvP4EFio32PYv",
+      "name": "Full Moon",
+      "artists": [
+        "The Black Ghosts"
+      ],
+      "playedAt": "2026-04-29T17:43:29.044Z"
+    },
+    {
+      "id": "3c1nWxMzw76sU66l3VN9rL",
+      "name": "Quarantine",
+      "artists": [
+        "Justin Hurwitz"
+      ],
+      "playedAt": "2026-04-29T16:14:03.357Z"
+    },
+    {
+      "id": "1eRuo0cdRSqJClg7G6ZjdT",
+      "name": "Earth",
+      "artists": [
+        "Hans Zimmer",
+        "Gavin Greenaway"
+      ],
+      "playedAt": "2026-04-29T16:11:47.567Z"
+    },
+    {
+      "id": "4VnDmjYCZkyeqeb0NIKqdA",
+      "name": "Can You Hear The Music",
+      "artists": [
+        "Ludwig Göransson"
+      ],
+      "playedAt": "2026-04-29T16:08:45.464Z"
+    },
+    {
+      "id": "11wA8PttyCVGP0LmXLQVMT",
+      "name": "Desert Flower - instrumental",
+      "artists": [
+        "Martin Todsharow"
+      ],
+      "playedAt": "2026-04-29T16:06:54.723Z"
     },
     {
       "id": "524nCOIQg9fi0pETVnbpv8",
@@ -41,31 +165,227 @@
       "artists": [
         "Fleetwood Mac"
       ],
-      "playedAt": "2026-04-28T14:58:35.220Z"
+      "playedAt": "2026-04-29T16:02:12.363Z"
     },
     {
-      "id": "3ZIXPNe0ZsLdUXlIHGNAdx",
-      "name": "You Can Have It All",
+      "id": "0vOt1v68wLU9wPoEphtKqH",
+      "name": "The Emperor's Despair I",
       "artists": [
-        "Florence + The Machine"
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
       ],
-      "playedAt": "2026-04-28T14:55:25.110Z"
+      "playedAt": "2026-04-29T16:02:12.094Z"
     },
     {
-      "id": "3EIgAuegl9y3MKfYyNb8jS",
-      "name": "Daffodil",
+      "id": "1B6Maf8UspSgPcq3LrGQsf",
+      "name": "Little Kaiserin",
       "artists": [
-        "Florence + The Machine"
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
       ],
-      "playedAt": "2026-04-28T14:51:24.581Z"
+      "playedAt": "2026-04-29T16:02:06.587Z"
     },
     {
-      "id": "2DJ0lLxggpQAw58tpsNSBC",
-      "name": "King of Possibilities",
+      "id": "2x3r7fujhFHRFyQo9rZOM3",
+      "name": "Dark Fading Waves",
+      "artists": [
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
+      ],
+      "playedAt": "2026-04-29T15:59:18.189Z"
+    },
+    {
+      "id": "6Yz5XGfzKdRyV5qBJTr7vv",
+      "name": "Pouvoir",
+      "artists": [
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
+      ],
+      "playedAt": "2026-04-29T15:57:53.553Z"
+    },
+    {
+      "id": "6zzgzAZtJys0nRgFEjJ3JL",
+      "name": "Love and Lies",
+      "artists": [
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
+      ],
+      "playedAt": "2026-04-29T15:56:25.750Z"
+    },
+    {
+      "id": "0vlLc1o7MdfIAD51OI5u9Y",
+      "name": "Grief",
+      "artists": [
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
+      ],
+      "playedAt": "2026-04-29T15:53:30.249Z"
+    },
+    {
+      "id": "1ZCe8z0pUTvNdpZY0kgA0W",
+      "name": "Years After The Wedding",
+      "artists": [
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
+      ],
+      "playedAt": "2026-04-29T15:49:31.594Z"
+    },
+    {
+      "id": "6tPBfd9R7TdNYWz7nOZe7o",
+      "name": "Little Marriage",
+      "artists": [
+        "Lia Ices"
+      ],
+      "playedAt": "2026-04-29T15:46:50.814Z"
+    },
+    {
+      "id": "0SUDiaR0qm30fXVGPjPvRp",
+      "name": "Visions of Gideon",
+      "artists": [
+        "Sufjan Stevens"
+      ],
+      "playedAt": "2026-04-29T15:43:41.002Z"
+    },
+    {
+      "id": "5lm18pjbwdth6ENVllxjfl",
+      "name": "Ballerina",
+      "artists": [
+        "Yehezkel Raz"
+      ],
+      "playedAt": "2026-04-29T15:39:32.427Z"
+    },
+    {
+      "id": "7nYZlOq4JtGeF9fs8Zs66j",
+      "name": "A Lowly Shoe Salesman",
+      "artists": [
+        "Ludwig Göransson"
+      ],
+      "playedAt": "2026-04-29T15:38:20.695Z"
+    },
+    {
+      "id": "03pWkKJjo8ATe0z4SWGzyd",
+      "name": "A Narnia Lullaby",
+      "artists": [
+        "Harry Gregson-Williams"
+      ],
+      "playedAt": "2026-04-29T15:34:46.200Z"
+    },
+    {
+      "id": "7ohtQ8Ws4kJhqo5VJNy13M",
+      "name": "See You Tomorrow",
+      "artists": [
+        "Evgeny Grinko"
+      ],
+      "playedAt": "2026-04-29T15:33:33.047Z"
+    },
+    {
+      "id": "2cSRuejq6DU9U6OkSmUw17",
+      "name": "Under Your Spell",
+      "artists": [
+        "Desire"
+      ],
+      "playedAt": "2026-04-29T15:32:01.552Z"
+    },
+    {
+      "id": "43cjomz8AcFq8borohDvBn",
+      "name": "Alcoba Azul",
+      "artists": [
+        "Elliot Goldenthal"
+      ],
+      "playedAt": "2026-04-29T15:27:04.293Z"
+    },
+    {
+      "id": "67EOtoy4dasPCapvD0aycg",
+      "name": "The Chairman's Waltz (From \"Memoirs of a Geisha\" Soundtrack)",
+      "artists": [
+        "John Williams",
+        "Itzhak Perlman",
+        "Yo-Yo Ma"
+      ],
+      "playedAt": "2026-04-29T15:22:22.639Z"
+    },
+    {
+      "id": "1WwOPzaLEFcyZfZSPUWwSP",
+      "name": "Your Hands Are Cold - From \"Pride & Prejudice\" Soundtrack",
+      "artists": [
+        "Dario Marianelli",
+        "Jean-Yves Thibaudet"
+      ],
+      "playedAt": "2026-04-29T15:18:26.176Z"
+    },
+    {
+      "id": "0UJEym12sdx3m5UlY2HYfp",
+      "name": "Armstrong Cabin",
+      "artists": [
+        "Justin Hurwitz"
+      ],
+      "playedAt": "2026-04-29T15:13:02.594Z"
+    },
+    {
+      "id": "6lrgJTPipVgAgHaUytzykL",
+      "name": "The Earth Spins",
+      "artists": [
+        "Anne Nikitin",
+        "Jessica Jones"
+      ],
+      "playedAt": "2026-04-29T15:11:46.587Z"
+    },
+    {
+      "id": "6iOuLRFr7G2bvUSOtYx4jw",
+      "name": "Meeting Kitty",
+      "artists": [
+        "Ludwig Göransson"
+      ],
+      "playedAt": "2026-04-29T15:09:56.043Z"
+    },
+    {
+      "id": "2zdFgBbORyhK5bzEymD9PY",
+      "name": "Simple Harp Variation No. 1",
+      "artists": [
+        "Martin Phipps"
+      ],
+      "playedAt": "2026-04-29T15:04:08.543Z"
+    },
+    {
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-28T14:47:23.953Z"
+      "playedAt": "2026-04-29T14:59:59.577Z"
+    },
+    {
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-04-29T14:56:15.756Z"
+    },
+    {
+      "id": "21GgDK5XhuAyUoenrKeTey",
+      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andrò lontana",
+      "artists": [
+        "Maria Callas",
+        "Tullio Serafin",
+        "Philharmonia Orchestra"
+      ],
+      "playedAt": "2026-04-29T14:53:17.001Z"
+    },
+    {
+      "id": "5WGctLC3bvTwld9YdVG99n",
+      "name": "iconic",
+      "artists": [
+        "Shirin David"
+      ],
+      "playedAt": "2026-04-29T14:49:14.860Z"
     },
     {
       "id": "3NgwkdI4LED11P61QdrpjT",
@@ -74,49 +394,49 @@
         "nand",
         "Kalte Liebe"
       ],
-      "playedAt": "2026-04-28T14:44:35.124Z"
+      "playedAt": "2026-04-29T14:46:35.467Z"
     },
     {
-      "id": "3DWDF94KtVKoWFDS5p2vKF",
-      "name": "Chord Principle",
+      "id": "1F1S0s0JsCZ3MhVq9C9ZEL",
+      "name": "Manifest - Audible Thought Remix",
       "artists": [
-        "Floorplan"
+        "Taavi",
+        "Audible Thought"
       ],
-      "playedAt": "2026-04-28T14:40:50.068Z"
+      "playedAt": "2026-04-29T14:42:52.852Z"
     },
     {
-      "id": "6r8k1vznHrzlEKYxL4dZEe",
-      "name": "La Isla Bonita",
+      "id": "3eFBPuf0y3Vguk6GUCNpwP",
+      "name": "Back in Love",
       "artists": [
-        "Madonna"
+        "Suki Waterhouse"
       ],
-      "playedAt": "2026-04-28T14:35:12.098Z"
+      "playedAt": "2026-04-29T14:21:41.868Z"
     },
     {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
+      "id": "4qeIlzP0Z1JFXh0AckDcX8",
+      "name": "No Nein",
       "artists": [
-        "Jamie xx",
-        "MC Moose"
+        "1tbsp",
+        "Mietze Conte"
       ],
-      "playedAt": "2026-04-28T13:10:27.473Z"
+      "playedAt": "2026-04-29T14:18:27.179Z"
     },
     {
-      "id": "2lB8swV3T9yiXyU6OnZ3tY",
-      "name": "La petite fille de la mer - Remastered",
+      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
+      "name": "Witches",
       "artists": [
-        "Vangelis"
+        "Alice Phoebe Lou"
       ],
-      "playedAt": "2026-04-28T12:58:08.053Z"
+      "playedAt": "2026-04-29T14:15:54.722Z"
     },
     {
-      "id": "0dbW82mncQ9ZCXza35gmVE",
-      "name": "Deep Blue Sea",
+      "id": "6AdDi9540EEHZEfEMqWqUL",
+      "name": "Goldie Montana",
       "artists": [
-        "Yehezkel Raz",
-        "Sivan Talmor"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-04-28T06:00:06.783Z"
+      "playedAt": "2026-04-29T14:10:18.642Z"
     }
   ]
 }

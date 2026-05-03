@@ -3,210 +3,21 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.659090909090909,
-    "avgEnergy": 0.3106060606060606,
-    "avgAcousticness": 0.7906060606060606,
-    "trackCount": 47,
-    "analyzedCount": 33
+    "avgValence": 0.7163636363636364,
+    "avgEnergy": 0.3145454545454545,
+    "avgAcousticness": 0.8172727272727272,
+    "trackCount": 18,
+    "analyzedCount": 11
   },
-  "date": "2026-05-02T23:34:07.334Z",
+  "date": "2026-05-03T23:35:07.683Z",
   "tracks": [
     {
-      "id": "3DWDF94KtVKoWFDS5p2vKF",
-      "name": "Chord Principle",
+      "id": "6r8k1vznHrzlEKYxL4dZEe",
+      "name": "La Isla Bonita",
       "artists": [
-        "Floorplan"
+        "Madonna"
       ],
-      "playedAt": "2026-05-02T20:44:48.245Z"
-    },
-    {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
-      "artists": [
-        "Jamie xx",
-        "MC Moose"
-      ],
-      "playedAt": "2026-05-02T20:39:18.297Z"
-    },
-    {
-      "id": "6Tsu3OsuMz4KEGKbOYd6A0",
-      "name": "Hypnotize - 2007 Remaster",
-      "artists": [
-        "The Notorious B.I.G."
-      ],
-      "playedAt": "2026-05-02T20:34:11.133Z"
-    },
-    {
-      "id": "6N22FZs2ZhPBYi3b9XPajV",
-      "name": "Still Don't Know My Name (From \"Euphoria: Season 1\" Soundtrack)",
-      "artists": [
-        "Labrinth"
-      ],
-      "playedAt": "2026-05-02T20:30:09.743Z"
-    },
-    {
-      "id": "6EtKlIQmGPB9SX8UjDJG5s",
-      "name": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
-      "artists": [
-        "Labrinth"
-      ],
-      "playedAt": "2026-05-02T20:27:34.314Z"
-    },
-    {
-      "id": "7gUMShP1l20tC0xf17Zplk",
-      "name": "Ride Like the Wind",
-      "artists": [
-        "Christopher Cross"
-      ],
-      "playedAt": "2026-05-02T20:26:01.436Z"
-    },
-    {
-      "id": "2prqm9sPLj10B4Wg0wE5x9",
-      "name": "BLUE",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-05-02T20:13:15.400Z"
-    },
-    {
-      "id": "0EF1EE8zusg3Y869e56JFd",
-      "name": "Nothing's New",
-      "artists": [
-        "Rio Romeo"
-      ],
-      "playedAt": "2026-05-02T17:36:22.537Z"
-    },
-    {
-      "id": "2prqm9sPLj10B4Wg0wE5x9",
-      "name": "BLUE",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-05-02T17:32:50.877Z"
-    },
-    {
-      "id": "3GYlZ7tbxLOxe6ewMNVTkw",
-      "name": "TV",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-05-02T17:27:45.385Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-05-02T17:22:12.894Z"
-    },
-    {
-      "id": "08PdFBcXzpkn1cWNgmKqhn",
-      "name": "Promise",
-      "artists": [
-        "Laufey"
-      ],
-      "playedAt": "2026-05-02T17:16:18.658Z"
-    },
-    {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-05-02T17:11:38.216Z"
-    },
-    {
-      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
-      "name": "Naked Spirit (featuring Djivan Gasparyan)",
-      "artists": [
-        "Sainkho Namtchylak"
-      ],
-      "playedAt": "2026-05-02T17:09:25.549Z"
-    },
-    {
-      "id": "4ntaCVtTclqT43krz9n3Z9",
-      "name": "Lady D'Arbanville",
-      "artists": [
-        "Yusuf / Cat Stevens"
-      ],
-      "playedAt": "2026-05-02T17:03:50.260Z"
-    },
-    {
-      "id": "4p4hyqRFdoiw4EMbEsqBdA",
-      "name": "Get Free",
-      "artists": [
-        "Major Lazer",
-        "Amber of Dirty Projectors"
-      ],
-      "playedAt": "2026-05-02T16:55:43.150Z"
-    },
-    {
-      "id": "3KiBsER8s2ooOjnW761gO8",
-      "name": "Coming Back",
-      "artists": [
-        "Gotye"
-      ],
-      "playedAt": "2026-05-02T16:50:53.060Z"
-    },
-    {
-      "id": "0FTmksd2dxiE5e3rWyJXs6",
-      "name": "back to friends",
-      "artists": [
-        "sombr"
-      ],
-      "playedAt": "2026-05-02T15:48:24.115Z"
-    },
-    {
-      "id": "1NaDkeb2bSKFvuP5dZazet",
-      "name": "Coolshit Bullshit",
-      "artists": [
-        "Danika"
-      ],
-      "playedAt": "2026-05-02T15:45:04.706Z"
-    },
-    {
-      "id": "4qeIlzP0Z1JFXh0AckDcX8",
-      "name": "No Nein",
-      "artists": [
-        "1tbsp",
-        "Mietze Conte"
-      ],
-      "playedAt": "2026-05-02T15:36:29.373Z"
-    },
-    {
-      "id": "7caycKUiLznuxYK1C9Wxd6",
-      "name": "Maya",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-05-02T14:31:33.121Z"
-    },
-    {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
-      "artists": [
-        "Geoffroy"
-      ],
-      "playedAt": "2026-05-02T14:27:11.495Z"
-    },
-    {
-      "id": "4ntaCVtTclqT43krz9n3Z9",
-      "name": "Lady D'Arbanville",
-      "artists": [
-        "Yusuf / Cat Stevens"
-      ],
-      "playedAt": "2026-05-02T14:22:15.474Z"
-    },
-    {
-      "id": "4p4hyqRFdoiw4EMbEsqBdA",
-      "name": "Get Free",
-      "artists": [
-        "Major Lazer",
-        "Amber of Dirty Projectors"
-      ],
-      "playedAt": "2026-05-02T14:18:26.969Z"
+      "playedAt": "2026-05-03T19:47:18.725Z"
     },
     {
       "id": "1ZCe8z0pUTvNdpZY0kgA0W",
@@ -216,23 +27,7 @@
         "Sebastian Damerius",
         "Lisa Morgenstern"
       ],
-      "playedAt": "2026-05-02T14:13:58.438Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-05-02T12:30:44.683Z"
-    },
-    {
-      "id": "1ej1Z6AGBLaSI9tSizZMfa",
-      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-05-02T12:27:25.377Z"
+      "playedAt": "2026-05-03T19:43:15.386Z"
     },
     {
       "id": "4ntaCVtTclqT43krz9n3Z9",
@@ -240,39 +35,34 @@
       "artists": [
         "Yusuf / Cat Stevens"
       ],
-      "playedAt": "2026-05-02T12:23:36.589Z"
+      "playedAt": "2026-05-03T19:40:35.993Z"
     },
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "4p4hyqRFdoiw4EMbEsqBdA",
+      "name": "Get Free",
       "artists": [
-        "Still Corners"
+        "Major Lazer",
+        "Amber of Dirty Projectors"
       ],
-      "playedAt": "2026-05-02T12:19:30.905Z"
+      "playedAt": "2026-05-03T19:36:53.296Z"
     },
     {
-      "id": "4z6qtN4iZ7MPVZYCtiSgsM",
-      "name": "Brutally",
+      "id": "6r8k1vznHrzlEKYxL4dZEe",
+      "name": "La Isla Bonita",
       "artists": [
-        "Suki Waterhouse"
+        "Madonna"
       ],
-      "playedAt": "2026-05-02T11:28:25.877Z"
+      "playedAt": "2026-05-03T19:32:08.458Z"
     },
     {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
+      "id": "1ZCe8z0pUTvNdpZY0kgA0W",
+      "name": "Years After The Wedding",
       "artists": [
-        "Suki Waterhouse"
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
       ],
-      "playedAt": "2026-05-02T11:24:56.591Z"
-    },
-    {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-05-02T11:21:08.265Z"
+      "playedAt": "2026-05-03T13:37:54.642Z"
     },
     {
       "id": "1Ohxk3MtOy9ljkJ2vwhBin",
@@ -280,7 +70,15 @@
       "artists": [
         "Sainkho Namtchylak"
       ],
-      "playedAt": "2026-05-02T11:18:55.776Z"
+      "playedAt": "2026-05-03T13:35:14.536Z"
+    },
+    {
+      "id": "524nCOIQg9fi0pETVnbpv8",
+      "name": "Mystified - 2017 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "playedAt": "2026-05-03T13:30:32.422Z"
     },
     {
       "id": "4ntaCVtTclqT43krz9n3Z9",
@@ -288,117 +86,80 @@
       "artists": [
         "Yusuf / Cat Stevens"
       ],
-      "playedAt": "2026-05-02T11:14:03.996Z"
+      "playedAt": "2026-05-03T13:27:22.232Z"
     },
     {
-      "id": "4p4hyqRFdoiw4EMbEsqBdA",
-      "name": "Get Free",
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
       "artists": [
-        "Major Lazer",
-        "Amber of Dirty Projectors"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-05-02T11:10:17.938Z"
+      "playedAt": "2026-05-03T09:32:37.987Z"
     },
     {
-      "id": "4VxaUj96W2jw9UOtKHu51p",
-      "name": "Goodbye",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "Apparat",
-        "Soap&Skin"
+        "Still Corners"
       ],
-      "playedAt": "2026-05-02T09:28:12.108Z"
+      "playedAt": "2026-05-03T09:28:02.709Z"
     },
     {
-      "id": "5uE0ggArLjnpwVPEXc36Hx",
-      "name": "It's Happening Again",
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
       "artists": [
-        "Agnes Obel"
+        "Husky"
       ],
-      "playedAt": "2026-05-02T09:23:23.558Z"
+      "playedAt": "2026-05-03T09:24:06.233Z"
     },
     {
-      "id": "7bkUa9kDFGxgCC7d36dzFI",
-      "name": "Rote Flaggen",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "Berq"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-05-02T09:18:06.909Z"
+      "playedAt": "2026-05-03T09:20:02.007Z"
     },
     {
-      "id": "4ntaCVtTclqT43krz9n3Z9",
-      "name": "Lady D'Arbanville",
+      "id": "6Cojy8iCgddqDVje5fWfjO",
+      "name": "Today is the Day",
       "artists": [
-        "Yusuf / Cat Stevens"
+        "Still Corners"
       ],
-      "playedAt": "2026-05-02T09:07:58.203Z"
+      "playedAt": "2026-05-03T09:16:42.315Z"
     },
     {
-      "id": "4p4hyqRFdoiw4EMbEsqBdA",
-      "name": "Get Free",
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
       "artists": [
-        "Major Lazer",
-        "Amber of Dirty Projectors"
+        "James Asher"
       ],
-      "playedAt": "2026-05-02T09:04:11.928Z"
+      "playedAt": "2026-05-03T09:12:17.494Z"
     },
     {
-      "id": "75MS50ggm8xXGp2h1IDbJ2",
-      "name": "Army Dreamers (Live at The Songroom)",
+      "id": "5AglhU9luP6EBIRK3MBLf6",
+      "name": "El Jaguar Caza feat. Sāgarā",
       "artists": [
-        "Monty Cotton",
-        "The Basics",
-        "Gotye"
+        "Da Iguana",
+        "Sāgarā"
       ],
-      "playedAt": "2026-05-02T08:59:17.322Z"
+      "playedAt": "2026-05-03T09:04:09.381Z"
     },
     {
-      "id": "3KiBsER8s2ooOjnW761gO8",
-      "name": "Coming Back",
+      "id": "524nCOIQg9fi0pETVnbpv8",
+      "name": "Mystified - 2017 Remaster",
       "artists": [
-        "Gotye"
+        "Fleetwood Mac"
       ],
-      "playedAt": "2026-05-02T08:56:35.665Z"
+      "playedAt": "2026-05-03T08:55:23.584Z"
     },
     {
-      "id": "2sW8fmnISifQTRgnRrQTYW",
-      "name": "Roads",
+      "id": "3mZ6PVxWBhCycZxeEJQDNs",
+      "name": "State of Independence",
       "artists": [
-        "Portishead"
+        "Donna Summer"
       ],
-      "playedAt": "2026-05-02T08:49:53.124Z"
-    },
-    {
-      "id": "3fHDbOrSf2IQhLeKaShLS4",
-      "name": "Fuel to Fire",
-      "artists": [
-        "Agnes Obel"
-      ],
-      "playedAt": "2026-05-02T08:44:48.299Z"
-    },
-    {
-      "id": "4p4hyqRFdoiw4EMbEsqBdA",
-      "name": "Get Free",
-      "artists": [
-        "Major Lazer",
-        "Amber of Dirty Projectors"
-      ],
-      "playedAt": "2026-05-02T08:39:18.229Z"
-    },
-    {
-      "id": "4nPzk1lhLWmQUX7tM94KZL",
-      "name": "Hearts A Mess",
-      "artists": [
-        "Gotye"
-      ],
-      "playedAt": "2026-05-02T08:34:27.743Z"
-    },
-    {
-      "id": "3fbnbn6A5O5RNb08tlUEgd",
-      "name": "Streets of Philadelphia - Single Edit",
-      "artists": [
-        "Bruce Springsteen"
-      ],
-      "playedAt": "2026-05-02T08:28:17.159Z"
+      "playedAt": "2026-05-03T08:50:21.870Z"
     }
   ]
 }

@@ -1,367 +1,64 @@
 {
-  "name": "WATER",
-  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
-  "description": "Flowing & Emotional",
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.5679411764705883,
-    "avgEnergy": 0.2688235294117648,
-    "avgAcousticness": 0.8700000000000001,
-    "trackCount": 50,
-    "analyzedCount": 34
+    "avgValence": 0.7185714285714286,
+    "avgEnergy": 0.3178571428571428,
+    "avgAcousticness": 0.825,
+    "trackCount": 20,
+    "analyzedCount": 14
   },
-  "date": "2026-05-08T23:46:37.352Z",
+  "date": "2026-05-09T23:37:39.243Z",
   "tracks": [
     {
-      "id": "1ZCe8z0pUTvNdpZY0kgA0W",
-      "name": "Years After The Wedding",
+      "id": "3sFJI66BRczTxVVgKQ8KSw",
+      "name": "ELEMENT 13",
       "artists": [
-        "Johannes Lehniger",
-        "Sebastian Damerius",
-        "Lisa Morgenstern"
+        "Just A Gent"
       ],
-      "playedAt": "2026-05-08T22:37:30.444Z"
+      "playedAt": "2026-05-09T20:20:40.247Z"
     },
     {
-      "id": "2lB8swV3T9yiXyU6OnZ3tY",
-      "name": "La petite fille de la mer - Remastered",
+      "id": "6uYVwPP9BGgqDKBorb2k8L",
+      "name": "Shave 'Em Dry II",
       "artists": [
-        "Vangelis"
+        "Lucille Bogan"
       ],
-      "playedAt": "2026-05-08T21:47:55.340Z"
+      "playedAt": "2026-05-09T20:17:33.525Z"
     },
     {
-      "id": "35kpiigbRx8E3LL1ayRpnC",
-      "name": "A King's Sadness",
+      "id": "1vhhVRwsFzEdA4bCioBvlg",
+      "name": "Malus Domesticus",
       "artists": [
-        "William Ross"
+        "Raury"
       ],
-      "playedAt": "2026-05-08T21:39:01.535Z"
+      "playedAt": "2026-05-09T17:31:50.148Z"
     },
     {
-      "id": "41ckIX2CdahZo5iqQvO1Qo",
-      "name": "I'm Expecting Someone",
+      "id": "6XrTwqp0vMc2Z3m4ttoyRe",
+      "name": "Michelle",
       "artists": [
-        "James Newton Howard"
+        "Sir Chloe"
       ],
-      "playedAt": "2026-05-08T21:36:59.647Z"
+      "playedAt": "2026-05-09T17:29:30.190Z"
     },
     {
-      "id": "7HARo0TZ38IK458jT0nwGa",
-      "name": "Favourite Kind Of Girl",
+      "id": "6ey66s3rrXBgsuX36GG1ci",
+      "name": "beine spüren",
       "artists": [
-        "Gotts Street Park",
-        "Flikka"
+        "benzii"
       ],
-      "playedAt": "2026-05-08T21:02:47.274Z"
+      "playedAt": "2026-05-09T17:25:52.518Z"
     },
     {
-      "id": "0AmK67QC3fhZYvFw74f0fD",
-      "name": "Sage Motel",
+      "id": "28jaG0nLqlijtHGQzZqGWK",
+      "name": "Unfinished Sympathy",
       "artists": [
-        "Monophonics",
-        "Kelly Finnigan"
+        "Massive Attack",
+        "Shara Nelson"
       ],
-      "playedAt": "2026-05-08T20:57:39.660Z"
-    },
-    {
-      "id": "3AXpZ34H73CssxcenQjd3Z",
-      "name": "Head First",
-      "artists": [
-        "Snazzy"
-      ],
-      "playedAt": "2026-05-08T20:53:46.514Z"
-    },
-    {
-      "id": "55uA56TpLi1Xu0OBb95RTN",
-      "name": "Keep Coming Back To You",
-      "artists": [
-        "Vicky Sometani"
-      ],
-      "playedAt": "2026-05-08T20:50:34.123Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-05-08T20:47:15.505Z"
-    },
-    {
-      "id": "2rahZcwdQ3zQU6AEgXWV6G",
-      "name": "Pictures",
-      "artists": [
-        "Kyson"
-      ],
-      "playedAt": "2026-05-08T20:40:52.971Z"
-    },
-    {
-      "id": "0HPrHoca7do99Z6I3CmdDJ",
-      "name": "Fake Arms",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-08T20:36:36.182Z"
-    },
-    {
-      "id": "5o0xiyAqoBY8TXCpXiRPQ0",
-      "name": "In Wavelengths",
-      "artists": [
-        "Gem Club"
-      ],
-      "playedAt": "2026-05-08T20:30:06.761Z"
-    },
-    {
-      "id": "5XaEiteF9A84F3ESpBg7jV",
-      "name": "Meant to Stay Hid",
-      "artists": [
-        "SYML"
-      ],
-      "playedAt": "2026-05-08T20:26:33.754Z"
-    },
-    {
-      "id": "6ytWWy744JiPRja3mbJOMI",
-      "name": "Living in the Darkness",
-      "artists": [
-        "Georgi Krastev"
-      ],
-      "playedAt": "2026-05-08T20:22:49.766Z"
-    },
-    {
-      "id": "2JH2K5hZqWcFPXaUc840EM",
-      "name": "Atlas, Eyes",
-      "artists": [
-        "Illuminine",
-        "Will Samson"
-      ],
-      "playedAt": "2026-05-08T20:20:37.760Z"
-    },
-    {
-      "id": "5zpDRtNd95EoQwFoF8A4d4",
-      "name": "A Better Person",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-08T20:17:16.231Z"
-    },
-    {
-      "id": "7FXqLZDTVnox87lDxGA6SX",
-      "name": "All In Blue",
-      "artists": [
-        "Logan and Isabel"
-      ],
-      "playedAt": "2026-05-08T20:13:06.032Z"
-    },
-    {
-      "id": "7lKmIkQzOyJuW9ZIbmIOog",
-      "name": "Still",
-      "artists": [
-        "Jolé",
-        "Marie Gallo"
-      ],
-      "playedAt": "2026-05-08T20:09:04.044Z"
-    },
-    {
-      "id": "2qNp94LDtM0vors2eziLEI",
-      "name": "You Want Love",
-      "artists": [
-        "Freyr"
-      ],
-      "playedAt": "2026-05-08T20:05:07.657Z"
-    },
-    {
-      "id": "1nTgpRaVu7AOwDSp3EhELY",
-      "name": "Ancient Rome",
-      "artists": [
-        "Georgi Krastev"
-      ],
-      "playedAt": "2026-05-08T20:01:31.256Z"
-    },
-    {
-      "id": "2r69wBHsGkrIT1ae0QRSOT",
-      "name": "Ryley Crowe",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-08T19:58:27.035Z"
-    },
-    {
-      "id": "5MUfzUCGlxSe8Psq10wB3x",
-      "name": "The Wisp Sings - Middle Ridge Studio Session",
-      "artists": [
-        "Winter Aid"
-      ],
-      "playedAt": "2026-05-08T19:56:01.466Z"
-    },
-    {
-      "id": "7qjF1j0sMTLcmiTKXwVh09",
-      "name": "Doppelgänger",
-      "artists": [
-        "Lissom",
-        "Julien Marchal",
-        "Lowswimmer"
-      ],
-      "playedAt": "2026-05-08T19:51:50.932Z"
-    },
-    {
-      "id": "2pHjBwnR7YQ9lT5KhfoUBx",
-      "name": "Not Blue",
-      "artists": [
-        "Kylie Dailey"
-      ],
-      "playedAt": "2026-05-08T19:48:20.223Z"
-    },
-    {
-      "id": "2rIQPqkWn4OodSeFsTp9FY",
-      "name": "Neighbour Boy",
-      "artists": [
-        "Freyr"
-      ],
-      "playedAt": "2026-05-08T19:44:45.306Z"
-    },
-    {
-      "id": "3udrPQY0NXFN7g65xMK7TO",
-      "name": "Names and Races",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-08T19:41:44.301Z"
-    },
-    {
-      "id": "6pyWJH36pPS9JElQj44G3F",
-      "name": "riseatsunset (stripped down version)",
-      "artists": [
-        "Krishna Canning"
-      ],
-      "playedAt": "2026-05-08T19:34:55.644Z"
-    },
-    {
-      "id": "5bKb0ofYLZ0snMQDGrbWor",
-      "name": "Mistakes",
-      "artists": [
-        "Gregory Alan Isakov"
-      ],
-      "playedAt": "2026-05-08T19:32:47.225Z"
-    },
-    {
-      "id": "6owCPIWodbmiLXjWHkujGZ",
-      "name": "Twins",
-      "artists": [
-        "Gem Club"
-      ],
-      "playedAt": "2026-05-08T19:29:23.921Z"
-    },
-    {
-      "id": "59dTFVllmk7yO6Py8kQPgl",
-      "name": "Forest Fires",
-      "artists": [
-        "Axel Flóvent"
-      ],
-      "playedAt": "2026-05-08T19:25:03.670Z"
-    },
-    {
-      "id": "2jSshkrs1wz0xxE5Ock5uT",
-      "name": "Rose Colored",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-08T19:21:32.572Z"
-    },
-    {
-      "id": "7hM5XSA8AMSSOc8KkFzDoM",
-      "name": "From The Lake To The Land",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-08T19:16:28.700Z"
-    },
-    {
-      "id": "3gxwWtR114M0fzmSPNWdfI",
-      "name": "Charms",
-      "artists": [
-        "Abel Korzeniowski"
-      ],
-      "playedAt": "2026-05-08T18:06:02.643Z"
-    },
-    {
-      "id": "1tICQXzFx0j6zcNFOM66z1",
-      "name": "House Of The Undying",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "playedAt": "2026-05-08T18:00:55.859Z"
-    },
-    {
-      "id": "4dk40nfaQav6b4ZsJ9OYUo",
-      "name": "Love My Way",
-      "artists": [
-        "The Psychedelic Furs"
-      ],
-      "playedAt": "2026-05-08T17:55:51.515Z"
-    },
-    {
-      "id": "0SUDiaR0qm30fXVGPjPvRp",
-      "name": "Visions of Gideon",
-      "artists": [
-        "Sufjan Stevens"
-      ],
-      "playedAt": "2026-05-08T17:52:17.390Z"
-    },
-    {
-      "id": "5GbVzc6Ex5LYlLJqzRQhuy",
-      "name": "Mystery of Love",
-      "artists": [
-        "Sufjan Stevens"
-      ],
-      "playedAt": "2026-05-08T17:48:09.091Z"
-    },
-    {
-      "id": "5xBaAekZUVaLlHjYfXDoVZ",
-      "name": "Sixteen Hundred Men (From \"1917\" Soundtrack)",
-      "artists": [
-        "Thomas Newman"
-      ],
-      "playedAt": "2026-05-08T17:44:00.073Z"
-    },
-    {
-      "id": "4KgOHADtS4HX5Dhkyyr1Ew",
-      "name": "The Wardrobe",
-      "artists": [
-        "Harry Gregson-Williams"
-      ],
-      "playedAt": "2026-05-08T17:37:26.573Z"
-    },
-    {
-      "id": "2TM24qZOOgsmA94g6Ovy48",
-      "name": "Nobody Knows",
-      "artists": [
-        "Pastor T.L. Barrett and the Youth for Christ Choir"
-      ],
-      "playedAt": "2026-05-08T17:34:31.474Z"
-    },
-    {
-      "id": "6TOhXLevQUI4fjrxLL1nJE",
-      "name": "Stand on the Word - 1982 Version",
-      "artists": [
-        "The Joubert Singers"
-      ],
-      "playedAt": "2026-05-08T17:28:00.086Z"
-    },
-    {
-      "id": "7AlJWH45s6NgsfgsKxWOIM",
-      "name": "I Won't Let You Down",
-      "artists": [
-        "Curtis Harding"
-      ],
-      "playedAt": "2026-05-08T17:18:41.563Z"
-    },
-    {
-      "id": "41CpEqRT3TqIf5DoB0trcw",
-      "name": "Manifest",
-      "artists": [
-        "Taavi"
-      ],
-      "playedAt": "2026-05-08T15:48:50.093Z"
+      "playedAt": "2026-05-09T17:22:51.316Z"
     },
     {
       "id": "5cJBLutdQO3ikhfOItxPTc",
@@ -369,57 +66,112 @@
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-05-08T15:44:25.195Z"
+      "playedAt": "2026-05-09T17:04:44.750Z"
     },
     {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "id": "0NTMtAO2BV4tnGvw9EgBVq",
+      "name": "Bitch Better Have My Money",
       "artists": [
-        "Poranguí",
-        "Liquid Bloom"
+        "Rihanna"
       ],
-      "playedAt": "2026-05-08T15:38:23.454Z"
+      "playedAt": "2026-05-09T16:57:26.404Z"
     },
     {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
+      "id": "0NTMtAO2BV4tnGvw9EgBVq",
+      "name": "Bitch Better Have My Money",
       "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
+        "Rihanna"
       ],
-      "playedAt": "2026-05-08T15:29:39.281Z"
+      "playedAt": "2026-05-09T16:54:02.113Z"
     },
     {
-      "id": "2dHnIe0JsqshUnyzcMMOhW",
-      "name": "Domestic Pressures",
+      "id": "2r69wBHsGkrIT1ae0QRSOT",
+      "name": "Ryley Crowe",
       "artists": [
-        "Jóhann Jóhannsson"
+        "Foreign Fields"
       ],
-      "playedAt": "2026-05-08T15:25:09.928Z"
+      "playedAt": "2026-05-09T16:53:44.098Z"
     },
     {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
+      "id": "7M9pPyt8Gr41THLhbz4NSB",
+      "name": "Don't Let Me Be Misunderstood",
       "artists": [
-        "Anilah"
+        "Nina Simone"
       ],
-      "playedAt": "2026-05-08T15:25:06.208Z"
+      "playedAt": "2026-05-09T16:45:09.548Z"
     },
     {
-      "id": "5pn4wdFwix4qr5SlNyRw7W",
-      "name": "The Middle of the World",
+      "id": "67UOlZLz6tDEDuScefmWDd",
+      "name": "So Weit Wie Noch Nie",
       "artists": [
-        "Nicholas Britell"
+        "Jürgen Paape"
       ],
-      "playedAt": "2026-05-08T14:28:40.190Z"
+      "playedAt": "2026-05-09T16:39:22.979Z"
     },
     {
-      "id": "4TyMkWzFaZIYH52DpBuISz",
-      "name": "Okinawa Battlefield",
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
       "artists": [
-        "Rupert Gregson-Williams"
+        "Bob Dylan"
       ],
-      "playedAt": "2026-05-08T14:26:37.009Z"
+      "playedAt": "2026-05-09T16:33:29.829Z"
+    },
+    {
+      "id": "6HZiDsrA00Jiy1EBkukFNr",
+      "name": "Can We Find A Way - Ede Remix",
+      "artists": [
+        "Fritz Kalkbrenner",
+        "Ede"
+      ],
+      "playedAt": "2026-05-09T16:30:57.593Z"
+    },
+    {
+      "id": "35kpiigbRx8E3LL1ayRpnC",
+      "name": "A King's Sadness",
+      "artists": [
+        "William Ross"
+      ],
+      "playedAt": "2026-05-09T16:26:55.447Z"
+    },
+    {
+      "id": "41ckIX2CdahZo5iqQvO1Qo",
+      "name": "I'm Expecting Someone",
+      "artists": [
+        "James Newton Howard"
+      ],
+      "playedAt": "2026-05-09T16:24:53.683Z"
+    },
+    {
+      "id": "0EF1EE8zusg3Y869e56JFd",
+      "name": "Nothing's New",
+      "artists": [
+        "Rio Romeo"
+      ],
+      "playedAt": "2026-05-09T10:09:11.080Z"
+    },
+    {
+      "id": "7BRD7x5pt8Lqa1eGYC4dzj",
+      "name": "CHIHIRO",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-05-09T10:05:37.755Z"
+    },
+    {
+      "id": "3GYlZ7tbxLOxe6ewMNVTkw",
+      "name": "TV",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-05-09T10:00:33.760Z"
+    },
+    {
+      "id": "3o1plg7nwWCgZK5b9sNIDr",
+      "name": "Kill And Run",
+      "artists": [
+        "Sia"
+      ],
+      "playedAt": "2026-05-09T09:55:53.150Z"
     }
   ]
 }

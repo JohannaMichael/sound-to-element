@@ -3,14 +3,103 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6375,
-    "avgEnergy": 0.3244999999999999,
-    "avgAcousticness": 0.8067500000000001,
-    "trackCount": 50,
-    "analyzedCount": 40
+    "avgValence": 0.6546666666666667,
+    "avgEnergy": 0.34,
+    "avgAcousticness": 0.802,
+    "trackCount": 42,
+    "analyzedCount": 15
   },
-  "date": "2026-05-13T23:49:42.369Z",
+  "date": "2026-05-14T23:45:54.980Z",
   "tracks": [
+    {
+      "id": "4mqQvaPPsRZWnRKjlNwl2r",
+      "name": "Small Wins",
+      "artists": [
+        "Dekker"
+      ],
+      "playedAt": "2026-05-14T20:14:14.090Z"
+    },
+    {
+      "id": "3GYlZ7tbxLOxe6ewMNVTkw",
+      "name": "TV",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-05-14T20:10:55.120Z"
+    },
+    {
+      "id": "5DYD4zlGiFlkpLaf2Bk8Vl",
+      "name": "Your Love (Déjà Vu)",
+      "artists": [
+        "Glass Animals"
+      ],
+      "playedAt": "2026-05-14T20:02:37.852Z"
+    },
+    {
+      "id": "54xQKzGRXCOg2csW5CJRHS",
+      "name": "Craw-Fever",
+      "artists": [
+        "Elvis Presley"
+      ],
+      "playedAt": "2026-05-14T19:51:52.694Z"
+    },
+    {
+      "id": "3sLhMSePzxSrmxluIqeoAZ",
+      "name": "I Put a Spell On You",
+      "artists": [
+        "Screamin' Jay Hawkins"
+      ],
+      "playedAt": "2026-05-14T19:48:06.023Z"
+    },
+    {
+      "id": "6CyoMFZcnFzoeiHBu5R32E",
+      "name": "The End",
+      "artists": [
+        "JPOLND"
+      ],
+      "playedAt": "2026-05-14T19:45:40.425Z"
+    },
+    {
+      "id": "2KnuaZYoGzDoHiBTNYOTXG",
+      "name": "Billie Bossa Nova",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-05-14T19:42:04.081Z"
+    },
+    {
+      "id": "5jsSRZV38oVh9l2Tf6UREU",
+      "name": "Enid & Rebecca",
+      "artists": [
+        "Les Gordon"
+      ],
+      "playedAt": "2026-05-14T19:39:03.217Z"
+    },
+    {
+      "id": "7ja0rsJBBCqZH4f3Ga9uGn",
+      "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
+      "artists": [
+        "James Newton Howard"
+      ],
+      "playedAt": "2026-05-14T19:35:50.418Z"
+    },
+    {
+      "id": "0OK4Dhc10O8cTXdesihLGL",
+      "name": "mwah :3",
+      "artists": [
+        "rusowsky",
+        "Dinamarca"
+      ],
+      "playedAt": "2026-05-14T19:32:03.494Z"
+    },
+    {
+      "id": "2zdFgBbORyhK5bzEymD9PY",
+      "name": "Simple Harp Variation No. 1",
+      "artists": [
+        "Martin Phipps"
+      ],
+      "playedAt": "2026-05-14T19:30:00.569Z"
+    },
     {
       "id": "1yvFoBp2Bq1ilD0518ZpQx",
       "name": "DON'T JEALOUS ME",
@@ -20,301 +109,162 @@
         "Mr Eazi",
         "Yemi Alade"
       ],
-      "playedAt": "2026-05-13T19:18:38.173Z"
+      "playedAt": "2026-05-14T19:27:30.293Z"
     },
     {
-      "id": "1xywEdOKhIfnxqthSYZR8W",
-      "name": "Oblivion (feat. Sia)",
+      "id": "4ZnkygoWLzcGbQYCm3lkae",
+      "name": "Rush",
       "artists": [
-        "Labrinth",
-        "Sia"
+        "Troye Sivan"
       ],
-      "playedAt": "2026-05-13T19:16:01.336Z"
+      "playedAt": "2026-05-14T19:24:07.937Z"
     },
     {
-      "id": "1KX30hHDvpBRvm3JXxtYEY",
-      "name": "Tunnel of You",
+      "id": "2aEuA8PSqLa17Y4hKPj5rr",
+      "name": "Cheri Cheri Lady",
       "artists": [
-        "Cannons"
+        "Modern Talking"
       ],
-      "playedAt": "2026-05-13T19:10:03.243Z"
+      "playedAt": "2026-05-14T19:19:53.467Z"
     },
     {
-      "id": "5PZhhmL9mcCKEABYTKOBsB",
-      "name": "Simple Harp",
+      "id": "2hnA4tmaBMisNvz4TOl1Rk",
+      "name": "Together Again",
       "artists": [
-        "Martin Phipps",
-        "The Chamber Orchestra Of London"
+        "Stephen Rennicks"
       ],
-      "playedAt": "2026-05-13T18:49:14.066Z"
+      "playedAt": "2026-05-14T19:14:25.832Z"
     },
     {
-      "id": "3fHDbOrSf2IQhLeKaShLS4",
-      "name": "Fuel to Fire",
+      "id": "4NNR7bp1hXmdk08YLxpUBQ",
+      "name": "Miserlou",
       "artists": [
-        "Agnes Obel"
+        "Dick Dale"
       ],
-      "playedAt": "2026-05-13T18:46:44.511Z"
+      "playedAt": "2026-05-14T19:11:10.572Z"
     },
     {
-      "id": "5gDWsRxpJ2lZAffh5p7K0w",
-      "name": "Stargirl Interlude",
-      "artists": [
-        "The Weeknd",
-        "Lana Del Rey"
-      ],
-      "playedAt": "2026-05-13T18:39:17.035Z"
-    },
-    {
-      "id": "7j3zZ2jAjzFD60UjhldhHo",
-      "name": "I've Been In Love",
-      "artists": [
-        "Jungle",
-        "Channel Tres"
-      ],
-      "playedAt": "2026-05-13T18:36:54.432Z"
-    },
-    {
-      "id": "5hQSXkFgbxjZo9uCwd11so",
-      "name": "False God",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "playedAt": "2026-05-13T18:34:04.075Z"
-    },
-    {
-      "id": "0W6I02J9xcqK8MtSeosEXb",
-      "name": "Get Into It (Yuh)",
-      "artists": [
-        "Doja Cat"
-      ],
-      "playedAt": "2026-05-13T18:30:43.281Z"
-    },
-    {
-      "id": "4KlL5Bwlm4yHYxr0B2rHci",
-      "name": "Heal",
-      "artists": [
-        "Tom Odell"
-      ],
-      "playedAt": "2026-05-13T18:28:34.749Z"
-    },
-    {
-      "id": "3iEUDvanZwQhLCIqUmCR7N",
-      "name": "The Spins",
-      "artists": [
-        "Mac Miller",
-        "Empire Of The Sun"
-      ],
-      "playedAt": "2026-05-13T18:25:10.854Z"
-    },
-    {
-      "id": "18ddEEUakSawjPxXMxN4Ml",
-      "name": "Happy Together",
-      "artists": [
-        "FLOOR CRY"
-      ],
-      "playedAt": "2026-05-13T17:59:17.972Z"
-    },
-    {
-      "id": "5Jb5BxWePEZoCinQK7DKxz",
-      "name": "Soy Lo Que Soy",
-      "artists": [
-        "Monogem"
-      ],
-      "playedAt": "2026-05-13T17:56:56.794Z"
-    },
-    {
-      "id": "0am7xDdDFuNBUA6cU4DGVQ",
-      "name": "Lust auf Dich",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-05-13T17:53:07.694Z"
-    },
-    {
-      "id": "3sLhMSePzxSrmxluIqeoAZ",
-      "name": "I Put a Spell On You",
-      "artists": [
-        "Screamin' Jay Hawkins"
-      ],
-      "playedAt": "2026-05-13T17:50:23.531Z"
-    },
-    {
-      "id": "0r9OkYadpBgYA2bkkrRSsI",
-      "name": "Hot Sugar",
-      "artists": [
-        "Glass Animals"
-      ],
-      "playedAt": "2026-05-13T17:48:27.668Z"
-    },
-    {
-      "id": "3mwQfVhQ0xrO5a3l8qy082",
-      "name": "Focus (Love Theme)",
-      "artists": [
-        "Nick Urata"
-      ],
-      "playedAt": "2026-05-13T16:57:02.070Z"
-    },
-    {
-      "id": "1dmJWX0nWAx5gjDzAohSbO",
-      "name": "Cerca De Ti",
-      "artists": [
-        "Hermanos Gutiérrez"
-      ],
-      "playedAt": "2026-05-13T16:51:51.299Z"
-    },
-    {
-      "id": "6unndO70DvZfnXYcYQMyQJ",
-      "name": "Never Felt So Alone",
-      "artists": [
-        "Labrinth"
-      ],
-      "playedAt": "2026-05-13T16:45:09.410Z"
-    },
-    {
-      "id": "0WFryfbNKPXVtVQlz5dZ8H",
-      "name": "hotline (edit)",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-05-13T16:42:28.471Z"
-    },
-    {
-      "id": "0kWQn0wLok1lawHAkGSMW9",
-      "name": "I Like That",
-      "artists": [
-        "Bazzi"
-      ],
-      "playedAt": "2026-05-13T16:41:27.388Z"
-    },
-    {
-      "id": "3FqqhdU8egriKmnpfuXKE0",
-      "name": "Duck Shoot",
-      "artists": [
-        "Rupert Gregson-Williams"
-      ],
-      "playedAt": "2026-05-13T16:38:48.600Z"
-    },
-    {
-      "id": "02y0eITyfoRiujebMLIz4M",
-      "name": "Barrio",
-      "artists": [
-        "YEИDRY"
-      ],
-      "playedAt": "2026-05-13T16:35:58.334Z"
-    },
-    {
-      "id": "5qbHBepTowbMldhK8RVhTl",
-      "name": "Go Home",
-      "artists": [
-        "Angel Olsen"
-      ],
-      "playedAt": "2026-05-13T16:32:48.140Z"
-    },
-    {
-      "id": "6chkDKDiskOeKnctKVO5GK",
-      "name": "Dance, Dance, Dance (Disco Version)",
-      "artists": [
-        "Marta Acuna"
-      ],
-      "playedAt": "2026-05-13T16:25:57.450Z"
-    },
-    {
-      "id": "4unEKanhrUiSOMqja8Euw5",
-      "name": "The Last of Us",
-      "artists": [
-        "Gustavo Santaolalla"
-      ],
-      "playedAt": "2026-05-13T16:02:12.403Z"
-    },
-    {
-      "id": "3EkwCXyPeH6xGs23tVnJJy",
-      "name": "The Power of Prophecy",
+      "id": "1yV7QxodAm2gNtqQbU13aN",
+      "name": "Indulge in Darkness",
       "artists": [
         "Ramin Djawadi"
       ],
-      "playedAt": "2026-05-13T16:00:03.441Z"
+      "playedAt": "2026-05-14T19:07:48.699Z"
     },
     {
-      "id": "0Juciz8gOjrO89qw5KwQV5",
-      "name": "Call Me Irresponsible - 2001 Remaster",
+      "id": "3Vw4SxsPsVwG4xwK3Il0mP",
+      "name": "PIROUETTEN",
       "artists": [
-        "Bobby Darin"
+        "Berq"
       ],
-      "playedAt": "2026-05-13T15:57:31.156Z"
+      "playedAt": "2026-05-14T18:54:04.062Z"
     },
     {
-      "id": "7wAJfa8XOZmtCWrsxzE88T",
-      "name": "Romantic Lover",
+      "id": "7bkUa9kDFGxgCC7d36dzFI",
+      "name": "Rote Flaggen",
       "artists": [
-        "Eyedress"
+        "Berq"
       ],
-      "playedAt": "2026-05-13T15:56:39.935Z"
+      "playedAt": "2026-05-14T18:51:35.400Z"
     },
     {
-      "id": "5jsSRZV38oVh9l2Tf6UREU",
-      "name": "Enid & Rebecca",
+      "id": "03LllwDLW6JtjGmPJBF9dP",
+      "name": "Lotta Love - Jim Burgess Disco Mix",
       "artists": [
-        "Les Gordon"
+        "Nicolette Larson"
       ],
-      "playedAt": "2026-05-13T15:56:39.907Z"
+      "playedAt": "2026-05-14T18:46:44.577Z"
     },
     {
-      "id": "6CyoMFZcnFzoeiHBu5R32E",
-      "name": "The End",
+      "id": "6T9RRxYhK7Q0f2GoWdFu4z",
+      "name": "ein, zwei schläge",
       "artists": [
-        "JPOLND"
+        "Mariybu"
       ],
-      "playedAt": "2026-05-13T15:56:39.577Z"
+      "playedAt": "2026-05-14T18:42:17.885Z"
     },
     {
-      "id": "0OK4Dhc10O8cTXdesihLGL",
-      "name": "mwah :3",
+      "id": "2eSVBLVTz9ng1a6jfkPQDm",
+      "name": "Einmal verliebt (Intro)",
       "artists": [
-        "rusowsky",
-        "Dinamarca"
+        "Berq"
       ],
-      "playedAt": "2026-05-13T15:56:39.473Z"
+      "playedAt": "2026-05-14T18:39:33.668Z"
     },
     {
-      "id": "3l3iCfpZsxbxWJhYoiQNkD",
-      "name": "The Feels",
+      "id": "1bZ9bcPKBeC7fZnIC9LCmR",
+      "name": "Green Lawns",
       "artists": [
-        "Labrinth"
+        "Paàl"
       ],
-      "playedAt": "2026-05-13T15:56:39.342Z"
+      "playedAt": "2026-05-14T18:38:04.398Z"
     },
     {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
+      "id": "03LllwDLW6JtjGmPJBF9dP",
+      "name": "Lotta Love - Jim Burgess Disco Mix",
       "artists": [
-        "efdemin"
+        "Nicolette Larson"
       ],
-      "playedAt": "2026-05-13T15:56:38.970Z"
+      "playedAt": "2026-05-14T18:20:13.722Z"
     },
     {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
+      "id": "5y3xBtIKuO3j2TkhTx4Dol",
+      "name": "Short Notice",
       "artists": [
-        "David A. Molina"
+        "Mpax",
+        "Brit Fox"
       ],
-      "playedAt": "2026-05-13T15:24:01.114Z"
+      "playedAt": "2026-05-14T18:17:31.913Z"
     },
     {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
+      "id": "0M2qa9uXyL6dzejgseuszY",
+      "name": "Freydies",
       "artists": [
-        "David A. Molina"
+        "Yuvèe"
       ],
-      "playedAt": "2026-05-13T15:19:39.890Z"
+      "playedAt": "2026-05-14T18:14:51.340Z"
     },
     {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
+      "id": "6HZiDsrA00Jiy1EBkukFNr",
+      "name": "Can We Find A Way - Ede Remix",
       "artists": [
-        "Scarlett Johansson"
+        "Fritz Kalkbrenner",
+        "Ede"
       ],
-      "playedAt": "2026-05-13T15:15:36.780Z"
+      "playedAt": "2026-05-14T18:10:51.058Z"
+    },
+    {
+      "id": "6KqmNOabQQ5QxKrWL8fvoK",
+      "name": "Jupiter Sunrise",
+      "artists": [
+        "Kollektiv Turmstrasse"
+      ],
+      "playedAt": "2026-05-14T18:05:30.039Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-05-14T17:49:14.946Z"
+    },
+    {
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-05-14T17:46:12.455Z"
+    },
+    {
+      "id": "2t75rwAHmPqCvb1B86NiGN",
+      "name": "Baby, You're a Gun",
+      "artists": [
+        "Tami Neilson"
+      ],
+      "playedAt": "2026-05-14T17:42:12.948Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -322,114 +272,89 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-05-13T15:12:41.422Z"
+      "playedAt": "2026-05-14T17:38:44.400Z"
     },
     {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
       "artists": [
-        "James Asher"
+        "Husky"
       ],
-      "playedAt": "2026-05-13T15:08:13.255Z"
+      "playedAt": "2026-05-14T17:34:40.391Z"
     },
     {
-      "id": "0yuJtvXsapVOQfNDYxQ5mw",
-      "name": "Singularity",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "Stephan Bodzin"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-05-13T12:25:42.802Z"
+      "playedAt": "2026-05-14T17:21:54.527Z"
     },
     {
-      "id": "0EjQum9ynCWvAYj5W7PXmI",
-      "name": "I'm Bad - Caleesi Remix",
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
       "artists": [
-        "AFAR",
-        "Caleesi"
+        "Scarlett Johansson"
       ],
-      "playedAt": "2026-05-13T12:18:41.102Z"
+      "playedAt": "2026-05-14T17:17:04.784Z"
     },
     {
-      "id": "4oWDaJpusSH1lqIQQkEHsS",
-      "name": "Father Ocean - Ben Böhmer Remix Edit",
+      "id": "5AglhU9luP6EBIRK3MBLf6",
+      "name": "El Jaguar Caza feat. Sāgarā",
       "artists": [
-        "Monolink",
-        "Ben Böhmer"
+        "Da Iguana",
+        "Sāgarā"
       ],
-      "playedAt": "2026-05-13T12:12:31.413Z"
+      "playedAt": "2026-05-14T17:14:13.566Z"
     },
     {
-      "id": "1MvLmHeLkaNgUScgbUVnWJ",
-      "name": "Breathing",
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
       "artists": [
-        "Ben Böhmer",
-        "Nils Hoffmann",
-        "Malou"
+        "Baka Beyond"
       ],
-      "playedAt": "2026-05-13T12:07:12.440Z"
+      "playedAt": "2026-05-14T17:08:33.221Z"
     },
     {
-      "id": "4F6dlpCLyi8jWWFEjdxCQ0",
-      "name": "Moments - Ben Böhmer & Nils Hoffmann Remix",
+      "id": "3ZIXPNe0ZsLdUXlIHGNAdx",
+      "name": "You Can Have It All",
       "artists": [
-        "Kidnap",
-        "Leo Stannard",
-        "Ben Böhmer",
-        "Nils Hoffmann"
+        "Florence + The Machine"
       ],
-      "playedAt": "2026-05-13T12:03:29.283Z"
+      "playedAt": "2026-05-14T17:02:57.865Z"
     },
     {
-      "id": "3kFnwZHnMMNeO2YpOZyZVw",
-      "name": "Hiding",
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
       "artists": [
-        "Ben Böhmer",
-        "Lykke Li"
+        "Temper City"
       ],
-      "playedAt": "2026-05-13T11:59:18.553Z"
+      "playedAt": "2026-05-14T16:50:47.313Z"
     },
     {
-      "id": "476iNCuZzxV3AXQeRlF1qv",
-      "name": "Swallow - Tale Of Us Remix",
+      "id": "3DWDF94KtVKoWFDS5p2vKF",
+      "name": "Chord Principle",
       "artists": [
-        "Monolink",
-        "Tale Of Us"
+        "Floorplan"
       ],
-      "playedAt": "2026-05-13T11:55:36.269Z"
+      "playedAt": "2026-05-14T16:47:46.259Z"
     },
     {
-      "id": "3h5WD9iPepIFx5f6OMSnQt",
-      "name": "Drift - Ben Böhmer Remix",
+      "id": "79Jl8KMvmnXedTjjW6pJan",
+      "name": "Gosh",
       "artists": [
-        "Nils Hoffmann",
-        "Ben Böhmer"
+        "Jamie xx",
+        "MC Moose"
       ],
-      "playedAt": "2026-05-13T11:48:09.844Z"
+      "playedAt": "2026-05-14T16:42:15.743Z"
     },
     {
-      "id": "5OMsPHnS1QKRV1KxkJfcNN",
-      "name": "Turning Away - Parra for Cuva Remix",
+      "id": "7iqQz931tn59mK6IZ3knRx",
+      "name": "Dealer",
       "artists": [
-        "Monolink",
-        "Parra for Cuva"
+        "Lana Del Rey"
       ],
-      "playedAt": "2026-05-13T11:41:54.214Z"
-    },
-    {
-      "id": "0SbDNXZYqfsMarINcb72X5",
-      "name": "Beyond Beliefs",
-      "artists": [
-        "Ben Böhmer"
-      ],
-      "playedAt": "2026-05-13T11:37:32.153Z"
-    },
-    {
-      "id": "2rIQPqkWn4OodSeFsTp9FY",
-      "name": "Neighbour Boy",
-      "artists": [
-        "Freyr"
-      ],
-      "playedAt": "2026-05-13T11:31:17.904Z"
+      "playedAt": "2026-05-14T04:16:05.455Z"
     }
   ]
 }

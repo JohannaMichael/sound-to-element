@@ -1,103 +1,123 @@
 {
-  "name": "AETHER",
-  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
-  "description": "Ethereal & Transcendent",
+  "name": "WATER",
+  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
+  "description": "Flowing & Emotional",
   "mood": {
-    "avgValence": 0.6811764705882352,
-    "avgEnergy": 0.30941176470588233,
-    "avgAcousticness": 0.8205882352941177,
-    "trackCount": 50,
-    "analyzedCount": 17
+    "avgValence": 0.5433333333333333,
+    "avgEnergy": 0.3033333333333333,
+    "avgAcousticness": 0.9033333333333333,
+    "trackCount": 20,
+    "analyzedCount": 3
   },
-  "date": "2026-05-15T23:45:06.448Z",
+  "date": "2026-05-16T23:41:24.419Z",
   "tracks": [
     {
-      "id": "0pAV4Vyxxag2uEWVu00Jxi",
-      "name": "Quedate Luna",
+      "id": "1yvFoBp2Bq1ilD0518ZpQx",
+      "name": "DON'T JEALOUS ME",
       "artists": [
-        "Devendra Banhart"
+        "Tekno",
+        "Lord Afrixana",
+        "Mr Eazi",
+        "Yemi Alade"
       ],
-      "playedAt": "2026-05-15T21:03:04.806Z"
+      "playedAt": "2026-05-16T07:08:27.967Z"
     },
     {
-      "id": "0am7xDdDFuNBUA6cU4DGVQ",
-      "name": "Lust auf Dich",
+      "id": "4lxGVzcUaSF5HW5jtWnShV",
+      "name": "Long Nights",
       "artists": [
-        "nand"
+        "Eddie Vedder"
       ],
-      "playedAt": "2026-05-15T20:52:55.402Z"
+      "playedAt": "2026-05-16T05:41:26.827Z"
     },
     {
-      "id": "0W95eMaAxNVYTquOsXXkC5",
-      "name": "Female Energy, Part 2",
+      "id": "791hJyQ1Z3U9BmmFryEKPQ",
+      "name": "When The Sun Rises In The West",
       "artists": [
-        "WILLOW"
+        "Ramin Djawadi"
       ],
-      "playedAt": "2026-05-15T20:51:03.463Z"
+      "playedAt": "2026-05-16T05:38:54.628Z"
     },
     {
-      "id": "2Z5wXgysowvzl0nKGNGU0t",
-      "name": "Out of My League",
+      "id": "7CBRP7xMm3mPyqi9fcp71B",
+      "name": "Mambo Italiano",
       "artists": [
-        "Fitz and The Tantrums"
+        "Dean Martin"
       ],
-      "playedAt": "2026-05-15T20:48:09.319Z"
+      "playedAt": "2026-05-16T05:36:13.927Z"
     },
     {
-      "id": "5aJI7OzC1n3XKVLgYAxgwj",
-      "name": "PIMP",
+      "id": "43cjomz8AcFq8borohDvBn",
+      "name": "Alcoba Azul",
       "artists": [
-        "Bacao Rhythm & Steel Band"
+        "Elliot Goldenthal"
       ],
-      "playedAt": "2026-05-15T20:44:39.337Z"
+      "playedAt": "2026-05-16T05:33:51.617Z"
     },
     {
-      "id": "3YdKJzcoMZMacISlpY4QoP",
-      "name": "I Only Have Eyes for You",
+      "id": "33B1XmfncHqnfkrYZIcHbD",
+      "name": "Any Other Name",
       "artists": [
-        "The Flamingos"
+        "Thomas Newman"
       ],
-      "playedAt": "2026-05-15T20:41:23.445Z"
+      "playedAt": "2026-05-16T05:32:14.411Z"
     },
     {
-      "id": "7znjbX9XdoQayIrVNdd50Z",
-      "name": "The Girl From Ipanema",
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
       "artists": [
-        "Stan Getz"
+        "Nico Morano",
+        "Mewhy"
       ],
-      "playedAt": "2026-05-15T20:38:49.443Z"
+      "playedAt": "2026-05-16T05:28:07.203Z"
     },
     {
-      "id": "5gcvd99sN8sBBxiypZXZd0",
-      "name": "Hero",
+      "id": "4nPzk1lhLWmQUX7tM94KZL",
+      "name": "Hearts A Mess",
       "artists": [
-        "Regina Spektor"
+        "Gotye"
       ],
-      "playedAt": "2026-05-15T20:35:20.718Z"
+      "playedAt": "2026-05-16T05:24:05.040Z"
     },
     {
-      "id": "1fAaC0BVOACO5hmyiwIqAG",
-      "name": "Alesis",
+      "id": "3E7ZwUMJFqpsDOJzEkBrQ7",
+      "name": "Can't Get You out of My Head",
       "artists": [
-        "Mk.gee"
+        "Kylie Minogue"
       ],
-      "playedAt": "2026-05-15T20:33:52.291Z"
+      "playedAt": "2026-05-16T05:18:01.505Z"
     },
     {
-      "id": "0g4fzRkbLeCDUCoe5iUOcf",
-      "name": "sex money feelings die",
+      "id": "5cvtZAY787E9OnUHFwaXpU",
+      "name": "Beauty",
       "artists": [
-        "Lykke Li"
+        "The Shivers"
       ],
-      "playedAt": "2026-05-15T20:30:55.342Z"
+      "playedAt": "2026-05-16T05:14:10.355Z"
     },
     {
-      "id": "3sLhMSePzxSrmxluIqeoAZ",
-      "name": "I Put a Spell On You",
+      "id": "37OBhWRMPAvFdxGaNrDg16",
+      "name": "Vagabond",
       "artists": [
-        "Screamin' Jay Hawkins"
+        "Wolfmother"
       ],
-      "playedAt": "2026-05-15T20:23:41.243Z"
+      "playedAt": "2026-05-16T05:10:38.647Z"
+    },
+    {
+      "id": "6BrMEbPSSj55nQhkgf6DnE",
+      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+      "artists": [
+        "The Smiths"
+      ],
+      "playedAt": "2026-05-16T05:06:43.833Z"
+    },
+    {
+      "id": "4E7wtL5Jg55SNXc0sGD1Hs",
+      "name": "I Ran (So Far Away) - Single Edit",
+      "artists": [
+        "A Flock Of Seagulls"
+      ],
+      "playedAt": "2026-05-16T05:04:50.526Z"
     },
     {
       "id": "5jsSRZV38oVh9l2Tf6UREU",
@@ -105,317 +125,55 @@
       "artists": [
         "Les Gordon"
       ],
-      "playedAt": "2026-05-15T20:21:05.275Z"
+      "playedAt": "2026-05-16T05:01:08.111Z"
     },
     {
-      "id": "0am7xDdDFuNBUA6cU4DGVQ",
-      "name": "Lust auf Dich",
+      "id": "3sLhMSePzxSrmxluIqeoAZ",
+      "name": "I Put a Spell On You",
       "artists": [
-        "nand"
+        "Screamin' Jay Hawkins"
       ],
-      "playedAt": "2026-05-15T20:18:09.396Z"
+      "playedAt": "2026-05-16T04:58:12.395Z"
     },
     {
-      "id": "4BjX3hTy43SMyXUKXBVF2v",
-      "name": "God's Whisper",
+      "id": "0E9vvI2kGtr8TUW2kJmGX4",
+      "name": "Courage",
       "artists": [
-        "Raury"
+        "Villagers"
       ],
-      "playedAt": "2026-05-15T20:16:17.520Z"
+      "playedAt": "2026-05-16T04:55:49.876Z"
     },
     {
-      "id": "3w5s0j9clwhk0O2uScrNOo",
-      "name": "Eros",
+      "id": "0Y2KDdZ3l381puDPueBSPw",
+      "name": "Gracias a la Vida",
       "artists": [
-        "Nicholas Britell"
+        "Violeta Parra"
       ],
-      "playedAt": "2026-05-15T20:05:14.097Z"
+      "playedAt": "2026-05-16T04:50:59.499Z"
     },
     {
-      "id": "4EDijkJdHBZZ0GwJ12iTAj",
-      "name": "Stargirl Interlude",
+      "id": "3aUZv357Bz6okQykfx7cId",
+      "name": "Childhood (2)",
       "artists": [
-        "The Weeknd",
-        "Lana Del Rey"
+        "Yann Tiersen"
       ],
-      "playedAt": "2026-05-15T20:01:11.177Z"
+      "playedAt": "2026-05-16T04:46:20.639Z"
     },
     {
-      "id": "67OhebffET8jFxLApBgddq",
-      "name": "You",
+      "id": "4HWwcSkeRTsqjZurFC6tMH",
+      "name": "Bruca Maniguá",
       "artists": [
-        "Das Pop"
+        "Ibrahim Ferrer"
       ],
-      "playedAt": "2026-05-15T19:59:18.833Z"
+      "playedAt": "2026-05-16T04:44:35.320Z"
     },
     {
-      "id": "1PnmXdkqRktZT67tE8fv7d",
-      "name": "I Follow Rivers - The Magician Remix",
+      "id": "0pAV4Vyxxag2uEWVu00Jxi",
+      "name": "Quedate Luna",
       "artists": [
-        "Lykke Li",
-        "The Magician"
+        "Devendra Banhart"
       ],
-      "playedAt": "2026-05-15T19:55:21.420Z"
-    },
-    {
-      "id": "39ndJnhzouSOQs9J2TW4u1",
-      "name": "Rogue Pulse",
-      "artists": [
-        "Samurai_Work_Tunes"
-      ],
-      "playedAt": "2026-05-15T19:48:03.511Z"
-    },
-    {
-      "id": "54FcoaV60w56CP2r2R9pR3",
-      "name": "Let's Have Some Fun Alt",
-      "artists": [
-        "The Desperados"
-      ],
-      "playedAt": "2026-05-15T19:10:28.072Z"
-    },
-    {
-      "id": "1uBsu3PbD2909UBIfEMLvK",
-      "name": "Jumpin' Jack Flash",
-      "artists": [
-        "The Rolling Stones"
-      ],
-      "playedAt": "2026-05-15T19:08:50.357Z"
-    },
-    {
-      "id": "5qJqzpNdEbt92roedFwoDR",
-      "name": "Left Hand Free",
-      "artists": [
-        "alt-J"
-      ],
-      "playedAt": "2026-05-15T19:05:03.864Z"
-    },
-    {
-      "id": "2rMCO8bSn6zzKEZnjKabbh",
-      "name": "Tell Me",
-      "artists": [
-        "Rene Wise"
-      ],
-      "playedAt": "2026-05-15T19:02:10.045Z"
-    },
-    {
-      "id": "1z4oM8z8IT8IBSMHR13e2V",
-      "name": "Surrender",
-      "artists": [
-        "Paul Hauck"
-      ],
-      "playedAt": "2026-05-15T18:56:34.564Z"
-    },
-    {
-      "id": "3d7lH2ppf2aIELQXY4nagn",
-      "name": "Only You",
-      "artists": [
-        "Steve Monite"
-      ],
-      "playedAt": "2026-05-15T18:51:08.463Z"
-    },
-    {
-      "id": "6JZj85Iz5sc4cGKvOefO7G",
-      "name": "Neon Signs",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-05-15T18:44:46.982Z"
-    },
-    {
-      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
-      "name": "Witches",
-      "artists": [
-        "Alice Phoebe Lou"
-      ],
-      "playedAt": "2026-05-15T18:41:31.047Z"
-    },
-    {
-      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
-      "name": "Genesis",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-05-15T16:50:47.678Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-05-15T16:50:46.551Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-05-15T15:59:19.065Z"
-    },
-    {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
-      "artists": [
-        "Scarlett Johansson"
-      ],
-      "playedAt": "2026-05-15T15:52:54.919Z"
-    },
-    {
-      "id": "6r8k1vznHrzlEKYxL4dZEe",
-      "name": "La Isla Bonita",
-      "artists": [
-        "Madonna"
-      ],
-      "playedAt": "2026-05-15T14:51:14.537Z"
-    },
-    {
-      "id": "1ZCe8z0pUTvNdpZY0kgA0W",
-      "name": "Years After The Wedding",
-      "artists": [
-        "Johannes Lehniger",
-        "Sebastian Damerius",
-        "Lisa Morgenstern"
-      ],
-      "playedAt": "2026-05-15T14:47:10.753Z"
-    },
-    {
-      "id": "4ntaCVtTclqT43krz9n3Z9",
-      "name": "Lady D'Arbanville",
-      "artists": [
-        "Yusuf / Cat Stevens"
-      ],
-      "playedAt": "2026-05-15T14:44:32.161Z"
-    },
-    {
-      "id": "4p4hyqRFdoiw4EMbEsqBdA",
-      "name": "Get Free",
-      "artists": [
-        "Major Lazer",
-        "Amber of Dirty Projectors"
-      ],
-      "playedAt": "2026-05-15T14:40:44.906Z"
-    },
-    {
-      "id": "7feSbMqJGg9yL0s6ypxy9S",
-      "name": "Girls on Film",
-      "artists": [
-        "Duran Duran"
-      ],
-      "playedAt": "2026-05-15T14:36:00.757Z"
-    },
-    {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
-      "artists": [
-        "EMMANUELLE"
-      ],
-      "playedAt": "2026-05-15T14:35:49.835Z"
-    },
-    {
-      "id": "1WSXieHimlAi2I3hG52aNP",
-      "name": "A Kiss Before Dying",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-05-15T10:20:20.512Z"
-    },
-    {
-      "id": "6GrqVZ8YyLVftyR3As0E3z",
-      "name": "White Sands",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-05-15T10:17:34.012Z"
-    },
-    {
-      "id": "17wBJ5bznjXbWGYdHtS2cX",
-      "name": "Under the Tabla",
-      "artists": [
-        "One Juno"
-      ],
-      "playedAt": "2026-05-15T10:09:28.061Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-05-15T10:07:35.667Z"
-    },
-    {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-05-15T09:59:32.103Z"
-    },
-    {
-      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
-      "name": "Naked Spirit (featuring Djivan Gasparyan)",
-      "artists": [
-        "Sainkho Namtchylak"
-      ],
-      "playedAt": "2026-05-15T09:57:19.449Z"
-    },
-    {
-      "id": "2tFhmgYfssxSCgDYSPeUH1",
-      "name": "The Angel And The Saint",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-05-15T09:48:10.507Z"
-    },
-    {
-      "id": "0uHU3juqmE4y9pcbM6fFH0",
-      "name": "Early Days",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-05-15T09:44:27.561Z"
-    },
-    {
-      "id": "4ntaCVtTclqT43krz9n3Z9",
-      "name": "Lady D'Arbanville",
-      "artists": [
-        "Yusuf / Cat Stevens"
-      ],
-      "playedAt": "2026-05-15T09:39:04.619Z"
-    },
-    {
-      "id": "4p4hyqRFdoiw4EMbEsqBdA",
-      "name": "Get Free",
-      "artists": [
-        "Major Lazer",
-        "Amber of Dirty Projectors"
-      ],
-      "playedAt": "2026-05-15T09:35:18.786Z"
-    },
-    {
-      "id": "3KiBsER8s2ooOjnW761gO8",
-      "name": "Coming Back",
-      "artists": [
-        "Gotye"
-      ],
-      "playedAt": "2026-05-15T09:30:28.361Z"
-    },
-    {
-      "id": "2prqm9sPLj10B4Wg0wE5x9",
-      "name": "BLUE",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-05-15T09:23:49.192Z"
-    },
-    {
-      "id": "35kpiigbRx8E3LL1ayRpnC",
-      "name": "A King's Sadness",
-      "artists": [
-        "William Ross"
-      ],
-      "playedAt": "2026-05-15T09:17:17.360Z"
+      "playedAt": "2026-05-16T04:39:07.237Z"
     }
   ]
 }

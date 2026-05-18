@@ -3,64 +3,396 @@
   "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
   "description": "Flowing & Emotional",
   "mood": {
-    "avgValence": 0.5433333333333333,
-    "avgEnergy": 0.3033333333333333,
-    "avgAcousticness": 0.9033333333333333,
-    "trackCount": 20,
-    "analyzedCount": 3
+    "avgValence": 0.5233333333333333,
+    "avgEnergy": 0.28583333333333344,
+    "avgAcousticness": 0.8466666666666667,
+    "trackCount": 50,
+    "analyzedCount": 12
   },
-  "date": "2026-05-16T23:41:24.419Z",
+  "date": "2026-05-18T23:56:35.533Z",
   "tracks": [
     {
-      "id": "1yvFoBp2Bq1ilD0518ZpQx",
-      "name": "DON'T JEALOUS ME",
+      "id": "1ZCe8z0pUTvNdpZY0kgA0W",
+      "name": "Years After The Wedding",
       "artists": [
-        "Tekno",
-        "Lord Afrixana",
-        "Mr Eazi",
-        "Yemi Alade"
+        "Johannes Lehniger",
+        "Sebastian Damerius",
+        "Lisa Morgenstern"
       ],
-      "playedAt": "2026-05-16T07:08:27.967Z"
+      "playedAt": "2026-05-18T21:32:21.493Z"
     },
     {
-      "id": "4lxGVzcUaSF5HW5jtWnShV",
-      "name": "Long Nights",
+      "id": "4ntaCVtTclqT43krz9n3Z9",
+      "name": "Lady D'Arbanville",
       "artists": [
-        "Eddie Vedder"
+        "Yusuf / Cat Stevens"
       ],
-      "playedAt": "2026-05-16T05:41:26.827Z"
+      "playedAt": "2026-05-18T17:46:50.618Z"
     },
     {
-      "id": "791hJyQ1Z3U9BmmFryEKPQ",
-      "name": "When The Sun Rises In The West",
+      "id": "4p4hyqRFdoiw4EMbEsqBdA",
+      "name": "Get Free",
+      "artists": [
+        "Major Lazer",
+        "Amber of Dirty Projectors"
+      ],
+      "playedAt": "2026-05-18T17:42:30.757Z"
+    },
+    {
+      "id": "4XF44ZR69PSnEa1oIUfS88",
+      "name": "Body Moving",
+      "artists": [
+        "Umaedo"
+      ],
+      "playedAt": "2026-05-18T16:14:18.574Z"
+    },
+    {
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
+      "artists": [
+        "Anilah"
+      ],
+      "playedAt": "2026-05-18T16:10:35.340Z"
+    },
+    {
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
+      "artists": [
+        "Dhafer Youssef"
+      ],
+      "playedAt": "2026-05-18T16:08:22.952Z"
+    },
+    {
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
+      "artists": [
+        "Scarlett Johansson"
+      ],
+      "playedAt": "2026-05-18T16:04:32.467Z"
+    },
+    {
+      "id": "7qVURpFZaTSQeNFQLyUOQb",
+      "name": "Strange Pleasures - 2023 Remaster",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-05-18T16:01:30.768Z"
+    },
+    {
+      "id": "2jSshkrs1wz0xxE5Ock5uT",
+      "name": "Rose Colored",
+      "artists": [
+        "Foreign Fields"
+      ],
+      "playedAt": "2026-05-18T15:56:15.756Z"
+    },
+    {
+      "id": "7MZHqgTVTnN6xZGYAcEEAf",
+      "name": "Rein Me In (with Olivia Dean)",
+      "artists": [
+        "Sam Fender",
+        "Olivia Dean"
+      ],
+      "playedAt": "2026-05-18T15:34:34.820Z"
+    },
+    {
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
+      "artists": [
+        "Anilah"
+      ],
+      "playedAt": "2026-05-18T15:28:55.362Z"
+    },
+    {
+      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
+      "name": "Naked Spirit (featuring Djivan Gasparyan)",
+      "artists": [
+        "Sainkho Namtchylak"
+      ],
+      "playedAt": "2026-05-18T15:26:42.058Z"
+    },
+    {
+      "id": "4ZmB0OHrV5NH9dj9wMZY1S",
+      "name": "The Feeling of Betrayal",
       "artists": [
         "Ramin Djawadi"
       ],
-      "playedAt": "2026-05-16T05:38:54.628Z"
+      "playedAt": "2026-05-18T15:22:50.732Z"
     },
     {
-      "id": "7CBRP7xMm3mPyqi9fcp71B",
-      "name": "Mambo Italiano",
+      "id": "7hM5XSA8AMSSOc8KkFzDoM",
+      "name": "From The Lake To The Land",
       "artists": [
-        "Dean Martin"
+        "Foreign Fields"
       ],
-      "playedAt": "2026-05-16T05:36:13.927Z"
+      "playedAt": "2026-05-18T15:20:55.706Z"
     },
     {
-      "id": "43cjomz8AcFq8borohDvBn",
-      "name": "Alcoba Azul",
+      "id": "1cii2FFnWD45ToMZfdxktI",
+      "name": "Recuerdo de Ti",
       "artists": [
-        "Elliot Goldenthal"
+        "Geoffroy"
       ],
-      "playedAt": "2026-05-16T05:33:51.617Z"
+      "playedAt": "2026-05-18T15:17:59.389Z"
     },
     {
-      "id": "33B1XmfncHqnfkrYZIcHbD",
-      "name": "Any Other Name",
+      "id": "68wrmZ8GgYlidAhERxI0Bz",
+      "name": "Nomad",
       "artists": [
-        "Thomas Newman"
+        "Σtella",
+        "Redinho"
       ],
-      "playedAt": "2026-05-16T05:32:14.411Z"
+      "playedAt": "2026-05-18T15:17:55.976Z"
+    },
+    {
+      "id": "3NsZZpRmWNGvE0WmCuZPAu",
+      "name": "Slow Sun",
+      "artists": [
+        "Aukai",
+        "Richard Houghten"
+      ],
+      "playedAt": "2026-05-18T15:17:55.739Z"
+    },
+    {
+      "id": "37YLEHlqNHrN5AISi38VKu",
+      "name": "Follow The Sun",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-05-18T15:17:55.603Z"
+    },
+    {
+      "id": "4whkhyXTrTgHKZzkUvdwoq",
+      "name": "My Old Ways",
+      "artists": [
+        "Tame Impala"
+      ],
+      "playedAt": "2026-05-18T15:17:55.510Z"
+    },
+    {
+      "id": "6xE6ZWzK1YDDSYzqOCoQlz",
+      "name": "Last Train to London",
+      "artists": [
+        "Electric Light Orchestra"
+      ],
+      "playedAt": "2026-05-18T15:17:55.278Z"
+    },
+    {
+      "id": "6eL7t6s1AL4l982wfAU8pv",
+      "name": "Father Figure - Remastered",
+      "artists": [
+        "George Michael"
+      ],
+      "playedAt": "2026-05-18T15:17:55.063Z"
+    },
+    {
+      "id": "0hOA8SoraNo2ZP1amtVYnY",
+      "name": "Big Love - 2017 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "playedAt": "2026-05-18T15:17:55.014Z"
+    },
+    {
+      "id": "2oqAWLDESAIXamA63vpbKH",
+      "name": "Obsessed To Forget",
+      "artists": [
+        "FLUCC",
+        "benzii"
+      ],
+      "playedAt": "2026-05-18T15:17:54.236Z"
+    },
+    {
+      "id": "4NNR7bp1hXmdk08YLxpUBQ",
+      "name": "Miserlou",
+      "artists": [
+        "Dick Dale"
+      ],
+      "playedAt": "2026-05-18T15:17:53.697Z"
+    },
+    {
+      "id": "1xiYNAQ38ojUebjejhNf5N",
+      "name": "Love to Love You Baby - Tom Novy & The Gran' Flow Remix",
+      "artists": [
+        "Tom Tom Club",
+        "Tom Novy",
+        "The Gran"
+      ],
+      "playedAt": "2026-05-18T15:17:52.987Z"
+    },
+    {
+      "id": "2JvPJ8ydPuN2NhpH4oti6I",
+      "name": "Dance Hall Days",
+      "artists": [
+        "Wang Chung"
+      ],
+      "playedAt": "2026-05-18T15:17:52.272Z"
+    },
+    {
+      "id": "5TXBD7mpGEeAUxudqboLGF",
+      "name": "Feels Like Heaven",
+      "artists": [
+        "Inger Lise"
+      ],
+      "playedAt": "2026-05-18T15:17:51.980Z"
+    },
+    {
+      "id": "2zMJN9JvDlvGP4jB03l1Bz",
+      "name": "Hot Stuff",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-05-18T15:17:51.935Z"
+    },
+    {
+      "id": "1vhhVRwsFzEdA4bCioBvlg",
+      "name": "Malus Domesticus",
+      "artists": [
+        "Raury"
+      ],
+      "playedAt": "2026-05-18T15:17:51.883Z"
+    },
+    {
+      "id": "6ey66s3rrXBgsuX36GG1ci",
+      "name": "beine spüren",
+      "artists": [
+        "benzii"
+      ],
+      "playedAt": "2026-05-18T15:17:51.396Z"
+    },
+    {
+      "id": "0vF33x09N3a5PT9zOREDfp",
+      "name": "Clandestina (Radio Edit)",
+      "artists": [
+        "DJ Dark",
+        "Mentol"
+      ],
+      "playedAt": "2026-05-18T15:17:51.345Z"
+    },
+    {
+      "id": "5JRDIhGU31EyE4OSUlDtWI",
+      "name": "You're Mine, You!",
+      "artists": [
+        "Chet Baker"
+      ],
+      "playedAt": "2026-05-18T15:17:51.053Z"
+    },
+    {
+      "id": "7DbdUf8aHSYoliSjO6LZv6",
+      "name": "Sex, Drugs, Etc.",
+      "artists": [
+        "Beach Weather"
+      ],
+      "playedAt": "2026-05-18T15:17:50.956Z"
+    },
+    {
+      "id": "64aIYqSO1Dzlig7o8GtGp2",
+      "name": "Beneath the Rose",
+      "artists": [
+        "Micah P. Hinson"
+      ],
+      "playedAt": "2026-05-18T15:17:50.796Z"
+    },
+    {
+      "id": "44L6rnxwrEvb5BbJjtCOo2",
+      "name": "Tab Leh - Hobta Remix",
+      "artists": [
+        "Hrag Mikkel",
+        "Hobta"
+      ],
+      "playedAt": "2026-05-18T15:17:50.549Z"
+    },
+    {
+      "id": "67NYOoqh6W5pHyqxUr55RF",
+      "name": "Seduction",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "playedAt": "2026-05-18T15:17:50.147Z"
+    },
+    {
+      "id": "7GtOjSSp5Qyi3gNbNDZgja",
+      "name": "Dream Girl Evil",
+      "artists": [
+        "Florence + The Machine"
+      ],
+      "playedAt": "2026-05-18T15:17:49.910Z"
+    },
+    {
+      "id": "1c7usoqJL4tjHyh1XwoIsD",
+      "name": "Mein Hass tritt dir die Haustür ein",
+      "artists": [
+        "Berq"
+      ],
+      "playedAt": "2026-05-18T15:17:49.064Z"
+    },
+    {
+      "id": "6jhiAjwqgIF3d1qBZILLLD",
+      "name": "Internet",
+      "artists": [
+        "BABY J",
+        "Techno Tupac"
+      ],
+      "playedAt": "2026-05-18T15:17:48.910Z"
+    },
+    {
+      "id": "6TnfdR9iEcLnWdw1AIJeWZ",
+      "name": "Farewell to Dobby",
+      "artists": [
+        "Alexandre Desplat"
+      ],
+      "playedAt": "2026-05-18T15:17:48.909Z"
+    },
+    {
+      "id": "1bZ9bcPKBeC7fZnIC9LCmR",
+      "name": "Green Lawns",
+      "artists": [
+        "Paàl"
+      ],
+      "playedAt": "2026-05-18T15:17:48.554Z"
+    },
+    {
+      "id": "7bkUa9kDFGxgCC7d36dzFI",
+      "name": "Rote Flaggen",
+      "artists": [
+        "Berq"
+      ],
+      "playedAt": "2026-05-18T15:17:48.491Z"
+    },
+    {
+      "id": "63o2beCIPXUOPja0EtGPD6",
+      "name": "Brujas",
+      "artists": [
+        "Princess Nokia"
+      ],
+      "playedAt": "2026-05-18T15:17:45.731Z"
+    },
+    {
+      "id": "5y3xBtIKuO3j2TkhTx4Dol",
+      "name": "Short Notice",
+      "artists": [
+        "Mpax",
+        "Brit Fox"
+      ],
+      "playedAt": "2026-05-18T15:17:45.312Z"
+    },
+    {
+      "id": "6V4ntlX6608rd3Ec5SpVhj",
+      "name": "Berghain",
+      "artists": [
+        "ROSALÍA",
+        "Björk",
+        "Yves Tumor"
+      ],
+      "playedAt": "2026-05-18T15:17:44.736Z"
+    },
+    {
+      "id": "2rMCO8bSn6zzKEZnjKabbh",
+      "name": "Tell Me",
+      "artists": [
+        "Rene Wise"
+      ],
+      "playedAt": "2026-05-18T15:17:43.535Z"
     },
     {
       "id": "7caycKUiLznuxYK1C9Wxd6",
@@ -69,111 +401,33 @@
         "Nico Morano",
         "Mewhy"
       ],
-      "playedAt": "2026-05-16T05:28:07.203Z"
+      "playedAt": "2026-05-18T15:17:43.424Z"
     },
     {
-      "id": "4nPzk1lhLWmQUX7tM94KZL",
-      "name": "Hearts A Mess",
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
       "artists": [
-        "Gotye"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-05-16T05:24:05.040Z"
+      "playedAt": "2026-05-18T15:17:42.970Z"
     },
     {
-      "id": "3E7ZwUMJFqpsDOJzEkBrQ7",
-      "name": "Can't Get You out of My Head",
+      "id": "1D7PE3dDyonJfUP6oSuaq7",
+      "name": "Waves & Wavs",
       "artists": [
-        "Kylie Minogue"
+        "Ahmed Spins",
+        "Lizwi"
       ],
-      "playedAt": "2026-05-16T05:18:01.505Z"
+      "playedAt": "2026-05-18T15:17:42.661Z"
     },
     {
-      "id": "5cvtZAY787E9OnUHFwaXpU",
-      "name": "Beauty",
+      "id": "0QVJsWtmgj9SWZaLYiX2i3",
+      "name": "Heaven - Remastered",
       "artists": [
-        "The Shivers"
+        "The Rolling Stones",
+        "Bob Clearmountain"
       ],
-      "playedAt": "2026-05-16T05:14:10.355Z"
-    },
-    {
-      "id": "37OBhWRMPAvFdxGaNrDg16",
-      "name": "Vagabond",
-      "artists": [
-        "Wolfmother"
-      ],
-      "playedAt": "2026-05-16T05:10:38.647Z"
-    },
-    {
-      "id": "6BrMEbPSSj55nQhkgf6DnE",
-      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "playedAt": "2026-05-16T05:06:43.833Z"
-    },
-    {
-      "id": "4E7wtL5Jg55SNXc0sGD1Hs",
-      "name": "I Ran (So Far Away) - Single Edit",
-      "artists": [
-        "A Flock Of Seagulls"
-      ],
-      "playedAt": "2026-05-16T05:04:50.526Z"
-    },
-    {
-      "id": "5jsSRZV38oVh9l2Tf6UREU",
-      "name": "Enid & Rebecca",
-      "artists": [
-        "Les Gordon"
-      ],
-      "playedAt": "2026-05-16T05:01:08.111Z"
-    },
-    {
-      "id": "3sLhMSePzxSrmxluIqeoAZ",
-      "name": "I Put a Spell On You",
-      "artists": [
-        "Screamin' Jay Hawkins"
-      ],
-      "playedAt": "2026-05-16T04:58:12.395Z"
-    },
-    {
-      "id": "0E9vvI2kGtr8TUW2kJmGX4",
-      "name": "Courage",
-      "artists": [
-        "Villagers"
-      ],
-      "playedAt": "2026-05-16T04:55:49.876Z"
-    },
-    {
-      "id": "0Y2KDdZ3l381puDPueBSPw",
-      "name": "Gracias a la Vida",
-      "artists": [
-        "Violeta Parra"
-      ],
-      "playedAt": "2026-05-16T04:50:59.499Z"
-    },
-    {
-      "id": "3aUZv357Bz6okQykfx7cId",
-      "name": "Childhood (2)",
-      "artists": [
-        "Yann Tiersen"
-      ],
-      "playedAt": "2026-05-16T04:46:20.639Z"
-    },
-    {
-      "id": "4HWwcSkeRTsqjZurFC6tMH",
-      "name": "Bruca Maniguá",
-      "artists": [
-        "Ibrahim Ferrer"
-      ],
-      "playedAt": "2026-05-16T04:44:35.320Z"
-    },
-    {
-      "id": "0pAV4Vyxxag2uEWVu00Jxi",
-      "name": "Quedate Luna",
-      "artists": [
-        "Devendra Banhart"
-      ],
-      "playedAt": "2026-05-16T04:39:07.237Z"
+      "playedAt": "2026-05-18T15:17:41.985Z"
     }
   ]
 }

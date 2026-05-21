@@ -3,177 +3,39 @@
   "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
   "description": "Flowing & Emotional",
   "mood": {
-    "avgValence": 0.5682608695652174,
-    "avgEnergy": 0.29782608695652185,
-    "avgAcousticness": 0.8543478260869566,
-    "trackCount": 50,
-    "analyzedCount": 23
+    "avgValence": 0.596,
+    "avgEnergy": 0.31999999999999995,
+    "avgAcousticness": 0.8059999999999998,
+    "trackCount": 18,
+    "analyzedCount": 5
   },
-  "date": "2026-05-21T00:00:37.858Z",
+  "date": "2026-05-21T23:51:43.104Z",
   "tracks": [
     {
-      "id": "0goer5e8B6SJaTV2B51k6f",
-      "name": "La bandite",
+      "id": "6xxxEVDFgY0jAyWiGmHMp7",
+      "name": "Adagio for Strings, Op. 11",
       "artists": [
-        "Jul"
+        "Samuel Barber",
+        "Leonard Bernstein",
+        "New York Philharmonic"
       ],
-      "playedAt": "2026-05-20T19:58:42.768Z"
+      "playedAt": "2026-05-21T16:49:34.565Z"
     },
     {
-      "id": "6eL7t6s1AL4l982wfAU8pv",
-      "name": "Father Figure - Remastered",
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
       "artists": [
-        "George Michael"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-20T19:55:57.568Z"
+      "playedAt": "2026-05-21T16:39:39.175Z"
     },
     {
-      "id": "1RWXFHOJ6XjK8a9pitucrX",
-      "name": "That's My People",
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
       "artists": [
-        "Suprême NTM"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-20T19:50:16.661Z"
-    },
-    {
-      "id": "0898mJTnW06D7PZyduQMvO",
-      "name": "Soso",
-      "artists": [
-        "Kabusa Oriental Choir"
-      ],
-      "playedAt": "2026-05-20T19:46:04.767Z"
-    },
-    {
-      "id": "7qC70bOUaH16OI6VXuiqGy",
-      "name": "Juno Love",
-      "artists": [
-        "Nico Morano",
-        "Mewhy"
-      ],
-      "playedAt": "2026-05-20T19:43:54.111Z"
-    },
-    {
-      "id": "6HZiDsrA00Jiy1EBkukFNr",
-      "name": "Can We Find A Way - Ede Remix",
-      "artists": [
-        "Fritz Kalkbrenner",
-        "Ede"
-      ],
-      "playedAt": "2026-05-20T19:36:27.117Z"
-    },
-    {
-      "id": "0OU4ghr4kXT2w1X79MhtBe",
-      "name": "Sirenita Bobinsana",
-      "artists": [
-        "Orka"
-      ],
-      "playedAt": "2026-05-20T19:32:41.877Z"
-    },
-    {
-      "id": "7z4faVYNs01Qxwt34R4pYd",
-      "name": "Lunita",
-      "artists": [
-        "Danit"
-      ],
-      "playedAt": "2026-05-20T19:28:13.612Z"
-    },
-    {
-      "id": "2hrsZWMTQBQzTOhtKxFQvm",
-      "name": "No War",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-05-20T19:22:21.469Z"
-    },
-    {
-      "id": "5IdhVFJKEU4JNi7cwDnc6h",
-      "name": "Summer Rain",
-      "artists": [
-        "Le Parody",
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-05-20T19:19:11.792Z"
-    },
-    {
-      "id": "7AlJWH45s6NgsfgsKxWOIM",
-      "name": "I Won't Let You Down",
-      "artists": [
-        "Curtis Harding"
-      ],
-      "playedAt": "2026-05-20T19:16:01.466Z"
-    },
-    {
-      "id": "1cii2FFnWD45ToMZfdxktI",
-      "name": "Recuerdo de Ti",
-      "artists": [
-        "Geoffroy"
-      ],
-      "playedAt": "2026-05-20T19:11:56.676Z"
-    },
-    {
-      "id": "4dxd3tUsKT52EMboYtceOQ",
-      "name": "It's a good day (to fight the system)",
-      "artists": [
-        "Shungudzo"
-      ],
-      "playedAt": "2026-05-20T19:08:59.814Z"
-    },
-    {
-      "id": "45Z3m6yazmAi4jZuW0tzW0",
-      "name": "Aperture",
-      "artists": [
-        "Harry Styles"
-      ],
-      "playedAt": "2026-05-20T19:05:41.817Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-05-20T19:00:29.787Z"
-    },
-    {
-      "id": "1ej1Z6AGBLaSI9tSizZMfa",
-      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-05-20T18:57:09.830Z"
-    },
-    {
-      "id": "155VhO5SaeFUz107dXb9CY",
-      "name": "Nothing Else",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-05-20T18:53:21.125Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-05-20T18:48:56.644Z"
-    },
-    {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
-      "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
-      ],
-      "playedAt": "2026-05-20T18:45:01.355Z"
-    },
-    {
-      "id": "524nCOIQg9fi0pETVnbpv8",
-      "name": "Mystified - 2017 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "playedAt": "2026-05-20T18:40:42.102Z"
+      "playedAt": "2026-05-21T16:37:01.984Z"
     },
     {
       "id": "0uHU3juqmE4y9pcbM6fFH0",
@@ -181,15 +43,15 @@
       "artists": [
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-05-20T18:37:28.092Z"
+      "playedAt": "2026-05-21T16:33:17.943Z"
     },
     {
-      "id": "4ntaCVtTclqT43krz9n3Z9",
-      "name": "Lady D'Arbanville",
+      "id": "3KiBsER8s2ooOjnW761gO8",
+      "name": "Coming Back",
       "artists": [
-        "Yusuf / Cat Stevens"
+        "Gotye"
       ],
-      "playedAt": "2026-05-20T18:34:28.806Z"
+      "playedAt": "2026-05-21T16:28:54.952Z"
     },
     {
       "id": "6r8k1vznHrzlEKYxL4dZEe",
@@ -197,107 +59,7 @@
       "artists": [
         "Madonna"
       ],
-      "playedAt": "2026-05-20T18:30:43.175Z"
-    },
-    {
-      "id": "2hbSGqS7HsOs8iHniEFtWH",
-      "name": "Quiero - Birds of Mind Remix",
-      "artists": [
-        "Agoria",
-        "Birds of Mind"
-      ],
-      "playedAt": "2026-05-20T18:26:40.385Z"
-    },
-    {
-      "id": "1nZA4yLtfFN3q2Vd2ZfXwZ",
-      "name": "Laughter",
-      "artists": [
-        "Astrocolor",
-        "Wendy Rene"
-      ],
-      "playedAt": "2026-05-20T18:21:58.826Z"
-    },
-    {
-      "id": "0rdWkO7ncrh1lrJGDmLq9L",
-      "name": "Gamesofluck",
-      "artists": [
-        "Parcels"
-      ],
-      "playedAt": "2026-05-20T18:18:26.077Z"
-    },
-    {
-      "id": "5GIE9gzrnSvqdQqw9VKQ3G",
-      "name": "El Dorado",
-      "artists": [
-        "Gizmo Varillas"
-      ],
-      "playedAt": "2026-05-20T18:12:37.769Z"
-    },
-    {
-      "id": "4Tzw9IdZbVyzmpWrvsGaNX",
-      "name": "Wildfires",
-      "artists": [
-        "SAULT"
-      ],
-      "playedAt": "2026-05-20T18:10:42.052Z"
-    },
-    {
-      "id": "1To3VopSqc8cWHcZJrpjvX",
-      "name": "Mumbo Sugar",
-      "artists": [
-        "Arc De Soleil"
-      ],
-      "playedAt": "2026-05-20T18:07:14.597Z"
-    },
-    {
-      "id": "6DYLWAdxEJvwWmT7EkeDkX",
-      "name": "Charmed",
-      "artists": [
-        "Σtella",
-        "Redinho"
-      ],
-      "playedAt": "2026-05-20T18:04:05.560Z"
-    },
-    {
-      "id": "2YIIDMcF9zWJ2xcFSA99lH",
-      "name": "Charge It",
-      "artists": [
-        "ENNY"
-      ],
-      "playedAt": "2026-05-20T18:01:27.033Z"
-    },
-    {
-      "id": "4MyceticLjPfqzkjzgFSgq",
-      "name": "Mesa Redonda",
-      "artists": [
-        "Hermanos Gutiérrez"
-      ],
-      "playedAt": "2026-05-20T17:58:21.200Z"
-    },
-    {
-      "id": "6YM1OcTvtUe0bVuO9Bqzxb",
-      "name": "Stória, Stória...",
-      "artists": [
-        "Mayra Andrade"
-      ],
-      "playedAt": "2026-05-20T17:55:24.871Z"
-    },
-    {
-      "id": "2STjPH9uGyNGmxcFqbtwdI",
-      "name": "Juana",
-      "artists": [
-        "Mayra Andrade"
-      ],
-      "playedAt": "2026-05-20T17:52:32.228Z"
-    },
-    {
-      "id": "2hbSGqS7HsOs8iHniEFtWH",
-      "name": "Quiero - Birds of Mind Remix",
-      "artists": [
-        "Agoria",
-        "Birds of Mind"
-      ],
-      "playedAt": "2026-05-20T17:36:38.462Z"
+      "playedAt": "2026-05-21T16:28:01.310Z"
     },
     {
       "id": "7feSbMqJGg9yL0s6ypxy9S",
@@ -305,7 +67,7 @@
       "artists": [
         "Duran Duran"
       ],
-      "playedAt": "2026-05-20T17:33:29.698Z"
+      "playedAt": "2026-05-21T15:51:43.530Z"
     },
     {
       "id": "7hM5XSA8AMSSOc8KkFzDoM",
@@ -313,7 +75,7 @@
       "artists": [
         "Foreign Fields"
       ],
-      "playedAt": "2026-05-20T15:04:05.074Z"
+      "playedAt": "2026-05-21T15:48:12.873Z"
     },
     {
       "id": "6rGBWSCtMqurKFEvpa2lW2",
@@ -321,39 +83,48 @@
       "artists": [
         "Foreign Fields"
       ],
-      "playedAt": "2026-05-20T15:00:53.557Z"
+      "playedAt": "2026-05-21T15:45:01.136Z"
     },
     {
-      "id": "2jSshkrs1wz0xxE5Ock5uT",
-      "name": "Rose Colored",
+      "id": "4oA149RsCb6SVrFE5RnzYs",
+      "name": "190205",
       "artists": [
-        "Foreign Fields"
+        "Rene Wise",
+        "Rødhåd"
       ],
-      "playedAt": "2026-05-20T14:56:59.538Z"
+      "playedAt": "2026-05-21T10:28:56.045Z"
     },
     {
-      "id": "2rIQPqkWn4OodSeFsTp9FY",
-      "name": "Neighbour Boy",
+      "id": "27TWb08JdStA9L0PAfhZZ7",
+      "name": "Rough Rider",
       "artists": [
-        "Freyr"
+        "Rene Wise"
       ],
-      "playedAt": "2026-05-20T14:51:55.790Z"
+      "playedAt": "2026-05-21T10:22:37.611Z"
     },
     {
-      "id": "2r69wBHsGkrIT1ae0QRSOT",
-      "name": "Ryley Crowe",
+      "id": "4tSLamDuHB9Smaape5vn3M",
+      "name": "Raptor",
       "artists": [
-        "Foreign Fields"
+        "Rene Wise"
       ],
-      "playedAt": "2026-05-20T14:48:54.071Z"
+      "playedAt": "2026-05-21T10:16:04.834Z"
     },
     {
-      "id": "0kwS7e4ozqPhbhj5iZlCU2",
-      "name": "Lynx",
+      "id": "5qJqzpNdEbt92roedFwoDR",
+      "name": "Left Hand Free",
       "artists": [
-        "Planetary Assault Systems"
+        "alt-J"
       ],
-      "playedAt": "2026-05-20T14:46:28.727Z"
+      "playedAt": "2026-05-21T10:11:06.017Z"
+    },
+    {
+      "id": "2rMCO8bSn6zzKEZnjKabbh",
+      "name": "Tell Me",
+      "artists": [
+        "Rene Wise"
+      ],
+      "playedAt": "2026-05-21T10:08:25.837Z"
     },
     {
       "id": "1GnHXpV2oYzZlKaaniFxl5",
@@ -361,7 +132,15 @@
       "artists": [
         "Nicholas Britell"
       ],
-      "playedAt": "2026-05-20T14:39:03.273Z"
+      "playedAt": "2026-05-21T09:59:50.248Z"
+    },
+    {
+      "id": "0kwS7e4ozqPhbhj5iZlCU2",
+      "name": "Lynx",
+      "artists": [
+        "Planetary Assault Systems"
+      ],
+      "playedAt": "2026-05-21T09:56:24.707Z"
     },
     {
       "id": "0eLE0MK0yDXMrRLzVBrKQa",
@@ -371,7 +150,7 @@
         "LE YORA",
         "YUMA"
       ],
-      "playedAt": "2026-05-20T14:35:37.969Z"
+      "playedAt": "2026-05-21T09:48:59.046Z"
     },
     {
       "id": "2hbSGqS7HsOs8iHniEFtWH",
@@ -380,47 +159,7 @@
         "Agoria",
         "Birds of Mind"
       ],
-      "playedAt": "2026-05-20T14:30:33.400Z"
-    },
-    {
-      "id": "7hM5XSA8AMSSOc8KkFzDoM",
-      "name": "From The Lake To The Land",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-20T14:07:24.528Z"
-    },
-    {
-      "id": "6rGBWSCtMqurKFEvpa2lW2",
-      "name": "Don't Give Up",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-20T14:04:12.373Z"
-    },
-    {
-      "id": "2jSshkrs1wz0xxE5Ock5uT",
-      "name": "Rose Colored",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-20T14:00:19.411Z"
-    },
-    {
-      "id": "2rIQPqkWn4OodSeFsTp9FY",
-      "name": "Neighbour Boy",
-      "artists": [
-        "Freyr"
-      ],
-      "playedAt": "2026-05-20T13:55:12.454Z"
-    },
-    {
-      "id": "2r69wBHsGkrIT1ae0QRSOT",
-      "name": "Ryley Crowe",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-20T13:52:11.933Z"
+      "playedAt": "2026-05-21T09:43:52.968Z"
     }
   ]
 }

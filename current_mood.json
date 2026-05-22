@@ -1,156 +1,123 @@
 {
-  "name": "WATER",
-  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
-  "description": "Flowing & Emotional",
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.596,
-    "avgEnergy": 0.31999999999999995,
-    "avgAcousticness": 0.8059999999999998,
-    "trackCount": 18,
-    "analyzedCount": 5
+    "avgValence": 0.64,
+    "avgEnergy": 0.35187499999999994,
+    "avgAcousticness": 0.7987500000000001,
+    "trackCount": 41,
+    "analyzedCount": 16
   },
-  "date": "2026-05-21T23:51:43.104Z",
+  "date": "2026-05-22T23:57:58.529Z",
   "tracks": [
     {
-      "id": "6xxxEVDFgY0jAyWiGmHMp7",
-      "name": "Adagio for Strings, Op. 11",
-      "artists": [
-        "Samuel Barber",
-        "Leonard Bernstein",
-        "New York Philharmonic"
-      ],
-      "playedAt": "2026-05-21T16:49:34.565Z"
-    },
-    {
-      "id": "2DJ0lLxggpQAw58tpsNSBC",
-      "name": "King of Possibilities",
+      "id": "57VGVkgRMrfxH9z5fznTWZ",
+      "name": "I Am the Rich Man",
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-21T16:39:39.175Z"
+      "playedAt": "2026-05-22T15:02:04.448Z"
     },
     {
-      "id": "2tFhmgYfssxSCgDYSPeUH1",
-      "name": "The Angel And The Saint",
+      "id": "1Ud6moTC0KyXMq1Oxfien0",
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "artists": [
+        "The Rolling Stones"
+      ],
+      "playedAt": "2026-05-22T14:58:54.538Z"
+    },
+    {
+      "id": "4uGIJG1jYFonGc4LGp5uQL",
+      "name": "Somebody to Love",
+      "artists": [
+        "Jefferson Airplane"
+      ],
+      "playedAt": "2026-05-22T14:52:36.105Z"
+    },
+    {
+      "id": "2iH1dTkVI0pdFMSfLd4MaW",
+      "name": "Vapo Vapo (Remix)",
+      "artists": [
+        "MC Ingryd",
+        "Mandragora"
+      ],
+      "playedAt": "2026-05-22T14:49:40.563Z"
+    },
+    {
+      "id": "3mZ6PVxWBhCycZxeEJQDNs",
+      "name": "State of Independence",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-05-22T14:46:59.952Z"
+    },
+    {
+      "id": "1F1S0s0JsCZ3MhVq9C9ZEL",
+      "name": "Manifest - Audible Thought Remix",
+      "artists": [
+        "Taavi",
+        "Audible Thought"
+      ],
+      "playedAt": "2026-05-22T14:41:07.700Z"
+    },
+    {
+      "id": "3eFBPuf0y3Vguk6GUCNpwP",
+      "name": "Back in Love",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "playedAt": "2026-05-22T14:33:23.740Z"
+    },
+    {
+      "id": "4qeIlzP0Z1JFXh0AckDcX8",
+      "name": "No Nein",
+      "artists": [
+        "1tbsp",
+        "Mietze Conte"
+      ],
+      "playedAt": "2026-05-22T14:30:08.737Z"
+    },
+    {
+      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
+      "name": "Witches",
+      "artists": [
+        "Alice Phoebe Lou"
+      ],
+      "playedAt": "2026-05-22T14:27:36.856Z"
+    },
+    {
+      "id": "6AdDi9540EEHZEfEMqWqUL",
+      "name": "Goldie Montana",
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-21T16:37:01.984Z"
+      "playedAt": "2026-05-22T14:23:42.789Z"
     },
     {
-      "id": "0uHU3juqmE4y9pcbM6fFH0",
-      "name": "Early Days",
+      "id": "4NNR7bp1hXmdk08YLxpUBQ",
+      "name": "Miserlou",
       "artists": [
-        "Gizmo Varillas"
+        "Dick Dale"
       ],
-      "playedAt": "2026-05-21T16:33:17.943Z"
+      "playedAt": "2026-05-22T14:19:36.817Z"
     },
     {
-      "id": "3KiBsER8s2ooOjnW761gO8",
-      "name": "Coming Back",
+      "id": "1sgUr9aH3QCl20qFjR8N6z",
+      "name": "Recuerdo de Ti (Seb Wildblood Remix)",
       "artists": [
-        "Gotye"
+        "Geoffroy",
+        "Seb Wildblood"
       ],
-      "playedAt": "2026-05-21T16:28:54.952Z"
+      "playedAt": "2026-05-22T14:17:12.328Z"
     },
     {
-      "id": "6r8k1vznHrzlEKYxL4dZEe",
-      "name": "La Isla Bonita",
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
       "artists": [
-        "Madonna"
+        "James Asher"
       ],
-      "playedAt": "2026-05-21T16:28:01.310Z"
-    },
-    {
-      "id": "7feSbMqJGg9yL0s6ypxy9S",
-      "name": "Girls on Film",
-      "artists": [
-        "Duran Duran"
-      ],
-      "playedAt": "2026-05-21T15:51:43.530Z"
-    },
-    {
-      "id": "7hM5XSA8AMSSOc8KkFzDoM",
-      "name": "From The Lake To The Land",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-21T15:48:12.873Z"
-    },
-    {
-      "id": "6rGBWSCtMqurKFEvpa2lW2",
-      "name": "Don't Give Up",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-21T15:45:01.136Z"
-    },
-    {
-      "id": "4oA149RsCb6SVrFE5RnzYs",
-      "name": "190205",
-      "artists": [
-        "Rene Wise",
-        "Rødhåd"
-      ],
-      "playedAt": "2026-05-21T10:28:56.045Z"
-    },
-    {
-      "id": "27TWb08JdStA9L0PAfhZZ7",
-      "name": "Rough Rider",
-      "artists": [
-        "Rene Wise"
-      ],
-      "playedAt": "2026-05-21T10:22:37.611Z"
-    },
-    {
-      "id": "4tSLamDuHB9Smaape5vn3M",
-      "name": "Raptor",
-      "artists": [
-        "Rene Wise"
-      ],
-      "playedAt": "2026-05-21T10:16:04.834Z"
-    },
-    {
-      "id": "5qJqzpNdEbt92roedFwoDR",
-      "name": "Left Hand Free",
-      "artists": [
-        "alt-J"
-      ],
-      "playedAt": "2026-05-21T10:11:06.017Z"
-    },
-    {
-      "id": "2rMCO8bSn6zzKEZnjKabbh",
-      "name": "Tell Me",
-      "artists": [
-        "Rene Wise"
-      ],
-      "playedAt": "2026-05-21T10:08:25.837Z"
-    },
-    {
-      "id": "1GnHXpV2oYzZlKaaniFxl5",
-      "name": "Andante Espressivo - String Orchestra - \"Number One Boy\"",
-      "artists": [
-        "Nicholas Britell"
-      ],
-      "playedAt": "2026-05-21T09:59:50.248Z"
-    },
-    {
-      "id": "0kwS7e4ozqPhbhj5iZlCU2",
-      "name": "Lynx",
-      "artists": [
-        "Planetary Assault Systems"
-      ],
-      "playedAt": "2026-05-21T09:56:24.707Z"
-    },
-    {
-      "id": "0eLE0MK0yDXMrRLzVBrKQa",
-      "name": "SACROSANCT - YUMA Remix",
-      "artists": [
-        "Kalyma",
-        "LE YORA",
-        "YUMA"
-      ],
-      "playedAt": "2026-05-21T09:48:59.046Z"
+      "playedAt": "2026-05-22T14:13:18.436Z"
     },
     {
       "id": "2hbSGqS7HsOs8iHniEFtWH",
@@ -159,7 +126,229 @@
         "Agoria",
         "Birds of Mind"
       ],
-      "playedAt": "2026-05-21T09:43:52.968Z"
+      "playedAt": "2026-05-22T13:39:46.548Z"
+    },
+    {
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-05-22T13:07:31.952Z"
+    },
+    {
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-05-22T13:04:13.059Z"
+    },
+    {
+      "id": "0y9FKVVX72WQhhiQvBQTT5",
+      "name": "Ojos Nuevos",
+      "artists": [
+        "Gizmo Varillas",
+        "Amanda Whiting"
+      ],
+      "playedAt": "2026-05-22T12:59:04.717Z"
+    },
+    {
+      "id": "0FLFE8mxBn1yWAX8s2L8ru",
+      "name": "All I Need",
+      "artists": [
+        "Clams Casino"
+      ],
+      "playedAt": "2026-05-22T12:55:16.259Z"
+    },
+    {
+      "id": "7A1YcSeFJpLTHybu78qgT9",
+      "name": "Aurora Centralis",
+      "artists": [
+        "747"
+      ],
+      "playedAt": "2026-05-22T12:51:31.238Z"
+    },
+    {
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
+      "artists": [
+        "efdemin"
+      ],
+      "playedAt": "2026-05-22T12:44:07.887Z"
+    },
+    {
+      "id": "3hzvNYkwIHZebMEviBwWZU",
+      "name": "Maybe It's Love...",
+      "artists": [
+        "yungpolar"
+      ],
+      "playedAt": "2026-05-22T11:25:10.315Z"
+    },
+    {
+      "id": "0ySKTAwX6IEL8hOnHSa4pD",
+      "name": "Mirage",
+      "artists": [
+        "Mark Alow"
+      ],
+      "playedAt": "2026-05-22T11:19:56.253Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-05-22T11:13:01.311Z"
+    },
+    {
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-05-22T11:09:07.036Z"
+    },
+    {
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-05-22T11:04:32.184Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-05-22T11:00:26.982Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-05-22T10:55:58.499Z"
+    },
+    {
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
+      "artists": [
+        "Scarlett Johansson"
+      ],
+      "playedAt": "2026-05-22T10:52:38.509Z"
+    },
+    {
+      "id": "4sOLtnLeIFwO4YUUSV5DM5",
+      "name": "Jolie Fille (feat. Layefa)",
+      "artists": [
+        "Maz",
+        "Antdot",
+        "Ginton",
+        "Layefa"
+      ],
+      "playedAt": "2026-05-22T10:47:29.629Z"
+    },
+    {
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Bob Dylan"
+      ],
+      "playedAt": "2026-05-22T10:44:14.645Z"
+    },
+    {
+      "id": "7M9pPyt8Gr41THLhbz4NSB",
+      "name": "Don't Let Me Be Misunderstood",
+      "artists": [
+        "Nina Simone"
+      ],
+      "playedAt": "2026-05-22T10:41:44.515Z"
+    },
+    {
+      "id": "67UOlZLz6tDEDuScefmWDd",
+      "name": "So Weit Wie Noch Nie",
+      "artists": [
+        "Jürgen Paape"
+      ],
+      "playedAt": "2026-05-22T10:38:58.052Z"
+    },
+    {
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
+      "artists": [
+        "Cari Cari"
+      ],
+      "playedAt": "2026-05-22T10:33:08.629Z"
+    },
+    {
+      "id": "0QVJsWtmgj9SWZaLYiX2i3",
+      "name": "Heaven - Remastered",
+      "artists": [
+        "The Rolling Stones",
+        "Bob Clearmountain"
+      ],
+      "playedAt": "2026-05-22T10:27:18.127Z"
+    },
+    {
+      "id": "3eFBPuf0y3Vguk6GUCNpwP",
+      "name": "Back in Love",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "playedAt": "2026-05-22T10:22:47.308Z"
+    },
+    {
+      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
+      "name": "Good Looking (Stripped)",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "playedAt": "2026-05-22T10:19:32.623Z"
+    },
+    {
+      "id": "5AglhU9luP6EBIRK3MBLf6",
+      "name": "El Jaguar Caza feat. Sāgarā",
+      "artists": [
+        "Da Iguana",
+        "Sāgarā"
+      ],
+      "playedAt": "2026-05-22T10:15:54.081Z"
+    },
+    {
+      "id": "17wBJ5bznjXbWGYdHtS2cX",
+      "name": "Under the Tabla",
+      "artists": [
+        "One Juno"
+      ],
+      "playedAt": "2026-05-22T10:10:29.738Z"
+    },
+    {
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
+      "artists": [
+        "Baka Beyond"
+      ],
+      "playedAt": "2026-05-22T10:08:29.429Z"
+    },
+    {
+      "id": "2jSshkrs1wz0xxE5Ock5uT",
+      "name": "Rose Colored",
+      "artists": [
+        "Foreign Fields"
+      ],
+      "playedAt": "2026-05-22T10:02:56.274Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-05-22T08:06:24.222Z"
     }
   ]
 }

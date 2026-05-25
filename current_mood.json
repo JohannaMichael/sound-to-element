@@ -1,67 +1,121 @@
 {
-  "name": "AETHER",
-  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
-  "description": "Ethereal & Transcendent",
+  "name": "WATER",
+  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
+  "description": "Flowing & Emotional",
   "mood": {
-    "avgValence": 0.72,
-    "avgEnergy": 0.26,
-    "avgAcousticness": 0.81,
-    "trackCount": 6,
-    "analyzedCount": 1
+    "avgValence": 0.5025000000000001,
+    "avgEnergy": 0.275,
+    "avgAcousticness": 0.9275,
+    "trackCount": 13,
+    "analyzedCount": 4
   },
-  "date": "2026-05-23T23:49:00.158Z",
+  "date": "2026-05-25T23:56:20.112Z",
   "tracks": [
     {
-      "id": "0ot8VA36fmxBlIqa5xbnf7",
-      "name": "Crushed Velvet",
+      "id": "2YEPsTHNuUpy7gLhVk6uES",
+      "name": "Can't Stop Staring At The Sun",
       "artists": [
-        "Molly Lewis",
-        "Thee Sacred Souls"
+        "Patrick Watson",
+        "Attacca Quartet"
       ],
-      "playedAt": "2026-05-23T16:41:27.416Z"
+      "playedAt": "2026-05-25T20:43:45.041Z"
     },
     {
-      "id": "2k5SEAK05D29ZkqbnFgIVL",
-      "name": "Satisfied (Ambient Reprise)",
+      "id": "15NNe4V26FOiwagrNb4lbS",
+      "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
       "artists": [
-        "Catching Flies"
+        "Liz Callaway"
       ],
-      "playedAt": "2026-05-23T16:38:06.195Z"
+      "playedAt": "2026-05-25T16:34:24.192Z"
     },
     {
-      "id": "3NsZZpRmWNGvE0WmCuZPAu",
-      "name": "Slow Sun",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "Aukai",
-        "Richard Houghten"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-05-23T16:34:37.076Z"
+      "playedAt": "2026-05-25T13:45:11.028Z"
     },
     {
-      "id": "3O4J62f9FqIa9YDK251pV8",
-      "name": "Floating Down Confidence River",
+      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
+      "name": "Can I Tell You a Secret",
       "artists": [
-        "Suki Waterhouse"
+        "Camel Power Club"
       ],
-      "playedAt": "2026-05-23T16:31:26.016Z"
+      "playedAt": "2026-05-25T13:41:13.538Z"
     },
     {
-      "id": "6eSxYTPzROgtN6yyd0hvnz",
-      "name": "El Jardin",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "Hermanos Gutiérrez"
+        "Still Corners"
       ],
-      "playedAt": "2026-05-23T16:30:58.818Z"
+      "playedAt": "2026-05-25T12:06:05.130Z"
     },
     {
-      "id": "5mexrjqF4owEPNdYH17mek",
-      "name": "Wait For Now - Mary Lattimore Rework",
+      "id": "155VhO5SaeFUz107dXb9CY",
+      "name": "Nothing Else",
       "artists": [
-        "The Cinematic Orchestra",
-        "Tawiah",
-        "Mary Lattimore"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-05-23T15:57:56.621Z"
+      "playedAt": "2026-05-25T12:02:09.449Z"
+    },
+    {
+      "id": "3mZ6PVxWBhCycZxeEJQDNs",
+      "name": "State of Independence",
+      "artists": [
+        "Donna Summer"
+      ],
+      "playedAt": "2026-05-25T11:57:52.241Z"
+    },
+    {
+      "id": "6UtpOAQMPOYVDHBhj0o0CF",
+      "name": "Trust in Me",
+      "artists": [
+        "Scarlett Johansson"
+      ],
+      "playedAt": "2026-05-25T11:51:54.210Z"
+    },
+    {
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
+      "artists": [
+        "Baka Beyond"
+      ],
+      "playedAt": "2026-05-25T11:48:57.722Z"
+    },
+    {
+      "id": "2r69wBHsGkrIT1ae0QRSOT",
+      "name": "Ryley Crowe",
+      "artists": [
+        "Foreign Fields"
+      ],
+      "playedAt": "2026-05-25T11:41:10.387Z"
+    },
+    {
+      "id": "2jSshkrs1wz0xxE5Ock5uT",
+      "name": "Rose Colored",
+      "artists": [
+        "Foreign Fields"
+      ],
+      "playedAt": "2026-05-25T11:38:22.522Z"
+    },
+    {
+      "id": "7hM5XSA8AMSSOc8KkFzDoM",
+      "name": "From The Lake To The Land",
+      "artists": [
+        "Foreign Fields"
+      ],
+      "playedAt": "2026-05-25T11:33:25.623Z"
+    },
+    {
+      "id": "2YEPsTHNuUpy7gLhVk6uES",
+      "name": "Can't Stop Staring At The Sun",
+      "artists": [
+        "Patrick Watson",
+        "Attacca Quartet"
+      ],
+      "playedAt": "2026-05-25T11:30:18.575Z"
     }
   ]
 }

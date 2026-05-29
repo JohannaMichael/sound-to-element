@@ -1,16 +1,165 @@
 {
-  "name": "WATER",
-  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
-  "description": "Flowing & Emotional",
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.5633333333333334,
-    "avgEnergy": 0.29833333333333334,
-    "avgAcousticness": 0.8866666666666666,
-    "trackCount": 24,
-    "analyzedCount": 6
+    "avgValence": 0.7433333333333333,
+    "avgEnergy": 0.3666666666666667,
+    "avgAcousticness": 0.71,
+    "trackCount": 23,
+    "analyzedCount": 3
   },
-  "date": "2026-05-27T23:54:02.874Z",
+  "date": "2026-05-29T00:02:47.755Z",
   "tracks": [
+    {
+      "id": "7MZHqgTVTnN6xZGYAcEEAf",
+      "name": "Rein Me In (with Olivia Dean)",
+      "artists": [
+        "Sam Fender",
+        "Olivia Dean"
+      ],
+      "playedAt": "2026-05-28T15:16:07.708Z"
+    },
+    {
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Bob Dylan"
+      ],
+      "playedAt": "2026-05-28T14:22:06.079Z"
+    },
+    {
+      "id": "67UOlZLz6tDEDuScefmWDd",
+      "name": "So Weit Wie Noch Nie",
+      "artists": [
+        "Jürgen Paape"
+      ],
+      "playedAt": "2026-05-28T14:19:35.748Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-05-28T14:13:46.762Z"
+    },
+    {
+      "id": "2LXISHBkx8FyoxCBkckh19",
+      "name": "Do It Again",
+      "artists": [
+        "Steely Dan"
+      ],
+      "playedAt": "2026-05-28T14:09:47.681Z"
+    },
+    {
+      "id": "6AdDi9540EEHZEfEMqWqUL",
+      "name": "Goldie Montana",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-05-28T14:03:42.201Z"
+    },
+    {
+      "id": "3eSAdHpZJTXpAC1duBVyNm",
+      "name": "Al Caminar",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-05-28T11:44:07.445Z"
+    },
+    {
+      "id": "1G3rpP4SpzMKx7fKu4NZPV",
+      "name": "Mazuka",
+      "artists": [
+        "Cari Cari"
+      ],
+      "playedAt": "2026-05-28T11:41:04.778Z"
+    },
+    {
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
+      "artists": [
+        "Baka Beyond"
+      ],
+      "playedAt": "2026-05-28T11:36:31.157Z"
+    },
+    {
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
+      "artists": [
+        "Baka Beyond"
+      ],
+      "playedAt": "2026-05-28T11:28:29.349Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-05-28T09:48:08.784Z"
+    },
+    {
+      "id": "0QVJsWtmgj9SWZaLYiX2i3",
+      "name": "Heaven - Remastered",
+      "artists": [
+        "The Rolling Stones",
+        "Bob Clearmountain"
+      ],
+      "playedAt": "2026-05-28T09:44:48.646Z"
+    },
+    {
+      "id": "2LXISHBkx8FyoxCBkckh19",
+      "name": "Do It Again",
+      "artists": [
+        "Steely Dan"
+      ],
+      "playedAt": "2026-05-28T09:40:25.785Z"
+    },
+    {
+      "id": "2YcszBSjgcmS5D0CoOVXhQ",
+      "name": "Dachlatte",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-05-28T09:34:17.648Z"
+    },
+    {
+      "id": "3NgwkdI4LED11P61QdrpjT",
+      "name": "Dachlatte - Kalte Liebe Remix",
+      "artists": [
+        "nand",
+        "Kalte Liebe"
+      ],
+      "playedAt": "2026-05-28T08:12:42.674Z"
+    },
+    {
+      "id": "79Jl8KMvmnXedTjjW6pJan",
+      "name": "Gosh",
+      "artists": [
+        "Jamie xx",
+        "MC Moose"
+      ],
+      "playedAt": "2026-05-28T08:08:51.745Z"
+    },
+    {
+      "id": "0q64O7oM5jsEQEv5hXXWfE",
+      "name": "I Put A Spell On You - Floorplan Remix",
+      "artists": [
+        "Nina Simone",
+        "Floorplan"
+      ],
+      "playedAt": "2026-05-28T08:03:31.028Z"
+    },
+    {
+      "id": "6r8k1vznHrzlEKYxL4dZEe",
+      "name": "La Isla Bonita",
+      "artists": [
+        "Madonna"
+      ],
+      "playedAt": "2026-05-28T07:57:32.982Z"
+    },
     {
       "id": "5mexrjqF4owEPNdYH17mek",
       "name": "Wait For Now - Mary Lattimore Rework",
@@ -19,7 +168,7 @@
         "Tawiah",
         "Mary Lattimore"
       ],
-      "playedAt": "2026-05-27T22:05:03.461Z"
+      "playedAt": "2026-05-28T07:53:00.342Z"
     },
     {
       "id": "57VGVkgRMrfxH9z5fznTWZ",
@@ -27,190 +176,32 @@
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-27T21:58:12.015Z"
+      "playedAt": "2026-05-28T07:46:09.061Z"
     },
     {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
+      "id": "2LXISHBkx8FyoxCBkckh19",
+      "name": "Do It Again",
       "artists": [
-        "Donna Summer"
+        "Steely Dan"
       ],
-      "playedAt": "2026-05-27T14:09:43.987Z"
+      "playedAt": "2026-05-28T07:42:38.811Z"
     },
     {
-      "id": "1F1S0s0JsCZ3MhVq9C9ZEL",
-      "name": "Manifest - Audible Thought Remix",
-      "artists": [
-        "Taavi",
-        "Audible Thought"
-      ],
-      "playedAt": "2026-05-27T14:03:51.901Z"
-    },
-    {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-05-27T13:56:07.751Z"
-    },
-    {
-      "id": "4qeIlzP0Z1JFXh0AckDcX8",
-      "name": "No Nein",
-      "artists": [
-        "1tbsp",
-        "Mietze Conte"
-      ],
-      "playedAt": "2026-05-27T13:52:52.991Z"
-    },
-    {
-      "id": "27R1A3WZ5Zv0ywNe0Zunfr",
-      "name": "Witches",
-      "artists": [
-        "Alice Phoebe Lou"
-      ],
-      "playedAt": "2026-05-27T13:50:21.202Z"
-    },
-    {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-05-27T13:47:05.589Z"
-    },
-    {
-      "id": "3DWDF94KtVKoWFDS5p2vKF",
-      "name": "Chord Principle",
-      "artists": [
-        "Floorplan"
-      ],
-      "playedAt": "2026-05-27T13:44:13.997Z"
-    },
-    {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-05-27T13:38:44.096Z"
-    },
-    {
-      "id": "1hlT8E7Zk07UgTphcFJidJ",
-      "name": "Misirlou",
-      "artists": [
-        "Dick Dale",
-        "Dick Dale & His Del-Tones"
-      ],
-      "playedAt": "2026-05-27T13:34:38.479Z"
-    },
-    {
-      "id": "6rGBWSCtMqurKFEvpa2lW2",
-      "name": "Don't Give Up",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-27T11:56:55.460Z"
-    },
-    {
-      "id": "2jSshkrs1wz0xxE5Ock5uT",
-      "name": "Rose Colored",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-27T11:56:33.033Z"
-    },
-    {
-      "id": "2r69wBHsGkrIT1ae0QRSOT",
-      "name": "Ryley Crowe",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-27T11:51:19.524Z"
-    },
-    {
-      "id": "0eLE0MK0yDXMrRLzVBrKQa",
-      "name": "SACROSANCT - YUMA Remix",
-      "artists": [
-        "Kalyma",
-        "LE YORA",
-        "YUMA"
-      ],
-      "playedAt": "2026-05-27T11:20:55.395Z"
-    },
-    {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
-      "artists": [
-        "Electrypnose"
-      ],
-      "playedAt": "2026-05-27T11:04:12.398Z"
-    },
-    {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
-      "artists": [
-        "efdemin"
-      ],
-      "playedAt": "2026-05-27T10:55:04.935Z"
-    },
-    {
-      "id": "1OArQ5np9biqJlGL2RMpOE",
-      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
-      "artists": [
-        "Poranguí",
-        "Liquid Bloom"
-      ],
-      "playedAt": "2026-05-27T10:49:55.120Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-05-27T10:43:03.839Z"
-    },
-    {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-05-27T10:37:07.135Z"
-    },
-    {
-      "id": "57VGVkgRMrfxH9z5fznTWZ",
-      "name": "I Am the Rich Man",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-05-27T10:31:15.131Z"
-    },
-    {
-      "id": "4tSLamDuHB9Smaape5vn3M",
-      "name": "Raptor",
+      "id": "27TWb08JdStA9L0PAfhZZ7",
+      "name": "Rough Rider",
       "artists": [
         "Rene Wise"
       ],
-      "playedAt": "2026-05-27T10:28:05.535Z"
+      "playedAt": "2026-05-28T07:33:41.208Z"
     },
     {
-      "id": "2hbSGqS7HsOs8iHniEFtWH",
-      "name": "Quiero - Birds of Mind Remix",
+      "id": "2iH1dTkVI0pdFMSfLd4MaW",
+      "name": "Vapo Vapo (Remix)",
       "artists": [
-        "Agoria",
-        "Birds of Mind"
+        "MC Ingryd",
+        "Mandragora"
       ],
-      "playedAt": "2026-05-27T10:23:07.174Z"
-    },
-    {
-      "id": "7feSbMqJGg9yL0s6ypxy9S",
-      "name": "Girls on Film",
-      "artists": [
-        "Duran Duran"
-      ],
-      "playedAt": "2026-05-27T10:17:59.852Z"
+      "playedAt": "2026-05-28T07:33:06.766Z"
     }
   ]
 }

@@ -3,127 +3,53 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.7433333333333333,
-    "avgEnergy": 0.3666666666666667,
-    "avgAcousticness": 0.71,
-    "trackCount": 23,
-    "analyzedCount": 3
+    "avgValence": 0.6333333333333333,
+    "avgEnergy": 0.33888888888888885,
+    "avgAcousticness": 0.7988888888888889,
+    "trackCount": 21,
+    "analyzedCount": 9
   },
-  "date": "2026-05-29T00:02:47.755Z",
+  "date": "2026-05-30T00:02:17.395Z",
   "tracks": [
     {
-      "id": "7MZHqgTVTnN6xZGYAcEEAf",
-      "name": "Rein Me In (with Olivia Dean)",
+      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
+      "name": "Naked Spirit (featuring Djivan Gasparyan)",
       "artists": [
-        "Sam Fender",
-        "Olivia Dean"
+        "Sainkho Namtchylak"
       ],
-      "playedAt": "2026-05-28T15:16:07.708Z"
+      "playedAt": "2026-05-29T23:07:02.468Z"
     },
     {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
       "artists": [
-        "Bob Dylan"
+        "Anilah"
       ],
-      "playedAt": "2026-05-28T14:22:06.079Z"
+      "playedAt": "2026-05-29T23:02:05.390Z"
     },
     {
-      "id": "67UOlZLz6tDEDuScefmWDd",
-      "name": "So Weit Wie Noch Nie",
+      "id": "3fbnbn6A5O5RNb08tlUEgd",
+      "name": "Streets of Philadelphia - Single Edit",
       "artists": [
-        "Jürgen Paape"
+        "Bruce Springsteen"
       ],
-      "playedAt": "2026-05-28T14:19:35.748Z"
+      "playedAt": "2026-05-29T22:42:12.809Z"
     },
     {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "playedAt": "2026-05-28T14:13:46.762Z"
-    },
-    {
-      "id": "2LXISHBkx8FyoxCBkckh19",
-      "name": "Do It Again",
-      "artists": [
-        "Steely Dan"
-      ],
-      "playedAt": "2026-05-28T14:09:47.681Z"
-    },
-    {
-      "id": "6AdDi9540EEHZEfEMqWqUL",
-      "name": "Goldie Montana",
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-28T14:03:42.201Z"
+      "playedAt": "2026-05-29T18:20:30.004Z"
     },
     {
-      "id": "3eSAdHpZJTXpAC1duBVyNm",
-      "name": "Al Caminar",
+      "id": "3mZ6PVxWBhCycZxeEJQDNs",
+      "name": "State of Independence",
       "artists": [
-        "Gizmo Varillas"
+        "Donna Summer"
       ],
-      "playedAt": "2026-05-28T11:44:07.445Z"
-    },
-    {
-      "id": "1G3rpP4SpzMKx7fKu4NZPV",
-      "name": "Mazuka",
-      "artists": [
-        "Cari Cari"
-      ],
-      "playedAt": "2026-05-28T11:41:04.778Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-05-28T11:36:31.157Z"
-    },
-    {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
-      "artists": [
-        "Baka Beyond"
-      ],
-      "playedAt": "2026-05-28T11:28:29.349Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-05-28T09:48:08.784Z"
-    },
-    {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
-      "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
-      ],
-      "playedAt": "2026-05-28T09:44:48.646Z"
-    },
-    {
-      "id": "2LXISHBkx8FyoxCBkckh19",
-      "name": "Do It Again",
-      "artists": [
-        "Steely Dan"
-      ],
-      "playedAt": "2026-05-28T09:40:25.785Z"
-    },
-    {
-      "id": "2YcszBSjgcmS5D0CoOVXhQ",
-      "name": "Dachlatte",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-05-28T09:34:17.648Z"
+      "playedAt": "2026-05-29T18:17:28.084Z"
     },
     {
       "id": "3NgwkdI4LED11P61QdrpjT",
@@ -132,43 +58,7 @@
         "nand",
         "Kalte Liebe"
       ],
-      "playedAt": "2026-05-28T08:12:42.674Z"
-    },
-    {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
-      "artists": [
-        "Jamie xx",
-        "MC Moose"
-      ],
-      "playedAt": "2026-05-28T08:08:51.745Z"
-    },
-    {
-      "id": "0q64O7oM5jsEQEv5hXXWfE",
-      "name": "I Put A Spell On You - Floorplan Remix",
-      "artists": [
-        "Nina Simone",
-        "Floorplan"
-      ],
-      "playedAt": "2026-05-28T08:03:31.028Z"
-    },
-    {
-      "id": "6r8k1vznHrzlEKYxL4dZEe",
-      "name": "La Isla Bonita",
-      "artists": [
-        "Madonna"
-      ],
-      "playedAt": "2026-05-28T07:57:32.982Z"
-    },
-    {
-      "id": "5mexrjqF4owEPNdYH17mek",
-      "name": "Wait For Now - Mary Lattimore Rework",
-      "artists": [
-        "The Cinematic Orchestra",
-        "Tawiah",
-        "Mary Lattimore"
-      ],
-      "playedAt": "2026-05-28T07:53:00.342Z"
+      "playedAt": "2026-05-29T18:08:40.966Z"
     },
     {
       "id": "57VGVkgRMrfxH9z5fznTWZ",
@@ -176,7 +66,7 @@
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-28T07:46:09.061Z"
+      "playedAt": "2026-05-29T17:57:45.426Z"
     },
     {
       "id": "2LXISHBkx8FyoxCBkckh19",
@@ -184,24 +74,112 @@
       "artists": [
         "Steely Dan"
       ],
-      "playedAt": "2026-05-28T07:42:38.811Z"
+      "playedAt": "2026-05-29T17:26:20.862Z"
     },
     {
-      "id": "27TWb08JdStA9L0PAfhZZ7",
-      "name": "Rough Rider",
+      "id": "1WSXieHimlAi2I3hG52aNP",
+      "name": "A Kiss Before Dying",
       "artists": [
-        "Rene Wise"
+        "Still Corners"
       ],
-      "playedAt": "2026-05-28T07:33:41.208Z"
+      "playedAt": "2026-05-29T16:14:39.349Z"
     },
     {
-      "id": "2iH1dTkVI0pdFMSfLd4MaW",
-      "name": "Vapo Vapo (Remix)",
+      "id": "6GrqVZ8YyLVftyR3As0E3z",
+      "name": "White Sands",
       "artists": [
-        "MC Ingryd",
-        "Mandragora"
+        "Still Corners"
       ],
-      "playedAt": "2026-05-28T07:33:06.766Z"
+      "playedAt": "2026-05-29T16:11:52.621Z"
+    },
+    {
+      "id": "7qVURpFZaTSQeNFQLyUOQb",
+      "name": "Strange Pleasures - 2023 Remaster",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-05-29T16:01:42.585Z"
+    },
+    {
+      "id": "0QVJsWtmgj9SWZaLYiX2i3",
+      "name": "Heaven - Remastered",
+      "artists": [
+        "The Rolling Stones",
+        "Bob Clearmountain"
+      ],
+      "playedAt": "2026-05-29T15:51:52.418Z"
+    },
+    {
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-05-29T15:40:48.480Z"
+    },
+    {
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-05-29T15:38:11.477Z"
+    },
+    {
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
+      "artists": [
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-05-29T15:34:27.600Z"
+    },
+    {
+      "id": "7hM5XSA8AMSSOc8KkFzDoM",
+      "name": "From The Lake To The Land",
+      "artists": [
+        "Foreign Fields"
+      ],
+      "playedAt": "2026-05-29T15:31:04.540Z"
+    },
+    {
+      "id": "5K2XRHW0ZdFsPyc7m0NxRs",
+      "name": "Thief of Your Heart",
+      "artists": [
+        "Amarone"
+      ],
+      "playedAt": "2026-05-29T15:27:43.348Z"
+    },
+    {
+      "id": "1UtsS1pmL3FkuEWT5dXHCS",
+      "name": "Pedestal",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-05-29T08:09:38.089Z"
+    },
+    {
+      "id": "1ej1Z6AGBLaSI9tSizZMfa",
+      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
+      "artists": [
+        "AMANZI"
+      ],
+      "playedAt": "2026-05-29T08:06:18.491Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-05-29T08:02:29.703Z"
+    },
+    {
+      "id": "2LXISHBkx8FyoxCBkckh19",
+      "name": "Do It Again",
+      "artists": [
+        "Steely Dan"
+      ],
+      "playedAt": "2026-05-29T07:58:34.168Z"
     }
   ]
 }

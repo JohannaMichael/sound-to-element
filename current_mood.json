@@ -1,15 +1,15 @@
 {
-  "name": "WATER",
-  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
-  "description": "Flowing & Emotional",
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.496,
-    "avgEnergy": 0.26,
-    "avgAcousticness": 0.8779999999999999,
-    "trackCount": 34,
-    "analyzedCount": 5
+    "avgValence": 0.6683333333333333,
+    "avgEnergy": 0.325,
+    "avgAcousticness": 0.8508333333333334,
+    "trackCount": 44,
+    "analyzedCount": 12
   },
-  "date": "2026-05-30T23:53:07.250Z",
+  "date": "2026-05-31T23:57:43.056Z",
   "tracks": [
     {
       "id": "2LXISHBkx8FyoxCBkckh19",
@@ -17,218 +17,7 @@
       "artists": [
         "Steely Dan"
       ],
-      "playedAt": "2026-05-30T22:45:32.185Z"
-    },
-    {
-      "id": "35kpiigbRx8E3LL1ayRpnC",
-      "name": "A King's Sadness",
-      "artists": [
-        "William Ross"
-      ],
-      "playedAt": "2026-05-30T22:38:14.227Z"
-    },
-    {
-      "id": "41ckIX2CdahZo5iqQvO1Qo",
-      "name": "I'm Expecting Someone",
-      "artists": [
-        "James Newton Howard"
-      ],
-      "playedAt": "2026-05-30T22:36:12.836Z"
-    },
-    {
-      "id": "7feSbMqJGg9yL0s6ypxy9S",
-      "name": "Girls on Film",
-      "artists": [
-        "Duran Duran"
-      ],
-      "playedAt": "2026-05-30T22:33:57.574Z"
-    },
-    {
-      "id": "7hM5XSA8AMSSOc8KkFzDoM",
-      "name": "From The Lake To The Land",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-30T22:30:29.340Z"
-    },
-    {
-      "id": "6rGBWSCtMqurKFEvpa2lW2",
-      "name": "Don't Give Up",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-30T22:27:10.747Z"
-    },
-    {
-      "id": "2jSshkrs1wz0xxE5Ock5uT",
-      "name": "Rose Colored",
-      "artists": [
-        "Foreign Fields"
-      ],
-      "playedAt": "2026-05-30T22:23:16.840Z"
-    },
-    {
-      "id": "0pAiyIHt9DyHOjWgF41kp6",
-      "name": "Steal",
-      "artists": [
-        "Maribou State",
-        "Holly Walker"
-      ],
-      "playedAt": "2026-05-30T22:16:39.057Z"
-    },
-    {
-      "id": "0SANWT6WZgajOViFe0EkCO",
-      "name": "The Chase",
-      "artists": [
-        "Emmit Fenn"
-      ],
-      "playedAt": "2026-05-30T19:51:46.528Z"
-    },
-    {
-      "id": "2hHaYh7P2cbuvuNBZK6brg",
-      "name": "a woman is a god (BIA Remix)",
-      "artists": [
-        "Tommy Genesis",
-        "BIA"
-      ],
-      "playedAt": "2026-05-30T19:48:32.463Z"
-    },
-    {
-      "id": "4BY4V1T0RJK1HmD2Q0ClyK",
-      "name": "Oblivion",
-      "artists": [
-        "Grimes"
-      ],
-      "playedAt": "2026-05-30T19:45:33.336Z"
-    },
-    {
-      "id": "7qEKqBCD2vE5vIBsrUitpD",
-      "name": "ilomilo",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-05-30T19:41:09.594Z"
-    },
-    {
-      "id": "2ouFrmMwYik8nQX2n9SeZu",
-      "name": "On My Knees",
-      "artists": [
-        "RÜFÜS DU SOL"
-      ],
-      "playedAt": "2026-05-30T19:38:32.762Z"
-    },
-    {
-      "id": "3OT9zVVg5JFjXfGmn2TNrL",
-      "name": "Attitude",
-      "artists": [
-        "Lewis OfMan"
-      ],
-      "playedAt": "2026-05-30T19:34:11.300Z"
-    },
-    {
-      "id": "4TOMI010Sd4ZAX4aZ5TS85",
-      "name": "Perfect Day",
-      "artists": [
-        "Lou Reed"
-      ],
-      "playedAt": "2026-05-30T19:27:20.302Z"
-    },
-    {
-      "id": "1rk9eGO7AkPX1oafUuOnGs",
-      "name": "Blue Ridge Mountains",
-      "artists": [
-        "Fleet Foxes"
-      ],
-      "playedAt": "2026-05-30T19:23:20.289Z"
-    },
-    {
-      "id": "3y1EzRl5UEQxxd1f6Bv2aN",
-      "name": "When I'm Small",
-      "artists": [
-        "Phantogram"
-      ],
-      "playedAt": "2026-05-30T19:18:36.325Z"
-    },
-    {
-      "id": "1X49uqBQ6QGZG68iQ733Pc",
-      "name": "Gold In the Air",
-      "artists": [
-        "Jesse Woods"
-      ],
-      "playedAt": "2026-05-30T19:14:26.815Z"
-    },
-    {
-      "id": "6tDDoYIxWvMLTdKpjFkc1B",
-      "name": "telepatía",
-      "artists": [
-        "Kali Uchis"
-      ],
-      "playedAt": "2026-05-30T19:08:56.102Z"
-    },
-    {
-      "id": "1fTjqf10accJCDYstPwwZ6",
-      "name": "OHNANA",
-      "artists": [
-        "Kapo"
-      ],
-      "playedAt": "2026-05-30T16:06:41.956Z"
-    },
-    {
-      "id": "3sK8wGT43QFpWrvNQsrQya",
-      "name": "DtMF",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "playedAt": "2026-05-30T16:04:04.916Z"
-    },
-    {
-      "id": "6dbh2fgGhV5s8rxSOOsEMv",
-      "name": "no tiene sentido",
-      "artists": [
-        "Beéle"
-      ],
-      "playedAt": "2026-05-30T16:00:07.359Z"
-    },
-    {
-      "id": "6LYg8Ks95O7GNNLfB6kh4j",
-      "name": "BRONCEADOR",
-      "artists": [
-        "Maluma"
-      ],
-      "playedAt": "2026-05-30T15:57:28.878Z"
-    },
-    {
-      "id": "5PXsZaT8cOxb4mXrA20PMQ",
-      "name": "Baila Baila Baila",
-      "artists": [
-        "Ozuna"
-      ],
-      "playedAt": "2026-05-30T15:54:59.029Z"
-    },
-    {
-      "id": "0iOOp78NhtAbTmI2qJD46R",
-      "name": "REVOLUCION AZUL",
-      "artists": [
-        "Leo Rizzi"
-      ],
-      "playedAt": "2026-05-30T15:51:53.820Z"
-    },
-    {
-      "id": "3HgvO4B5LLmdPOT2d8cSZd",
-      "name": "Mónaco",
-      "artists": [
-        "LAGOS",
-        "Danny Ocean"
-      ],
-      "playedAt": "2026-05-30T13:14:02.955Z"
-    },
-    {
-      "id": "6b37xrsNCWYIUphFBazqD6",
-      "name": "Me Gustas Tu",
-      "artists": [
-        "Manu Chao"
-      ],
-      "playedAt": "2026-05-30T13:05:32.888Z"
+      "playedAt": "2026-05-31T19:45:39.027Z"
     },
     {
       "id": "3mZ6PVxWBhCycZxeEJQDNs",
@@ -236,55 +25,353 @@
       "artists": [
         "Donna Summer"
       ],
-      "playedAt": "2026-05-30T13:00:21.893Z"
+      "playedAt": "2026-05-31T19:32:06.117Z"
     },
     {
-      "id": "780be5fB7823aHG06mwTat",
-      "name": "Baianá",
+      "id": "7hM5XSA8AMSSOc8KkFzDoM",
+      "name": "From The Lake To The Land",
       "artists": [
-        "Bakermat"
+        "Foreign Fields"
       ],
-      "playedAt": "2026-05-30T12:54:19.163Z"
+      "playedAt": "2026-05-31T19:25:20.905Z"
     },
     {
-      "id": "2LXISHBkx8FyoxCBkckh19",
-      "name": "Do It Again",
+      "id": "5Vcr7t35HYi90bQUQacIzA",
+      "name": "Ferrari",
       "artists": [
-        "Steely Dan"
+        "Troyman"
       ],
-      "playedAt": "2026-05-30T12:44:00.234Z"
+      "playedAt": "2026-05-31T18:52:28.712Z"
     },
     {
-      "id": "2rMCO8bSn6zzKEZnjKabbh",
-      "name": "Tell Me",
+      "id": "0uwNtbl80CvP4EFio32PYv",
+      "name": "Full Moon",
       "artists": [
-        "Rene Wise"
+        "The Black Ghosts"
       ],
-      "playedAt": "2026-05-30T09:06:47.960Z"
+      "playedAt": "2026-05-31T18:17:18.321Z"
     },
     {
-      "id": "4tSLamDuHB9Smaape5vn3M",
-      "name": "Raptor",
+      "id": "2WzZpFqwyQ7rmheUAwiOmL",
+      "name": "Lust auf Dich",
       "artists": [
-        "Rene Wise"
+        "nand"
       ],
-      "playedAt": "2026-05-30T08:13:39.936Z"
+      "playedAt": "2026-05-31T18:13:26.633Z"
     },
     {
-      "id": "2LXISHBkx8FyoxCBkckh19",
-      "name": "Do It Again",
+      "id": "54xQKzGRXCOg2csW5CJRHS",
+      "name": "Craw-Fever",
       "artists": [
-        "Steely Dan"
+        "Elvis Presley"
       ],
-      "playedAt": "2026-05-30T08:08:41.636Z"
+      "playedAt": "2026-05-31T18:11:34.593Z"
     },
     {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
+      "id": "2706bJ1IBduQztEVAMKOST",
+      "name": "Comet",
       "artists": [
-        "Anilah"
+        "L I M"
       ],
-      "playedAt": "2026-05-30T08:02:36.734Z"
+      "playedAt": "2026-05-31T18:07:37.232Z"
+    },
+    {
+      "id": "0YQEWdfq3ajtNtK106Dr0k",
+      "name": "Shinigami Eyes",
+      "artists": [
+        "Grimes"
+      ],
+      "playedAt": "2026-05-31T18:02:33.633Z"
+    },
+    {
+      "id": "5y3xBtIKuO3j2TkhTx4Dol",
+      "name": "Short Notice",
+      "artists": [
+        "Mpax",
+        "Brit Fox"
+      ],
+      "playedAt": "2026-05-31T17:59:53.856Z"
+    },
+    {
+      "id": "3NgwkdI4LED11P61QdrpjT",
+      "name": "Dachlatte - Kalte Liebe Remix",
+      "artists": [
+        "nand",
+        "Kalte Liebe"
+      ],
+      "playedAt": "2026-05-31T17:57:19.615Z"
+    },
+    {
+      "id": "3N4gUEMXtxvDhPo5ifI5uX",
+      "name": "Spirit of the Forest",
+      "artists": [
+        "Baka Beyond"
+      ],
+      "playedAt": "2026-05-31T17:53:26.284Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-05-31T17:13:21.728Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-05-31T17:09:26.200Z"
+    },
+    {
+      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
+      "name": "Naked Spirit (featuring Djivan Gasparyan)",
+      "artists": [
+        "Sainkho Namtchylak"
+      ],
+      "playedAt": "2026-05-31T17:03:31.401Z"
+    },
+    {
+      "id": "5jsSRZV38oVh9l2Tf6UREU",
+      "name": "Enid & Rebecca",
+      "artists": [
+        "Les Gordon"
+      ],
+      "playedAt": "2026-05-31T15:39:42.397Z"
+    },
+    {
+      "id": "6DYLWAdxEJvwWmT7EkeDkX",
+      "name": "Charmed",
+      "artists": [
+        "Σtella",
+        "Redinho"
+      ],
+      "playedAt": "2026-05-31T15:36:27.809Z"
+    },
+    {
+      "id": "1kTH8Ok1XWldpvIuzrCHFg",
+      "name": "Maneater - Extended Club Mix",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ],
+      "playedAt": "2026-05-31T15:33:49.001Z"
+    },
+    {
+      "id": "6ey66s3rrXBgsuX36GG1ci",
+      "name": "beine spüren",
+      "artists": [
+        "benzii"
+      ],
+      "playedAt": "2026-05-31T15:27:25.955Z"
+    },
+    {
+      "id": "3sFJI66BRczTxVVgKQ8KSw",
+      "name": "ELEMENT 13",
+      "artists": [
+        "Just A Gent"
+      ],
+      "playedAt": "2026-05-31T15:24:33.434Z"
+    },
+    {
+      "id": "1hlT8E7Zk07UgTphcFJidJ",
+      "name": "Misirlou",
+      "artists": [
+        "Dick Dale",
+        "Dick Dale & His Del-Tones"
+      ],
+      "playedAt": "2026-05-31T15:21:22.299Z"
+    },
+    {
+      "id": "7GtOjSSp5Qyi3gNbNDZgja",
+      "name": "Dream Girl Evil",
+      "artists": [
+        "Florence + The Machine"
+      ],
+      "playedAt": "2026-05-31T15:19:05.872Z"
+    },
+    {
+      "id": "3j506WDipR7MYz24ZW7sJQ",
+      "name": "Vuela",
+      "artists": [
+        "City of the Sun",
+        "Gizmo Varillas"
+      ],
+      "playedAt": "2026-05-31T15:15:12.964Z"
+    },
+    {
+      "id": "6KiS9YtjvBEr96wazaVfO4",
+      "name": "Achinkad",
+      "artists": [
+        "Imarhan"
+      ],
+      "playedAt": "2026-05-31T15:11:23.376Z"
+    },
+    {
+      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
+      "name": "Weißer Ferrari",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-05-31T15:07:06.606Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "playedAt": "2026-05-31T15:04:43.985Z"
+    },
+    {
+      "id": "0M2qa9uXyL6dzejgseuszY",
+      "name": "Freydies",
+      "artists": [
+        "Yuvèe"
+      ],
+      "playedAt": "2026-05-31T14:12:21.008Z"
+    },
+    {
+      "id": "3tYYypENWxaS1DKUtcH8S8",
+      "name": "Don't Stop",
+      "artists": [
+        "DJ HEARTSTRING",
+        "southstar"
+      ],
+      "playedAt": "2026-05-31T14:03:13.741Z"
+    },
+    {
+      "id": "1JfRSuCAZl5cyyoOo2CMK4",
+      "name": "Weg von dir",
+      "artists": [
+        "Raphael Schön"
+      ],
+      "playedAt": "2026-05-31T13:59:18.787Z"
+    },
+    {
+      "id": "0OU4ghr4kXT2w1X79MhtBe",
+      "name": "Sirenita Bobinsana",
+      "artists": [
+        "Orka"
+      ],
+      "playedAt": "2026-05-31T13:56:40.740Z"
+    },
+    {
+      "id": "7z4faVYNs01Qxwt34R4pYd",
+      "name": "Lunita",
+      "artists": [
+        "Danit"
+      ],
+      "playedAt": "2026-05-31T12:53:02.078Z"
+    },
+    {
+      "id": "6V4ntlX6608rd3Ec5SpVhj",
+      "name": "Berghain",
+      "artists": [
+        "ROSALÍA",
+        "Björk",
+        "Yves Tumor"
+      ],
+      "playedAt": "2026-05-31T10:28:04.689Z"
+    },
+    {
+      "id": "7caycKUiLznuxYK1C9Wxd6",
+      "name": "Maya",
+      "artists": [
+        "Nico Morano",
+        "Mewhy"
+      ],
+      "playedAt": "2026-05-31T10:25:05.379Z"
+    },
+    {
+      "id": "5vlE3zQD8G0rCCnM3WDs0y",
+      "name": "Dodi",
+      "artists": [
+        "Juelz"
+      ],
+      "playedAt": "2026-05-31T10:21:05.943Z"
+    },
+    {
+      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
+      "name": "Influenced",
+      "artists": [
+        "Electrypnose"
+      ],
+      "playedAt": "2026-05-31T10:16:52.880Z"
+    },
+    {
+      "id": "44oRggaLM8pvCaSiQAM7OQ",
+      "name": "Monarch",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-05-31T10:07:45.435Z"
+    },
+    {
+      "id": "1B5Oc0Y6dpE7ylG85lCkUt",
+      "name": "Genesis",
+      "artists": [
+        "David A. Molina"
+      ],
+      "playedAt": "2026-05-31T10:03:51.597Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-05-31T09:59:52.916Z"
+    },
+    {
+      "id": "7sPaHKAHhDzsTmgipIV5Io",
+      "name": "Down To The Sea",
+      "artists": [
+        "Angus & Julia Stone"
+      ],
+      "playedAt": "2026-05-31T09:55:57.031Z"
+    },
+    {
+      "id": "5cJBLutdQO3ikhfOItxPTc",
+      "name": "Send in the Drums",
+      "artists": [
+        "James Asher"
+      ],
+      "playedAt": "2026-05-31T09:52:36.899Z"
+    },
+    {
+      "id": "7qVURpFZaTSQeNFQLyUOQb",
+      "name": "Strange Pleasures - 2023 Remaster",
+      "artists": [
+        "Still Corners"
+      ],
+      "playedAt": "2026-05-31T09:46:40.265Z"
+    },
+    {
+      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Bob Dylan"
+      ],
+      "playedAt": "2026-05-31T09:41:25.420Z"
+    },
+    {
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
+      "artists": [
+        "Dhafer Youssef"
+      ],
+      "playedAt": "2026-05-31T09:38:55.024Z"
+    },
+    {
+      "id": "1OArQ5np9biqJlGL2RMpOE",
+      "name": "Ayahuasca (Liquid Bloom & Poranguí Remix)",
+      "artists": [
+        "Poranguí",
+        "Liquid Bloom"
+      ],
+      "playedAt": "2026-05-31T09:34:57.847Z"
     }
   ]
 }

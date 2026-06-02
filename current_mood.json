@@ -3,111 +3,207 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6683333333333333,
-    "avgEnergy": 0.325,
-    "avgAcousticness": 0.8508333333333334,
-    "trackCount": 44,
-    "analyzedCount": 12
+    "avgValence": 0.695,
+    "avgEnergy": 0.3225,
+    "avgAcousticness": 0.7862499999999999,
+    "trackCount": 50,
+    "analyzedCount": 8
   },
-  "date": "2026-05-31T23:57:43.056Z",
+  "date": "2026-06-02T00:06:43.329Z",
   "tracks": [
+    {
+      "id": "664weV2D2xz0xm7GlmEdYp",
+      "name": "Come To Dance Honey",
+      "artists": [
+        "CHERIII"
+      ],
+      "playedAt": "2026-06-01T21:43:14.910Z"
+    },
+    {
+      "id": "6W9ZPdsIzcJnex6HQxxmaQ",
+      "name": "The Great Escape",
+      "artists": [
+        "Volen Sentir"
+      ],
+      "playedAt": "2026-06-01T21:25:50.947Z"
+    },
+    {
+      "id": "5NzGioq5qkEvMBfLFu4EdB",
+      "name": "Final Transmission Home",
+      "artists": [
+        "Amaranth Cove"
+      ],
+      "playedAt": "2026-06-01T19:14:34.531Z"
+    },
+    {
+      "id": "6Ix7TgyKTf5VTlWlDOkt9j",
+      "name": "Pure Conscience",
+      "artists": [
+        "Elm Lake"
+      ],
+      "playedAt": "2026-06-01T19:11:38.961Z"
+    },
+    {
+      "id": "70fBfMLb9GwQkaCtYGd7s5",
+      "name": "Deep Dive",
+      "artists": [
+        "Master Minded"
+      ],
+      "playedAt": "2026-06-01T19:08:52.511Z"
+    },
+    {
+      "id": "524nCOIQg9fi0pETVnbpv8",
+      "name": "Mystified - 2017 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "playedAt": "2026-06-01T19:03:48.887Z"
+    },
+    {
+      "id": "664weV2D2xz0xm7GlmEdYp",
+      "name": "Come To Dance Honey",
+      "artists": [
+        "CHERIII"
+      ],
+      "playedAt": "2026-06-01T18:59:18.436Z"
+    },
+    {
+      "id": "57VGVkgRMrfxH9z5fznTWZ",
+      "name": "I Am the Rich Man",
+      "artists": [
+        "Goldie Boutilier"
+      ],
+      "playedAt": "2026-06-01T18:44:23.084Z"
+    },
+    {
+      "id": "5ximBuNomzngYRthvVtMUs",
+      "name": "Dancing On My Own",
+      "artists": [
+        "Flight Facilities",
+        "DRAMA"
+      ],
+      "playedAt": "2026-06-01T18:41:13.557Z"
+    },
+    {
+      "id": "2YEPsTHNuUpy7gLhVk6uES",
+      "name": "Can't Stop Staring At The Sun",
+      "artists": [
+        "Patrick Watson",
+        "Attacca Quartet"
+      ],
+      "playedAt": "2026-06-01T18:37:13.217Z"
+    },
+    {
+      "id": "4tSLamDuHB9Smaape5vn3M",
+      "name": "Raptor",
+      "artists": [
+        "Rene Wise"
+      ],
+      "playedAt": "2026-06-01T18:33:25.639Z"
+    },
     {
       "id": "2LXISHBkx8FyoxCBkckh19",
       "name": "Do It Again",
       "artists": [
         "Steely Dan"
       ],
-      "playedAt": "2026-05-31T19:45:39.027Z"
+      "playedAt": "2026-06-01T18:28:27.371Z"
     },
     {
-      "id": "3mZ6PVxWBhCycZxeEJQDNs",
-      "name": "State of Independence",
+      "id": "1upZpXGGXVL1TSwFGcxB9J",
+      "name": "a thousand shades of green",
       "artists": [
-        "Donna Summer"
+        "efdemin"
       ],
-      "playedAt": "2026-05-31T19:32:06.117Z"
+      "playedAt": "2026-06-01T18:22:29.968Z"
     },
     {
-      "id": "7hM5XSA8AMSSOc8KkFzDoM",
-      "name": "From The Lake To The Land",
+      "id": "664weV2D2xz0xm7GlmEdYp",
+      "name": "Come To Dance Honey",
       "artists": [
-        "Foreign Fields"
+        "CHERIII"
       ],
-      "playedAt": "2026-05-31T19:25:20.905Z"
+      "playedAt": "2026-06-01T18:19:05.992Z"
     },
     {
-      "id": "5Vcr7t35HYi90bQUQacIzA",
-      "name": "Ferrari",
+      "id": "5usqjaeM70wEazv2vTo6bp",
+      "name": "Insomnia",
       "artists": [
-        "Troyman"
+        "Rene Wise"
       ],
-      "playedAt": "2026-05-31T18:52:28.712Z"
+      "playedAt": "2026-06-01T17:49:19.808Z"
     },
     {
-      "id": "0uwNtbl80CvP4EFio32PYv",
-      "name": "Full Moon",
+      "id": "2rMCO8bSn6zzKEZnjKabbh",
+      "name": "Tell Me",
       "artists": [
-        "The Black Ghosts"
+        "Rene Wise"
       ],
-      "playedAt": "2026-05-31T18:17:18.321Z"
+      "playedAt": "2026-06-01T17:42:44.901Z"
     },
     {
-      "id": "2WzZpFqwyQ7rmheUAwiOmL",
-      "name": "Lust auf Dich",
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
       "artists": [
-        "nand"
+        "efdemin"
       ],
-      "playedAt": "2026-05-31T18:13:26.633Z"
+      "playedAt": "2026-06-01T17:22:45.312Z"
     },
     {
-      "id": "54xQKzGRXCOg2csW5CJRHS",
-      "name": "Craw-Fever",
+      "id": "59ByAlhjt5WjJvOEwLv84T",
+      "name": "Somewhere Tonight",
       "artists": [
-        "Elvis Presley"
+        "Beach House"
       ],
-      "playedAt": "2026-05-31T18:11:34.593Z"
+      "playedAt": "2026-06-01T16:20:22.996Z"
     },
     {
-      "id": "2706bJ1IBduQztEVAMKOST",
-      "name": "Comet",
+      "id": "281ioxkZbJ3p9hCvjD2bon",
+      "name": "Everything I Am Is Yours",
       "artists": [
-        "L I M"
+        "Villagers"
       ],
-      "playedAt": "2026-05-31T18:07:37.232Z"
+      "playedAt": "2026-06-01T16:01:23.124Z"
     },
     {
-      "id": "0YQEWdfq3ajtNtK106Dr0k",
-      "name": "Shinigami Eyes",
+      "id": "12r1ZXidG7FnfJdkDd4d1l",
+      "name": "Losing Rachel",
       "artists": [
-        "Grimes"
+        "Jeff Beal"
       ],
-      "playedAt": "2026-05-31T18:02:33.633Z"
+      "playedAt": "2026-06-01T15:57:52.590Z"
     },
     {
-      "id": "5y3xBtIKuO3j2TkhTx4Dol",
-      "name": "Short Notice",
+      "id": "61IwaYuShjok0iwompmpTk",
+      "name": "Summer 78 (2)",
       "artists": [
-        "Mpax",
-        "Brit Fox"
+        "Yann Tiersen"
       ],
-      "playedAt": "2026-05-31T17:59:53.856Z"
+      "playedAt": "2026-06-01T15:55:23.966Z"
     },
     {
-      "id": "3NgwkdI4LED11P61QdrpjT",
-      "name": "Dachlatte - Kalte Liebe Remix",
+      "id": "7xj3v3gPWWytfwqHZRtdMj",
+      "name": "Mykonos",
       "artists": [
-        "nand",
-        "Kalte Liebe"
+        "Fleet Foxes"
       ],
-      "playedAt": "2026-05-31T17:57:19.615Z"
+      "playedAt": "2026-06-01T15:51:32.753Z"
     },
     {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
+      "id": "3c1nWxMzw76sU66l3VN9rL",
+      "name": "Quarantine",
       "artists": [
-        "Baka Beyond"
+        "Justin Hurwitz"
       ],
-      "playedAt": "2026-05-31T17:53:26.284Z"
+      "playedAt": "2026-06-01T15:46:56.924Z"
+    },
+    {
+      "id": "5uE0ggArLjnpwVPEXc36Hx",
+      "name": "It's Happening Again",
+      "artists": [
+        "Agnes Obel"
+      ],
+      "playedAt": "2026-06-01T15:44:41.288Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -115,7 +211,15 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-05-31T17:13:21.728Z"
+      "playedAt": "2026-06-01T15:36:43.591Z"
+    },
+    {
+      "id": "6kpJlZvI8164hNC2NAt7AV",
+      "name": "Wristwatch",
+      "artists": [
+        "Husky"
+      ],
+      "playedAt": "2026-06-01T15:32:47.965Z"
     },
     {
       "id": "7sPaHKAHhDzsTmgipIV5Io",
@@ -123,73 +227,49 @@
       "artists": [
         "Angus & Julia Stone"
       ],
-      "playedAt": "2026-05-31T17:09:26.200Z"
+      "playedAt": "2026-06-01T15:28:47.865Z"
     },
     {
-      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
-      "name": "Naked Spirit (featuring Djivan Gasparyan)",
+      "id": "7rJ4gnET5vlWtFtmeRMyko",
+      "name": "Shajan",
       "artists": [
-        "Sainkho Namtchylak"
+        "Dhafer Youssef"
       ],
-      "playedAt": "2026-05-31T17:03:31.401Z"
+      "playedAt": "2026-06-01T15:25:17.635Z"
     },
     {
-      "id": "5jsSRZV38oVh9l2Tf6UREU",
-      "name": "Enid & Rebecca",
+      "id": "0dbW82mncQ9ZCXza35gmVE",
+      "name": "Deep Blue Sea",
       "artists": [
-        "Les Gordon"
+        "Yehezkel Raz",
+        "Sivan Talmor"
       ],
-      "playedAt": "2026-05-31T15:39:42.397Z"
+      "playedAt": "2026-06-01T15:20:49.514Z"
     },
     {
-      "id": "6DYLWAdxEJvwWmT7EkeDkX",
-      "name": "Charmed",
+      "id": "0LWETWvUkoiCFUylObxXOF",
+      "name": "Wild Kindness",
       "artists": [
-        "Σtella",
-        "Redinho"
+        "Cellomano"
       ],
-      "playedAt": "2026-05-31T15:36:27.809Z"
+      "playedAt": "2026-06-01T15:15:06.971Z"
     },
     {
-      "id": "1kTH8Ok1XWldpvIuzrCHFg",
-      "name": "Maneater - Extended Club Mix",
+      "id": "3fbnbn6A5O5RNb08tlUEgd",
+      "name": "Streets of Philadelphia - Single Edit",
       "artists": [
-        "Daryl Hall & John Oates"
+        "Bruce Springsteen"
       ],
-      "playedAt": "2026-05-31T15:33:49.001Z"
+      "playedAt": "2026-06-01T15:09:55.807Z"
     },
     {
-      "id": "6ey66s3rrXBgsuX36GG1ci",
-      "name": "beine spüren",
+      "id": "0oaDJ4qjNcgTgG059wAvYG",
+      "name": "La Cura",
       "artists": [
-        "benzii"
+        "Pahua",
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-05-31T15:27:25.955Z"
-    },
-    {
-      "id": "3sFJI66BRczTxVVgKQ8KSw",
-      "name": "ELEMENT 13",
-      "artists": [
-        "Just A Gent"
-      ],
-      "playedAt": "2026-05-31T15:24:33.434Z"
-    },
-    {
-      "id": "1hlT8E7Zk07UgTphcFJidJ",
-      "name": "Misirlou",
-      "artists": [
-        "Dick Dale",
-        "Dick Dale & His Del-Tones"
-      ],
-      "playedAt": "2026-05-31T15:21:22.299Z"
-    },
-    {
-      "id": "7GtOjSSp5Qyi3gNbNDZgja",
-      "name": "Dream Girl Evil",
-      "artists": [
-        "Florence + The Machine"
-      ],
-      "playedAt": "2026-05-31T15:19:05.872Z"
+      "playedAt": "2026-06-01T15:08:59.292Z"
     },
     {
       "id": "3j506WDipR7MYz24ZW7sJQ",
@@ -198,7 +278,7 @@
         "City of the Sun",
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-05-31T15:15:12.964Z"
+      "playedAt": "2026-06-01T13:16:31.335Z"
     },
     {
       "id": "6KiS9YtjvBEr96wazaVfO4",
@@ -206,15 +286,7 @@
       "artists": [
         "Imarhan"
       ],
-      "playedAt": "2026-05-31T15:11:23.376Z"
-    },
-    {
-      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
-      "name": "Weißer Ferrari",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-05-31T15:07:06.606Z"
+      "playedAt": "2026-06-01T13:12:41.820Z"
     },
     {
       "id": "4qW3BbQAwZsrnu8a3ZRdyT",
@@ -222,75 +294,101 @@
       "artists": [
         "Temper City"
       ],
-      "playedAt": "2026-05-31T15:04:43.985Z"
+      "playedAt": "2026-06-01T13:08:24.980Z"
     },
     {
-      "id": "0M2qa9uXyL6dzejgseuszY",
-      "name": "Freydies",
+      "id": "6xxxEVDFgY0jAyWiGmHMp7",
+      "name": "Adagio for Strings, Op. 11",
       "artists": [
-        "Yuvèe"
+        "Samuel Barber",
+        "Leonard Bernstein",
+        "New York Philharmonic"
       ],
-      "playedAt": "2026-05-31T14:12:21.008Z"
+      "playedAt": "2026-06-01T13:05:23.713Z"
     },
     {
-      "id": "3tYYypENWxaS1DKUtcH8S8",
-      "name": "Don't Stop",
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
       "artists": [
-        "DJ HEARTSTRING",
-        "southstar"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-31T14:03:13.741Z"
+      "playedAt": "2026-06-01T12:55:28.927Z"
     },
     {
-      "id": "1JfRSuCAZl5cyyoOo2CMK4",
-      "name": "Weg von dir",
+      "id": "2tFhmgYfssxSCgDYSPeUH1",
+      "name": "The Angel And The Saint",
       "artists": [
-        "Raphael Schön"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-05-31T13:59:18.787Z"
+      "playedAt": "2026-06-01T12:52:51.844Z"
     },
     {
-      "id": "0OU4ghr4kXT2w1X79MhtBe",
-      "name": "Sirenita Bobinsana",
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
       "artists": [
-        "Orka"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-05-31T13:56:40.740Z"
+      "playedAt": "2026-06-01T12:49:07.984Z"
     },
     {
-      "id": "7z4faVYNs01Qxwt34R4pYd",
-      "name": "Lunita",
+      "id": "3NgwkdI4LED11P61QdrpjT",
+      "name": "Dachlatte - Kalte Liebe Remix",
       "artists": [
-        "Danit"
+        "nand",
+        "Kalte Liebe"
       ],
-      "playedAt": "2026-05-31T12:53:02.078Z"
+      "playedAt": "2026-06-01T12:46:01.625Z"
     },
     {
-      "id": "6V4ntlX6608rd3Ec5SpVhj",
-      "name": "Berghain",
+      "id": "2YEPsTHNuUpy7gLhVk6uES",
+      "name": "Can't Stop Staring At The Sun",
       "artists": [
-        "ROSALÍA",
-        "Björk",
-        "Yves Tumor"
+        "Patrick Watson",
+        "Attacca Quartet"
       ],
-      "playedAt": "2026-05-31T10:28:04.689Z"
+      "playedAt": "2026-06-01T12:41:20.021Z"
     },
     {
-      "id": "7caycKUiLznuxYK1C9Wxd6",
-      "name": "Maya",
+      "id": "2Ceqh11ZEaxh092hTd8SJl",
+      "name": "Signal to Noise",
       "artists": [
-        "Nico Morano",
-        "Mewhy"
+        "efdemin"
       ],
-      "playedAt": "2026-05-31T10:25:05.379Z"
+      "playedAt": "2026-06-01T12:35:27.780Z"
     },
     {
-      "id": "5vlE3zQD8G0rCCnM3WDs0y",
-      "name": "Dodi",
+      "id": "6o6LRX4HHHGKgH7NuMxw6u",
+      "name": "Parallaxis - Traumprinz's Over 2 The End Version",
       "artists": [
-        "Juelz"
+        "efdemin",
+        "Traumprinz"
       ],
-      "playedAt": "2026-05-31T10:21:05.943Z"
+      "playedAt": "2026-06-01T12:30:47.971Z"
+    },
+    {
+      "id": "1upZpXGGXVL1TSwFGcxB9J",
+      "name": "a thousand shades of green",
+      "artists": [
+        "efdemin"
+      ],
+      "playedAt": "2026-06-01T12:24:01.443Z"
+    },
+    {
+      "id": "4iTD09SbhEauGj5JX6t7b2",
+      "name": "Trophic Cascade",
+      "artists": [
+        "efdemin"
+      ],
+      "playedAt": "2026-06-01T12:20:37.371Z"
+    },
+    {
+      "id": "6o6LRX4HHHGKgH7NuMxw6u",
+      "name": "Parallaxis - Traumprinz's Over 2 The End Version",
+      "artists": [
+        "efdemin",
+        "Traumprinz"
+      ],
+      "playedAt": "2026-06-01T12:14:12.086Z"
     },
     {
       "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
@@ -298,15 +396,7 @@
       "artists": [
         "Electrypnose"
       ],
-      "playedAt": "2026-05-31T10:16:52.880Z"
-    },
-    {
-      "id": "44oRggaLM8pvCaSiQAM7OQ",
-      "name": "Monarch",
-      "artists": [
-        "David A. Molina"
-      ],
-      "playedAt": "2026-05-31T10:07:45.435Z"
+      "playedAt": "2026-06-01T12:07:26.157Z"
     },
     {
       "id": "1B5Oc0Y6dpE7ylG85lCkUt",
@@ -314,55 +404,7 @@
       "artists": [
         "David A. Molina"
       ],
-      "playedAt": "2026-05-31T10:03:51.597Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-05-31T09:59:52.916Z"
-    },
-    {
-      "id": "7sPaHKAHhDzsTmgipIV5Io",
-      "name": "Down To The Sea",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-05-31T09:55:57.031Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-05-31T09:52:36.899Z"
-    },
-    {
-      "id": "7qVURpFZaTSQeNFQLyUOQb",
-      "name": "Strange Pleasures - 2023 Remaster",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-05-31T09:46:40.265Z"
-    },
-    {
-      "id": "6HSXNV0b4M4cLJ7ljgVVeh",
-      "name": "Knockin' On Heaven's Door",
-      "artists": [
-        "Bob Dylan"
-      ],
-      "playedAt": "2026-05-31T09:41:25.420Z"
-    },
-    {
-      "id": "7rJ4gnET5vlWtFtmeRMyko",
-      "name": "Shajan",
-      "artists": [
-        "Dhafer Youssef"
-      ],
-      "playedAt": "2026-05-31T09:38:55.024Z"
+      "playedAt": "2026-06-01T11:54:24.498Z"
     },
     {
       "id": "1OArQ5np9biqJlGL2RMpOE",
@@ -371,7 +413,15 @@
         "Poranguí",
         "Liquid Bloom"
       ],
-      "playedAt": "2026-05-31T09:34:57.847Z"
+      "playedAt": "2026-06-01T09:02:36.072Z"
+    },
+    {
+      "id": "3wccGoCoTXY6R3sa2kAsjO",
+      "name": "Los Cuatro Elementos",
+      "artists": [
+        "Pedro Vadhar"
+      ],
+      "playedAt": "2026-06-01T08:42:36.153Z"
     }
   ]
 }

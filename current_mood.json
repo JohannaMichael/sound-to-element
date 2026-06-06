@@ -3,207 +3,39 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.6275,
-    "avgEnergy": 0.325,
-    "avgAcousticness": 0.78125,
-    "trackCount": 50,
-    "analyzedCount": 8
+    "avgValence": 0.7733333333333334,
+    "avgEnergy": 0.3433333333333333,
+    "avgAcousticness": 0.7833333333333333,
+    "trackCount": 24,
+    "analyzedCount": 3
   },
-  "date": "2026-06-05T23:58:55.043Z",
+  "date": "2026-06-06T23:57:07.163Z",
   "tracks": [
     {
-      "id": "2LXISHBkx8FyoxCBkckh19",
-      "name": "Do It Again",
+      "id": "4vPP3xruVuevaRoBxDh7Rs",
+      "name": "This Breakdown",
       "artists": [
-        "Steely Dan"
+        "ALMA CORA"
       ],
-      "playedAt": "2026-06-05T20:42:25.853Z"
+      "playedAt": "2026-06-06T20:54:35.118Z"
     },
     {
-      "id": "1upZpXGGXVL1TSwFGcxB9J",
-      "name": "a thousand shades of green",
+      "id": "4LdAZNpzDAJitaVJsyqXpQ",
+      "name": "Ministry",
       "artists": [
-        "efdemin"
+        "Karen O",
+        "Danger Mouse"
       ],
-      "playedAt": "2026-06-05T20:36:28.115Z"
+      "playedAt": "2026-06-06T20:49:28.570Z"
     },
     {
-      "id": "664weV2D2xz0xm7GlmEdYp",
-      "name": "Come To Dance Honey",
+      "id": "1HijbdW9y2iFPhFs6zfemU",
+      "name": "No Room for Doubt (feat. Willy Mason)",
       "artists": [
-        "CHERIII"
+        "Lianne La Havas",
+        "Willy Mason"
       ],
-      "playedAt": "2026-06-05T20:33:04.324Z"
-    },
-    {
-      "id": "5oVFXRJl6iIqWmSrEMHENN",
-      "name": "Come On, Let’s Get It",
-      "artists": [
-        "Anish Kumar"
-      ],
-      "playedAt": "2026-06-05T20:27:08.143Z"
-    },
-    {
-      "id": "4guzsK84hHrWYPEaDlrLSC",
-      "name": "Foundations",
-      "artists": [
-        "Alex Arcoleo"
-      ],
-      "playedAt": "2026-06-05T20:22:48.457Z"
-    },
-    {
-      "id": "2gSNBigeWMVtY3QBIvPAEc",
-      "name": "Bad - 2012 Remaster",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "playedAt": "2026-06-05T20:14:17.918Z"
-    },
-    {
-      "id": "5T7ywazdGIydr6JCW6t02j",
-      "name": "Smooth Criminal - 2012 Remaster",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "playedAt": "2026-06-05T20:09:04.263Z"
-    },
-    {
-      "id": "46eu3SBuFCXWsPT39Yg3tJ",
-      "name": "Don't Stop 'Til You Get Enough",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "playedAt": "2026-06-05T20:03:51.706Z"
-    },
-    {
-      "id": "3BovdzfaX4jb5KFQwoPfAw",
-      "name": "Beat It",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "playedAt": "2026-06-05T19:48:05.590Z"
-    },
-    {
-      "id": "7J1uxwnxfQLu4APicE5Rnj",
-      "name": "Billie Jean",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "playedAt": "2026-06-05T19:43:46.797Z"
-    },
-    {
-      "id": "0ud7ma9G6buYyqfaeGRG4Y",
-      "name": "Tell You No Lie",
-      "artists": [
-        "Floorplan"
-      ],
-      "playedAt": "2026-06-05T19:38:35.339Z"
-    },
-    {
-      "id": "6r8k1vznHrzlEKYxL4dZEe",
-      "name": "La Isla Bonita",
-      "artists": [
-        "Madonna"
-      ],
-      "playedAt": "2026-06-05T16:40:51.791Z"
-    },
-    {
-      "id": "4tSLamDuHB9Smaape5vn3M",
-      "name": "Raptor",
-      "artists": [
-        "Rene Wise"
-      ],
-      "playedAt": "2026-06-05T16:18:34.520Z"
-    },
-    {
-      "id": "2LXISHBkx8FyoxCBkckh19",
-      "name": "Do It Again",
-      "artists": [
-        "Steely Dan"
-      ],
-      "playedAt": "2026-06-05T16:13:36.246Z"
-    },
-    {
-      "id": "1ghknBNxMTf01WJkXPvNNv",
-      "name": "When the Sun Sets (The End is Near Edit) - Claudio Prc Remix",
-      "artists": [
-        "Nur Jaber",
-        "Claudio PRC"
-      ],
-      "playedAt": "2026-06-05T16:09:21.611Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-06-05T15:01:09.525Z"
-    },
-    {
-      "id": "1ej1Z6AGBLaSI9tSizZMfa",
-      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-06-05T14:57:49.901Z"
-    },
-    {
-      "id": "1I3r9tP1wkPSmWW9U33mVT",
-      "name": "I Just Want You",
-      "artists": [
-        "The Helltones"
-      ],
-      "playedAt": "2026-06-05T14:53:57.529Z"
-    },
-    {
-      "id": "4tAbdhAtgakhJyALYCWVvC",
-      "name": "She Knows How To Say My Name",
-      "artists": [
-        "Marlon Funaki"
-      ],
-      "playedAt": "2026-06-05T14:50:02.743Z"
-    },
-    {
-      "id": "0y9FKVVX72WQhhiQvBQTT5",
-      "name": "Ojos Nuevos",
-      "artists": [
-        "Gizmo Varillas",
-        "Amanda Whiting"
-      ],
-      "playedAt": "2026-06-05T14:45:21.076Z"
-    },
-    {
-      "id": "0FLFE8mxBn1yWAX8s2L8ru",
-      "name": "All I Need",
-      "artists": [
-        "Clams Casino"
-      ],
-      "playedAt": "2026-06-05T14:41:33.095Z"
-    },
-    {
-      "id": "7A1YcSeFJpLTHybu78qgT9",
-      "name": "Aurora Centralis",
-      "artists": [
-        "747"
-      ],
-      "playedAt": "2026-06-05T14:37:48.162Z"
-    },
-    {
-      "id": "4iTD09SbhEauGj5JX6t7b2",
-      "name": "Trophic Cascade",
-      "artists": [
-        "efdemin"
-      ],
-      "playedAt": "2026-06-05T14:30:45.743Z"
-    },
-    {
-      "id": "6S1WBVyXiqh2Rnq4M6FOYj",
-      "name": "Weißer Ferrari",
-      "artists": [
-        "nand"
-      ],
-      "playedAt": "2026-06-05T14:21:03.560Z"
+      "playedAt": "2026-06-06T20:44:21.639Z"
     },
     {
       "id": "0Al15mz670v9J7ik2FXDAr",
@@ -211,130 +43,96 @@
       "artists": [
         "Still Corners"
       ],
-      "playedAt": "2026-06-05T14:15:43.011Z"
+      "playedAt": "2026-06-06T20:40:16.190Z"
     },
     {
-      "id": "7fD2UJzJnOUd2Hmq4aaEMa",
-      "name": "Can I Tell You a Secret",
+      "id": "7jw0m7b9IVg4uU2D4gx48g",
+      "name": "Demon Host",
       "artists": [
-        "Camel Power Club"
+        "Timber Timbre"
       ],
-      "playedAt": "2026-06-05T14:11:12.565Z"
+      "playedAt": "2026-06-06T20:02:59.116Z"
     },
     {
-      "id": "6UtpOAQMPOYVDHBhj0o0CF",
-      "name": "Trust in Me",
+      "id": "56eSclzdXaWU5jOJ7DX7Vp",
+      "name": "Silver Soul",
       "artists": [
-        "Scarlett Johansson"
+        "Beach House"
       ],
-      "playedAt": "2026-06-05T14:07:54.688Z"
+      "playedAt": "2026-06-06T19:58:29.775Z"
     },
     {
-      "id": "4ll1UfyVm9we6xoTNGnMYO",
-      "name": "Italove",
+      "id": "3GYlZ7tbxLOxe6ewMNVTkw",
+      "name": "TV",
       "artists": [
-        "EMMANUELLE"
+        "Billie Eilish"
       ],
-      "playedAt": "2026-06-05T13:28:10.134Z"
+      "playedAt": "2026-06-06T19:53:30.644Z"
     },
     {
-      "id": "5NzGioq5qkEvMBfLFu4EdB",
-      "name": "Final Transmission Home",
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
       "artists": [
-        "Amaranth Cove"
+        "Anilah"
       ],
-      "playedAt": "2026-06-05T13:17:13.696Z"
+      "playedAt": "2026-06-06T19:36:53.416Z"
     },
     {
-      "id": "6Ix7TgyKTf5VTlWlDOkt9j",
-      "name": "Pure Conscience",
+      "id": "0dbW82mncQ9ZCXza35gmVE",
+      "name": "Deep Blue Sea",
       "artists": [
-        "Elm Lake"
+        "Yehezkel Raz",
+        "Sivan Talmor"
       ],
-      "playedAt": "2026-06-05T13:14:18.042Z"
+      "playedAt": "2026-06-06T19:33:10.994Z"
     },
     {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
+      "id": "0LWETWvUkoiCFUylObxXOF",
+      "name": "Wild Kindness",
       "artists": [
-        "Imarhan"
+        "Cellomano"
       ],
-      "playedAt": "2026-06-05T13:08:59.467Z"
+      "playedAt": "2026-06-06T18:17:45.469Z"
     },
     {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
+      "id": "3fbnbn6A5O5RNb08tlUEgd",
+      "name": "Streets of Philadelphia - Single Edit",
       "artists": [
-        "Temper City"
+        "Bruce Springsteen"
       ],
-      "playedAt": "2026-06-05T13:04:42.626Z"
+      "playedAt": "2026-06-06T18:12:34.219Z"
     },
     {
-      "id": "5mexrjqF4owEPNdYH17mek",
-      "name": "Wait For Now - Mary Lattimore Rework",
-      "artists": [
-        "The Cinematic Orchestra",
-        "Tawiah",
-        "Mary Lattimore"
-      ],
-      "playedAt": "2026-06-05T13:01:15.245Z"
-    },
-    {
-      "id": "57VGVkgRMrfxH9z5fznTWZ",
-      "name": "I Am the Rich Man",
+      "id": "2DJ0lLxggpQAw58tpsNSBC",
+      "name": "King of Possibilities",
       "artists": [
         "Goldie Boutilier"
       ],
-      "playedAt": "2026-06-05T12:54:23.845Z"
+      "playedAt": "2026-06-06T18:09:16.932Z"
     },
     {
-      "id": "2c4V2EXliQHfLGajs1mAuH",
-      "name": "ô vent",
+      "id": "0bd5GXmM2eBgV11LiN37Gz",
+      "name": "Snake Eyes",
       "artists": [
-        "flavie mialon"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-06-05T12:51:02.079Z"
+      "playedAt": "2026-06-06T18:06:39.916Z"
     },
     {
-      "id": "03LllwDLW6JtjGmPJBF9dP",
-      "name": "Lotta Love - Jim Burgess Disco Mix",
+      "id": "0ZplRXackRMYmf8VThWX6z",
+      "name": "Heart Beats Slow",
       "artists": [
-        "Nicolette Larson"
+        "Angus & Julia Stone"
       ],
-      "playedAt": "2026-06-05T12:30:02.388Z"
+      "playedAt": "2026-06-06T17:59:59.788Z"
     },
     {
-      "id": "6T9RRxYhK7Q0f2GoWdFu4z",
-      "name": "ein, zwei schläge",
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
       "artists": [
-        "Mariybu"
+        "Still Corners"
       ],
-      "playedAt": "2026-06-05T12:25:35.370Z"
-    },
-    {
-      "id": "1JfRSuCAZl5cyyoOo2CMK4",
-      "name": "Weg von dir",
-      "artists": [
-        "Raphael Schön"
-      ],
-      "playedAt": "2026-06-05T12:15:48.786Z"
-    },
-    {
-      "id": "3WFgRhgECxQYyy8Ldhk2PG",
-      "name": "Vogue",
-      "artists": [
-        "Madonna"
-      ],
-      "playedAt": "2026-06-05T11:48:28.115Z"
-    },
-    {
-      "id": "6HZiDsrA00Jiy1EBkukFNr",
-      "name": "Can We Find A Way - Ede Remix",
-      "artists": [
-        "Fritz Kalkbrenner",
-        "Ede"
-      ],
-      "playedAt": "2026-06-05T11:43:10.837Z"
+      "playedAt": "2026-06-06T17:55:23.624Z"
     },
     {
       "id": "5cJBLutdQO3ikhfOItxPTc",
@@ -342,81 +140,71 @@
       "artists": [
         "James Asher"
       ],
-      "playedAt": "2026-06-05T11:38:08.908Z"
+      "playedAt": "2026-06-06T14:10:52.255Z"
     },
     {
-      "id": "5VYxtmyTV8ZSMLLt6PMyYu",
-      "name": "Sex To Me",
+      "id": "2LXISHBkx8FyoxCBkckh19",
+      "name": "Do It Again",
       "artists": [
-        "Charlotte Cardin"
+        "Steely Dan"
       ],
-      "playedAt": "2026-06-05T11:20:43.390Z"
+      "playedAt": "2026-06-06T13:49:56.201Z"
     },
     {
-      "id": "0QVJsWtmgj9SWZaLYiX2i3",
-      "name": "Heaven - Remastered",
+      "id": "1upZpXGGXVL1TSwFGcxB9J",
+      "name": "a thousand shades of green",
       "artists": [
-        "The Rolling Stones",
-        "Bob Clearmountain"
+        "efdemin"
       ],
-      "playedAt": "2026-06-05T10:37:21.549Z"
+      "playedAt": "2026-06-06T13:43:58.811Z"
     },
     {
-      "id": "3eFBPuf0y3Vguk6GUCNpwP",
-      "name": "Back in Love",
+      "id": "664weV2D2xz0xm7GlmEdYp",
+      "name": "Come To Dance Honey",
       "artists": [
-        "Suki Waterhouse"
+        "CHERIII"
       ],
-      "playedAt": "2026-06-05T10:32:38.750Z"
+      "playedAt": "2026-06-06T13:40:34.723Z"
     },
     {
-      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
-      "name": "Good Looking (Stripped)",
+      "id": "5oVFXRJl6iIqWmSrEMHENN",
+      "name": "Come On, Let’s Get It",
       "artists": [
-        "Suki Waterhouse"
+        "Anish Kumar"
       ],
-      "playedAt": "2026-06-05T10:29:23.907Z"
+      "playedAt": "2026-06-06T13:34:38.661Z"
     },
     {
-      "id": "17wBJ5bznjXbWGYdHtS2cX",
-      "name": "Under the Tabla",
+      "id": "4guzsK84hHrWYPEaDlrLSC",
+      "name": "Foundations",
       "artists": [
-        "One Juno"
+        "Alex Arcoleo"
       ],
-      "playedAt": "2026-06-05T10:25:23.418Z"
+      "playedAt": "2026-06-06T13:30:18.970Z"
     },
     {
-      "id": "3N4gUEMXtxvDhPo5ifI5uX",
-      "name": "Spirit of the Forest",
+      "id": "57VGVkgRMrfxH9z5fznTWZ",
+      "name": "I Am the Rich Man",
       "artists": [
-        "Baka Beyond"
+        "Goldie Boutilier"
       ],
-      "playedAt": "2026-06-05T10:23:30.359Z"
+      "playedAt": "2026-06-06T13:20:40.782Z"
     },
     {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
+      "id": "586guTSEhQO4hdnBTfO2JU",
+      "name": "SHUT YOUR DAMN 95.7892",
       "artists": [
-        "Imarhan"
+        "Labrinth"
       ],
-      "playedAt": "2026-06-05T10:15:03.356Z"
+      "playedAt": "2026-06-06T13:16:33.263Z"
     },
     {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
+      "id": "4tSLamDuHB9Smaape5vn3M",
+      "name": "Raptor",
       "artists": [
-        "Temper City"
+        "Rene Wise"
       ],
-      "playedAt": "2026-06-05T10:10:46.676Z"
-    },
-    {
-      "id": "79Jl8KMvmnXedTjjW6pJan",
-      "name": "Gosh",
-      "artists": [
-        "Jamie xx",
-        "MC Moose"
-      ],
-      "playedAt": "2026-06-05T10:03:47.792Z"
+      "playedAt": "2026-06-06T11:50:32.381Z"
     }
   ]
 }

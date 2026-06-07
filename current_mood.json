@@ -3,176 +3,65 @@
   "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
   "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.7733333333333334,
-    "avgEnergy": 0.3433333333333333,
-    "avgAcousticness": 0.7833333333333333,
-    "trackCount": 24,
-    "analyzedCount": 3
+    "avgValence": 0.69,
+    "avgEnergy": 0.355,
+    "avgAcousticness": 0.73,
+    "trackCount": 50,
+    "analyzedCount": 2
   },
-  "date": "2026-06-06T23:57:07.163Z",
+  "date": "2026-06-07T23:59:26.697Z",
   "tracks": [
     {
-      "id": "4vPP3xruVuevaRoBxDh7Rs",
-      "name": "This Breakdown",
+      "id": "0uHU3juqmE4y9pcbM6fFH0",
+      "name": "Early Days",
       "artists": [
-        "ALMA CORA"
+        "Gizmo Varillas"
       ],
-      "playedAt": "2026-06-06T20:54:35.118Z"
+      "playedAt": "2026-06-07T19:26:30.755Z"
     },
     {
-      "id": "4LdAZNpzDAJitaVJsyqXpQ",
-      "name": "Ministry",
+      "id": "21GgDK5XhuAyUoenrKeTey",
+      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andrò lontana",
       "artists": [
-        "Karen O",
-        "Danger Mouse"
+        "Maria Callas",
+        "Tullio Serafin",
+        "Philharmonia Orchestra"
       ],
-      "playedAt": "2026-06-06T20:49:28.570Z"
+      "playedAt": "2026-06-07T19:23:31.954Z"
     },
     {
-      "id": "1HijbdW9y2iFPhFs6zfemU",
-      "name": "No Room for Doubt (feat. Willy Mason)",
+      "id": "5WGctLC3bvTwld9YdVG99n",
+      "name": "iconic",
       "artists": [
-        "Lianne La Havas",
-        "Willy Mason"
+        "Shirin David"
       ],
-      "playedAt": "2026-06-06T20:44:21.639Z"
+      "playedAt": "2026-06-07T19:18:38.978Z"
     },
     {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
+      "id": "3NgwkdI4LED11P61QdrpjT",
+      "name": "Dachlatte - Kalte Liebe Remix",
       "artists": [
-        "Still Corners"
+        "nand",
+        "Kalte Liebe"
       ],
-      "playedAt": "2026-06-06T20:40:16.190Z"
+      "playedAt": "2026-06-07T19:16:50.493Z"
     },
     {
-      "id": "7jw0m7b9IVg4uU2D4gx48g",
-      "name": "Demon Host",
+      "id": "3DWDF94KtVKoWFDS5p2vKF",
+      "name": "Chord Principle",
       "artists": [
-        "Timber Timbre"
+        "Floorplan"
       ],
-      "playedAt": "2026-06-06T20:02:59.116Z"
+      "playedAt": "2026-06-07T19:13:05.233Z"
     },
     {
-      "id": "56eSclzdXaWU5jOJ7DX7Vp",
-      "name": "Silver Soul",
+      "id": "79Jl8KMvmnXedTjjW6pJan",
+      "name": "Gosh",
       "artists": [
-        "Beach House"
+        "Jamie xx",
+        "MC Moose"
       ],
-      "playedAt": "2026-06-06T19:58:29.775Z"
-    },
-    {
-      "id": "3GYlZ7tbxLOxe6ewMNVTkw",
-      "name": "TV",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "playedAt": "2026-06-06T19:53:30.644Z"
-    },
-    {
-      "id": "55TeNEjICafyjgWWieqlGg",
-      "name": "Sky Burial",
-      "artists": [
-        "Anilah"
-      ],
-      "playedAt": "2026-06-06T19:36:53.416Z"
-    },
-    {
-      "id": "0dbW82mncQ9ZCXza35gmVE",
-      "name": "Deep Blue Sea",
-      "artists": [
-        "Yehezkel Raz",
-        "Sivan Talmor"
-      ],
-      "playedAt": "2026-06-06T19:33:10.994Z"
-    },
-    {
-      "id": "0LWETWvUkoiCFUylObxXOF",
-      "name": "Wild Kindness",
-      "artists": [
-        "Cellomano"
-      ],
-      "playedAt": "2026-06-06T18:17:45.469Z"
-    },
-    {
-      "id": "3fbnbn6A5O5RNb08tlUEgd",
-      "name": "Streets of Philadelphia - Single Edit",
-      "artists": [
-        "Bruce Springsteen"
-      ],
-      "playedAt": "2026-06-06T18:12:34.219Z"
-    },
-    {
-      "id": "2DJ0lLxggpQAw58tpsNSBC",
-      "name": "King of Possibilities",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-06-06T18:09:16.932Z"
-    },
-    {
-      "id": "0bd5GXmM2eBgV11LiN37Gz",
-      "name": "Snake Eyes",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-06-06T18:06:39.916Z"
-    },
-    {
-      "id": "0ZplRXackRMYmf8VThWX6z",
-      "name": "Heart Beats Slow",
-      "artists": [
-        "Angus & Julia Stone"
-      ],
-      "playedAt": "2026-06-06T17:59:59.788Z"
-    },
-    {
-      "id": "0Al15mz670v9J7ik2FXDAr",
-      "name": "Static",
-      "artists": [
-        "Still Corners"
-      ],
-      "playedAt": "2026-06-06T17:55:23.624Z"
-    },
-    {
-      "id": "5cJBLutdQO3ikhfOItxPTc",
-      "name": "Send in the Drums",
-      "artists": [
-        "James Asher"
-      ],
-      "playedAt": "2026-06-06T14:10:52.255Z"
-    },
-    {
-      "id": "2LXISHBkx8FyoxCBkckh19",
-      "name": "Do It Again",
-      "artists": [
-        "Steely Dan"
-      ],
-      "playedAt": "2026-06-06T13:49:56.201Z"
-    },
-    {
-      "id": "1upZpXGGXVL1TSwFGcxB9J",
-      "name": "a thousand shades of green",
-      "artists": [
-        "efdemin"
-      ],
-      "playedAt": "2026-06-06T13:43:58.811Z"
-    },
-    {
-      "id": "664weV2D2xz0xm7GlmEdYp",
-      "name": "Come To Dance Honey",
-      "artists": [
-        "CHERIII"
-      ],
-      "playedAt": "2026-06-06T13:40:34.723Z"
-    },
-    {
-      "id": "5oVFXRJl6iIqWmSrEMHENN",
-      "name": "Come On, Let’s Get It",
-      "artists": [
-        "Anish Kumar"
-      ],
-      "playedAt": "2026-06-06T13:34:38.661Z"
+      "playedAt": "2026-06-07T19:07:35.363Z"
     },
     {
       "id": "4guzsK84hHrWYPEaDlrLSC",
@@ -180,15 +69,7 @@
       "artists": [
         "Alex Arcoleo"
       ],
-      "playedAt": "2026-06-06T13:30:18.970Z"
-    },
-    {
-      "id": "57VGVkgRMrfxH9z5fznTWZ",
-      "name": "I Am the Rich Man",
-      "artists": [
-        "Goldie Boutilier"
-      ],
-      "playedAt": "2026-06-06T13:20:40.782Z"
+      "playedAt": "2026-06-07T18:55:51.512Z"
     },
     {
       "id": "586guTSEhQO4hdnBTfO2JU",
@@ -196,15 +77,362 @@
       "artists": [
         "Labrinth"
       ],
-      "playedAt": "2026-06-06T13:16:33.263Z"
+      "playedAt": "2026-06-07T18:50:34.412Z"
     },
     {
-      "id": "4tSLamDuHB9Smaape5vn3M",
-      "name": "Raptor",
+      "id": "3gIavfUyAj6UxVyreaoJCp",
+      "name": "THE LIVING",
       "artists": [
-        "Rene Wise"
+        "Labrinth"
       ],
-      "playedAt": "2026-06-06T11:50:32.381Z"
+      "playedAt": "2026-06-07T18:47:29.835Z"
+    },
+    {
+      "id": "5QYXUW0akO2Nt8MjcDF0SH",
+      "name": "It Girl",
+      "artists": [
+        "Kah-Lo",
+        "Karma Fields",
+        "Associanu"
+      ],
+      "playedAt": "2026-06-07T18:44:40.972Z"
+    },
+    {
+      "id": "3gIavfUyAj6UxVyreaoJCp",
+      "name": "THE LIVING",
+      "artists": [
+        "Labrinth"
+      ],
+      "playedAt": "2026-06-07T16:36:03.783Z"
+    },
+    {
+      "id": "586guTSEhQO4hdnBTfO2JU",
+      "name": "SHUT YOUR DAMN 95.7892",
+      "artists": [
+        "Labrinth"
+      ],
+      "playedAt": "2026-06-07T16:33:15.587Z"
+    },
+    {
+      "id": "5QYXUW0akO2Nt8MjcDF0SH",
+      "name": "It Girl",
+      "artists": [
+        "Kah-Lo",
+        "Karma Fields",
+        "Associanu"
+      ],
+      "playedAt": "2026-06-07T16:30:11.053Z"
+    },
+    {
+      "id": "46z3M2kwNKXgwqOoGpoT3y",
+      "name": "Bikini",
+      "artists": [
+        "FLOSS",
+        "3arthquaker"
+      ],
+      "playedAt": "2026-06-07T16:16:54.923Z"
+    },
+    {
+      "id": "2aI21FnmY7TJVKeMaoQZ0t",
+      "name": "Say It Right",
+      "artists": [
+        "Nelly Furtado"
+      ],
+      "playedAt": "2026-06-07T12:33:31.422Z"
+    },
+    {
+      "id": "20LZsv2s3dXvoBuPUEOlAv",
+      "name": "Muñekita (with El Alfa & JT)",
+      "artists": [
+        "Kali Uchis",
+        "El Alfa",
+        "JT"
+      ],
+      "playedAt": "2026-06-07T11:39:22.350Z"
+    },
+    {
+      "id": "4u8IPU322yG7mNrqv89GGL",
+      "name": "Hey Sexy Lady",
+      "artists": [
+        "Shaggy",
+        "Brian & Tony Gold"
+      ],
+      "playedAt": "2026-06-07T11:35:42.120Z"
+    },
+    {
+      "id": "5QYXUW0akO2Nt8MjcDF0SH",
+      "name": "It Girl",
+      "artists": [
+        "Kah-Lo",
+        "Karma Fields",
+        "Associanu"
+      ],
+      "playedAt": "2026-06-07T11:31:53.736Z"
+    },
+    {
+      "id": "0IsIY8pfu1yaGkPUD7pkDx",
+      "name": "Guess featuring billie eilish",
+      "artists": [
+        "Charli xcx",
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-06-07T11:28:38.925Z"
+    },
+    {
+      "id": "4LjfIjS8iweFCPdKxLnEoV",
+      "name": "Let Me Think About It",
+      "artists": [
+        "Ida Corr",
+        "Fedde Le Grand"
+      ],
+      "playedAt": "2026-06-07T11:26:15.194Z"
+    },
+    {
+      "id": "4yGnh6cZZCOts87hnFUJMg",
+      "name": "Pink Notes",
+      "artists": [
+        "JUICE MENACE"
+      ],
+      "playedAt": "2026-06-07T11:23:42.665Z"
+    },
+    {
+      "id": "2hHaYh7P2cbuvuNBZK6brg",
+      "name": "a woman is a god (BIA Remix)",
+      "artists": [
+        "Tommy Genesis",
+        "BIA"
+      ],
+      "playedAt": "2026-06-07T11:21:01.828Z"
+    },
+    {
+      "id": "4l9fZ75WzPZlAIkqJIWlo8",
+      "name": "She Wolf",
+      "artists": [
+        "Shakira"
+      ],
+      "playedAt": "2026-06-07T11:18:02.695Z"
+    },
+    {
+      "id": "39RT20RfQGLlfiub8v30x9",
+      "name": "ALL I WANNA DO",
+      "artists": [
+        "INJI"
+      ],
+      "playedAt": "2026-06-07T11:14:53.375Z"
+    },
+    {
+      "id": "2xaaJcmvMOmpDbTwlWnjFh",
+      "name": "Alter Ego (with JT)",
+      "artists": [
+        "Doechii",
+        "JT"
+      ],
+      "playedAt": "2026-06-07T11:12:34.111Z"
+    },
+    {
+      "id": "4lxGVzcUaSF5HW5jtWnShV",
+      "name": "Long Nights",
+      "artists": [
+        "Eddie Vedder"
+      ],
+      "playedAt": "2026-06-07T11:06:46.468Z"
+    },
+    {
+      "id": "6TYzaO31pog2PwBm4O7OOM",
+      "name": "Fire And Blood",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-06-07T09:55:18.898Z"
+    },
+    {
+      "id": "1yvFoBp2Bq1ilD0518ZpQx",
+      "name": "DON'T JEALOUS ME",
+      "artists": [
+        "Tekno",
+        "Lord Afrixana",
+        "Mr Eazi",
+        "Yemi Alade"
+      ],
+      "playedAt": "2026-06-07T09:50:48.158Z"
+    },
+    {
+      "id": "33TuBXD2UrdXtL572kG8be",
+      "name": "Looking for Stick Man",
+      "artists": [
+        "René Aubry"
+      ],
+      "playedAt": "2026-06-07T09:48:11.628Z"
+    },
+    {
+      "id": "33B1XmfncHqnfkrYZIcHbD",
+      "name": "Any Other Name",
+      "artists": [
+        "Thomas Newman"
+      ],
+      "playedAt": "2026-06-07T09:45:49.101Z"
+    },
+    {
+      "id": "3ZCTVFBt2Brf31RLEnCkWJ",
+      "name": "everything i wanted",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "playedAt": "2026-06-07T09:41:41.949Z"
+    },
+    {
+      "id": "2IGMVunIBsBLtEQyoI1Mu7",
+      "name": "Paint The Town Red",
+      "artists": [
+        "Doja Cat"
+      ],
+      "playedAt": "2026-06-07T09:37:36.001Z"
+    },
+    {
+      "id": "6CyoMFZcnFzoeiHBu5R32E",
+      "name": "The End",
+      "artists": [
+        "JPOLND"
+      ],
+      "playedAt": "2026-06-07T09:33:43.735Z"
+    },
+    {
+      "id": "0pAV4Vyxxag2uEWVu00Jxi",
+      "name": "Quedate Luna",
+      "artists": [
+        "Devendra Banhart"
+      ],
+      "playedAt": "2026-06-07T09:27:51.865Z"
+    },
+    {
+      "id": "0PmH79CmZR3HCvTukh4Nge",
+      "name": "Home",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-06-07T09:24:43.868Z"
+    },
+    {
+      "id": "0Q3GpBYKy5Mx97TNBJVibl",
+      "name": "Bookends Theme - Reprise",
+      "artists": [
+        "Simon & Garfunkel"
+      ],
+      "playedAt": "2026-06-07T09:22:12.975Z"
+    },
+    {
+      "id": "0am7xDdDFuNBUA6cU4DGVQ",
+      "name": "Lust auf Dich",
+      "artists": [
+        "nand"
+      ],
+      "playedAt": "2026-06-07T09:20:49.420Z"
+    },
+    {
+      "id": "73ZlmJxexVebFozgZhEhkd",
+      "name": "O Children",
+      "artists": [
+        "Nick Cave & The Bad Seeds"
+      ],
+      "playedAt": "2026-06-07T09:18:44.295Z"
+    },
+    {
+      "id": "1tICQXzFx0j6zcNFOM66z1",
+      "name": "House Of The Undying",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-06-07T09:11:54.194Z"
+    },
+    {
+      "id": "4Yr5UZRQ3FqhH3OILAfRwP",
+      "name": "Pedro and Blanca",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "playedAt": "2026-06-07T09:06:49.672Z"
+    },
+    {
+      "id": "1oSDiyNMslJoTCfUZBHNP2",
+      "name": "Happy Man",
+      "artists": [
+        "Jungle"
+      ],
+      "playedAt": "2026-06-07T08:57:01.144Z"
+    },
+    {
+      "id": "43cjomz8AcFq8borohDvBn",
+      "name": "Alcoba Azul",
+      "artists": [
+        "Elliot Goldenthal"
+      ],
+      "playedAt": "2026-06-07T08:53:49.083Z"
+    },
+    {
+      "id": "3EkwCXyPeH6xGs23tVnJJy",
+      "name": "The Power of Prophecy",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-06-07T08:47:03.449Z"
+    },
+    {
+      "id": "4nPzk1lhLWmQUX7tM94KZL",
+      "name": "Hearts A Mess",
+      "artists": [
+        "Gotye"
+      ],
+      "playedAt": "2026-06-07T08:44:26.558Z"
+    },
+    {
+      "id": "3Z0QYWxOndrwwtiUyybjSl",
+      "name": "Finale",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "playedAt": "2026-06-07T08:34:52.695Z"
+    },
+    {
+      "id": "3w5s0j9clwhk0O2uScrNOo",
+      "name": "Eros",
+      "artists": [
+        "Nicholas Britell"
+      ],
+      "playedAt": "2026-06-07T08:32:21.107Z"
+    },
+    {
+      "id": "0Sg3UL7f40ulmTh0Xwr6qY",
+      "name": "Mountains",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "playedAt": "2026-06-07T08:28:44.525Z"
+    },
+    {
+      "id": "6UN73IYd0hZxLi8wFPMQij",
+      "name": "Players",
+      "artists": [
+        "Coi Leray"
+      ],
+      "playedAt": "2026-06-07T08:25:04.976Z"
+    },
+    {
+      "id": "4o0LyB69tylqDG6eTGhmig",
+      "name": "Fire for You",
+      "artists": [
+        "Cannons"
+      ],
+      "playedAt": "2026-06-07T08:22:44.942Z"
+    },
+    {
+      "id": "1v8mEfH69e1ib1DD9Yp1X9",
+      "name": "Becoming a Geisha (From \"Memoirs of a Geisha\" Soundtrack)",
+      "artists": [
+        "John Williams",
+        "Yo-Yo Ma",
+        "Itzhak Perlman"
+      ],
+      "playedAt": "2026-06-07T08:18:43.539Z"
     }
   ]
 }

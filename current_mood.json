@@ -1,201 +1,55 @@
 {
-  "name": "WATER",
-  "gradient": "linear-gradient(135deg, #000814 0%, #003566 50%, #001d3d 100%)",
-  "description": "Flowing & Emotional",
+  "name": "AETHER",
+  "gradient": "linear-gradient(135deg, #0a0014 0%, #1a0033 50%, #2d1b47 100%)",
+  "description": "Ethereal & Transcendent",
   "mood": {
-    "avgValence": 0.58,
-    "avgEnergy": 0.2944444444444445,
-    "avgAcousticness": 0.79,
-    "trackCount": 50,
-    "analyzedCount": 9
+    "avgValence": 0.7,
+    "avgEnergy": 0.295,
+    "avgAcousticness": 0.805,
+    "trackCount": 42,
+    "analyzedCount": 4
   },
-  "date": "2026-06-08T23:57:24.075Z",
+  "date": "2026-06-10T00:04:50.788Z",
   "tracks": [
     {
-      "id": "436qIub7mPZxBE0zrgQMuf",
-      "name": "Think U The Shit (Fart)",
-      "artists": [
-        "Ice Spice"
-      ],
-      "playedAt": "2026-06-08T20:31:45.028Z"
-    },
-    {
-      "id": "0Ujq6dOlBbkyGsqtRICWmC",
-      "name": "Dream Woman",
+      "id": "3eFBPuf0y3Vguk6GUCNpwP",
+      "name": "Back in Love",
       "artists": [
         "Suki Waterhouse"
       ],
-      "playedAt": "2026-06-08T20:29:22.900Z"
+      "playedAt": "2026-06-09T15:48:43.465Z"
     },
     {
-      "id": "0vp0qyKGy5FLakkrkdmZSH",
-      "name": "Supersad",
+      "id": "44sVQfPdCTGM5JLBRHUngc",
+      "name": "Come Back to Us (From \"1917\" Soundtrack)",
       "artists": [
-        "Suki Waterhouse"
+        "Thomas Newman"
       ],
-      "playedAt": "2026-06-08T20:25:13.854Z"
+      "playedAt": "2026-06-09T15:48:29.449Z"
     },
     {
-      "id": "0p74K0kKbVT3EZWi1SWGU0",
-      "name": "My Fun",
+      "id": "0WFryfbNKPXVtVQlz5dZ8H",
+      "name": "hotline (edit)",
       "artists": [
-        "Suki Waterhouse"
+        "Billie Eilish"
       ],
-      "playedAt": "2026-06-08T20:22:22.968Z"
+      "playedAt": "2026-06-09T15:42:35.740Z"
     },
     {
-      "id": "5llJtNsexSKi34H5O8uMP2",
-      "name": "Dancing on the Limit",
+      "id": "3fHDbOrSf2IQhLeKaShLS4",
+      "name": "Fuel to Fire",
       "artists": [
-        "PRIZES"
+        "Agnes Obel"
       ],
-      "playedAt": "2026-06-08T20:19:40.305Z"
+      "playedAt": "2026-06-09T15:41:11.717Z"
     },
     {
-      "id": "2OfzF6gs87e5x1C94UxaI0",
-      "name": "To Get You",
+      "id": "1dmJWX0nWAx5gjDzAohSbO",
+      "name": "Cerca De Ti",
       "artists": [
-        "Suki Waterhouse"
+        "Hermanos Gutiérrez"
       ],
-      "playedAt": "2026-06-08T20:15:42.597Z"
-    },
-    {
-      "id": "7B0gxo0jQCy5Lk93RIODAC",
-      "name": "Baianá",
-      "artists": [
-        "Nia Archives"
-      ],
-      "playedAt": "2026-06-08T20:11:38.254Z"
-    },
-    {
-      "id": "6R0v4lA69KxsAUYDskYwgs",
-      "name": "Devil I Know",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "playedAt": "2026-06-08T20:09:05.241Z"
-    },
-    {
-      "id": "03LllwDLW6JtjGmPJBF9dP",
-      "name": "Lotta Love - Jim Burgess Disco Mix",
-      "artists": [
-        "Nicolette Larson"
-      ],
-      "playedAt": "2026-06-08T20:01:02.866Z"
-    },
-    {
-      "id": "6T9RRxYhK7Q0f2GoWdFu4z",
-      "name": "ein, zwei schläge",
-      "artists": [
-        "Mariybu"
-      ],
-      "playedAt": "2026-06-08T19:56:36.796Z"
-    },
-    {
-      "id": "5y3xBtIKuO3j2TkhTx4Dol",
-      "name": "Short Notice",
-      "artists": [
-        "Mpax",
-        "Brit Fox"
-      ],
-      "playedAt": "2026-06-08T19:53:52.668Z"
-    },
-    {
-      "id": "6juffWW6TFI5geCgjU6Lvp",
-      "name": "Headache",
-      "artists": [
-        "Asal"
-      ],
-      "playedAt": "2026-06-08T19:51:18.139Z"
-    },
-    {
-      "id": "1fAaC0BVOACO5hmyiwIqAG",
-      "name": "Alesis",
-      "artists": [
-        "Mk.gee"
-      ],
-      "playedAt": "2026-06-08T19:48:13.816Z"
-    },
-    {
-      "id": "6eL7t6s1AL4l982wfAU8pv",
-      "name": "Father Figure - Remastered",
-      "artists": [
-        "George Michael"
-      ],
-      "playedAt": "2026-06-08T19:43:46.473Z"
-    },
-    {
-      "id": "524nCOIQg9fi0pETVnbpv8",
-      "name": "Mystified - 2017 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "playedAt": "2026-06-08T19:37:47.901Z"
-    },
-    {
-      "id": "6xupcsJHo3wW2tSVKwu4mf",
-      "name": "Self Aware",
-      "artists": [
-        "LUM!X"
-      ],
-      "playedAt": "2026-06-08T19:29:30.440Z"
-    },
-    {
-      "id": "0gzZ2aOJ4MHuyIYcBpdKW6",
-      "name": "Influenced",
-      "artists": [
-        "Electrypnose"
-      ],
-      "playedAt": "2026-06-08T19:26:47.928Z"
-    },
-    {
-      "id": "42tYHqMxXxXHAAWqLaoOfQ",
-      "name": "MacArthur Park - Single Version",
-      "artists": [
-        "Donna Summer"
-      ],
-      "playedAt": "2026-06-08T17:27:40.333Z"
-    },
-    {
-      "id": "6xupcsJHo3wW2tSVKwu4mf",
-      "name": "Self Aware",
-      "artists": [
-        "LUM!X"
-      ],
-      "playedAt": "2026-06-08T17:23:44.510Z"
-    },
-    {
-      "id": "7MZHqgTVTnN6xZGYAcEEAf",
-      "name": "Rein Me In (with Olivia Dean)",
-      "artists": [
-        "Sam Fender",
-        "Olivia Dean"
-      ],
-      "playedAt": "2026-06-08T17:14:09.348Z"
-    },
-    {
-      "id": "4guzsK84hHrWYPEaDlrLSC",
-      "name": "Foundations",
-      "artists": [
-        "Alex Arcoleo"
-      ],
-      "playedAt": "2026-06-08T17:00:07.297Z"
-    },
-    {
-      "id": "586guTSEhQO4hdnBTfO2JU",
-      "name": "SHUT YOUR DAMN 95.7892",
-      "artists": [
-        "Labrinth"
-      ],
-      "playedAt": "2026-06-08T16:54:50.119Z"
-    },
-    {
-      "id": "3gIavfUyAj6UxVyreaoJCp",
-      "name": "THE LIVING",
-      "artists": [
-        "Labrinth"
-      ],
-      "playedAt": "2026-06-08T16:51:45.629Z"
+      "playedAt": "2026-06-09T15:35:37.005Z"
     },
     {
       "id": "5QYXUW0akO2Nt8MjcDF0SH",
@@ -205,154 +59,56 @@
         "Karma Fields",
         "Associanu"
       ],
-      "playedAt": "2026-06-08T16:48:56.910Z"
+      "playedAt": "2026-06-09T15:31:32.235Z"
     },
     {
-      "id": "2YIIDMcF9zWJ2xcFSA99lH",
-      "name": "Charge It",
+      "id": "6xupcsJHo3wW2tSVKwu4mf",
+      "name": "Self Aware",
       "artists": [
-        "ENNY"
+        "LUM!X"
       ],
-      "playedAt": "2026-06-08T16:47:11.828Z"
+      "playedAt": "2026-06-09T15:28:17.534Z"
     },
     {
-      "id": "0a64exvT5aKVaRSmAVMaCT",
-      "name": "To Love",
+      "id": "2nKUdHsO4cZixgmYJUJ3FJ",
+      "name": "Good Looking (Stripped)",
       "artists": [
         "Suki Waterhouse"
       ],
-      "playedAt": "2026-06-08T15:41:09.032Z"
+      "playedAt": "2026-06-09T11:39:18.340Z"
     },
     {
-      "id": "0r9OkYadpBgYA2bkkrRSsI",
-      "name": "Hot Sugar",
+      "id": "55TeNEjICafyjgWWieqlGg",
+      "name": "Sky Burial",
       "artists": [
-        "Glass Animals"
+        "Anilah"
       ],
-      "playedAt": "2026-06-08T15:37:11.660Z"
+      "playedAt": "2026-06-09T11:34:51.327Z"
     },
     {
-      "id": "0Juciz8gOjrO89qw5KwQV5",
-      "name": "Call Me Irresponsible - 2001 Remaster",
+      "id": "1Ohxk3MtOy9ljkJ2vwhBin",
+      "name": "Naked Spirit (featuring Djivan Gasparyan)",
       "artists": [
-        "Bobby Darin"
+        "Sainkho Namtchylak"
       ],
-      "playedAt": "2026-06-08T15:33:16.276Z"
+      "playedAt": "2026-06-09T11:32:38.768Z"
     },
     {
-      "id": "6oAWrTPxccNH0EkbAB7X9v",
-      "name": "Purple Sun",
+      "id": "4YMSSzhJHtjHIDpYzS9DS2",
+      "name": "Bamboo - Gingaí Remix",
       "artists": [
-        "Cannons"
+        "Janax Pacha",
+        "Gingaí"
       ],
-      "playedAt": "2026-06-08T15:31:11.190Z"
+      "playedAt": "2026-06-09T11:27:56.533Z"
     },
     {
-      "id": "0am7xDdDFuNBUA6cU4DGVQ",
-      "name": "Lust auf Dich",
+      "id": "6W9ZPdsIzcJnex6HQxxmaQ",
+      "name": "The Great Escape",
       "artists": [
-        "nand"
+        "Volen Sentir"
       ],
-      "playedAt": "2026-06-08T15:27:08.888Z"
-    },
-    {
-      "id": "18ddEEUakSawjPxXMxN4Ml",
-      "name": "Happy Together",
-      "artists": [
-        "FLOOR CRY"
-      ],
-      "playedAt": "2026-06-08T15:23:14.430Z"
-    },
-    {
-      "id": "3mwQfVhQ0xrO5a3l8qy082",
-      "name": "Focus (Love Theme)",
-      "artists": [
-        "Nick Urata"
-      ],
-      "playedAt": "2026-06-08T15:19:31.420Z"
-    },
-    {
-      "id": "6unndO70DvZfnXYcYQMyQJ",
-      "name": "Never Felt So Alone",
-      "artists": [
-        "Labrinth"
-      ],
-      "playedAt": "2026-06-08T15:14:25.739Z"
-    },
-    {
-      "id": "1KX30hHDvpBRvm3JXxtYEY",
-      "name": "Tunnel of You",
-      "artists": [
-        "Cannons"
-      ],
-      "playedAt": "2026-06-08T15:11:45.055Z"
-    },
-    {
-      "id": "0bhudMmr0XdtBOjFbjq8R0",
-      "name": "Jealous",
-      "artists": [
-        "Eyedress"
-      ],
-      "playedAt": "2026-06-08T15:07:21.113Z"
-    },
-    {
-      "id": "5gDWsRxpJ2lZAffh5p7K0w",
-      "name": "Stargirl Interlude",
-      "artists": [
-        "The Weeknd",
-        "Lana Del Rey"
-      ],
-      "playedAt": "2026-06-08T15:05:18.260Z"
-    },
-    {
-      "id": "1b5t5WxtB7tg24OulHyXbQ",
-      "name": "Only",
-      "artists": [
-        "RY X"
-      ],
-      "playedAt": "2026-06-08T15:01:53.711Z"
-    },
-    {
-      "id": "3ibfopvKlRMxGC6kMFhcBt",
-      "name": "Stockholmsvy",
-      "artists": [
-        "Hannes",
-        "waterbaby"
-      ],
-      "playedAt": "2026-06-08T14:48:15.039Z"
-    },
-    {
-      "id": "1ghknBNxMTf01WJkXPvNNv",
-      "name": "When the Sun Sets (The End is Near Edit) - Claudio Prc Remix",
-      "artists": [
-        "Nur Jaber",
-        "Claudio PRC"
-      ],
-      "playedAt": "2026-06-08T14:46:53.800Z"
-    },
-    {
-      "id": "7aECBTWeMSjTfJgUl34Y1G",
-      "name": "I'm Tired - Long Version",
-      "artists": [
-        "Labrinth"
-      ],
-      "playedAt": "2026-06-08T14:45:29.992Z"
-    },
-    {
-      "id": "1UtsS1pmL3FkuEWT5dXHCS",
-      "name": "Pedestal",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-06-08T13:19:15.906Z"
-    },
-    {
-      "id": "1ej1Z6AGBLaSI9tSizZMfa",
-      "name": "Waiting in Vain (Tears In My Eyes Burn) - Live Version",
-      "artists": [
-        "AMANZI"
-      ],
-      "playedAt": "2026-06-08T13:15:56.326Z"
+      "playedAt": "2026-06-09T11:19:43.844Z"
     },
     {
       "id": "5NzGioq5qkEvMBfLFu4EdB",
@@ -360,7 +116,7 @@
       "artists": [
         "Amaranth Cove"
       ],
-      "playedAt": "2026-06-08T12:59:50.271Z"
+      "playedAt": "2026-06-09T11:10:44.308Z"
     },
     {
       "id": "6Ix7TgyKTf5VTlWlDOkt9j",
@@ -368,58 +124,235 @@
       "artists": [
         "Elm Lake"
       ],
-      "playedAt": "2026-06-08T12:56:54.619Z"
+      "playedAt": "2026-06-09T11:07:48.647Z"
     },
     {
-      "id": "70fBfMLb9GwQkaCtYGd7s5",
-      "name": "Deep Dive",
+      "id": "7hM5XSA8AMSSOc8KkFzDoM",
+      "name": "From The Lake To The Land",
       "artists": [
-        "Master Minded"
+        "Foreign Fields"
       ],
-      "playedAt": "2026-06-08T12:54:08.160Z"
+      "playedAt": "2026-06-09T09:40:44.590Z"
     },
     {
-      "id": "524nCOIQg9fi0pETVnbpv8",
-      "name": "Mystified - 2017 Remaster",
+      "id": "2l2wc9JH8s82rn0RbYUDWC",
+      "name": "Knock Motion",
       "artists": [
-        "Fleetwood Mac"
+        "Rene Wise"
       ],
-      "playedAt": "2026-06-08T12:49:04.478Z"
+      "playedAt": "2026-06-09T09:34:04.685Z"
     },
     {
-      "id": "3j506WDipR7MYz24ZW7sJQ",
-      "name": "Vuela",
+      "id": "1vNl2r7szvK8dWoEoPU0g6",
+      "name": "Robotic Thinking",
       "artists": [
-        "City of the Sun",
+        "Marcal"
+      ],
+      "playedAt": "2026-06-09T09:27:39.573Z"
+    },
+    {
+      "id": "0Aa7Gkr2Dp3xZIRKroslRW",
+      "name": "Cure",
+      "artists": [
+        "Ignez"
+      ],
+      "playedAt": "2026-06-09T09:21:16.048Z"
+    },
+    {
+      "id": "3hq7lWJ5DRA4Mf8ZUHGygh",
+      "name": "Kauriraris",
+      "artists": [
+        "IGLO"
+      ],
+      "playedAt": "2026-06-09T09:15:34.315Z"
+    },
+    {
+      "id": "64080J5MTervtNTcRJ9kTv",
+      "name": "Panenka",
+      "artists": [
+        "Gannein"
+      ],
+      "playedAt": "2026-06-09T09:09:28.301Z"
+    },
+    {
+      "id": "5GdECl4nqWAmlboWr02XK8",
+      "name": "Lakota Fox",
+      "artists": [
+        "Rene Wise"
+      ],
+      "playedAt": "2026-06-09T09:03:53.558Z"
+    },
+    {
+      "id": "2rMCO8bSn6zzKEZnjKabbh",
+      "name": "Tell Me",
+      "artists": [
+        "Rene Wise"
+      ],
+      "playedAt": "2026-06-09T08:57:27.421Z"
+    },
+    {
+      "id": "4LGF2tDg3878bs0mQPByZ4",
+      "name": "Guaranteed",
+      "artists": [
+        "Eddie Vedder"
+      ],
+      "playedAt": "2026-06-09T06:23:36.818Z"
+    },
+    {
+      "id": "1siRw9E67ouBWsORObDuhZ",
+      "name": "Low Sun",
+      "artists": [
+        "Hermanos Gutiérrez"
+      ],
+      "playedAt": "2026-06-09T06:20:51.864Z"
+    },
+    {
+      "id": "26QKxvjlCo2fSd3T4c8Zpb",
+      "name": "Heart of Gold",
+      "artists": [
+        "Neil Young"
+      ],
+      "playedAt": "2026-06-09T06:17:43.020Z"
+    },
+    {
+      "id": "5GWCndQ8ykzf6rYRvwrFcj",
+      "name": "Anyone Who Knows What Love Is (Will Understand)",
+      "artists": [
+        "Irma Thomas"
+      ],
+      "playedAt": "2026-06-09T06:14:35.464Z"
+    },
+    {
+      "id": "4pteEcX2rHSJXK8XSOtWP8",
+      "name": "To Love",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "playedAt": "2026-06-09T06:11:38.945Z"
+    },
+    {
+      "id": "40ALUAPznjcGK26OezRJcK",
+      "name": "The Great Escape",
+      "artists": [
+        "Patrick Watson"
+      ],
+      "playedAt": "2026-06-09T06:07:41.580Z"
+    },
+    {
+      "id": "2Xn7NadvZ56D0B2D7x2CSL",
+      "name": "Crucify Your Mind",
+      "artists": [
+        "Rodríguez"
+      ],
+      "playedAt": "2026-06-09T06:04:33.640Z"
+    },
+    {
+      "id": "0SUDiaR0qm30fXVGPjPvRp",
+      "name": "Visions of Gideon",
+      "artists": [
+        "Sufjan Stevens"
+      ],
+      "playedAt": "2026-06-09T06:02:00.835Z"
+    },
+    {
+      "id": "2ZuMRfgqMItsAJVNGOSYkg",
+      "name": "Love Survive",
+      "artists": [
+        "Michael Nau"
+      ],
+      "playedAt": "2026-06-09T05:57:52.587Z"
+    },
+    {
+      "id": "0AMZcdyzKQE2AU3CMWQiUG",
+      "name": "Too Much",
+      "artists": [
+        "Tora"
+      ],
+      "playedAt": "2026-06-09T05:55:07.473Z"
+    },
+    {
+      "id": "2jiozkiIJZvTYEz58j6UFh",
+      "name": "Strange Effect (Killing Eve)",
+      "artists": [
+        "Unloved",
+        "Raven Violet"
+      ],
+      "playedAt": "2026-06-09T05:52:32.576Z"
+    },
+    {
+      "id": "1knUACOt5yfNAYn7gnYQVt",
+      "name": "Work",
+      "artists": [
+        "Charlotte Day Wilson"
+      ],
+      "playedAt": "2026-06-09T05:49:51.079Z"
+    },
+    {
+      "id": "7s6Z6jnhkaJRJA8Lmk2nyU",
+      "name": "Cuatro Vientos - Rey&Kjavik Remix",
+      "artists": [
+        "Danit",
+        "Rey&Kjavik"
+      ],
+      "playedAt": "2026-06-09T05:46:06.158Z"
+    },
+    {
+      "id": "0NslHuacjxQYfUTOW3HCIV",
+      "name": "New Slang - 2021 Remaster",
+      "artists": [
+        "The Shins"
+      ],
+      "playedAt": "2026-06-09T05:39:13.035Z"
+    },
+    {
+      "id": "37qeFXMtZzeu74JJOgUIZu",
+      "name": "Love",
+      "artists": [
+        "The Something Specials",
+        "Taylor Olin"
+      ],
+      "playedAt": "2026-06-09T05:35:21.721Z"
+    },
+    {
+      "id": "5GIE9gzrnSvqdQqw9VKQ3G",
+      "name": "El Dorado",
+      "artists": [
         "Gizmo Varillas"
       ],
-      "playedAt": "2026-06-08T12:45:20.906Z"
+      "playedAt": "2026-06-09T05:29:50.689Z"
     },
     {
-      "id": "6KiS9YtjvBEr96wazaVfO4",
-      "name": "Achinkad",
+      "id": "5626KdflSKfeDK7RJQfSrE",
+      "name": "Says",
       "artists": [
-        "Imarhan"
+        "Nils Frahm"
       ],
-      "playedAt": "2026-06-08T12:41:31.390Z"
+      "playedAt": "2026-06-09T05:27:55.078Z"
     },
     {
-      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "name": "Self Aware",
+      "id": "4zwq3QUKgMNk0NSLl7fpbP",
+      "name": "Why Why Why Why Why",
       "artists": [
-        "Temper City"
+        "SAULT"
       ],
-      "playedAt": "2026-06-08T12:37:14.549Z"
+      "playedAt": "2026-06-09T05:19:18.565Z"
     },
     {
-      "id": "6xxxEVDFgY0jAyWiGmHMp7",
-      "name": "Adagio for Strings, Op. 11",
+      "id": "3fHDbOrSf2IQhLeKaShLS4",
+      "name": "Fuel to Fire",
       "artists": [
-        "Samuel Barber",
-        "Leonard Bernstein",
-        "New York Philharmonic"
+        "Agnes Obel"
       ],
-      "playedAt": "2026-06-08T12:34:13.281Z"
+      "playedAt": "2026-06-09T05:15:05.624Z"
+    },
+    {
+      "id": "5tbQs3shiSsnFNCiBRHqBu",
+      "name": "Shallow Water",
+      "artists": [
+        "Yehezkel Raz",
+        "Sivan Talmor"
+      ],
+      "playedAt": "2026-06-09T05:09:35.296Z"
     }
   ]
 }
